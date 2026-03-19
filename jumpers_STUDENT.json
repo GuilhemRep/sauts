@@ -1,0 +1,329 @@
+{
+    "nodes": [
+        {
+            "id": "Thomas L.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ju",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 19,
+            "friends": [
+                "Izampela S.",
+                "Stephane K.",
+                "Simon",
+                "Cl\u00e9ment C.",
+                "Tim\u00e9o L.",
+                "Trystan B.",
+                "Ti Ben",
+                "Julien N.",
+                "Laura S.",
+                "Herve D.",
+                "Thomas L.",
+                "Tom V.",
+                "Gwen",
+                "Hugo L.",
+                "Eric G.",
+                "Aurelien D.",
+                "Th\u00e9o R.",
+                "Julien R.",
+                "Axel M."
+            ],
+            "number_jumps": 5
+        },
+        {
+            "id": "Mike F.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Theo V.",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 26,
+            "friends": [
+                "Fabien L.",
+                "Axel M.",
+                "Tibal",
+                "Pierre B.",
+                "Tom Rigolo",
+                "Steff",
+                "Thomas H.",
+                "Jerome T.",
+                "Mike F.",
+                "Jonathan T.",
+                "Capucine F.",
+                "Agnes L.",
+                "Ti Ben",
+                "Th\u00e9mann F.",
+                "Salom\u00e9 C.",
+                "Nolan D.",
+                "Clarice T.",
+                "Lea V.",
+                "Luc R.",
+                "Sandrine P.",
+                "Valentin C.",
+                "Ali A.",
+                "Margot B.",
+                "Patrice M.",
+                "Florence R.",
+                "Lilou"
+            ],
+            "number_jumps": 3
+        },
+        {
+            "id": "Cl\u00e9ment C.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Brahim N.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Axel M.",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 28,
+            "friends": [
+                "Theo V.",
+                "Maxime R.",
+                "Simon",
+                "Jerome T.",
+                "Tibal",
+                "Alexis M.",
+                "Wassim I.",
+                "Eric W.",
+                "Brahim N.",
+                "Capucine F.",
+                "Karine D.",
+                "Pauline M.",
+                "Th\u00e9o R.",
+                "Ju",
+                "Ti Ben",
+                "Julien R.",
+                "Florine P.",
+                "Salom\u00e9 C.",
+                "Clarice T.",
+                "Lea V.",
+                "Trystan D.",
+                "Ali A.",
+                "Nicolas B.",
+                "Yoni B.",
+                "Mathys K.",
+                "Valerie B.",
+                "Patrice M.",
+                "Florence R."
+            ],
+            "number_jumps": 4
+        },
+        {
+            "id": "Matthieu D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Simon",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 22,
+            "friends": [
+                "Hugo L.",
+                "Ju",
+                "Axel M.",
+                "Hugo J.",
+                "Ti Ben",
+                "Noah S.",
+                "Tom B.",
+                "Matthieu D.",
+                "Stephane K.",
+                "Lucas S.",
+                "Enio L.",
+                "Gwen",
+                "Karine D.",
+                "Laura S.",
+                "Pauline M.",
+                "Th\u00e9o R.",
+                "Julien R.",
+                "Jassim A.",
+                "Yasmine A.",
+                "Fafa",
+                "Laurent C.",
+                "Dylan T."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Tim\u00e9o L.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Trystan B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thomas H.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Florine P.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nolan D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Wassim I.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jenna B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Alicia K.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Ju",
+            "target": "Thomas L.",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Mike F.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Cl\u00e9ment C.",
+            "target": "Ju",
+            "width": 1.2071067811865475,
+            "color": "cyan"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Brahim N.",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Matthieu D.",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Ju",
+            "target": "Tim\u00e9o L.",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Ju",
+            "target": "Trystan B.",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Theo V.",
+            "target": "Thomas H.",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Florine P.",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Nolan D.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Wassim I.",
+            "width": 1.0,
+            "color": "cyan"
+        }
+    ]
+}

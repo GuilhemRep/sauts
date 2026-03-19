@@ -1,0 +1,1211 @@
+{
+    "nodes": [
+        {
+            "id": "Herve D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ju",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 19,
+            "friends": [
+                "Izampela S.",
+                "Stephane K.",
+                "Simon",
+                "Cl\u00e9ment C.",
+                "Tim\u00e9o L.",
+                "Trystan B.",
+                "Ti Ben",
+                "Julien N.",
+                "Laura S.",
+                "Herve D.",
+                "Thomas L.",
+                "Tom V.",
+                "Gwen",
+                "Hugo L.",
+                "Eric G.",
+                "Aurelien D.",
+                "Th\u00e9o R.",
+                "Julien R.",
+                "Axel M."
+            ],
+            "number_jumps": 4
+        },
+        {
+            "id": "Jennifer E.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Fafa",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 15,
+            "friends": [
+                "Ti Ben",
+                "Sayf A.",
+                "G\u00e9rard B.",
+                "Jennifer E.",
+                "Dunia A.",
+                "Medhi B.",
+                "Hugo E.",
+                "Ludovic F.",
+                "Solange H.",
+                "Pierre G.",
+                "Gabin M.",
+                "Marion L.",
+                "Jassim A.",
+                "Simon",
+                "Yasmine A."
+            ],
+            "number_jumps": 7
+        },
+        {
+            "id": "Ti Ben",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 21,
+            "friends": [
+                "Fafa",
+                "Adrien G.",
+                "Ju",
+                "Simon",
+                "Anais C.",
+                "Jennifer E.",
+                "Dunia A.",
+                "Eric G.",
+                "Ludovic F.",
+                "Solange H.",
+                "Pierre G.",
+                "Agnes L.",
+                "Theo V.",
+                "Th\u00e9o R.",
+                "Julien R.",
+                "Axel M.",
+                "Laurent C.",
+                "Paul L.",
+                "Solenne S.",
+                "Arifa S.",
+                "Jerome H."
+            ],
+            "number_jumps": 12
+        },
+        {
+            "id": "Dunia A.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Eric G.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Aurelien D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Capucine F.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Theo V.",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Theo V.",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 26,
+            "friends": [
+                "Fabien L.",
+                "Axel M.",
+                "Tibal",
+                "Pierre B.",
+                "Tom Rigolo",
+                "Steff",
+                "Thomas H.",
+                "Jerome T.",
+                "Mike F.",
+                "Jonathan T.",
+                "Capucine F.",
+                "Agnes L.",
+                "Ti Ben",
+                "Th\u00e9mann F.",
+                "Salom\u00e9 C.",
+                "Nolan D.",
+                "Clarice T.",
+                "Lea V.",
+                "Luc R.",
+                "Sandrine P.",
+                "Valentin C.",
+                "Ali A.",
+                "Margot B.",
+                "Patrice M.",
+                "Florence R.",
+                "Lilou"
+            ],
+            "number_jumps": 8
+        },
+        {
+            "id": "Axel M.",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 28,
+            "friends": [
+                "Theo V.",
+                "Maxime R.",
+                "Simon",
+                "Jerome T.",
+                "Tibal",
+                "Alexis M.",
+                "Wassim I.",
+                "Eric W.",
+                "Brahim N.",
+                "Capucine F.",
+                "Karine D.",
+                "Pauline M.",
+                "Th\u00e9o R.",
+                "Ju",
+                "Ti Ben",
+                "Julien R.",
+                "Florine P.",
+                "Salom\u00e9 C.",
+                "Clarice T.",
+                "Lea V.",
+                "Trystan D.",
+                "Ali A.",
+                "Nicolas B.",
+                "Yoni B.",
+                "Mathys K.",
+                "Valerie B.",
+                "Patrice M.",
+                "Florence R."
+            ],
+            "number_jumps": 13
+        },
+        {
+            "id": "Ludovic F.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Solange H.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Karine D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Simon",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 22,
+            "friends": [
+                "Hugo L.",
+                "Ju",
+                "Axel M.",
+                "Hugo J.",
+                "Ti Ben",
+                "Noah S.",
+                "Tom B.",
+                "Matthieu D.",
+                "Stephane K.",
+                "Lucas S.",
+                "Enio L.",
+                "Gwen",
+                "Karine D.",
+                "Laura S.",
+                "Pauline M.",
+                "Th\u00e9o R.",
+                "Julien R.",
+                "Jassim A.",
+                "Yasmine A.",
+                "Fafa",
+                "Laurent C.",
+                "Dylan T."
+            ],
+            "number_jumps": 5
+        },
+        {
+            "id": "Pierre G.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Agnes L.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Theo V.",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Pauline M.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gabin M.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Marion L."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Marion L.",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 2,
+            "friends": [
+                "Gabin M.",
+                "Fafa"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Th\u00e9o R.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Ju",
+                "Ti Ben",
+                "Julien R.",
+                "Simon",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Julien R.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Th\u00e9o R.",
+                "Ju",
+                "Ti Ben",
+                "Simon",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jassim A.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Simon",
+                "Yasmine A.",
+                "Fafa"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Yasmine A.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Jassim A.",
+                "Simon",
+                "Fafa"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Laurent C.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Th\u00e9mann F.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Paul L.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Clarice T.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Theo V.",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Adelaide F.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Lea V.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Jerome T.",
+                "Theo V.",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jerome T.",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 15,
+            "friends": [
+                "Axel M.",
+                "Theo V.",
+                "Lea V.",
+                "Izampela S.",
+                "Olivier G.",
+                "Tom B.",
+                "Anael N.",
+                "Mario Bell'Air",
+                "Noah S.",
+                "Christophe L.",
+                "Tibal",
+                "Ali A.",
+                "Nicolas B.",
+                "Yoni B.",
+                "Elikya B."
+            ],
+            "number_jumps": 4
+        },
+        {
+            "id": "Luc R.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Theo V.",
+                "Tibal",
+                "Sandrine P."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Tibal",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 11,
+            "friends": [
+                "Theo V.",
+                "Axel M.",
+                "Luc R.",
+                "Sandrine P.",
+                "Ali A.",
+                "Jerome T.",
+                "Valerie B.",
+                "Patrice M.",
+                "Florence R.",
+                "Maxime G.",
+                "Lilou"
+            ],
+            "number_jumps": 5
+        },
+        {
+            "id": "Sandrine P.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Theo V.",
+                "Luc R.",
+                "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Arifa S.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jerome H.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Trystan D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ali A.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Tibal",
+                "Axel M.",
+                "Theo V.",
+                "Jerome T."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nicolas B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Jerome T.",
+                "Yoni B.",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Yoni B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Nicolas B.",
+                "Jerome T.",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Mathys K.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Valerie B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Tibal",
+                "Axel M."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Elikya B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Jerome T."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Patrice M.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Theo V.",
+                "Axel M.",
+                "Florence R.",
+                "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Florence R.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Patrice M.",
+                "Theo V.",
+                "Axel M.",
+                "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Maxime G.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Tibal"
+            ],
+            "number_jumps": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Herve D.",
+            "target": "Ju",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Jennifer E.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jennifer E.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Ti Ben",
+            "width": 1.618033988749895,
+            "color": "purple"
+        },
+        {
+            "source": "Dunia A.",
+            "target": "Fafa",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Dunia A.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Eric G.",
+            "target": "Ju",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Eric G.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ju",
+            "target": "Ti Ben",
+            "width": 1.2071067811865475,
+            "color": "purple"
+        },
+        {
+            "source": "Aurelien D.",
+            "target": "Ju",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Capucine F.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Capucine F.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Theo V.",
+            "width": 1.618033988749895,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Ludovic F.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ludovic F.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Solange H.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Solange H.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Karine D.",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Karine D.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Simon",
+            "width": 1.3660254037844386,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Pierre G.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Pierre G.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Agnes L.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Agnes L.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Theo V.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Pauline M.",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Pauline M.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Gabin M.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Gabin M.",
+            "target": "Marion L.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Marion L.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ju",
+            "target": "Th\u00e9o R.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Th\u00e9o R.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Julien R.",
+            "target": "Th\u00e9o R.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Simon",
+            "target": "Th\u00e9o R.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Th\u00e9o R.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ju",
+            "target": "Julien R.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ju",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Ju",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Julien R.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Simon",
+            "target": "Ti Ben",
+            "width": 1.2071067811865475,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Julien R.",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Julien R.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jassim A.",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jassim A.",
+            "target": "Yasmine A.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Jassim A.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Simon",
+            "target": "Yasmine A.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Yasmine A.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Laurent C.",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Laurent C.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Theo V.",
+            "target": "Th\u00e9mann F.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Paul L.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Clarice T.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Clarice T.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jerome T.",
+            "target": "Lea V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Lea V.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Lea V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jerome T.",
+            "target": "Theo V.",
+            "width": 1.2071067811865475,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Jerome T.",
+            "width": 1.3660254037844386,
+            "color": "purple"
+        },
+        {
+            "source": "Luc R.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Theo V.",
+            "target": "Tibal",
+            "width": 1.3660254037844386,
+            "color": "purple"
+        },
+        {
+            "source": "Sandrine P.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Luc R.",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Luc R.",
+            "target": "Sandrine P.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Sandrine P.",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Arifa S.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jerome H.",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Trystan D.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Tibal",
+            "width": 1.3660254037844386,
+            "color": "purple"
+        },
+        {
+            "source": "Ali A.",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jerome T.",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ali A.",
+            "target": "Axel M.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ali A.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ali A.",
+            "target": "Jerome T.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jerome T.",
+            "target": "Nicolas B.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Nicolas B.",
+            "target": "Yoni B.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Nicolas B.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jerome T.",
+            "target": "Yoni B.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Yoni B.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Mathys K.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Tibal",
+            "target": "Valerie B.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Valerie B.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Elikya B.",
+            "target": "Jerome T.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Patrice M.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Patrice M.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Florence R.",
+            "target": "Patrice M.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Patrice M.",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Florence R.",
+            "target": "Theo V.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M.",
+            "target": "Florence R.",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Florence R.",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime G.",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        }
+    ]
+}
