@@ -1,0 +1,88 @@
+{
+    "nodes": [
+        {
+            "id": "Lionel D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 7,
+            "friends": [
+                "Renan N.",
+                "Mickael G.",
+                "Nico 6Fly",
+                "Enio L.",
+                "Clement J.",
+                "Tom B.",
+                "Noah S."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nico 6Fly",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 23,
+            "friends": [
+                "Matthieu P.",
+                "Morgan S.",
+                "Jerem Gringos",
+                "Axel M.",
+                "Mario Bell'Air",
+                "Marie M.",
+                "Simon",
+                "Gwen",
+                "Lionel D.",
+                "Antoine C.",
+                "Anabelle V.",
+                "Dylan D.",
+                "Philippe M.",
+                "Juliette A.",
+                "Charlie T.",
+                "Rachel H.",
+                "In\u00e8s L.",
+                "Jordan A.",
+                "Olivier G.",
+                "Anael N.",
+                "Laurent G.",
+                "Salom\u00e9 C.",
+                "Margot B."
+            ],
+            "number_jumps": 3
+        },
+        {
+            "id": "Matthieu P.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 13,
+            "friends": [
+                "Jordan A.",
+                "Olivier G.",
+                "Rachel H.",
+                "Nico 6Fly",
+                "Tom B.",
+                "Noah S.",
+                "Philippe M.",
+                "Marie M.",
+                "Juliette A.",
+                "Charlie T.",
+                "In\u00e8s L.",
+                "Anael N.",
+                "Laurent G."
+            ],
+            "number_jumps": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "Lionel D.",
+            "target": "Nico 6Fly",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "Matthieu P.",
+            "target": "Nico 6Fly",
+            "width": 1.2071067811865475,
+            "color": "green"
+        }
+    ]
+}

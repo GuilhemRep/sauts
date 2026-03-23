@@ -1,0 +1,54 @@
+{
+    "nodes": [
+        {
+            "id": "Julien N.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Hugo L.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Simon",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 15,
+            "friends": [
+                "Axel M.",
+                "Nico 6Fly",
+                "Morgan S.",
+                "Jerem Gringos",
+                "Gwen",
+                "Ophelie D.",
+                "Tibal",
+                "Axelle A.",
+                "Dani\u00e8le C.",
+                "Theo V.",
+                "Thomas R.",
+                "Lorys T.",
+                "Thomas M.",
+                "Lyna M.",
+                "Hugo L."
+            ],
+            "number_jumps": 2
+        }
+    ],
+    "links": [
+        {
+            "source": "Hugo L.",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "orange"
+        }
+    ]
+}
