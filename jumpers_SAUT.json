@@ -1,0 +1,248 @@
+{
+    "nodes": [
+        {
+            "id": "Eric B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Arnaud C."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Arnaud C.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Eric B."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Sylvain C.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nathalie B."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nathalie B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Sylvain C."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Julien B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Hubert-Arnaud D.",
+                "Fabio B.",
+                "Morgane C.",
+                "Laurent G.",
+                "Christophe L."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Hubert-Arnaud D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Julien B.",
+                "Fabio B.",
+                "Morgane C.",
+                "Laurent G.",
+                "Christophe L."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Fabio B.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Julien B.",
+                "Hubert-Arnaud D.",
+                "Morgane C.",
+                "Laurent G.",
+                "Christophe L."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Morgane C.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Julien B.",
+                "Hubert-Arnaud D.",
+                "Fabio B.",
+                "Laurent G.",
+                "Christophe L."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Laurent G.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Julien B.",
+                "Hubert-Arnaud D.",
+                "Fabio B.",
+                "Morgane C.",
+                "Christophe L."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Christophe L.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Julien B.",
+                "Hubert-Arnaud D.",
+                "Fabio B.",
+                "Morgane C.",
+                "Laurent G."
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Lionel D.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Mike F.",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        }
+    ],
+    "links": [
+        {
+            "source": "Arnaud C.",
+            "target": "Eric B.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Nathalie B.",
+            "target": "Sylvain C.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Hubert-Arnaud D.",
+            "target": "Julien B.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Fabio B.",
+            "target": "Julien B.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Julien B.",
+            "target": "Morgane C.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Julien B.",
+            "target": "Laurent G.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Christophe L.",
+            "target": "Julien B.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Fabio B.",
+            "target": "Hubert-Arnaud D.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Hubert-Arnaud D.",
+            "target": "Morgane C.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Hubert-Arnaud D.",
+            "target": "Laurent G.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Christophe L.",
+            "target": "Hubert-Arnaud D.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Fabio B.",
+            "target": "Morgane C.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Fabio B.",
+            "target": "Laurent G.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Christophe L.",
+            "target": "Fabio B.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Laurent G.",
+            "target": "Morgane C.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Christophe L.",
+            "target": "Morgane C.",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Christophe L.",
+            "target": "Laurent G.",
+            "width": 1.0,
+            "color": "blue"
+        }
+    ]
+}
