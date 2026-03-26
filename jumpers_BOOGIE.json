@@ -1,12 +1,12 @@
-{
+{test
     "nodes": [
         {
             "id": "Nicolas N.",
-            "color": "gray",
+     s       "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
+      s      "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+       r     "number_jumps": 1
         }
     ],
     "links": []
