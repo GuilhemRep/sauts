@@ -1,52 +1,144 @@
 {
     "nodes": [
         {
-            "id": "Julien N.",
+            "id": "Julien N",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 1
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 2
         },
         {
-            "id": "Hugo L.",
+            "id": "Ju",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 13,
+            "friends": [
+                "Julien N",
+                "Julien B",
+                "Arthur G",
+                "Laurent G",
+                "Izampela S",
+                "Hubert-Arnaud D",
+                "Stephane K",
+                "Christophe L",
+                "Oceane M",
+                "Axel M",
+                "Tim\u00e9o L",
+                "Trystan B",
+                "Jolhan T"
+            ],
+            "number_jumps": 5
+        },
+        {
+            "id": "Hugo L",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
             "friends": [
                 "Simon"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 15,
+            "number_friends": 13,
             "friends": [
-                "Axel M.",
-                "Nico 6Fly",
-                "Morgan S.",
-                "Jerem Gringos",
-                "Gwen",
-                "Ophelie D.",
-                "Tibal",
-                "Axelle A.",
-                "Dani\u00e8le C.",
-                "Theo V.",
-                "Thomas R.",
-                "Lorys T.",
-                "Thomas M.",
-                "Lyna M.",
-                "Hugo L."
+                "Axel M",
+                "Marion L",
+                "Lorys T",
+                "Thomas M",
+                "Lyna M",
+                "Hugo L",
+                "Hugo J",
+                "Regis R",
+                "Alex F",
+                "Charly A",
+                "B4I",
+                "Yoram Y",
+                "Aymeric T"
+            ],
+            "number_jumps": 4
+        },
+        {
+            "id": "Hugo J",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Tim\u00e9o L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Trystan B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jolhan T",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
         {
-            "source": "Hugo L.",
+            "source": "Ju",
+            "target": "Julien N",
+            "width": 1.2071067811865475,
+            "color": "orange"
+        },
+        {
+            "source": "Hugo L",
             "target": "Simon",
+            "width": 1.2071067811865475,
+            "color": "orange"
+        },
+        {
+            "source": "Hugo J",
+            "target": "Simon",
+            "width": 1.2071067811865475,
+            "color": "orange"
+        },
+        {
+            "source": "Ju",
+            "target": "Tim\u00e9o L",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "Trystan B",
+            "target": "Ju",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "Ju",
+            "target": "Jolhan T",
             "width": 1.0,
             "color": "orange"
         }
