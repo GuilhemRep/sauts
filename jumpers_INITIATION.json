@@ -98,7 +98,7 @@
                 "Morgan S",
                 "Gwen"
             ],
-            "number_jumps": 7
+            "number_jumps": 6
         },
         {
             "id": "Fabien L",
@@ -106,8 +106,8 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "B4",
-                "Theo V"
+                "Theo V",
+                "B4"
             ],
             "number_jumps": 6
         },
@@ -118,8 +118,8 @@
             "number_friends": 20,
             "friends": [
                 "Axel M",
-                "B4",
                 "Fabien L",
+                "B4",
                 "BI-Places vdo + photos",
                 "Quentin B",
                 "Karla M",
@@ -225,13 +225,13 @@
         {
             "source": "B4",
             "target": "Fabien L",
-            "width": 1.724744871391589,
+            "width": 1.618033988749895,
             "color": "green"
         },
         {
             "source": "B4",
             "target": "Theo V",
-            "width": 1.724744871391589,
+            "width": 1.618033988749895,
             "color": "green"
         },
         {
