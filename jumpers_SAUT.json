@@ -191,7 +191,7 @@
                 "Tom B",
                 "Noah S"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Mike F",
@@ -283,7 +283,7 @@
             "id": "Olivier G",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 8,
+            "number_friends": 9,
             "friends": [
                 "Tom B",
                 "Noah S",
@@ -292,9 +292,10 @@
                 "Jordan A",
                 "Philippe M",
                 "Anael N",
-                "Enio L"
+                "Enio L",
+                "Kylian G"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Tom B",
@@ -936,7 +937,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 20,
             "friends": [
                 "Axel M",
                 "B4",
@@ -956,7 +957,8 @@
                 "Robin P",
                 "Raphael R",
                 "Solene L",
-                "Ryan M"
+                "Ryan M",
+                "Franck C"
             ],
             "number_jumps": 2
         },
@@ -1442,9 +1444,11 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 3,
             "friends": [
-                "Clement J"
+                "Clement J",
+                "B4",
+                "Morgan S"
             ],
             "number_jumps": 1
         },
@@ -1561,9 +1565,11 @@
             "id": "Morgan S",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 3,
             "friends": [
-                "Benjamin B"
+                "Benjamin B",
+                "B4",
+                "Gwen"
             ],
             "number_jumps": 1
         },
@@ -1742,6 +1748,54 @@
             "number_friends": 1,
             "friends": [
                 "Lucas F"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Christophe C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Eric W",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thomas R",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 13,
+            "friends": [
+                "Tibal",
+                "BI-Places vdo + photos",
+                "Maelys P",
+                "Marion L",
+                "Nico",
+                "Axel M",
+                "Theo V",
+                "Mathilde C",
+                "Emma C",
+                "Robin P",
+                "Raphael R",
+                "Solene L",
+                "Ryan M"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Kylian G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Olivier G"
             ],
             "number_jumps": 1
         }
@@ -3388,6 +3442,12 @@
         {
             "source": "Mathieu C",
             "target": "Lucas F",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Kylian G",
+            "target": "Olivier G",
             "width": 1.0,
             "color": "blue"
         }

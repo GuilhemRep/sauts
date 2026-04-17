@@ -91,12 +91,14 @@
             "id": "B4",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 4,
             "friends": [
                 "Fabien L",
-                "Theo V"
+                "Theo V",
+                "Morgan S",
+                "Gwen"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Fabien L",
@@ -113,7 +115,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 20,
             "friends": [
                 "Axel M",
                 "B4",
@@ -133,7 +135,8 @@
                 "Robin P",
                 "Raphael R",
                 "Solene L",
-                "Ryan M"
+                "Ryan M",
+                "Franck C"
             ],
             "number_jumps": 6
         },
@@ -178,6 +181,30 @@
                 "B4I",
                 "Yoram Y",
                 "Aymeric T"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Morgan S",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Benjamin B",
+                "B4",
+                "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gwen",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Clement J",
+                "B4",
+                "Morgan S"
             ],
             "number_jumps": 1
         }
@@ -228,6 +255,24 @@
         {
             "source": "Simon",
             "target": "Yoram Y",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "B4",
+            "target": "Morgan S",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "B4",
+            "target": "Gwen",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "Gwen",
+            "target": "Morgan S",
             "width": 1.0,
             "color": "green"
         }

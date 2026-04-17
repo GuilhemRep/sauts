@@ -103,6 +103,69 @@
                 "Ju"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Franck C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Theo V",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 20,
+            "friends": [
+                "Axel M",
+                "B4",
+                "Fabien L",
+                "BI-Places vdo + photos",
+                "Quentin B",
+                "Karla M",
+                "Morgane L",
+                "Hugo M",
+                "James B",
+                "Tibal",
+                "Marion L",
+                "Nico",
+                "Thomas R",
+                "Mathilde C",
+                "Emma C",
+                "Robin P",
+                "Raphael R",
+                "Solene L",
+                "Ryan M",
+                "Franck C"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gabriel C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Fafa"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Fafa",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Barbara M",
+                "Pierre G",
+                "Marion L",
+                "Marie noel C",
+                "Gabriel C"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -139,6 +202,18 @@
         {
             "source": "Ju",
             "target": "Jolhan T",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "Franck C",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "Gabriel C",
+            "target": "Fafa",
             "width": 1.0,
             "color": "orange"
         }
