@@ -112,7 +112,7 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 23,
+            "number_friends": 24,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -124,6 +124,7 @@
                 "Morgane L",
                 "Marion L",
                 "Thomas R",
+                "Ju",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -133,12 +134,12 @@
                 "Solene L",
                 "Ryan M",
                 "Oceane M",
-                "Ju",
                 "Anais Y",
                 "Tom B",
-                "Anna P"
+                "Anna P",
+                "Angelo L"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Anabelle V",
@@ -327,23 +328,24 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 14,
             "friends": [
                 "Julien N",
                 "Julien B",
                 "Arthur G",
                 "Laurent G",
                 "Izampela S",
+                "Axel M",
                 "Hubert-Arnaud D",
                 "Stephane K",
                 "Christophe L",
                 "Oceane M",
-                "Axel M",
                 "Tim\u00e9o L",
                 "Trystan B",
-                "Jolhan T"
+                "Jolhan T",
+                "Angelo L"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Dylan D",
@@ -718,6 +720,17 @@
             "friends": [
                 "Simon",
                 "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Angelo L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Axel M"
             ],
             "number_jumps": 1
         }
@@ -1296,7 +1309,7 @@
         {
             "source": "Ju",
             "target": "Axel M",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "purple"
         },
         {
@@ -1434,6 +1447,18 @@
         {
             "source": "Marion L",
             "target": "Yann T",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ju",
+            "target": "Angelo L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Angelo L",
+            "target": "Axel M",
             "width": 1.0,
             "color": "purple"
         }

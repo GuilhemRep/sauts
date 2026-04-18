@@ -14,21 +14,22 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 14,
             "friends": [
                 "Julien N",
                 "Julien B",
                 "Arthur G",
                 "Laurent G",
                 "Izampela S",
+                "Axel M",
                 "Hubert-Arnaud D",
                 "Stephane K",
                 "Christophe L",
                 "Oceane M",
-                "Axel M",
                 "Tim\u00e9o L",
                 "Trystan B",
-                "Jolhan T"
+                "Jolhan T",
+                "Angelo L"
             ],
             "number_jumps": 5
         },
@@ -191,6 +192,28 @@
                 "Fafa"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Nicolas G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gwen",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Clement J",
+                "Morgan S",
+                "Nicolas G"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -251,6 +274,12 @@
         {
             "source": "Tristan C",
             "target": "Fafa",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "Nicolas G",
+            "target": "Gwen",
             "width": 1.0,
             "color": "orange"
         }

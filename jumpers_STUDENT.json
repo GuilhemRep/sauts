@@ -117,7 +117,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Patrice H",
@@ -125,6 +125,16 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nathan M",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Fafa"
+            ],
             "number_jumps": 1
         }
     ],
