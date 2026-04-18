@@ -30,9 +30,11 @@
             "id": "Yogesh B",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 5
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 6
         },
         {
             "id": "Eva H",
@@ -136,7 +138,47 @@
                 "Fafa"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Theo V",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 24,
+            "friends": [
+                "Axel M",
+                "Fabien L",
+                "Tibal",
+                "Marion L",
+                "Thomas R",
+                "Quentin B",
+                "Karla M",
+                "Morgane L",
+                "Hugo M",
+                "James B",
+                "Nico",
+                "Mathilde C",
+                "Emma C",
+                "Robin P",
+                "Raphael R",
+                "Solene L",
+                "Ryan M",
+                "Franck C",
+                "Vincent L",
+                "Melanie M",
+                "Pierre L",
+                "Lucas C",
+                "Philippe C",
+                "Yogesh B"
+            ],
+            "number_jumps": 1
         }
     ],
-    "links": []
+    "links": [
+        {
+            "source": "Yogesh B",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "cyan"
+        }
+    ]
 }

@@ -47,7 +47,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 15,
+            "number_friends": 16,
             "friends": [
                 "Marion L",
                 "Axel M",
@@ -63,7 +63,8 @@
                 "Aymeric T",
                 "Souka\u00efna B",
                 "Fanny S",
-                "Yann T"
+                "Yann T",
+                "Maxime C"
             ],
             "number_jumps": 4
         },
@@ -121,7 +122,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 24,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -145,7 +146,8 @@
                 "Melanie M",
                 "Pierre L",
                 "Lucas C",
-                "Philippe C"
+                "Philippe C",
+                "Yogesh B"
             ],
             "number_jumps": 1
         },
@@ -163,7 +165,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 8,
             "friends": [
                 "Gabriel C",
                 "Barbara M",
@@ -171,9 +173,10 @@
                 "Marion L",
                 "Marie noel C",
                 "Nathan M",
-                "Tristan C"
+                "Tristan C",
+                "Benjamin E"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Nathan M",
@@ -203,7 +206,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Gwen",
@@ -212,8 +215,18 @@
             "number_friends": 3,
             "friends": [
                 "Clement J",
-                "Morgan S",
-                "Nicolas G"
+                "Nicolas G",
+                "Morgan S"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Benjamin E",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Fafa"
             ],
             "number_jumps": 1
         }
@@ -282,6 +295,12 @@
         {
             "source": "Nicolas G",
             "target": "Gwen",
+            "width": 1.2071067811865475,
+            "color": "orange"
+        },
+        {
+            "source": "Benjamin E",
+            "target": "Fafa",
             "width": 1.0,
             "color": "orange"
         }

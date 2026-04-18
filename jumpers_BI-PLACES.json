@@ -92,7 +92,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 15,
+            "number_friends": 16,
             "friends": [
                 "Marion L",
                 "Axel M",
@@ -108,15 +108,16 @@
                 "Aymeric T",
                 "Souka\u00efna B",
                 "Fanny S",
-                "Yann T"
+                "Yann T",
+                "Maxime C"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 24,
+            "number_friends": 25,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -141,9 +142,10 @@
                 "Anais Y",
                 "Tom B",
                 "Anna P",
-                "Angelo L"
+                "Angelo L",
+                "Maxime C"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Anabelle V",
@@ -251,7 +253,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 24,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -275,7 +277,8 @@
                 "Melanie M",
                 "Pierre L",
                 "Lucas C",
-                "Philippe C"
+                "Philippe C",
+                "Yogesh B"
             ],
             "number_jumps": 15
         },
@@ -482,7 +485,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 8,
             "friends": [
                 "Gabriel C",
                 "Barbara M",
@@ -490,7 +493,8 @@
                 "Marion L",
                 "Marie noel C",
                 "Nathan M",
-                "Tristan C"
+                "Tristan C",
+                "Benjamin E"
             ],
             "number_jumps": 3
         },
@@ -769,6 +773,17 @@
                 "Marion L"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Maxime C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Axel M"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -805,7 +820,7 @@
         {
             "source": "Axel M",
             "target": "Simon",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "purple"
         },
         {
@@ -1549,6 +1564,18 @@
         {
             "source": "Philippe C",
             "target": "Marion L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime C",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime C",
+            "target": "Axel M",
             "width": 1.0,
             "color": "purple"
         }
