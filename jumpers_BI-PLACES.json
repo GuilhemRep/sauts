@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 18,
+            "number_friends": 19,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -34,19 +34,20 @@
                 "Thomas M",
                 "Raphael R",
                 "Solene L",
-                "Ryan M"
+                "Ryan M",
+                "Tom B"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Marion L",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 21,
+            "number_friends": 22,
             "friends": [
                 "Tibal",
-                "Nico",
                 "Simon",
+                "Nico",
                 "BI-Places vdo + photos",
                 "Ophelie D",
                 "Anabelle V",
@@ -64,9 +65,10 @@
                 "Solene L",
                 "Ryan M",
                 "Charly A",
-                "Aymeric T"
+                "Aymeric T",
+                "Souka\u00efna B"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Lorys T",
@@ -83,7 +85,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 14,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -97,20 +99,21 @@
                 "Charly A",
                 "B4I",
                 "Yoram Y",
-                "Aymeric T"
+                "Aymeric T",
+                "Souka\u00efna B"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 22,
+            "number_friends": 23,
             "friends": [
                 "Theo V",
                 "Simon",
-                "BI-Places vdo + photos",
                 "Tibal",
+                "BI-Places vdo + photos",
                 "Nico",
                 "Lorys T",
                 "Quentin B",
@@ -128,9 +131,10 @@
                 "Ryan M",
                 "Oceane M",
                 "Ju",
-                "Anais Y"
+                "Anais Y",
+                "Tom B"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Anabelle V",
@@ -639,6 +643,28 @@
                 "Marion L"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Souka\u00efna B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Tom B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Tibal",
+                "Axel M"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -747,7 +773,7 @@
         {
             "source": "Marion L",
             "target": "Simon",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "purple"
         },
         {
@@ -897,7 +923,7 @@
         {
             "source": "Axel M",
             "target": "Tibal",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "purple"
         },
         {
@@ -1329,6 +1355,30 @@
         {
             "source": "Marion L",
             "target": "Aymeric T",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Souka\u00efna B",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Souka\u00efna B",
+            "target": "Marion L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Tom B",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Tom B",
+            "target": "Axel M",
             "width": 1.0,
             "color": "purple"
         }
