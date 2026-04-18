@@ -976,19 +976,19 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 23,
             "friends": [
                 "Axel M",
                 "Fabien L",
                 "Tibal",
+                "Marion L",
+                "Thomas R",
                 "Quentin B",
                 "Karla M",
                 "Morgane L",
                 "Hugo M",
                 "James B",
-                "Marion L",
                 "Nico",
-                "Thomas R",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -998,7 +998,9 @@
                 "Franck C",
                 "Vincent L",
                 "Melanie M",
-                "Pierre L"
+                "Pierre L",
+                "Lucas C",
+                "Philippe C"
             ],
             "number_jumps": 2
         },
@@ -1598,7 +1600,7 @@
             "friends": [
                 "Gontran A"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Morgan S",
@@ -1623,11 +1625,11 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 23,
             "friends": [
                 "Marion L",
-                "Axel M",
                 "Thomas R",
+                "Axel M",
                 "Theo V",
                 "Ophelie D",
                 "Maelys P",
@@ -1645,7 +1647,9 @@
                 "Tom B",
                 "Vincent L",
                 "Melanie M",
-                "Anna P"
+                "Anna P",
+                "Lucas C",
+                "Philippe C"
             ],
             "number_jumps": 1
         },
@@ -1798,7 +1802,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Eric W",
@@ -1812,20 +1816,22 @@
             "id": "Thomas R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 12,
+            "number_friends": 14,
             "friends": [
                 "Tibal",
-                "Maelys P",
                 "Marion L",
+                "Theo V",
+                "Maelys P",
                 "Nico",
                 "Axel M",
-                "Theo V",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
                 "Raphael R",
                 "Solene L",
-                "Ryan M"
+                "Ryan M",
+                "Lucas C",
+                "Philippe C"
             ],
             "number_jumps": 1
         },
@@ -1871,7 +1877,7 @@
             "friends": [
                 "Ahmed K"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         }
     ],
     "links": [
@@ -3666,7 +3672,7 @@
         {
             "source": "Gontran A",
             "target": "Ahmed K",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {

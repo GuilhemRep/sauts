@@ -121,19 +121,19 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 23,
             "friends": [
                 "Axel M",
                 "Fabien L",
                 "Tibal",
+                "Marion L",
+                "Thomas R",
                 "Quentin B",
                 "Karla M",
                 "Morgane L",
                 "Hugo M",
                 "James B",
-                "Marion L",
                 "Nico",
-                "Thomas R",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -143,7 +143,9 @@
                 "Franck C",
                 "Vincent L",
                 "Melanie M",
-                "Pierre L"
+                "Pierre L",
+                "Lucas C",
+                "Philippe C"
             ],
             "number_jumps": 1
         },
@@ -155,7 +157,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Fafa",
@@ -163,15 +165,15 @@
             "shape": "rectangle",
             "number_friends": 7,
             "friends": [
+                "Gabriel C",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
                 "Marie noel C",
-                "Gabriel C",
                 "Nathan M",
                 "Tristan C"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Nathan M",
@@ -262,7 +264,7 @@
         {
             "source": "Gabriel C",
             "target": "Fafa",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "orange"
         },
         {
