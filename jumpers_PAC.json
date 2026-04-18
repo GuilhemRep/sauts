@@ -161,7 +161,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Fafa",
@@ -178,7 +178,7 @@
                 "Nathan M",
                 "Benjamin E"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Nathan M",
@@ -214,11 +214,13 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 5,
             "friends": [
                 "Clement J",
                 "Nicolas G",
-                "Morgan S"
+                "Morgan S",
+                "Nathalie B",
+                "Marion L"
             ],
             "number_jumps": 2
         },
@@ -279,7 +281,7 @@
         {
             "source": "Gabriel C",
             "target": "Fafa",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "orange"
         },
         {
