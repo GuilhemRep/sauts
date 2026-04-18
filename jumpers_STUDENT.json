@@ -32,7 +32,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Eva H",
@@ -113,6 +113,14 @@
         },
         {
             "id": "Yanis M",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Patrice H",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,

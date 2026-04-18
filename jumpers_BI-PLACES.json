@@ -45,10 +45,10 @@
             "id": "Marion L",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 22,
+            "number_friends": 23,
             "friends": [
-                "Tibal",
                 "Simon",
+                "Tibal",
                 "Nico",
                 "Ophelie D",
                 "Anabelle V",
@@ -68,9 +68,10 @@
                 "Charly A",
                 "Aymeric T",
                 "Souka\u00efna B",
-                "Fanny S"
+                "Fanny S",
+                "Yann T"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Lorys T",
@@ -87,7 +88,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 14,
+            "number_friends": 15,
             "friends": [
                 "Marion L",
                 "Axel M",
@@ -102,9 +103,10 @@
                 "Yoram Y",
                 "Aymeric T",
                 "Souka\u00efna B",
-                "Fanny S"
+                "Fanny S",
+                "Yann T"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Axel M",
@@ -470,14 +472,15 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 6,
+            "number_friends": 7,
             "friends": [
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
                 "Marie noel C",
                 "Gabriel C",
-                "Nathan M"
+                "Nathan M",
+                "Tristan C"
             ],
             "number_jumps": 3
         },
@@ -706,6 +709,17 @@
                 "Axel M"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Yann T",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Marion L"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -814,7 +828,7 @@
         {
             "source": "Marion L",
             "target": "Simon",
-            "width": 1.724744871391589,
+            "width": 1.8228756555322954,
             "color": "purple"
         },
         {
@@ -1408,6 +1422,18 @@
         {
             "source": "Axel M",
             "target": "Anna P",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Simon",
+            "target": "Yann T",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Marion L",
+            "target": "Yann T",
             "width": 1.0,
             "color": "purple"
         }
