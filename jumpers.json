@@ -89,13 +89,13 @@
                 "Nico",
                 "Izampela S",
                 "Stephane K",
-                "Ju",
                 "Olivier G",
                 "Tom B",
                 "Caroline C",
+                "Ju",
                 "Noah S"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Fabio B",
@@ -115,7 +115,7 @@
                 "Caroline C",
                 "Noah S"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Morgane C",
@@ -149,8 +149,8 @@
             "number_friends": 21,
             "friends": [
                 "Hubert-Arnaud D",
-                "Morgane C",
                 "Fabio B",
+                "Morgane C",
                 "Christophe L",
                 "Julien B",
                 "Philippe M",
@@ -170,7 +170,7 @@
                 "Caroline C",
                 "Noah S"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Christophe L",
@@ -185,13 +185,13 @@
                 "Morgane C",
                 "Stephane K",
                 "Izampela S",
-                "Ju",
                 "Olivier G",
                 "Tom B",
                 "Caroline C",
+                "Ju",
                 "Noah S"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Lionel D",
@@ -316,15 +316,15 @@
                 "Jordan A",
                 "Philippe M",
                 "Anael N",
-                "Enio L",
-                "Kylian G",
                 "Hubert-Arnaud D",
                 "Fabio B",
                 "Caroline C",
                 "Laurent G",
-                "Christophe L"
+                "Christophe L",
+                "Enio L",
+                "Kylian G"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Tom B",
@@ -345,15 +345,15 @@
                 "Enio L",
                 "Clement J",
                 "Noah S",
-                "Izampela S",
-                "Julien B",
                 "Hubert-Arnaud D",
                 "Fabio B",
                 "Caroline C",
                 "Laurent G",
-                "Christophe L"
+                "Christophe L",
+                "Izampela S",
+                "Julien B"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Noah S",
@@ -421,12 +421,11 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 23,
+            "number_friends": 22,
             "friends": [
                 "Theo V",
                 "Simon",
                 "Tibal",
-                "BI-Places vdo + photos",
                 "Nico",
                 "Lorys T",
                 "Quentin B",
@@ -455,8 +454,8 @@
             "shape": "rectangle",
             "number_friends": 19,
             "friends": [
-                "Philippe M",
                 "Enio L",
+                "Philippe M",
                 "Olivier G",
                 "Tom B",
                 "Noah S",
@@ -475,7 +474,7 @@
                 "Laurent G",
                 "Sylvain C"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Charlie T",
@@ -569,11 +568,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 21,
             "friends": [
                 "Marion L",
                 "Thomas R",
-                "BI-Places vdo + photos",
                 "Axel M",
                 "Theo V",
                 "Ophelie D",
@@ -605,7 +603,6 @@
                 "Tibal",
                 "Simon",
                 "Nico",
-                "BI-Places vdo + photos",
                 "Ophelie D",
                 "Anabelle V",
                 "Thomas M",
@@ -623,9 +620,10 @@
                 "Ryan M",
                 "Charly A",
                 "Aymeric T",
-                "Souka\u00efna B"
+                "Souka\u00efna B",
+                "Fanny S"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Nico",
@@ -635,7 +633,6 @@
             "friends": [
                 "Matthieu P",
                 "Marion L",
-                "BI-Places vdo + photos",
                 "Axel M",
                 "Lionel D",
                 "Anabelle V",
@@ -669,9 +666,10 @@
                 "Ryan M",
                 "Stephane K",
                 "Benjamin B",
-                "Anais Y"
+                "Anais Y",
+                "Teo G"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Magali P",
@@ -906,10 +904,10 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 14,
             "friends": [
-                "Axel M",
                 "Marion L",
+                "Axel M",
                 "Lorys T",
                 "Thomas M",
                 "Lyna M",
@@ -920,9 +918,10 @@
                 "Charly A",
                 "Yoram Y",
                 "Aymeric T",
-                "Souka\u00efna B"
+                "Souka\u00efna B",
+                "Fanny S"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Jason H",
@@ -988,10 +987,9 @@
             "id": "Thomas R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 12,
             "friends": [
                 "Tibal",
-                "BI-Places vdo + photos",
                 "Maelys P",
                 "Marion L",
                 "Nico",
@@ -1021,11 +1019,10 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 21,
             "friends": [
                 "Axel M",
                 "Fabien L",
-                "BI-Places vdo + photos",
                 "Tibal",
                 "Quentin B",
                 "Karla M",
@@ -1073,7 +1070,7 @@
                 "Sylvain C",
                 "Olivier G"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Jerem Gringos",
@@ -1409,11 +1406,11 @@
                 "Fabio B",
                 "Olivier G",
                 "Tom B",
-                "Noah S",
                 "Laurent G",
-                "Christophe L"
+                "Christophe L",
+                "Noah S"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Alban D",
@@ -1590,9 +1587,8 @@
             "id": "Mathilde C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Tibal",
                 "Marion L",
                 "Emma C",
@@ -1605,34 +1601,11 @@
             "number_jumps": 1
         },
         {
-            "id": "BI-Places vdo + photos",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 13,
-            "friends": [
-                "Tibal",
-                "Marion L",
-                "Nico",
-                "Axel M",
-                "BI-Places vdo + photos",
-                "Theo V",
-                "Thomas R",
-                "Mathilde C",
-                "Emma C",
-                "Robin P",
-                "Raphael R",
-                "Solene L",
-                "Ryan M"
-            ],
-            "number_jumps": 4
-        },
-        {
             "id": "Emma C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Mathilde C",
                 "Tibal",
                 "Marion L",
@@ -1648,9 +1621,8 @@
             "id": "Robin P",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Mathilde C",
                 "Tibal",
                 "Marion L",
@@ -2002,9 +1974,8 @@
             "id": "Raphael R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Tibal",
                 "Thomas R",
                 "Solene L",
@@ -2020,9 +1991,8 @@
             "id": "Solene L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Raphael R",
                 "Tibal",
                 "Thomas R",
@@ -2038,9 +2008,8 @@
             "id": "Ryan M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Raphael R",
                 "Tibal",
                 "Thomas R",
@@ -2400,7 +2369,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Franck C",
@@ -2548,6 +2517,27 @@
                 "Theo V"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Fanny S",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Teo G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -2596,7 +2586,7 @@
         {
             "source": "Fabio B",
             "target": "Hubert-Arnaud D",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "blue"
         },
         {
@@ -2608,13 +2598,13 @@
         {
             "source": "Hubert-Arnaud D",
             "target": "Laurent G",
-            "width": 1.8228756555322954,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
             "source": "Hubert-Arnaud D",
             "target": "Christophe L",
-            "width": 1.8228756555322954,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -2626,13 +2616,13 @@
         {
             "source": "Fabio B",
             "target": "Laurent G",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "blue"
         },
         {
             "source": "Fabio B",
             "target": "Christophe L",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "blue"
         },
         {
@@ -2650,7 +2640,7 @@
         {
             "source": "Laurent G",
             "target": "Christophe L",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "blue"
         },
         {
@@ -2728,7 +2718,7 @@
         {
             "source": "Tom B",
             "target": "Olivier G",
-            "width": 1.9142135623730951,
+            "width": 2.0,
             "color": "blue"
         },
         {
@@ -2956,7 +2946,7 @@
         {
             "source": "Enio L",
             "target": "Anael N",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
@@ -3070,7 +3060,7 @@
         {
             "source": "Marion L",
             "target": "Simon",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "purple"
         },
         {
@@ -3980,12 +3970,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places vdo + photos",
-            "target": "Mathilde C",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
             "source": "Emma C",
             "target": "Mathilde C",
             "width": 1.0,
@@ -4019,12 +4003,6 @@
             "source": "Mathilde C",
             "target": "Thomas R",
             "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Tibal",
-            "width": 1.5,
             "color": "purple"
         },
         {
@@ -4058,12 +4036,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places vdo + photos",
-            "target": "Marion L",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
             "source": "Emma C",
             "target": "Marion L",
             "width": 1.0,
@@ -4091,48 +4063,6 @@
             "source": "Marion L",
             "target": "Thomas R",
             "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Emma C",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Nico",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Axel M",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "BI-Places vdo + photos",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Robin P",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Theo V",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Thomas R",
-            "width": 1.5,
             "color": "purple"
         },
         {
@@ -4454,12 +4384,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places vdo + photos",
-            "target": "Raphael R",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
             "source": "Solene L",
             "target": "Raphael R",
             "width": 1.0,
@@ -4517,18 +4441,6 @@
             "source": "Ryan M",
             "target": "Thomas R",
             "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Solene L",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Ryan M",
-            "width": 1.2071067811865475,
             "color": "purple"
         },
         {
@@ -5068,19 +4980,19 @@
         {
             "source": "Hubert-Arnaud D",
             "target": "Olivier G",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Tom B",
             "target": "Hubert-Arnaud D",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Caroline C",
             "target": "Hubert-Arnaud D",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -5092,19 +5004,19 @@
         {
             "source": "Fabio B",
             "target": "Olivier G",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Fabio B",
             "target": "Tom B",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Fabio B",
             "target": "Caroline C",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -5116,37 +5028,37 @@
         {
             "source": "Caroline C",
             "target": "Olivier G",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Olivier G",
             "target": "Laurent G",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Olivier G",
             "target": "Christophe L",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Tom B",
             "target": "Caroline C",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Tom B",
             "target": "Laurent G",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Tom B",
             "target": "Christophe L",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -5158,13 +5070,13 @@
         {
             "source": "Caroline C",
             "target": "Laurent G",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Caroline C",
             "target": "Christophe L",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -5178,6 +5090,24 @@
             "target": "Noah S",
             "width": 1.0,
             "color": "blue"
+        },
+        {
+            "source": "Fanny S",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Marion L",
+            "target": "Fanny S",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Teo G",
+            "target": "Nico",
+            "width": 1.0,
+            "color": "purple"
         }
     ]
 }

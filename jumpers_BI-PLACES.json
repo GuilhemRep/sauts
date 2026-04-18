@@ -15,11 +15,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 21,
             "friends": [
                 "Marion L",
                 "Thomas R",
-                "BI-Places vdo + photos",
                 "Axel M",
                 "Theo V",
                 "Ophelie D",
@@ -51,7 +50,6 @@
                 "Tibal",
                 "Simon",
                 "Nico",
-                "BI-Places vdo + photos",
                 "Ophelie D",
                 "Anabelle V",
                 "Thomas M",
@@ -69,9 +67,10 @@
                 "Ryan M",
                 "Charly A",
                 "Aymeric T",
-                "Souka\u00efna B"
+                "Souka\u00efna B",
+                "Fanny S"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Lorys T",
@@ -88,10 +87,10 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 14,
             "friends": [
-                "Axel M",
                 "Marion L",
+                "Axel M",
                 "Lorys T",
                 "Thomas M",
                 "Lyna M",
@@ -102,20 +101,20 @@
                 "Charly A",
                 "Yoram Y",
                 "Aymeric T",
-                "Souka\u00efna B"
+                "Souka\u00efna B",
+                "Fanny S"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 23,
+            "number_friends": 22,
             "friends": [
                 "Theo V",
                 "Simon",
                 "Tibal",
-                "BI-Places vdo + photos",
                 "Nico",
                 "Lorys T",
                 "Quentin B",
@@ -157,7 +156,6 @@
             "friends": [
                 "Matthieu P",
                 "Marion L",
-                "BI-Places vdo + photos",
                 "Axel M",
                 "Lionel D",
                 "Anabelle V",
@@ -191,9 +189,10 @@
                 "Ryan M",
                 "Stephane K",
                 "Benjamin B",
-                "Anais Y"
+                "Anais Y",
+                "Teo G"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Maelys P",
@@ -210,10 +209,9 @@
             "id": "Thomas R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 12,
             "friends": [
                 "Tibal",
-                "BI-Places vdo + photos",
                 "Maelys P",
                 "Marion L",
                 "Nico",
@@ -243,11 +241,10 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 21,
             "friends": [
                 "Axel M",
                 "Fabien L",
-                "BI-Places vdo + photos",
                 "Tibal",
                 "Quentin B",
                 "Karla M",
@@ -401,9 +398,8 @@
             "id": "Mathilde C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Tibal",
                 "Marion L",
                 "Emma C",
@@ -416,34 +412,11 @@
             "number_jumps": 1
         },
         {
-            "id": "BI-Places vdo + photos",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 13,
-            "friends": [
-                "Tibal",
-                "Marion L",
-                "Nico",
-                "Axel M",
-                "BI-Places vdo + photos",
-                "Theo V",
-                "Thomas R",
-                "Mathilde C",
-                "Emma C",
-                "Robin P",
-                "Raphael R",
-                "Solene L",
-                "Ryan M"
-            ],
-            "number_jumps": 4
-        },
-        {
             "id": "Emma C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Mathilde C",
                 "Tibal",
                 "Marion L",
@@ -459,9 +432,8 @@
             "id": "Robin P",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Mathilde C",
                 "Tibal",
                 "Marion L",
@@ -544,9 +516,8 @@
             "id": "Raphael R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Tibal",
                 "Thomas R",
                 "Solene L",
@@ -562,9 +533,8 @@
             "id": "Solene L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Raphael R",
                 "Tibal",
                 "Thomas R",
@@ -580,9 +550,8 @@
             "id": "Ryan M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 8,
             "friends": [
-                "BI-Places vdo + photos",
                 "Raphael R",
                 "Tibal",
                 "Thomas R",
@@ -708,6 +677,27 @@
                 "Theo V"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Fanny S",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Teo G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -816,7 +806,7 @@
         {
             "source": "Marion L",
             "target": "Simon",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "purple"
         },
         {
@@ -904,12 +894,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places vdo + photos",
-            "target": "Mathilde C",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
             "source": "Emma C",
             "target": "Mathilde C",
             "width": 1.0,
@@ -943,12 +927,6 @@
             "source": "Mathilde C",
             "target": "Thomas R",
             "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Tibal",
-            "width": 1.5,
             "color": "purple"
         },
         {
@@ -982,12 +960,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places vdo + photos",
-            "target": "Marion L",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
             "source": "Emma C",
             "target": "Marion L",
             "width": 1.0,
@@ -1015,48 +987,6 @@
             "source": "Marion L",
             "target": "Thomas R",
             "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Emma C",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Nico",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Axel M",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "BI-Places vdo + photos",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Robin P",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Theo V",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Thomas R",
-            "width": 1.5,
             "color": "purple"
         },
         {
@@ -1210,12 +1140,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places vdo + photos",
-            "target": "Raphael R",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
             "source": "Solene L",
             "target": "Raphael R",
             "width": 1.0,
@@ -1273,18 +1197,6 @@
             "source": "Ryan M",
             "target": "Thomas R",
             "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Solene L",
-            "width": 1.2071067811865475,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo + photos",
-            "target": "Ryan M",
-            "width": 1.2071067811865475,
             "color": "purple"
         },
         {
@@ -1476,6 +1388,24 @@
         {
             "source": "Melanie M",
             "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fanny S",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Marion L",
+            "target": "Fanny S",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Teo G",
+            "target": "Nico",
             "width": 1.0,
             "color": "purple"
         }
