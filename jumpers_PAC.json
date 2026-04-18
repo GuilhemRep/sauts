@@ -47,7 +47,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 17,
+            "number_friends": 27,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -65,7 +65,17 @@
                 "Fanny S",
                 "Yann T",
                 "Maxime C",
-                "Mathieu R"
+                "Mathieu R",
+                "Hubert-Arnaud D",
+                "Enio L",
+                "Olivier G",
+                "Tom B",
+                "Anael N",
+                "Theo V",
+                "Noah S",
+                "Laurent G",
+                "Christophe L",
+                "Salom\u00e9 C"
             ],
             "number_jumps": 4
         },
@@ -123,7 +133,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 35,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -149,7 +159,17 @@
                 "Lucas C",
                 "Philippe C",
                 "Yogesh B",
-                "Johanna P"
+                "Johanna P",
+                "Hubert-Arnaud D",
+                "Enio L",
+                "Olivier G",
+                "Tom B",
+                "Anael N",
+                "Simon",
+                "Noah S",
+                "Laurent G",
+                "Christophe L",
+                "Salom\u00e9 C"
             ],
             "number_jumps": 1
         },
@@ -171,14 +191,14 @@
             "friends": [
                 "Gabriel C",
                 "Tristan C",
+                "Benjamin E",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
                 "Marie noel C",
-                "Nathan M",
-                "Benjamin E"
+                "Nathan M"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Nathan M",
@@ -232,7 +252,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -305,7 +325,7 @@
         {
             "source": "Benjamin E",
             "target": "Fafa",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "orange"
         }
     ]

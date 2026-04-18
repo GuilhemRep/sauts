@@ -96,7 +96,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 17,
+            "number_friends": 27,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -114,7 +114,17 @@
                 "Fanny S",
                 "Yann T",
                 "Maxime C",
-                "Mathieu R"
+                "Mathieu R",
+                "Hubert-Arnaud D",
+                "Enio L",
+                "Olivier G",
+                "Tom B",
+                "Anael N",
+                "Theo V",
+                "Noah S",
+                "Laurent G",
+                "Christophe L",
+                "Salom\u00e9 C"
             ],
             "number_jumps": 15
         },
@@ -122,7 +132,7 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 26,
+            "number_friends": 35,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -149,7 +159,16 @@
                 "Anna P",
                 "Angelo L",
                 "Maxime C",
-                "Mathieu R"
+                "Mathieu R",
+                "Hubert-Arnaud D",
+                "Enio L",
+                "Olivier G",
+                "Tom B",
+                "Anael N",
+                "Noah S",
+                "Laurent G",
+                "Christophe L",
+                "Salom\u00e9 C"
             ],
             "number_jumps": 21
         },
@@ -260,7 +279,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 35,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -286,7 +305,17 @@
                 "Lucas C",
                 "Philippe C",
                 "Yogesh B",
-                "Johanna P"
+                "Johanna P",
+                "Hubert-Arnaud D",
+                "Enio L",
+                "Olivier G",
+                "Tom B",
+                "Anael N",
+                "Simon",
+                "Noah S",
+                "Laurent G",
+                "Christophe L",
+                "Salom\u00e9 C"
             ],
             "number_jumps": 16
         },
@@ -497,12 +526,12 @@
             "friends": [
                 "Gabriel C",
                 "Tristan C",
+                "Benjamin E",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
                 "Marie noel C",
-                "Nathan M",
-                "Benjamin E"
+                "Nathan M"
             ],
             "number_jumps": 3
         },
