@@ -568,7 +568,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 20,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -589,7 +589,6 @@
                 "Ryan M",
                 "Tom B",
                 "Vincent L",
-                "BI-Places",
                 "Melanie M"
             ],
             "number_jumps": 16
@@ -1019,7 +1018,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 20,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -1040,7 +1039,6 @@
                 "Ryan M",
                 "Franck C",
                 "Vincent L",
-                "BI-Places",
                 "Melanie M"
             ],
             "number_jumps": 22
@@ -2483,22 +2481,8 @@
             "id": "Vincent L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 3,
             "friends": [
-                "Tibal",
-                "BI-Places",
-                "Melanie M",
-                "Theo V"
-            ],
-            "number_jumps": 1
-        },
-        {
-            "id": "BI-Places",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 4,
-            "friends": [
-                "Vincent L",
                 "Tibal",
                 "Melanie M",
                 "Theo V"
@@ -2509,11 +2493,10 @@
             "id": "Melanie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 3,
             "friends": [
                 "Vincent L",
                 "Tibal",
-                "BI-Places",
                 "Theo V"
             ],
             "number_jumps": 1
@@ -4930,12 +4913,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places",
-            "target": "Vincent L",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
             "source": "Vincent L",
             "target": "Melanie M",
             "width": 1.0,
@@ -4944,30 +4921,12 @@
         {
             "source": "Vincent L",
             "target": "Theo V",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places",
-            "target": "Tibal",
             "width": 1.0,
             "color": "purple"
         },
         {
             "source": "Melanie M",
             "target": "Tibal",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places",
-            "target": "Melanie M",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places",
-            "target": "Theo V",
             "width": 1.0,
             "color": "purple"
         },
