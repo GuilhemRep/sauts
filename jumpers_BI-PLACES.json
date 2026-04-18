@@ -15,19 +15,19 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 22,
             "friends": [
                 "Marion L",
                 "Thomas R",
                 "BI-Places vdo + photos",
                 "Axel M",
+                "Theo V",
                 "Ophelie D",
                 "Maelys P",
                 "Cameron M",
                 "Pavel E",
                 "Juliette M",
                 "Nico",
-                "Theo V",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -35,9 +35,12 @@
                 "Raphael R",
                 "Solene L",
                 "Ryan M",
-                "Tom B"
+                "Tom B",
+                "Vincent L",
+                "BI-Places",
+                "Melanie M"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Marion L",
@@ -241,18 +244,18 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 20,
+            "number_friends": 23,
             "friends": [
                 "Axel M",
                 "Fabien L",
                 "B4",
                 "BI-Places vdo + photos",
+                "Tibal",
                 "Quentin B",
                 "Karla M",
                 "Morgane L",
                 "Hugo M",
                 "James B",
-                "Tibal",
                 "Marion L",
                 "Nico",
                 "Thomas R",
@@ -262,9 +265,12 @@
                 "Raphael R",
                 "Solene L",
                 "Ryan M",
-                "Franck C"
+                "Franck C",
+                "Vincent L",
+                "BI-Places",
+                "Melanie M"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Thomas M",
@@ -665,6 +671,45 @@
                 "Axel M"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Vincent L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Tibal",
+                "BI-Places",
+                "Melanie M",
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "BI-Places",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Vincent L",
+                "Tibal",
+                "Melanie M",
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Melanie M",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Vincent L",
+                "Tibal",
+                "BI-Places",
+                "Theo V"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -935,7 +980,7 @@
         {
             "source": "Tibal",
             "target": "Theo V",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "purple"
         },
         {
@@ -1379,6 +1424,60 @@
         {
             "source": "Tom B",
             "target": "Axel M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Vincent L",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places",
+            "target": "Vincent L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Vincent L",
+            "target": "Melanie M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Vincent L",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Melanie M",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places",
+            "target": "Melanie M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Melanie M",
+            "target": "Theo V",
             "width": 1.0,
             "color": "purple"
         }
