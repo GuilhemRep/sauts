@@ -190,15 +190,15 @@
             "number_friends": 8,
             "friends": [
                 "Gabriel C",
-                "Tristan C",
                 "Benjamin E",
+                "Tristan C",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
                 "Marie noel C",
                 "Nathan M"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Nathan M",
@@ -228,7 +228,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Gwen",
@@ -242,7 +242,7 @@
                 "Nathalie B",
                 "Marion L"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Benjamin E",
@@ -252,7 +252,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         }
     ],
     "links": [
@@ -319,13 +319,13 @@
         {
             "source": "Nicolas G",
             "target": "Gwen",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "orange"
         },
         {
             "source": "Benjamin E",
             "target": "Fafa",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "orange"
         }
     ]
