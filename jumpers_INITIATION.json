@@ -101,7 +101,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 24,
+            "number_friends": 25,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -126,7 +126,8 @@
                 "Pierre L",
                 "Lucas C",
                 "Philippe C",
-                "Yogesh B"
+                "Yogesh B",
+                "Johanna P"
             ],
             "number_jumps": 6
         },
@@ -186,7 +187,7 @@
                 "Nicolas G",
                 "Morgan S"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Clement J",
@@ -195,6 +196,7 @@
             "number_friends": 10,
             "friends": [
                 "Jason H",
+                "Gwen",
                 "Charlie T",
                 "Renan N",
                 "Lionel D",
@@ -202,10 +204,9 @@
                 "Enio L",
                 "Tom B",
                 "Noah S",
-                "Gwen",
                 "Sandrine C"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -242,7 +243,7 @@
         {
             "source": "Gwen",
             "target": "Clement J",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "green"
         }
     ]

@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 24,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -39,15 +39,16 @@
                 "Melanie M",
                 "Anna P",
                 "Lucas C",
-                "Philippe C"
+                "Philippe C",
+                "Thibaud L"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Marion L",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 25,
+            "number_friends": 26,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -73,9 +74,10 @@
                 "Fanny S",
                 "Yann T",
                 "Lucas C",
-                "Philippe C"
+                "Philippe C",
+                "Johanna P"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Lorys T",
@@ -219,7 +221,7 @@
             "id": "Thomas R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 14,
+            "number_friends": 15,
             "friends": [
                 "Tibal",
                 "Marion L",
@@ -234,9 +236,10 @@
                 "Solene L",
                 "Ryan M",
                 "Lucas C",
-                "Philippe C"
+                "Philippe C",
+                "Thibaud L"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Quentin B",
@@ -253,7 +256,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 24,
+            "number_friends": 25,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -278,9 +281,10 @@
                 "Pierre L",
                 "Lucas C",
                 "Philippe C",
-                "Yogesh B"
+                "Yogesh B",
+                "Johanna P"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Thomas M",
@@ -488,12 +492,12 @@
             "number_friends": 8,
             "friends": [
                 "Gabriel C",
+                "Tristan C",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
                 "Marie noel C",
                 "Nathan M",
-                "Tristan C",
                 "Benjamin E"
             ],
             "number_jumps": 3
@@ -784,6 +788,28 @@
                 "Axel M"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Johanna P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Theo V",
+                "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thibaud L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Tibal",
+                "Thomas R"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -856,7 +882,7 @@
         {
             "source": "Thomas R",
             "target": "Tibal",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "purple"
         },
         {
@@ -1066,7 +1092,7 @@
         {
             "source": "Marion L",
             "target": "Theo V",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "purple"
         },
         {
@@ -1576,6 +1602,30 @@
         {
             "source": "Maxime C",
             "target": "Axel M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Johanna P",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Marion L",
+            "target": "Johanna P",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Thibaud L",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Thibaud L",
+            "target": "Thomas R",
             "width": 1.0,
             "color": "purple"
         }
