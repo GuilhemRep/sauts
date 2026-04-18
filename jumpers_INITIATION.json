@@ -88,26 +88,12 @@
             "number_jumps": 4
         },
         {
-            "id": "B4",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 4,
-            "friends": [
-                "Fabien L",
-                "Theo V",
-                "Morgan S",
-                "Gwen"
-            ],
-            "number_jumps": 6
-        },
-        {
             "id": "Fabien L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "Theo V",
-                "B4"
+                "Theo V"
             ],
             "number_jumps": 6
         },
@@ -115,11 +101,10 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 22,
             "friends": [
                 "Axel M",
                 "Fabien L",
-                "B4",
                 "BI-Places vdo + photos",
                 "Tibal",
                 "Quentin B",
@@ -144,23 +129,11 @@
             "number_jumps": 6
         },
         {
-            "id": "B4I",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 2,
-            "friends": [
-                "Yoram Y",
-                "Simon"
-            ],
-            "number_jumps": 1
-        },
-        {
             "id": "Yoram Y",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "B4I",
                 "Simon"
             ],
             "number_jumps": 1
@@ -169,7 +142,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 14,
+            "number_friends": 13,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -181,7 +154,6 @@
                 "Regis R",
                 "Alex F",
                 "Charly A",
-                "B4I",
                 "Yoram Y",
                 "Aymeric T",
                 "Souka\u00efna B"
@@ -192,10 +164,9 @@
             "id": "Morgan S",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
                 "Benjamin B",
-                "B4",
                 "Gwen"
             ],
             "number_jumps": 1
@@ -204,10 +175,9 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
                 "Clement J",
-                "B4",
                 "Morgan S"
             ],
             "number_jumps": 1
@@ -227,50 +197,14 @@
             "color": "green"
         },
         {
-            "source": "B4",
-            "target": "Fabien L",
-            "width": 1.618033988749895,
-            "color": "green"
-        },
-        {
-            "source": "B4",
-            "target": "Theo V",
-            "width": 1.618033988749895,
-            "color": "green"
-        },
-        {
             "source": "Fabien L",
             "target": "Theo V",
             "width": 1.724744871391589,
             "color": "green"
         },
         {
-            "source": "B4I",
-            "target": "Yoram Y",
-            "width": 1.0,
-            "color": "green"
-        },
-        {
-            "source": "B4I",
-            "target": "Simon",
-            "width": 1.0,
-            "color": "green"
-        },
-        {
             "source": "Simon",
             "target": "Yoram Y",
-            "width": 1.0,
-            "color": "green"
-        },
-        {
-            "source": "B4",
-            "target": "Morgan S",
-            "width": 1.0,
-            "color": "green"
-        },
-        {
-            "source": "B4",
-            "target": "Gwen",
             "width": 1.0,
             "color": "green"
         },

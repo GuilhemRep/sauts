@@ -1,7 +1,7 @@
 {
     "nodes": [
         {
-            "id": "Eric B",
+            "id": "Eric B-M",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -16,8 +16,8 @@
             "shape": "rectangle",
             "number_friends": 3,
             "friends": [
-                "Eric B",
-                "MANDRIle Eric B",
+                "Eric B-M",
+                "Eric B-M",
                 "Eric B"
             ],
             "number_jumps": 8
@@ -735,7 +735,7 @@
             "number_jumps": 6
         },
         {
-            "id": "MANDRIle Eric B",
+            "id": "Eric B-M",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -972,11 +972,10 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 22,
             "friends": [
                 "Axel M",
                 "Fabien L",
-                "B4",
                 "BI-Places vdo + photos",
                 "Tibal",
                 "Quentin B",
@@ -1287,10 +1286,9 @@
             "id": "Fabien L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "Theo V",
-                "B4"
+                "Theo V"
             ],
             "number_jumps": 1
         },
@@ -1489,10 +1487,9 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
                 "Clement J",
-                "B4",
                 "Morgan S"
             ],
             "number_jumps": 1
@@ -1506,24 +1503,11 @@
             "number_jumps": 2
         },
         {
-            "id": "FF/PAC",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 3,
-            "friends": [
-                "DA\u00efNI Virginie",
-                "Christophe V",
-                "Mathis S"
-            ],
-            "number_jumps": 3
-        },
-        {
             "id": "DA\u00efNI Virginie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "FF/PAC",
                 "Christophe V"
             ],
             "number_jumps": 2
@@ -1532,9 +1516,8 @@
             "id": "Christophe V",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "FF/PAC",
                 "DA\u00efNI Virginie"
             ],
             "number_jumps": 2
@@ -1613,10 +1596,9 @@
             "id": "Morgan S",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
                 "Benjamin B",
-                "B4",
                 "Gwen"
             ],
             "number_jumps": 1
@@ -1661,7 +1643,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Paul-andr\u00e9 P",
+            "id": "Paul-Andr\u00e9 P",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -1676,7 +1658,7 @@
             "shape": "rectangle",
             "number_friends": 1,
             "friends": [
-                "Paul-andr\u00e9 P"
+                "Paul-Andr\u00e9 P"
             ],
             "number_jumps": 1
         },
@@ -1886,7 +1868,7 @@
     ],
     "links": [
         {
-            "source": "Eric B",
+            "source": "Eric B-M",
             "target": "Arnaud C",
             "width": 1.5,
             "color": "blue"
@@ -2168,7 +2150,7 @@
             "color": "blue"
         },
         {
-            "source": "MANDRIle Eric B",
+            "source": "Eric B-M",
             "target": "Arnaud C",
             "width": 1.2071067811865475,
             "color": "blue"
@@ -3260,18 +3242,6 @@
             "color": "blue"
         },
         {
-            "source": "DA\u00efNI Virginie",
-            "target": "FF/PAC",
-            "width": 1.2071067811865475,
-            "color": "blue"
-        },
-        {
-            "source": "FF/PAC",
-            "target": "Christophe V",
-            "width": 1.2071067811865475,
-            "color": "blue"
-        },
-        {
             "source": "Benjamin B",
             "target": "Florian H",
             "width": 1.0,
@@ -3447,7 +3417,7 @@
         },
         {
             "source": "Alain P",
-            "target": "Paul-andr\u00e9 P",
+            "target": "Paul-Andr\u00e9 P",
             "width": 1.0,
             "color": "blue"
         },

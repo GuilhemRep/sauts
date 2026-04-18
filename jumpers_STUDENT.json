@@ -1,0 +1,116 @@
+{
+    "nodes": [
+        {
+            "id": "Christophe C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 2
+        },
+        {
+            "id": "Nicolas G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 8
+        },
+        {
+            "id": "Julien N",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 4
+        },
+        {
+            "id": "Yogesh B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 4
+        },
+        {
+            "id": "Eva H",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 2
+        },
+        {
+            "id": "Hugo J",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Hugo L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "James B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Theo V",
+                "Alban D"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Hugo R",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "G\u00e9rard B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 3
+        },
+        {
+            "id": "Mathis S",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Vincent C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Victor L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        }
+    ],
+    "links": []
+}
