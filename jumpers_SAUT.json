@@ -177,14 +177,14 @@
                 "Nico",
                 "Ju",
                 "Noah S",
+                "Ramesh A",
                 "Enio L",
                 "Simon",
                 "Theo V",
                 "Axel M",
-                "Salom\u00e9 C",
-                "Ramesh A"
+                "Salom\u00e9 C"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Christophe L",
@@ -333,20 +333,20 @@
                 "Fabio B",
                 "Christophe L",
                 "Enio L",
-                "Caroline C",
                 "Kylian G",
+                "Caroline C",
                 "Simon",
                 "Theo V",
                 "Axel M",
                 "Salom\u00e9 C"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Tom B",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 26,
+            "number_friends": 27,
             "friends": [
                 "Noah S",
                 "Olivier G",
@@ -373,9 +373,10 @@
                 "Simon",
                 "Theo V",
                 "Axel M",
-                "Salom\u00e9 C"
+                "Salom\u00e9 C",
+                "Kylian G"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Noah S",
@@ -448,7 +449,7 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 37,
+            "number_friends": 38,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -461,6 +462,7 @@
                 "Marion L",
                 "Thomas R",
                 "Ju",
+                "6F",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -485,8 +487,8 @@
                 "Laurent G",
                 "Christophe L",
                 "Salom\u00e9 C",
-                "6F",
-                "Jean-denis D"
+                "Jean-denis D",
+                "Cassandra G"
             ],
             "number_jumps": 3
         },
@@ -1064,6 +1066,7 @@
                 "Hugo M",
                 "James B",
                 "Nico",
+                "Fafa",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -1087,10 +1090,9 @@
                 "Noah S",
                 "Laurent G",
                 "Christophe L",
-                "Salom\u00e9 C",
-                "Fafa"
+                "Salom\u00e9 C"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Eric B",
@@ -1217,11 +1219,11 @@
             "id": "Nico",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Matthieu P",
-                "Marion L",
                 "Axel M",
+                "Marion L",
                 "Lionel D",
                 "Anabelle V",
                 "Dylan D",
@@ -1245,6 +1247,7 @@
                 "Tibal",
                 "Theo V",
                 "Thomas R",
+                "6F",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -1256,8 +1259,8 @@
                 "Benjamin B",
                 "Anais Y",
                 "Teo G",
-                "6F",
-                "Jean-denis D"
+                "Jean-denis D",
+                "Cassandra G"
             ],
             "number_jumps": 6
         },
@@ -1938,11 +1941,12 @@
             "id": "Kylian G",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Olivier G"
+                "Olivier G",
+                "Tom B"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Pascal R",
@@ -1965,11 +1969,11 @@
                 "Christopher W",
                 "Stephane P",
                 "Timothee T",
+                "Laurent G",
                 "Pascal R",
-                "Fabio B",
-                "Laurent G"
+                "Fabio B"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Gontran A",
@@ -2063,12 +2067,32 @@
                 "Gabriel C",
                 "Benjamin E",
                 "Tristan C",
+                "Theo V",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
                 "Marie noel C",
-                "Nathan M",
-                "Theo V"
+                "Nathan M"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Tony F",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nicolas L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nicolas L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Tony F"
             ],
             "number_jumps": 1
         }
@@ -2251,7 +2275,7 @@
         {
             "source": "Tom B",
             "target": "Olivier G",
-            "width": 2.08113883008419,
+            "width": 2.1583123951777,
             "color": "blue"
         },
         {
@@ -3709,7 +3733,7 @@
         {
             "source": "Kylian G",
             "target": "Olivier G",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -4177,12 +4201,24 @@
         {
             "source": "Fafa",
             "target": "Theo V",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Ramesh A",
             "target": "Laurent G",
+            "width": 1.2071067811865475,
+            "color": "blue"
+        },
+        {
+            "source": "Tom B",
+            "target": "Kylian G",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Tony F",
+            "target": "Nicolas L",
             "width": 1.0,
             "color": "blue"
         }

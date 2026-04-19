@@ -135,7 +135,7 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 37,
+            "number_friends": 38,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -148,6 +148,7 @@
                 "Marion L",
                 "Thomas R",
                 "Ju",
+                "6F",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -172,10 +173,10 @@
                 "Laurent G",
                 "Christophe L",
                 "Salom\u00e9 C",
-                "6F",
-                "Jean-denis D"
+                "Jean-denis D",
+                "Cassandra G"
             ],
-            "number_jumps": 22
+            "number_jumps": 23
         },
         {
             "id": "Anabelle V",
@@ -192,11 +193,11 @@
             "id": "Nico",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Matthieu P",
-                "Marion L",
                 "Axel M",
+                "Marion L",
                 "Lionel D",
                 "Anabelle V",
                 "Dylan D",
@@ -220,6 +221,7 @@
                 "Tibal",
                 "Theo V",
                 "Thomas R",
+                "6F",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -231,10 +233,10 @@
                 "Benjamin B",
                 "Anais Y",
                 "Teo G",
-                "6F",
-                "Jean-denis D"
+                "Jean-denis D",
+                "Cassandra G"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Maelys P",
@@ -300,6 +302,7 @@
                 "Hugo M",
                 "James B",
                 "Nico",
+                "Fafa",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -323,8 +326,7 @@
                 "Noah S",
                 "Laurent G",
                 "Christophe L",
-                "Salom\u00e9 C",
-                "Fafa"
+                "Salom\u00e9 C"
             ],
             "number_jumps": 16
         },
@@ -538,12 +540,12 @@
                 "Gabriel C",
                 "Benjamin E",
                 "Tristan C",
+                "Theo V",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
                 "Marie noel C",
-                "Nathan M",
-                "Theo V"
+                "Nathan M"
             ],
             "number_jumps": 3
         },
@@ -918,16 +920,29 @@
             "id": "6F",
             "color": "gray",
             "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Nico",
+                "Axel M",
+                "Jean-denis D",
+                "Cassandra G"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Jean-denis D",
+            "color": "gray",
+            "shape": "rectangle",
             "number_friends": 3,
             "friends": [
-                "Jean-denis D",
+                "6F",
                 "Nico",
                 "Axel M"
             ],
             "number_jumps": 1
         },
         {
-            "id": "Jean-denis D",
+            "id": "Cassandra G",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 3,
@@ -1261,7 +1276,7 @@
         {
             "source": "Axel M",
             "target": "Nico",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "purple"
         },
         {
@@ -1825,13 +1840,13 @@
         {
             "source": "6F",
             "target": "Nico",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "purple"
         },
         {
             "source": "6F",
             "target": "Axel M",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "purple"
         },
         {
@@ -1842,6 +1857,24 @@
         },
         {
             "source": "Jean-denis D",
+            "target": "Axel M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "6F",
+            "target": "Cassandra G",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Cassandra G",
+            "target": "Nico",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Cassandra G",
             "target": "Axel M",
             "width": 1.0,
             "color": "purple"
