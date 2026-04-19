@@ -165,6 +165,7 @@
                 "Anael N",
                 "Olivier G",
                 "Tom B",
+                "Ramesh A",
                 "Philippe M",
                 "Maris M",
                 "Juliette A",
@@ -177,14 +178,13 @@
                 "Nico",
                 "Ju",
                 "Noah S",
-                "Ramesh A",
                 "Enio L",
                 "Simon",
                 "Theo V",
                 "Axel M",
                 "Salom\u00e9 C"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Christophe L",
@@ -340,7 +340,7 @@
                 "Axel M",
                 "Salom\u00e9 C"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Tom B",
@@ -376,7 +376,7 @@
                 "Salom\u00e9 C",
                 "Kylian G"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Noah S",
@@ -1053,7 +1053,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 39,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -1090,7 +1090,10 @@
                 "Noah S",
                 "Laurent G",
                 "Christophe L",
-                "Salom\u00e9 C"
+                "Salom\u00e9 C",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
             ],
             "number_jumps": 5
         },
@@ -1721,7 +1724,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 28,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -1747,7 +1750,10 @@
                 "Lucas C",
                 "Philippe C",
                 "Thibaud L",
-                "Dany J"
+                "Dany J",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
             ],
             "number_jumps": 1
         },
@@ -1968,12 +1974,12 @@
             "friends": [
                 "Christopher W",
                 "Stephane P",
-                "Timothee T",
                 "Laurent G",
+                "Timothee T",
                 "Pascal R",
                 "Fabio B"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Gontran A",
@@ -2084,7 +2090,7 @@
             "friends": [
                 "Nicolas L"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Nicolas L",
@@ -2094,7 +2100,7 @@
             "friends": [
                 "Tony F"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -2275,7 +2281,7 @@
         {
             "source": "Tom B",
             "target": "Olivier G",
-            "width": 2.1583123951777,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -4207,7 +4213,7 @@
         {
             "source": "Ramesh A",
             "target": "Laurent G",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
@@ -4219,7 +4225,7 @@
         {
             "source": "Tony F",
             "target": "Nicolas L",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         }
     ]

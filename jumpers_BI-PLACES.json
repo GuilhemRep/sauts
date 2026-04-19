@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 28,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -41,20 +41,23 @@
                 "Lucas C",
                 "Philippe C",
                 "Thibaud L",
-                "Dany J"
+                "Dany J",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Marion L",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 30,
+            "number_friends": 33,
             "friends": [
                 "Tibal",
                 "Simon",
-                "Nico",
                 "Theo V",
+                "Nico",
                 "Thomas R",
                 "Ophelie D",
                 "Anabelle V",
@@ -80,9 +83,12 @@
                 "Nathalie B",
                 "Gwen",
                 "Katia V",
-                "Ju"
+                "Ju",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Lorys T",
@@ -289,7 +295,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 39,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -326,9 +332,12 @@
                 "Noah S",
                 "Laurent G",
                 "Christophe L",
-                "Salom\u00e9 C"
+                "Salom\u00e9 C",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Thomas M",
@@ -952,6 +961,48 @@
                 "Axel M"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Maxime L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Tibal",
+                "BI-Places vdo",
+                "Sandra O",
+                "Theo V",
+                "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "BI-Places vdo",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Maxime L",
+                "Tibal",
+                "Sandra O",
+                "Theo V",
+                "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Sandra O",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Maxime L",
+                "Tibal",
+                "BI-Places vdo",
+                "Theo V",
+                "Marion L"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -970,7 +1021,7 @@
         {
             "source": "Marion L",
             "target": "Tibal",
-            "width": 1.8228756555322954,
+            "width": 1.9142135623730951,
             "color": "purple"
         },
         {
@@ -1210,7 +1261,7 @@
         {
             "source": "Tibal",
             "target": "Theo V",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "purple"
         },
         {
@@ -1234,7 +1285,7 @@
         {
             "source": "Marion L",
             "target": "Theo V",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "purple"
         },
         {
@@ -1876,6 +1927,78 @@
         {
             "source": "Cassandra G",
             "target": "Axel M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime L",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Maxime L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime L",
+            "target": "Sandra O",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime L",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime L",
+            "target": "Marion L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Sandra O",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Sandra O",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Marion L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Sandra O",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Marion L",
+            "target": "Sandra O",
             "width": 1.0,
             "color": "purple"
         }

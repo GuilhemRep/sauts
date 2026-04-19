@@ -165,6 +165,7 @@
                 "Anael N",
                 "Olivier G",
                 "Tom B",
+                "Ramesh A",
                 "Philippe M",
                 "Maris M",
                 "Juliette A",
@@ -177,14 +178,13 @@
                 "Nico",
                 "Ju",
                 "Noah S",
-                "Ramesh A",
                 "Enio L",
                 "Simon",
                 "Theo V",
                 "Axel M",
                 "Salom\u00e9 C"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Christophe L",
@@ -348,7 +348,7 @@
                 "Axel M",
                 "Salom\u00e9 C"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Tom B",
@@ -384,7 +384,7 @@
                 "Salom\u00e9 C",
                 "Kylian G"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Noah S",
@@ -629,7 +629,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 28,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -655,20 +655,23 @@
                 "Lucas C",
                 "Philippe C",
                 "Thibaud L",
-                "Dany J"
+                "Dany J",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Marion L",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 30,
+            "number_friends": 33,
             "friends": [
                 "Tibal",
                 "Simon",
-                "Nico",
                 "Theo V",
+                "Nico",
                 "Thomas R",
                 "Ophelie D",
                 "Anabelle V",
@@ -694,9 +697,12 @@
                 "Nathalie B",
                 "Gwen",
                 "Katia V",
-                "Ju"
+                "Ju",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Nico",
@@ -1112,7 +1118,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 39,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -1149,9 +1155,12 @@
                 "Noah S",
                 "Laurent G",
                 "Christophe L",
-                "Salom\u00e9 C"
+                "Salom\u00e9 C",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
             ],
-            "number_jumps": 29
+            "number_jumps": 30
         },
         {
             "id": "Yogesh B",
@@ -2613,12 +2622,12 @@
             "friends": [
                 "Christopher W",
                 "Stephane P",
-                "Timothee T",
                 "Laurent G",
+                "Timothee T",
                 "Pascal R",
                 "Fabio B"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Gontran A",
@@ -2961,7 +2970,7 @@
             "friends": [
                 "Nicolas L"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Nicolas L",
@@ -2970,6 +2979,48 @@
             "number_friends": 1,
             "friends": [
                 "Tony F"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Maxime L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Tibal",
+                "BI-Places vdo",
+                "Sandra O",
+                "Theo V",
+                "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "BI-Places vdo",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Maxime L",
+                "Tibal",
+                "Sandra O",
+                "Theo V",
+                "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Sandra O",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Maxime L",
+                "Tibal",
+                "BI-Places vdo",
+                "Theo V",
+                "Marion L"
             ],
             "number_jumps": 1
         }
@@ -3152,7 +3203,7 @@
         {
             "source": "Tom B",
             "target": "Olivier G",
-            "width": 2.1583123951777,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -3194,7 +3245,7 @@
         {
             "source": "Marion L",
             "target": "Tibal",
-            "width": 1.8228756555322954,
+            "width": 1.9142135623730951,
             "color": "purple"
         },
         {
@@ -4466,7 +4517,7 @@
         {
             "source": "Tibal",
             "target": "Theo V",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "purple"
         },
         {
@@ -4490,7 +4541,7 @@
         {
             "source": "Marion L",
             "target": "Theo V",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "purple"
         },
         {
@@ -6080,7 +6131,7 @@
         {
             "source": "Ramesh A",
             "target": "Laurent G",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
@@ -6110,8 +6161,80 @@
         {
             "source": "Tony F",
             "target": "Nicolas L",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
+        },
+        {
+            "source": "Maxime L",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Maxime L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime L",
+            "target": "Sandra O",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime L",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Maxime L",
+            "target": "Marion L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Sandra O",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Sandra O",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "BI-Places vdo",
+            "target": "Marion L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Sandra O",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Marion L",
+            "target": "Sandra O",
+            "width": 1.0,
+            "color": "purple"
         }
     ]
 }
