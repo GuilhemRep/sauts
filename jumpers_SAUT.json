@@ -731,14 +731,14 @@
             "shape": "rectangle",
             "number_friends": 3,
             "friends": [
-                "#5",
+                "Vincent F",
                 "Louis G",
                 "Theo P"
             ],
             "number_jumps": 8
         },
         {
-            "id": "#5",
+            "id": "Vincent F",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 3,
@@ -1282,7 +1282,7 @@
             "number_friends": 5,
             "friends": [
                 "Thomas G",
-                "#5",
+                "Vincent F",
                 "Theo P",
                 "Tom B",
                 "Noah S"
@@ -1297,7 +1297,7 @@
             "friends": [
                 "Thomas G",
                 "Louis G",
-                "#5"
+                "Vincent F"
             ],
             "number_jumps": 2
         },
@@ -2373,7 +2373,7 @@
             "color": "blue"
         },
         {
-            "source": "#5",
+            "source": "Vincent F",
             "target": "Thomas G",
             "width": 1.9142135623730951,
             "color": "blue"
@@ -3183,7 +3183,7 @@
             "color": "blue"
         },
         {
-            "source": "#5",
+            "source": "Vincent F",
             "target": "Louis G",
             "width": 1.2071067811865475,
             "color": "blue"
@@ -3195,7 +3195,7 @@
             "color": "blue"
         },
         {
-            "source": "#5",
+            "source": "Vincent F",
             "target": "Theo P",
             "width": 1.2071067811865475,
             "color": "blue"
