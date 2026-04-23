@@ -161,7 +161,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 28,
+            "number_friends": 30,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -190,9 +190,11 @@
                 "Laurent G",
                 "Christophe L",
                 "Salom\u00e9 C",
-                "Hanna U"
+                "Hanna U",
+                "B2",
+                "Mike F"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Morgan S",
@@ -200,11 +202,11 @@
             "shape": "rectangle",
             "number_friends": 3,
             "friends": [
+                "Tibal",
                 "Benjamin B",
-                "Gwen",
-                "Tibal"
+                "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Gwen",
@@ -214,11 +216,11 @@
             "friends": [
                 "Clement J",
                 "Nicolas G",
+                "Thierry T",
                 "Morgan S",
                 "Nathalie B",
                 "Marion L",
                 "L\u00e9a P",
-                "Thierry T",
                 "Alexis T"
             ],
             "number_jumps": 3
@@ -259,6 +261,7 @@
                 "Pavel E",
                 "Juliette M",
                 "Nico",
+                "Morgan S",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -276,8 +279,29 @@
                 "Dany J",
                 "Maxime L",
                 "BI-Places vdo",
-                "Sandra O",
-                "Morgan S"
+                "Sandra O"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "B2",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Mike F",
+                "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Mike F",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "B2",
+                "Simon"
             ],
             "number_jumps": 1
         }
@@ -322,6 +346,24 @@
         {
             "source": "Morgan S",
             "target": "Tibal",
+            "width": 1.2071067811865475,
+            "color": "green"
+        },
+        {
+            "source": "B2",
+            "target": "Mike F",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "B2",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "Mike F",
+            "target": "Simon",
             "width": 1.0,
             "color": "green"
         }
