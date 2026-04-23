@@ -198,18 +198,19 @@
             "id": "Morgan S",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
                 "Benjamin B",
-                "Gwen"
+                "Gwen",
+                "Tibal"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 8,
             "friends": [
                 "Clement J",
                 "Nicolas G",
@@ -217,7 +218,8 @@
                 "Nathalie B",
                 "Marion L",
                 "L\u00e9a P",
-                "Thierry T"
+                "Thierry T",
+                "Alexis T"
             ],
             "number_jumps": 3
         },
@@ -240,6 +242,44 @@
                 "Ade"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Tibal",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 29,
+            "friends": [
+                "Marion L",
+                "Thomas R",
+                "Axel M",
+                "Theo V",
+                "Ophelie D",
+                "Maelys P",
+                "Cameron M",
+                "Pavel E",
+                "Juliette M",
+                "Nico",
+                "Mathilde C",
+                "Emma C",
+                "Robin P",
+                "Thomas M",
+                "Raphael R",
+                "Solene L",
+                "Ryan M",
+                "Tom B",
+                "Vincent L",
+                "Melanie M",
+                "Anna P",
+                "Lucas C",
+                "Philippe C",
+                "Thibaud L",
+                "Dany J",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O",
+                "Morgan S"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -277,6 +317,12 @@
             "source": "Gwen",
             "target": "Clement J",
             "width": 1.2071067811865475,
+            "color": "green"
+        },
+        {
+            "source": "Morgan S",
+            "target": "Tibal",
+            "width": 1.0,
             "color": "green"
         }
     ]

@@ -215,13 +215,13 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 8,
             "friends": [
                 "Clement J",
                 "Nicolas G",
@@ -229,7 +229,8 @@
                 "Nathalie B",
                 "Marion L",
                 "L\u00e9a P",
-                "Thierry T"
+                "Thierry T",
+                "Alexis T"
             ],
             "number_jumps": 1
         }
