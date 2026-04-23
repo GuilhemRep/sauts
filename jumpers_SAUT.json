@@ -848,15 +848,16 @@
             "id": "Jerem Gringos",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 6,
             "friends": [
                 "Fabio B",
                 "Swann E",
                 "Caroline C",
                 "Benjamin B",
-                "Juliette A"
+                "Juliette A",
+                "Cyrill P"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Clement J",
@@ -1367,7 +1368,7 @@
                 "Benjamin B",
                 "Nico"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Yves G",
@@ -1588,13 +1589,14 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 6,
             "friends": [
                 "Clement J",
                 "Nicolas G",
                 "Morgan S",
                 "Nathalie B",
-                "Marion L"
+                "Marion L",
+                "L\u00e9a P"
             ],
             "number_jumps": 1
         },
@@ -1939,7 +1941,7 @@
                 "Thibaud L",
                 "Dany J"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Kylian G",
@@ -2099,6 +2101,94 @@
                 "Tony F"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Pastou",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Cyrill P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Jerem Gringos"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Pauline C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Eliot B"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Eliot B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Pauline C"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Fran\u00e7ois F",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Marion L",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 33,
+            "friends": [
+                "Tibal",
+                "Simon",
+                "Theo V",
+                "Nico",
+                "Thomas R",
+                "Ophelie D",
+                "Anabelle V",
+                "Thomas M",
+                "Pavel E",
+                "Axel M",
+                "Mathilde C",
+                "Emma C",
+                "Robin P",
+                "Pierre G",
+                "Fafa",
+                "Raphael R",
+                "Solene L",
+                "Ryan M",
+                "Charly A",
+                "Aymeric T",
+                "Souka\u00efna B",
+                "Fanny S",
+                "Yann T",
+                "Lucas C",
+                "Philippe C",
+                "Johanna P",
+                "Nathalie B",
+                "Gwen",
+                "Katia V",
+                "Ju",
+                "Maxime L",
+                "BI-Places vdo",
+                "Sandra O"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -4224,6 +4314,18 @@
             "source": "Tony F",
             "target": "Nicolas L",
             "width": 1.2071067811865475,
+            "color": "blue"
+        },
+        {
+            "source": "Jerem Gringos",
+            "target": "Cyrill P",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Eliot B",
+            "target": "Pauline C",
+            "width": 1.0,
             "color": "blue"
         }
     ]

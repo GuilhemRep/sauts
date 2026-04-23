@@ -206,12 +206,43 @@
                 "Fafa"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "L\u00e9a P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gwen",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 6,
+            "friends": [
+                "Clement J",
+                "Nicolas G",
+                "Morgan S",
+                "Nathalie B",
+                "Marion L",
+                "L\u00e9a P"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
         {
             "source": "Yogesh B",
             "target": "Theo V",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Gwen",
+            "target": "L\u00e9a P",
             "width": 1.0,
             "color": "cyan"
         }
