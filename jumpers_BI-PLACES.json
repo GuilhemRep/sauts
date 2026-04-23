@@ -105,7 +105,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 27,
+            "number_friends": 28,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -133,9 +133,10 @@
                 "Noah S",
                 "Laurent G",
                 "Christophe L",
-                "Salom\u00e9 C"
+                "Salom\u00e9 C",
+                "Hanna U"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Axel M",
@@ -891,14 +892,15 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 6,
+            "number_friends": 7,
             "friends": [
                 "Clement J",
                 "Nicolas G",
                 "Morgan S",
                 "Nathalie B",
                 "Marion L",
-                "L\u00e9a P"
+                "L\u00e9a P",
+                "Thierry T"
             ],
             "number_jumps": 1
         },
@@ -985,6 +987,16 @@
                 "BI-Places vdo",
                 "Theo V",
                 "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Hanna U",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
             ],
             "number_jumps": 1
         }
@@ -1959,6 +1971,12 @@
         {
             "source": "Marion L",
             "target": "Sandra O",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Simon",
+            "target": "Hanna U",
             "width": 1.0,
             "color": "purple"
         }
