@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 31,
+            "number_friends": 32,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -47,9 +47,10 @@
                 "BI-Places vdo",
                 "Sandra O",
                 "Lucie S",
-                "Ellyn J"
+                "Ellyn J",
+                "Brandon B"
             ],
-            "number_jumps": 22
+            "number_jumps": 23
         },
         {
             "id": "Marion L",
@@ -1056,6 +1057,16 @@
         },
         {
             "id": "Ellyn J",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Brandon B",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -2070,6 +2081,12 @@
         },
         {
             "source": "Ellyn J",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Brandon B",
             "target": "Tibal",
             "width": 1.0,
             "color": "purple"
