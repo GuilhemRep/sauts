@@ -161,7 +161,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 31,
+            "number_friends": 32,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -193,9 +193,10 @@
                 "Hanna U",
                 "B2",
                 "Mike F",
-                "Ludmilla L"
+                "Ludmilla L",
+                "Thomas R"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Morgan S",
@@ -251,7 +252,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 31,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -282,7 +283,8 @@
                 "Maxime L",
                 "BI-Places vdo",
                 "Sandra O",
-                "Lucie S"
+                "Lucie S",
+                "Ellyn J"
             ],
             "number_jumps": 2
         },
@@ -369,6 +371,33 @@
                 "Yogesh B"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Thomas R",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 18,
+            "friends": [
+                "Tibal",
+                "Marion L",
+                "Theo V",
+                "Maelys P",
+                "Nico",
+                "Axel M",
+                "Mathilde C",
+                "Emma C",
+                "Robin P",
+                "Raphael R",
+                "Solene L",
+                "Ryan M",
+                "Lucas C",
+                "Philippe C",
+                "Thibaud L",
+                "Dany J",
+                "Stephane K",
+                "Simon"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -447,6 +476,12 @@
         {
             "source": "Yogesh B",
             "target": "Axel M",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "Thomas R",
+            "target": "Simon",
             "width": 1.0,
             "color": "green"
         }

@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 31,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -46,9 +46,10 @@
                 "Maxime L",
                 "BI-Places vdo",
                 "Sandra O",
-                "Lucie S"
+                "Lucie S",
+                "Ellyn J"
             ],
-            "number_jumps": 21
+            "number_jumps": 22
         },
         {
             "id": "Marion L",
@@ -107,7 +108,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 31,
+            "number_friends": 32,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -139,7 +140,8 @@
                 "Hanna U",
                 "B2",
                 "Mike F",
-                "Ludmilla L"
+                "Ludmilla L",
+                "Thomas R"
             ],
             "number_jumps": 17
         },
@@ -265,7 +267,7 @@
             "id": "Thomas R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 17,
+            "number_friends": 18,
             "friends": [
                 "Tibal",
                 "Marion L",
@@ -283,7 +285,8 @@
                 "Philippe C",
                 "Thibaud L",
                 "Dany J",
-                "Stephane K"
+                "Stephane K",
+                "Simon"
             ],
             "number_jumps": 7
         },
@@ -1048,6 +1051,16 @@
             "number_friends": 1,
             "friends": [
                 "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ellyn J",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Tibal"
             ],
             "number_jumps": 1
         }
@@ -2052,6 +2065,12 @@
         {
             "source": "Ludmilla L",
             "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ellyn J",
+            "target": "Tibal",
             "width": 1.0,
             "color": "purple"
         }

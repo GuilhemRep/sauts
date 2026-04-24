@@ -123,7 +123,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Patrice H",
@@ -255,6 +255,16 @@
                 "Marie noel C",
                 "Nathan M",
                 "Yanis M"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thierry T",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
             ],
             "number_jumps": 1
         }
