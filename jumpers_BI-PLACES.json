@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 31,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -44,7 +44,6 @@
                 "Thibaud L",
                 "Dany J",
                 "Maxime L",
-                "BI-Places vdo",
                 "Sandra O",
                 "Lucie S",
                 "Ellyn J",
@@ -56,7 +55,7 @@
             "id": "Marion L",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 34,
+            "number_friends": 33,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -89,7 +88,6 @@
                 "Katia V",
                 "Ju",
                 "Maxime L",
-                "BI-Places vdo",
                 "Sandra O",
                 "Marie B"
             ],
@@ -314,7 +312,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 40,
+            "number_friends": 39,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -353,7 +351,6 @@
                 "Christophe L",
                 "Salom\u00e9 C",
                 "Maxime L",
-                "BI-Places vdo",
                 "Sandra O",
                 "Margot B"
             ],
@@ -983,23 +980,8 @@
             "id": "Maxime L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 4,
             "friends": [
-                "Tibal",
-                "BI-Places vdo",
-                "Sandra O",
-                "Theo V",
-                "Marion L"
-            ],
-            "number_jumps": 1
-        },
-        {
-            "id": "BI-Places vdo",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 5,
-            "friends": [
-                "Maxime L",
                 "Tibal",
                 "Sandra O",
                 "Theo V",
@@ -1011,11 +993,10 @@
             "id": "Sandra O",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 4,
             "friends": [
                 "Maxime L",
                 "Tibal",
-                "BI-Places vdo",
                 "Theo V",
                 "Marion L"
             ],
@@ -2052,12 +2033,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places vdo",
-            "target": "Maxime L",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
             "source": "Maxime L",
             "target": "Sandra O",
             "width": 1.0,
@@ -2072,36 +2047,12 @@
         {
             "source": "Maxime L",
             "target": "Marion L",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo",
-            "target": "Tibal",
             "width": 1.0,
             "color": "purple"
         },
         {
             "source": "Sandra O",
             "target": "Tibal",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo",
-            "target": "Sandra O",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo",
-            "target": "Theo V",
-            "width": 1.0,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places vdo",
-            "target": "Marion L",
             "width": 1.0,
             "color": "purple"
         },
