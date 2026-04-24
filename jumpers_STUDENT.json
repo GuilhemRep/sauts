@@ -30,9 +30,11 @@
             "id": "Yogesh B",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 3,
             "friends": [
-                "Theo V"
+                "Theo V",
+                "B2",
+                "Axel M"
             ],
             "number_jumps": 6
         },
@@ -221,7 +223,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 8,
+            "number_friends": 9,
             "friends": [
                 "Clement J",
                 "Nicolas G",
@@ -230,7 +232,8 @@
                 "Nathalie B",
                 "Marion L",
                 "L\u00e9a P",
-                "Alexis T"
+                "Alexis T",
+                "Thomas L"
             ],
             "number_jumps": 1
         }

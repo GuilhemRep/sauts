@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 29,
+            "number_friends": 30,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -45,9 +45,10 @@
                 "Dany J",
                 "Maxime L",
                 "BI-Places vdo",
-                "Sandra O"
+                "Sandra O",
+                "Lucie S"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Marion L",
@@ -106,7 +107,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 31,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -137,15 +138,16 @@
                 "Salom\u00e9 C",
                 "Hanna U",
                 "B2",
-                "Mike F"
+                "Mike F",
+                "Ludmilla L"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 37,
+            "number_friends": 39,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -183,7 +185,9 @@
                 "Christophe L",
                 "Salom\u00e9 C",
                 "Jean-denis D",
-                "Cassandra G"
+                "Cassandra G",
+                "B2",
+                "Yogesh B"
             ],
             "number_jumps": 23
         },
@@ -896,7 +900,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 8,
+            "number_friends": 9,
             "friends": [
                 "Clement J",
                 "Nicolas G",
@@ -905,9 +909,10 @@
                 "Nathalie B",
                 "Marion L",
                 "L\u00e9a P",
-                "Alexis T"
+                "Alexis T",
+                "Thomas L"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Katia V",
@@ -1012,6 +1017,36 @@
             "number_friends": 1,
             "friends": [
                 "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Lucie S",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thomas L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ludmilla L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
             ],
             "number_jumps": 1
         }
@@ -1998,6 +2033,24 @@
         {
             "source": "Gwen",
             "target": "Alexis T",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Lucie S",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Gwen",
+            "target": "Thomas L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ludmilla L",
+            "target": "Simon",
             "width": 1.0,
             "color": "purple"
         }
