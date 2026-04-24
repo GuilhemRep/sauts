@@ -166,7 +166,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -202,9 +202,10 @@
                 "Thomas R",
                 "Marie B",
                 "Jonathan V",
-                "Ti Ben"
+                "Ti Ben",
+                "Louis G"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Morgan S",
@@ -213,11 +214,11 @@
             "number_friends": 4,
             "friends": [
                 "Tibal",
+                "Fafa",
                 "Benjamin B",
-                "Gwen",
-                "Fafa"
+                "Gwen"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Gwen",
@@ -457,6 +458,7 @@
                 "Benjamin E",
                 "Tristan C",
                 "Theo V",
+                "Morgan S",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
@@ -464,8 +466,26 @@
                 "Nathan M",
                 "Yanis M",
                 "Thibault P",
-                "Gwen",
-                "Morgan S"
+                "Gwen"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Louis G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 10,
+            "friends": [
+                "Salam\u00e8che",
+                "Thomas G",
+                "Vincent F",
+                "Theo P",
+                "Stephane K",
+                "Tom B",
+                "Noah S",
+                "Marine G",
+                "Laurent G",
+                "Simon"
             ],
             "number_jumps": 1
         }
@@ -564,6 +584,12 @@
         {
             "source": "Fafa",
             "target": "Morgan S",
+            "width": 1.2071067811865475,
+            "color": "green"
+        },
+        {
+            "source": "Louis G",
+            "target": "Simon",
             "width": 1.0,
             "color": "green"
         }

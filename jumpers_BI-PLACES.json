@@ -110,7 +110,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -146,7 +146,8 @@
                 "Thomas R",
                 "Marie B",
                 "Jonathan V",
-                "Ti Ben"
+                "Ti Ben",
+                "Louis G"
             ],
             "number_jumps": 19
         },
@@ -569,6 +570,7 @@
                 "Benjamin E",
                 "Tristan C",
                 "Theo V",
+                "Morgan S",
                 "Barbara M",
                 "Pierre G",
                 "Marion L",
@@ -576,8 +578,7 @@
                 "Nathan M",
                 "Yanis M",
                 "Thibault P",
-                "Gwen",
-                "Morgan S"
+                "Gwen"
             ],
             "number_jumps": 3
         },
@@ -1127,16 +1128,18 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 8,
+            "number_friends": 10,
             "friends": [
                 "Marine G",
-                "Salam\u00e8che",
                 "Stephane K",
-                "Pastou",
                 "Cyrill P",
+                "Salam\u00e8che",
+                "Pastou",
                 "Christophe C",
                 "Jonathan V",
-                "Simon"
+                "Simon",
+                "Riton",
+                "Margot B"
             ],
             "number_jumps": 1
         }
