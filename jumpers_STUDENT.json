@@ -32,9 +32,9 @@
             "shape": "rectangle",
             "number_friends": 3,
             "friends": [
-                "Theo V",
                 "B2",
-                "Axel M"
+                "Axel M",
+                "Theo V"
             ],
             "number_jumps": 6
         },
@@ -219,13 +219,13 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 11,
             "friends": [
                 "Thierry T",
                 "Clement J",
@@ -235,7 +235,9 @@
                 "Marion L",
                 "L\u00e9a P",
                 "Alexis T",
-                "Thomas L"
+                "Thomas L",
+                "Thibault P",
+                "Fafa"
             ],
             "number_jumps": 1
         },
@@ -243,7 +245,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 10,
+            "number_friends": 12,
             "friends": [
                 "Gabriel C",
                 "Benjamin E",
@@ -254,7 +256,9 @@
                 "Marion L",
                 "Marie noel C",
                 "Nathan M",
-                "Yanis M"
+                "Yanis M",
+                "Thibault P",
+                "Gwen"
             ],
             "number_jumps": 1
         },
@@ -266,6 +270,22 @@
             "friends": [
                 "Gwen"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Yohann D",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gauthier C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],

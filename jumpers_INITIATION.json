@@ -165,7 +165,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 33,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -198,7 +198,8 @@
                 "B2",
                 "Mike F",
                 "Ludmilla L",
-                "Thomas R"
+                "Thomas R",
+                "Marie B"
             ],
             "number_jumps": 3
         },
@@ -218,7 +219,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 11,
             "friends": [
                 "Thierry T",
                 "Clement J",
@@ -228,7 +229,9 @@
                 "Marion L",
                 "L\u00e9a P",
                 "Alexis T",
-                "Thomas L"
+                "Thomas L",
+                "Thibault P",
+                "Fafa"
             ],
             "number_jumps": 3
         },
@@ -299,12 +302,12 @@
             "shape": "rectangle",
             "number_friends": 4,
             "friends": [
-                "Mike F",
-                "Simon",
                 "Yogesh B",
-                "Axel M"
+                "Axel M",
+                "Mike F",
+                "Simon"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Mike F",
@@ -323,11 +326,11 @@
             "shape": "rectangle",
             "number_friends": 3,
             "friends": [
-                "Theo V",
                 "B2",
-                "Axel M"
+                "Axel M",
+                "Theo V"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Axel M",
@@ -346,6 +349,8 @@
                 "Marion L",
                 "Thomas R",
                 "Ju",
+                "B2",
+                "Yogesh B",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -371,11 +376,9 @@
                 "Christophe L",
                 "Salom\u00e9 C",
                 "Jean-denis D",
-                "Cassandra G",
-                "B2",
-                "Yogesh B"
+                "Cassandra G"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Thomas R",
@@ -469,19 +472,19 @@
         {
             "source": "B2",
             "target": "Yogesh B",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "green"
         },
         {
             "source": "B2",
             "target": "Axel M",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "green"
         },
         {
             "source": "Yogesh B",
             "target": "Axel M",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "green"
         },
         {

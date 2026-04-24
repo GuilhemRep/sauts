@@ -49,7 +49,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 33,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -82,7 +82,8 @@
                 "B2",
                 "Mike F",
                 "Ludmilla L",
-                "Thomas R"
+                "Thomas R",
+                "Marie B"
             ],
             "number_jumps": 4
         },
@@ -198,7 +199,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 10,
+            "number_friends": 12,
             "friends": [
                 "Gabriel C",
                 "Benjamin E",
@@ -209,9 +210,11 @@
                 "Marion L",
                 "Marie noel C",
                 "Nathan M",
-                "Yanis M"
+                "Yanis M",
+                "Thibault P",
+                "Gwen"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Nathan M",
@@ -247,7 +250,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 11,
             "friends": [
                 "Thierry T",
                 "Clement J",
@@ -257,9 +260,11 @@
                 "Marion L",
                 "L\u00e9a P",
                 "Alexis T",
-                "Thomas L"
+                "Thomas L",
+                "Thibault P",
+                "Fafa"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Benjamin E",
@@ -280,6 +285,17 @@
                 "Gwen"
             ],
             "number_jumps": 4
+        },
+        {
+            "id": "Thibault P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Gwen"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -359,6 +375,24 @@
             "source": "Gwen",
             "target": "Thierry T",
             "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Fafa",
+            "target": "Thibault P",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "Gwen",
+            "target": "Thibault P",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "Fafa",
+            "target": "Gwen",
+            "width": 1.0,
             "color": "orange"
         }
     ]
