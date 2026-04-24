@@ -110,7 +110,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 33,
+            "number_friends": 35,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -144,15 +144,17 @@
                 "Mike F",
                 "Ludmilla L",
                 "Thomas R",
-                "Marie B"
+                "Marie B",
+                "Jonathan V",
+                "Ti Ben"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 39,
+            "number_friends": 41,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -192,9 +194,11 @@
                 "Christophe L",
                 "Salom\u00e9 C",
                 "Jean-denis D",
-                "Cassandra G"
+                "Cassandra G",
+                "Jeremy A",
+                "Gwen"
             ],
-            "number_jumps": 23
+            "number_jumps": 24
         },
         {
             "id": "Anabelle V",
@@ -321,6 +325,7 @@
                 "Hugo M",
                 "James B",
                 "Nico",
+                "Noah S",
                 "Fafa",
                 "Mathilde C",
                 "Emma C",
@@ -342,7 +347,6 @@
                 "Tom B",
                 "Anael N",
                 "Simon",
-                "Noah S",
                 "Laurent G",
                 "Christophe L",
                 "Salom\u00e9 C",
@@ -909,7 +913,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 11,
+            "number_friends": 13,
             "friends": [
                 "Thierry T",
                 "Clement J",
@@ -921,9 +925,11 @@
                 "Alexis T",
                 "Thomas L",
                 "Thibault P",
-                "Fafa"
+                "Fafa",
+                "Jeremy A",
+                "Axel M"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Katia V",
@@ -1089,6 +1095,45 @@
             "friends": [
                 "Simon",
                 "Marion L"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jeremy A",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwen",
+                "Axel M"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jonathan V",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ti Ben",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 8,
+            "friends": [
+                "Marine G",
+                "Salam\u00e8che",
+                "Stephane K",
+                "Pastou",
+                "Cyrill P",
+                "Christophe C",
+                "Jonathan V",
+                "Simon"
             ],
             "number_jumps": 1
         }
@@ -2117,6 +2162,42 @@
         {
             "source": "Marie B",
             "target": "Marion L",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jeremy A",
+            "target": "Gwen",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Jeremy A",
+            "target": "Axel M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Gwen",
+            "target": "Axel M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Simon",
+            "target": "Jonathan V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Ti Ben",
+            "target": "Jonathan V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Simon",
+            "target": "Ti Ben",
             "width": 1.0,
             "color": "purple"
         }

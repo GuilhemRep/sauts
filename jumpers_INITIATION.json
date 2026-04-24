@@ -120,6 +120,7 @@
                 "Hugo M",
                 "James B",
                 "Nico",
+                "Noah S",
                 "Fafa",
                 "Mathilde C",
                 "Emma C",
@@ -141,7 +142,6 @@
                 "Tom B",
                 "Anael N",
                 "Simon",
-                "Noah S",
                 "Laurent G",
                 "Christophe L",
                 "Salom\u00e9 C",
@@ -149,7 +149,7 @@
                 "BI-Places vdo",
                 "Sandra O"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Yoram Y",
@@ -165,7 +165,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 33,
+            "number_friends": 35,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -199,7 +199,9 @@
                 "Mike F",
                 "Ludmilla L",
                 "Thomas R",
-                "Marie B"
+                "Marie B",
+                "Jonathan V",
+                "Ti Ben"
             ],
             "number_jumps": 3
         },
@@ -219,7 +221,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 11,
+            "number_friends": 13,
             "friends": [
                 "Thierry T",
                 "Clement J",
@@ -231,7 +233,9 @@
                 "Alexis T",
                 "Thomas L",
                 "Thibault P",
-                "Fafa"
+                "Fafa",
+                "Jeremy A",
+                "Axel M"
             ],
             "number_jumps": 3
         },
@@ -336,7 +340,7 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 39,
+            "number_friends": 41,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -376,7 +380,9 @@
                 "Christophe L",
                 "Salom\u00e9 C",
                 "Jean-denis D",
-                "Cassandra G"
+                "Cassandra G",
+                "Jeremy A",
+                "Gwen"
             ],
             "number_jumps": 2
         },
@@ -404,6 +410,37 @@
                 "Dany J",
                 "Stephane K",
                 "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Noah S",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 22,
+            "friends": [
+                "Tom B",
+                "Olivier G",
+                "Matthieu P",
+                "Rachel H",
+                "Jordan A",
+                "Anael N",
+                "Enio L",
+                "Philippe M",
+                "Christophe L",
+                "Renan N",
+                "Lionel D",
+                "Mickael G",
+                "Clement J",
+                "Hubert-Arnaud D",
+                "Laurent G",
+                "Theo V",
+                "Fabio B",
+                "Caroline C",
+                "Louis G",
+                "Simon",
+                "Axel M",
+                "Salom\u00e9 C"
             ],
             "number_jumps": 1
         }
@@ -490,6 +527,12 @@
         {
             "source": "Thomas R",
             "target": "Simon",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "Noah S",
+            "target": "Theo V",
             "width": 1.0,
             "color": "green"
         }

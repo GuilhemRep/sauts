@@ -123,7 +123,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Patrice H",
@@ -160,6 +160,7 @@
                 "Hugo M",
                 "James B",
                 "Nico",
+                "Noah S",
                 "Fafa",
                 "Mathilde C",
                 "Emma C",
@@ -181,7 +182,6 @@
                 "Tom B",
                 "Anael N",
                 "Simon",
-                "Noah S",
                 "Laurent G",
                 "Christophe L",
                 "Salom\u00e9 C",
@@ -205,11 +205,12 @@
             "id": "Gabriel C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Fafa"
+                "Fafa",
+                "Christophe C"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "L\u00e9a P",
@@ -225,7 +226,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 11,
+            "number_friends": 13,
             "friends": [
                 "Thierry T",
                 "Clement J",
@@ -237,7 +238,9 @@
                 "Alexis T",
                 "Thomas L",
                 "Thibault P",
-                "Fafa"
+                "Fafa",
+                "Jeremy A",
+                "Axel M"
             ],
             "number_jumps": 1
         },
@@ -287,6 +290,18 @@
             "number_friends": 0,
             "friends": [],
             "number_jumps": 1
+        },
+        {
+            "id": "Christophe C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Cyrill P",
+                "Ti Ben",
+                "Gabriel C"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -307,6 +322,12 @@
             "target": "Yanis M",
             "width": 1.0,
             "color": "cyan"
+        },
+        {
+            "source": "Christophe C",
+            "target": "Gabriel C",
+            "width": 1.0,
+            "color": "red"
         }
     ]
 }
