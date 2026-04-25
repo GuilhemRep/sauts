@@ -189,8 +189,8 @@
                 "Simon",
                 "Theo V",
                 "Tibal",
-                "Nico",
                 "B2",
+                "Nico",
                 "Ambre A",
                 "Lorys T",
                 "Quentin B",
@@ -983,7 +983,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 24,
             "friends": [
                 "Clement J",
                 "Thierry T",
@@ -1006,9 +1006,11 @@
                 "Richard S",
                 "Theo V",
                 "Guillaume S",
-                "Audrey M"
+                "Audrey M",
+                "L\u00e9a M",
+                "Ti Ben"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Katia V",
@@ -1187,7 +1189,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 16,
+            "number_friends": 18,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -1204,9 +1206,11 @@
                 "Tristan B",
                 "Theo V",
                 "B2",
-                "Yogesh B"
+                "Yogesh B",
+                "L\u00e9a M",
+                "Gwen"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Julien M",
@@ -1452,6 +1456,17 @@
             "number_friends": 1,
             "friends": [
                 "Fafa"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "L\u00e9a M",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwen",
+                "Ti Ben"
             ],
             "number_jumps": 1
         }
@@ -2942,6 +2957,24 @@
         {
             "source": "Fafa",
             "target": "Fabrice P",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Gwen",
+            "target": "L\u00e9a M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "L\u00e9a M",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Gwen",
+            "target": "Ti Ben",
             "width": 1.0,
             "color": "purple"
         }

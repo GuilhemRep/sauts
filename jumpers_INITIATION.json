@@ -256,7 +256,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 24,
             "friends": [
                 "Clement J",
                 "Thierry T",
@@ -279,7 +279,9 @@
                 "Richard S",
                 "Theo V",
                 "Guillaume S",
-                "Audrey M"
+                "Audrey M",
+                "L\u00e9a M",
+                "Ti Ben"
             ],
             "number_jumps": 4
         },
@@ -364,13 +366,13 @@
             "number_friends": 6,
             "friends": [
                 "Axel M",
-                "Yogesh B",
                 "Ambre A",
+                "Yogesh B",
                 "Mike F",
                 "Simon",
                 "Ti Ben"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Mike F",
@@ -405,8 +407,8 @@
                 "Simon",
                 "Theo V",
                 "Tibal",
-                "Nico",
                 "B2",
+                "Nico",
                 "Ambre A",
                 "Lorys T",
                 "Quentin B",
@@ -454,7 +456,7 @@
                 "S\u00e9l\u00e9na R",
                 "Celine P"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Thomas R",
@@ -579,13 +581,13 @@
                 "B2",
                 "Axel M"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 16,
+            "number_friends": 18,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -602,7 +604,9 @@
                 "Tristan B",
                 "Theo V",
                 "B2",
-                "Yogesh B"
+                "Yogesh B",
+                "L\u00e9a M",
+                "Gwen"
             ],
             "number_jumps": 1
         },
@@ -703,7 +707,7 @@
         {
             "source": "B2",
             "target": "Axel M",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "green"
         },
         {
@@ -739,13 +743,13 @@
         {
             "source": "Ambre A",
             "target": "B2",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "green"
         },
         {
             "source": "Ambre A",
             "target": "Axel M",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "green"
         },
         {

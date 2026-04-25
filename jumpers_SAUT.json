@@ -469,7 +469,7 @@
             "friends": [
                 "Thomas M"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Thomas M",
@@ -479,7 +479,7 @@
             "friends": [
                 "Romain L"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Christopher W",
@@ -507,8 +507,8 @@
                 "Simon",
                 "Theo V",
                 "Tibal",
-                "Nico",
                 "B2",
+                "Nico",
                 "Ambre A",
                 "Lorys T",
                 "Quentin B",
@@ -1731,7 +1731,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 24,
             "friends": [
                 "Clement J",
                 "Thierry T",
@@ -1754,7 +1754,9 @@
                 "Richard S",
                 "Theo V",
                 "Guillaume S",
-                "Audrey M"
+                "Audrey M",
+                "L\u00e9a M",
+                "Ti Ben"
             ],
             "number_jumps": 1
         },
@@ -2056,12 +2058,12 @@
             "shape": "rectangle",
             "number_friends": 4,
             "friends": [
+                "Gerald F",
                 "Salam\u00e8che",
                 "Mathew F",
-                "Bryan F",
-                "Gerald F"
+                "Bryan F"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Gerald F",
@@ -2069,12 +2071,12 @@
             "shape": "rectangle",
             "number_friends": 4,
             "friends": [
+                "Christelle F",
                 "Salam\u00e8che",
                 "Mathew F",
-                "Bryan F",
-                "Christelle F"
+                "Bryan F"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Julia M",
@@ -2557,7 +2559,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 16,
+            "number_friends": 18,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -2574,7 +2576,9 @@
                 "Tristan B",
                 "Theo V",
                 "B2",
-                "Yogesh B"
+                "Yogesh B",
+                "L\u00e9a M",
+                "Gwen"
             ],
             "number_jumps": 3
         },
@@ -2663,7 +2667,7 @@
                 "Guilhem SkyBrothers",
                 "Jeremie A"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Guilhem SkyBrothers",
@@ -2674,7 +2678,7 @@
                 "Alex SkyBrothers",
                 "Jeremie A"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Pascal M",
@@ -2808,7 +2812,7 @@
                 "Fabio B",
                 "Stephane K"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Ana\u00ebl N",
@@ -2871,6 +2875,14 @@
             "friends": [
                 "Marie M"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Marie C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
@@ -3124,7 +3136,7 @@
         {
             "source": "Romain L",
             "target": "Thomas M",
-            "width": 2.3708286933869704,
+            "width": 2.4364916731037085,
             "color": "blue"
         },
         {
@@ -4498,7 +4510,7 @@
         {
             "source": "Christelle F",
             "target": "Gerald F",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -5416,7 +5428,7 @@
         {
             "source": "Alex SkyBrothers",
             "target": "Guilhem SkyBrothers",
-            "width": 1.724744871391589,
+            "width": 1.8228756555322954,
             "color": "blue"
         },
         {
@@ -5650,13 +5662,13 @@
         {
             "source": "Jeremie A",
             "target": "Alex SkyBrothers",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "blue"
         },
         {
             "source": "Jeremie A",
             "target": "Guilhem SkyBrothers",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "blue"
         },
         {

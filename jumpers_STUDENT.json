@@ -37,7 +37,7 @@
                 "Theo V",
                 "Ti Ben"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Eva H",
@@ -246,7 +246,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 24,
             "friends": [
                 "Clement J",
                 "Thierry T",
@@ -269,7 +269,9 @@
                 "Richard S",
                 "Theo V",
                 "Guillaume S",
-                "Audrey M"
+                "Audrey M",
+                "L\u00e9a M",
+                "Ti Ben"
             ],
             "number_jumps": 1
         },
@@ -451,6 +453,16 @@
             "number_friends": 0,
             "friends": [],
             "number_jumps": 2
+        },
+        {
+            "id": "Nicolas G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
