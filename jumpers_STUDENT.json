@@ -346,9 +346,11 @@
             "id": "Victor V",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 1
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 2
         },
         {
             "id": "Franck C",
@@ -374,7 +376,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 47,
+            "number_friends": 48,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -422,9 +424,10 @@
                 "Guillaume S",
                 "Fafa",
                 "Aymeric T",
-                "Bryan J"
+                "Bryan J",
+                "Victor V"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -455,6 +458,12 @@
         {
             "source": "Simon",
             "target": "Aymeric T",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Simon",
+            "target": "Victor V",
             "width": 1.0,
             "color": "cyan"
         }
