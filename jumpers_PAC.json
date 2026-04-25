@@ -49,7 +49,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 48,
+            "number_friends": 49,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -98,7 +98,8 @@
                 "Fafa",
                 "Aymeric T",
                 "Bryan J",
-                "Victor V"
+                "Victor V",
+                "S\u00e9l\u00e9na R"
             ],
             "number_jumps": 4
         },
@@ -156,7 +157,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 49,
+            "number_friends": 51,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -206,7 +207,9 @@
                 "Christian S",
                 "Gwen",
                 "Richard S",
-                "Guillaume S"
+                "Guillaume S",
+                "Tristan B",
+                "Ti Ben"
             ],
             "number_jumps": 3
         },
@@ -225,7 +228,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 24,
             "friends": [
                 "Gabriel C",
                 "Benjamin E",
@@ -249,7 +252,8 @@
                 "Christian S",
                 "Richard S",
                 "Guillaume S",
-                "Anthony C"
+                "Anthony C",
+                "Julien C"
             ],
             "number_jumps": 10
         },
