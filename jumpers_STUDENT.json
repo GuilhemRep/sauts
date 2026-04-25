@@ -104,9 +104,11 @@
             "id": "Vincent C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 4
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 5
         },
         {
             "id": "Victor L",
@@ -148,7 +150,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 53,
+            "number_friends": 54,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -202,9 +204,10 @@
                 "Tristan B",
                 "Ti Ben",
                 "Florian N",
-                "J\u00e9r\u00e9my F"
+                "J\u00e9r\u00e9my F",
+                "Vincent C"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Tristan C",
@@ -241,7 +244,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 22,
             "friends": [
                 "Thierry T",
                 "Clement J",
@@ -263,7 +266,8 @@
                 "Christian S",
                 "Richard S",
                 "Theo V",
-                "Guillaume S"
+                "Guillaume S",
+                "Audrey M"
             ],
             "number_jumps": 1
         },
@@ -479,6 +483,12 @@
         {
             "source": "Simon",
             "target": "Victor V",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Vincent C",
+            "target": "Theo V",
             "width": 1.0,
             "color": "cyan"
         }
