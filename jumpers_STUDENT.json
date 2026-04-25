@@ -147,7 +147,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 42,
+            "number_friends": 43,
             "friends": [
                 "Axel M",
                 "Fabien L",
@@ -190,7 +190,8 @@
                 "Sandra O",
                 "Stephane K",
                 "Cyrill P",
-                "Riton"
+                "Riton",
+                "Quentin B"
             ],
             "number_jumps": 1
         },
@@ -306,6 +307,14 @@
                 "Ti Ben",
                 "Gabriel C"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Aymeric T",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
