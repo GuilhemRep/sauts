@@ -240,7 +240,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Gwen",
@@ -279,7 +279,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 26,
             "friends": [
                 "Gabriel C",
                 "Benjamin E",
@@ -305,9 +305,10 @@
                 "Guillaume S",
                 "Anthony C",
                 "Julien C",
-                "Fabrice P"
+                "Fabrice P",
+                "Yohann D"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Thierry T",
@@ -323,9 +324,11 @@
             "id": "Yohann D",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 5
+            "number_friends": 1,
+            "friends": [
+                "Fafa"
+            ],
+            "number_jumps": 6
         },
         {
             "id": "Gauthier C",
@@ -505,6 +508,12 @@
         {
             "source": "Vincent C",
             "target": "Theo V",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Yohann D",
+            "target": "Fafa",
             "width": 1.0,
             "color": "cyan"
         }
