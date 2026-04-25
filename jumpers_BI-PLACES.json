@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 40,
+            "number_friends": 41,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -56,15 +56,16 @@
                 "Gwen",
                 "Richard S",
                 "Guillaume S",
-                "Fafa"
+                "Fafa",
+                "Adrian L"
             ],
-            "number_jumps": 25
+            "number_jumps": 26
         },
         {
             "id": "Marion L",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -100,9 +101,10 @@
                 "Sandra O",
                 "Marie B",
                 "Julien M",
-                "Anthony C"
+                "Anthony C",
+                "Adrian L"
             ],
-            "number_jumps": 24
+            "number_jumps": 25
         },
         {
             "id": "Lorys T",
@@ -1361,6 +1363,17 @@
                 "Axel M"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Adrian L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Tibal",
+                "Marion L"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -1379,7 +1392,7 @@
         {
             "source": "Marion L",
             "target": "Tibal",
-            "width": 2.0,
+            "width": 2.08113883008419,
             "color": "purple"
         },
         {
@@ -2777,6 +2790,18 @@
         {
             "source": "Axel M",
             "target": "S\u00e9l\u00e9na R",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Adrian L",
+            "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Adrian L",
+            "target": "Marion L",
             "width": 1.0,
             "color": "purple"
         }
