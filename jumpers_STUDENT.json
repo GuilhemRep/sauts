@@ -105,7 +105,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Victor L",
@@ -311,6 +311,14 @@
         },
         {
             "id": "Aymeric T",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Victor V",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,

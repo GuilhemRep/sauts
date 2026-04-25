@@ -624,37 +624,40 @@
             "id": "Eric B",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 4,
             "friends": [
                 "Lulu",
                 "Richard G",
-                "Frederic L"
+                "Frederic L",
+                "Jean francois M"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Lulu",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 4,
             "friends": [
                 "Eric B",
                 "Richard G",
-                "Frederic L"
+                "Frederic L",
+                "Jean francois M"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Richard G",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 4,
             "friends": [
                 "Eric B",
                 "Lulu",
-                "Frederic L"
+                "Frederic L",
+                "Jean francois M"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Frederic L",
@@ -1868,11 +1871,14 @@
             "id": "Sandrine C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 4,
             "friends": [
-                "Clement J"
+                "Clement J",
+                "Stephane N",
+                "Marc Alain C",
+                "Anne flore B"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Marine R",
@@ -2067,7 +2073,7 @@
                 "Ramesh A",
                 "Stephane P"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Ramesh A",
@@ -2505,7 +2511,7 @@
             "friends": [
                 "Guilhem SkyBrothers"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Guilhem SkyBrothers",
@@ -2515,7 +2521,7 @@
             "friends": [
                 "Alex SkyBrothers"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Pascal M",
@@ -2557,6 +2563,62 @@
         },
         {
             "id": "Renaud F",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jean francois M",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Eric B",
+                "Lulu",
+                "Richard G"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Stephane N",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Sandrine C",
+                "Marc Alain C",
+                "Anne flore B"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Marc Alain C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Stephane N",
+                "Sandrine C",
+                "Anne flore B"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Anne flore B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Stephane N",
+                "Sandrine C",
+                "Marc Alain C"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Guy P",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -2772,13 +2834,13 @@
         {
             "source": "Eric B",
             "target": "Lulu",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
             "source": "Eric B",
             "target": "Richard G",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
@@ -2790,7 +2852,7 @@
         {
             "source": "Richard G",
             "target": "Lulu",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
@@ -5106,7 +5168,7 @@
         {
             "source": "Alex SkyBrothers",
             "target": "Guilhem SkyBrothers",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -5184,6 +5246,60 @@
         {
             "source": "L\u00e9o B",
             "target": "Riton",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Eric B",
+            "target": "Jean francois M",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Lulu",
+            "target": "Jean francois M",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Richard G",
+            "target": "Jean francois M",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Sandrine C",
+            "target": "Stephane N",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Marc Alain C",
+            "target": "Stephane N",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Anne flore B",
+            "target": "Stephane N",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Marc Alain C",
+            "target": "Sandrine C",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Anne flore B",
+            "target": "Sandrine C",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Anne flore B",
+            "target": "Marc Alain C",
             "width": 1.0,
             "color": "blue"
         }
