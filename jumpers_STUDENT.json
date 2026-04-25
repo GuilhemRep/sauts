@@ -309,7 +309,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Gauthier C",
@@ -335,9 +335,11 @@
             "id": "Aymeric T",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 1
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 2
         },
         {
             "id": "Victor V",
@@ -366,6 +368,61 @@
                 "Simon"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Simon",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 46,
+            "friends": [
+                "Axel M",
+                "Marion L",
+                "Lorys T",
+                "Thomas M",
+                "Lyna M",
+                "Hugo L",
+                "Hugo J",
+                "Theo V",
+                "Ti Ben",
+                "Regis R",
+                "Alex F",
+                "Charly A",
+                "Yoram Y",
+                "Aymeric T",
+                "Souka\u00efna B",
+                "Fanny S",
+                "Yann T",
+                "Maxime C",
+                "Mathieu R",
+                "Hubert-Arnaud D",
+                "Enio L",
+                "Olivier G",
+                "Tom B",
+                "Anael N",
+                "Noah S",
+                "Laurent G",
+                "Christophe L",
+                "Salom\u00e9 C",
+                "Hanna U",
+                "B2",
+                "Mike F",
+                "Ludmilla L",
+                "Thomas R",
+                "Marie B",
+                "Jonathan V",
+                "Louis G",
+                "Christophe C",
+                "Jacqueline S",
+                "Thibaut S",
+                "Tibal",
+                "Christian S",
+                "Gwen",
+                "Richard S",
+                "Guillaume S",
+                "Fafa",
+                "Aymeric T"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -392,6 +449,12 @@
             "target": "Gabriel C",
             "width": 1.0,
             "color": "red"
+        },
+        {
+            "source": "Simon",
+            "target": "Aymeric T",
+            "width": 1.0,
+            "color": "cyan"
         }
     ]
 }
