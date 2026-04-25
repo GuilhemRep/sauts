@@ -258,8 +258,8 @@
             "shape": "rectangle",
             "number_friends": 22,
             "friends": [
-                "Thierry T",
                 "Clement J",
+                "Thierry T",
                 "Nicolas G",
                 "Fafa",
                 "Axel M",
@@ -281,7 +281,7 @@
                 "Guillaume S",
                 "Audrey M"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Clement J",
@@ -301,13 +301,13 @@
                 "Noah S",
                 "Sandrine C"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 44,
+            "number_friends": 45,
             "friends": [
                 "Marion L",
                 "Thomas R",
@@ -352,7 +352,8 @@
                 "Adrian L",
                 "Florian N",
                 "J\u00e9r\u00e9my F",
-                "Leticia R"
+                "Leticia R",
+                "Mathieu C"
             ],
             "number_jumps": 2
         },
@@ -486,7 +487,7 @@
             "id": "Noah S",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 25,
             "friends": [
                 "Tom B",
                 "Olivier G",
@@ -495,8 +496,8 @@
                 "Jordan A",
                 "Enio L",
                 "Anael N",
-                "Philippe M",
                 "Hubert-Arnaud D",
+                "Philippe M",
                 "Christophe L",
                 "Renan N",
                 "Lionel D",
@@ -509,7 +510,10 @@
                 "Louis G",
                 "Simon",
                 "Axel M",
-                "Salom\u00e9 C"
+                "Salom\u00e9 C",
+                "Florian H",
+                "Salam\u00e8che",
+                "Arthur G"
             ],
             "number_jumps": 1
         },
@@ -663,7 +667,7 @@
         {
             "source": "Gwen",
             "target": "Clement J",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "green"
         },
         {
