@@ -458,7 +458,7 @@
             "friends": [
                 "Thomas M"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Thomas M",
@@ -468,7 +468,7 @@
             "friends": [
                 "Romain L"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Christopher W",
@@ -498,6 +498,7 @@
                 "Tibal",
                 "Nico",
                 "B2",
+                "Ambre A",
                 "Lorys T",
                 "Quentin B",
                 "Lyna M",
@@ -507,7 +508,6 @@
                 "Ju",
                 "Yogesh B",
                 "Gwen",
-                "Ambre A",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -901,8 +901,8 @@
                 "Clement J",
                 "Sylvain C",
                 "Olivier G",
-                "Hubert-Arnaud D",
                 "Simon",
+                "Hubert-Arnaud D",
                 "Theo V",
                 "Axel M",
                 "Laurent G",
@@ -2146,7 +2146,7 @@
                 "Ramesh A",
                 "Stephane P"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Ramesh A",
@@ -2216,6 +2216,7 @@
                 "Lyna M",
                 "Hugo L",
                 "Hugo J",
+                "Enio L",
                 "Theo V",
                 "Regis R",
                 "Alex F",
@@ -2228,7 +2229,6 @@
                 "Maxime C",
                 "Mathieu R",
                 "Hubert-Arnaud D",
-                "Enio L",
                 "Olivier G",
                 "Tom B",
                 "Anael N",
@@ -2344,15 +2344,15 @@
             "friends": [
                 "Riton",
                 "Jerem Gringos",
-                "Stephane K",
                 "L\u00e9o B",
+                "Stephane K",
                 "Ti Ben",
                 "Marine G",
                 "Margot B",
                 "Christophe C",
                 "Theo V"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Pauline C",
@@ -2611,7 +2611,7 @@
                 "Laurent G",
                 "Christophe L"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Alex SkyBrothers",
@@ -2682,7 +2682,7 @@
                 "Riton",
                 "Cyrill P"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Renaud F",
@@ -3051,7 +3051,7 @@
         {
             "source": "Romain L",
             "target": "Thomas M",
-            "width": 2.302775637731995,
+            "width": 2.3708286933869704,
             "color": "blue"
         },
         {
@@ -5265,7 +5265,7 @@
         {
             "source": "Cyrill P",
             "target": "Riton",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "blue"
         },
         {
@@ -5421,7 +5421,7 @@
         {
             "source": "L\u00e9o B",
             "target": "Riton",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
@@ -5481,7 +5481,7 @@
         {
             "source": "L\u00e9o B",
             "target": "Cyrill P",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "blue"
         },
         {

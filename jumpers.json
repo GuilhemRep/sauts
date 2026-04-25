@@ -466,7 +466,7 @@
             "friends": [
                 "Thomas M"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Thomas M",
@@ -476,7 +476,7 @@
             "friends": [
                 "Romain L"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Christopher W",
@@ -506,6 +506,7 @@
                 "Tibal",
                 "Nico",
                 "B2",
+                "Ambre A",
                 "Lorys T",
                 "Quentin B",
                 "Lyna M",
@@ -515,7 +516,6 @@
                 "Ju",
                 "Yogesh B",
                 "Gwen",
-                "Ambre A",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -552,7 +552,7 @@
                 "Fafa",
                 "S\u00e9l\u00e9na R"
             ],
-            "number_jumps": 34
+            "number_jumps": 35
         },
         {
             "id": "Anael N",
@@ -1079,6 +1079,7 @@
                 "Lyna M",
                 "Hugo L",
                 "Hugo J",
+                "Enio L",
                 "Theo V",
                 "Regis R",
                 "Alex F",
@@ -1091,7 +1092,6 @@
                 "Maxime C",
                 "Mathieu R",
                 "Hubert-Arnaud D",
-                "Enio L",
                 "Olivier G",
                 "Tom B",
                 "Anael N",
@@ -1121,7 +1121,7 @@
                 "Victor V",
                 "S\u00e9l\u00e9na R"
             ],
-            "number_jumps": 34
+            "number_jumps": 35
         },
         {
             "id": "Jason H",
@@ -1312,15 +1312,15 @@
                 "Clement J",
                 "Sylvain C",
                 "Olivier G",
-                "Hubert-Arnaud D",
                 "Simon",
+                "Hubert-Arnaud D",
                 "Theo V",
                 "Axel M",
                 "Laurent G",
                 "Christophe L",
                 "Salom\u00e9 C"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Jerem Gringos",
@@ -2756,7 +2756,7 @@
             "friends": [
                 "Theo V"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Gabriel C",
@@ -2838,7 +2838,7 @@
                 "Ramesh A",
                 "Stephane P"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Ramesh A",
@@ -3244,7 +3244,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Cyrill P",
@@ -3254,15 +3254,15 @@
             "friends": [
                 "Riton",
                 "Jerem Gringos",
-                "Stephane K",
                 "L\u00e9o B",
+                "Stephane K",
                 "Ti Ben",
                 "Marine G",
                 "Margot B",
                 "Christophe C",
                 "Theo V"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Pauline C",
@@ -3446,7 +3446,7 @@
                 "Simon",
                 "Ti Ben"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Remy B",
@@ -3631,7 +3631,7 @@
                 "Laurent G",
                 "Christophe L"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Alex SkyBrothers",
@@ -3733,7 +3733,7 @@
                 "B2",
                 "Axel M"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "L\u00e9o B",
@@ -3744,7 +3744,7 @@
                 "Riton",
                 "Cyrill P"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Renaud F",
@@ -4018,7 +4018,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Ariane P",
@@ -4345,7 +4345,7 @@
         {
             "source": "Romain L",
             "target": "Thomas M",
-            "width": 2.302775637731995,
+            "width": 2.3708286933869704,
             "color": "blue"
         },
         {
@@ -6883,7 +6883,7 @@
         {
             "source": "Enio L",
             "target": "Simon",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -7465,7 +7465,7 @@
         {
             "source": "B2",
             "target": "Axel M",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "green"
         },
         {
@@ -7753,7 +7753,7 @@
         {
             "source": "Cyrill P",
             "target": "Riton",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "blue"
         },
         {
@@ -7933,7 +7933,7 @@
         {
             "source": "L\u00e9o B",
             "target": "Riton",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
@@ -8275,7 +8275,7 @@
         {
             "source": "L\u00e9o B",
             "target": "Cyrill P",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "blue"
         },
         {
@@ -8323,13 +8323,13 @@
         {
             "source": "Ambre A",
             "target": "B2",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "green"
         },
         {
             "source": "Ambre A",
             "target": "Axel M",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "green"
         },
         {
