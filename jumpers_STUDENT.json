@@ -313,7 +313,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Gauthier C",
@@ -432,6 +432,14 @@
                 "S\u00e9l\u00e9na R"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Fr\u00e9d\u00e9ric B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
         }
     ],
     "links": [

@@ -354,11 +354,11 @@
             "friends": [
                 "Axel M",
                 "Yogesh B",
+                "Ambre A",
                 "Mike F",
-                "Simon",
-                "Ambre A"
+                "Simon"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Mike F",
@@ -403,6 +403,7 @@
                 "Ju",
                 "Yogesh B",
                 "Gwen",
+                "Ambre A",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -437,10 +438,9 @@
                 "Richard S",
                 "Guillaume S",
                 "Fafa",
-                "Ambre A",
                 "S\u00e9l\u00e9na R"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Thomas R",
@@ -561,7 +561,7 @@
                 "B2",
                 "Axel M"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -634,7 +634,7 @@
         {
             "source": "B2",
             "target": "Axel M",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "green"
         },
         {
@@ -670,13 +670,13 @@
         {
             "source": "Ambre A",
             "target": "B2",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "green"
         },
         {
             "source": "Ambre A",
             "target": "Axel M",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "green"
         }
     ]

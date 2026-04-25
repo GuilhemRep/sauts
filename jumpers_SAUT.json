@@ -497,6 +497,7 @@
                 "Ju",
                 "Yogesh B",
                 "Gwen",
+                "Ambre A",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -531,7 +532,6 @@
                 "Richard S",
                 "Guillaume S",
                 "Fafa",
-                "Ambre A",
                 "S\u00e9l\u00e9na R"
             ],
             "number_jumps": 4
@@ -1592,15 +1592,15 @@
             "number_friends": 8,
             "friends": [
                 "Franck B",
-                "Guilhem R",
                 "Pascal M",
+                "Guilhem R",
+                "Bastien B",
+                "Renaud F",
                 "Lionel D",
                 "Remy B",
-                "David J",
-                "Bastien B",
-                "Renaud F"
+                "David J"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Megane P",
@@ -2320,17 +2320,17 @@
             "shape": "rectangle",
             "number_friends": 9,
             "friends": [
-                "Jerem Gringos",
                 "Riton",
+                "Jerem Gringos",
                 "Stephane K",
+                "L\u00e9o B",
                 "Ti Ben",
                 "Marine G",
                 "Margot B",
-                "L\u00e9o B",
                 "Christophe C",
                 "Theo V"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Pauline C",
@@ -2443,15 +2443,15 @@
             "friends": [
                 "Bertrand P",
                 "Pascal M",
+                "Bastien B",
+                "Renaud F",
                 "Fran\u00e7ois F",
                 "Lionel D",
                 "Remy B",
                 "David J",
-                "Bastien B",
-                "Renaud F",
                 "Kilyan S"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Marine G",
@@ -2573,8 +2573,8 @@
             "number_friends": 12,
             "friends": [
                 "Cyrill P",
-                "Stephane K",
                 "L\u00e9o B",
+                "Stephane K",
                 "Margot B",
                 "Marine G",
                 "Ti Ben",
@@ -2585,7 +2585,7 @@
                 "Laurent G",
                 "Christophe L"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Alex SkyBrothers",
@@ -2596,7 +2596,7 @@
                 "Guilhem SkyBrothers",
                 "Jeremie A"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Guilhem SkyBrothers",
@@ -2607,7 +2607,7 @@
                 "Alex SkyBrothers",
                 "Jeremie A"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Pascal M",
@@ -2621,7 +2621,7 @@
                 "Renaud F",
                 "Lionel D"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Bastien B",
@@ -2634,7 +2634,7 @@
                 "Pascal M",
                 "Bertrand P"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Ambre A",
@@ -2656,7 +2656,7 @@
                 "Riton",
                 "Cyrill P"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Renaud F",
@@ -2669,7 +2669,7 @@
                 "Pascal M",
                 "Bertrand P"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Jean francois M",
@@ -2733,13 +2733,13 @@
             "shape": "rectangle",
             "number_friends": 5,
             "friends": [
+                "Alex SkyBrothers",
+                "Guilhem SkyBrothers",
                 "Marine G",
                 "Fabio B",
-                "Stephane K",
-                "Alex SkyBrothers",
-                "Guilhem SkyBrothers"
+                "Stephane K"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Ana\u00ebl N",
@@ -5015,7 +5015,7 @@
         {
             "source": "Franck B",
             "target": "Bertrand P",
-            "width": 1.9142135623730951,
+            "width": 2.0,
             "color": "blue"
         },
         {
@@ -5219,7 +5219,7 @@
         {
             "source": "Cyrill P",
             "target": "Riton",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
@@ -5297,7 +5297,7 @@
         {
             "source": "Alex SkyBrothers",
             "target": "Guilhem SkyBrothers",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
@@ -5363,19 +5363,19 @@
         {
             "source": "Franck B",
             "target": "Pascal M",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "blue"
         },
         {
             "source": "Pascal M",
             "target": "Bertrand P",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "blue"
         },
         {
             "source": "L\u00e9o B",
             "target": "Riton",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "blue"
         },
         {
@@ -5435,49 +5435,49 @@
         {
             "source": "L\u00e9o B",
             "target": "Cyrill P",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
             "source": "Bastien B",
             "target": "Renaud F",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
             "source": "Bastien B",
             "target": "Franck B",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
             "source": "Bastien B",
             "target": "Pascal M",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
             "source": "Bastien B",
             "target": "Bertrand P",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
             "source": "Franck B",
             "target": "Renaud F",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
             "source": "Renaud F",
             "target": "Pascal M",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
             "source": "Renaud F",
             "target": "Bertrand P",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
@@ -5531,13 +5531,13 @@
         {
             "source": "Jeremie A",
             "target": "Alex SkyBrothers",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
             "source": "Jeremie A",
             "target": "Guilhem SkyBrothers",
-            "width": 1.0,
+            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
