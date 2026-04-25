@@ -124,7 +124,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 49,
+            "number_friends": 50,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -174,18 +174,19 @@
                 "Aymeric T",
                 "Bryan J",
                 "Victor V",
-                "S\u00e9l\u00e9na R"
+                "S\u00e9l\u00e9na R",
+                "Celine P"
             ],
-            "number_jumps": 23
+            "number_jumps": 24
         },
         {
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
-                "Theo V",
                 "Simon",
+                "Theo V",
                 "Tibal",
                 "Nico",
                 "B2",
@@ -233,9 +234,10 @@
                 "Richard S",
                 "Guillaume S",
                 "Fafa",
-                "S\u00e9l\u00e9na R"
+                "S\u00e9l\u00e9na R",
+                "Celine P"
             ],
-            "number_jumps": 26
+            "number_jumps": 27
         },
         {
             "id": "Anabelle V",
@@ -349,7 +351,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 54,
+            "number_friends": 56,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -367,6 +369,8 @@
                 "Simon",
                 "Noah S",
                 "Margot B",
+                "Cyrill P",
+                "Riton",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -391,8 +395,6 @@
                 "Maxime L",
                 "Sandra O",
                 "Stephane K",
-                "Cyrill P",
-                "Riton",
                 "Quentin B",
                 "Jacqueline S",
                 "Thibaut S",
@@ -404,7 +406,9 @@
                 "Ti Ben",
                 "Florian N",
                 "J\u00e9r\u00e9my F",
-                "Vincent C"
+                "Vincent C",
+                "L\u00e9o B",
+                "Jerem Gringos"
             ],
             "number_jumps": 20
         },
@@ -613,7 +617,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 24,
+            "number_friends": 25,
             "friends": [
                 "Gabriel C",
                 "Benjamin E",
@@ -638,9 +642,10 @@
                 "Richard S",
                 "Guillaume S",
                 "Anthony C",
-                "Julien C"
+                "Julien C",
+                "Fabrice P"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Thomas M",
@@ -1427,6 +1432,27 @@
                 "Gwen"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Celine P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Axel M"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Fabrice P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Fafa"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -1463,7 +1489,7 @@
         {
             "source": "Axel M",
             "target": "Simon",
-            "width": 2.0,
+            "width": 2.08113883008419,
             "color": "purple"
         },
         {
@@ -2897,6 +2923,24 @@
         {
             "source": "Gwen",
             "target": "Audrey M",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Celine P",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M",
+            "target": "Celine P",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Fabrice P",
             "width": 1.0,
             "color": "purple"
         }
