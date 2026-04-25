@@ -108,7 +108,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 51,
+            "number_friends": 53,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -160,7 +160,9 @@
                 "Richard S",
                 "Guillaume S",
                 "Tristan B",
-                "Ti Ben"
+                "Ti Ben",
+                "Florian N",
+                "J\u00e9r\u00e9my F"
             ],
             "number_jumps": 7
         },
@@ -300,12 +302,12 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 43,
             "friends": [
                 "Marion L",
                 "Thomas R",
-                "Axel M",
                 "Theo V",
+                "Axel M",
                 "Ophelie D",
                 "Maelys P",
                 "Cameron M",
@@ -342,7 +344,9 @@
                 "Richard S",
                 "Guillaume S",
                 "Fafa",
-                "Adrian L"
+                "Adrian L",
+                "Florian N",
+                "J\u00e9r\u00e9my F"
             ],
             "number_jumps": 2
         },
@@ -350,15 +354,16 @@
             "id": "B2",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 6,
             "friends": [
                 "Axel M",
                 "Yogesh B",
                 "Ambre A",
                 "Mike F",
-                "Simon"
+                "Simon",
+                "Ti Ben"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Mike F",
@@ -375,13 +380,14 @@
             "id": "Yogesh B",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 4,
             "friends": [
                 "B2",
                 "Axel M",
-                "Theo V"
+                "Theo V",
+                "Ti Ben"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Axel M",
@@ -483,12 +489,12 @@
                 "Enio L",
                 "Anael N",
                 "Philippe M",
+                "Hubert-Arnaud D",
                 "Christophe L",
                 "Renan N",
                 "Lionel D",
                 "Mickael G",
                 "Clement J",
-                "Hubert-Arnaud D",
                 "Laurent G",
                 "Theo V",
                 "Fabio B",
@@ -562,6 +568,31 @@
                 "Axel M"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Ti Ben",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 16,
+            "friends": [
+                "Simon",
+                "Marine G",
+                "Stephane K",
+                "Cyrill P",
+                "Salam\u00e8che",
+                "Pastou",
+                "Christophe C",
+                "Jonathan V",
+                "Riton",
+                "Margot B",
+                "Christophe C",
+                "Bryan J",
+                "Tristan B",
+                "Theo V",
+                "B2",
+                "Yogesh B"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -628,7 +659,7 @@
         {
             "source": "B2",
             "target": "Yogesh B",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "green"
         },
         {
@@ -677,6 +708,18 @@
             "source": "Ambre A",
             "target": "Axel M",
             "width": 1.2071067811865475,
+            "color": "green"
+        },
+        {
+            "source": "B2",
+            "target": "Ti Ben",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "Yogesh B",
+            "target": "Ti Ben",
+            "width": 1.0,
             "color": "green"
         }
     ]

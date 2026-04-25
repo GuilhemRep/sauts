@@ -30,11 +30,12 @@
             "id": "Yogesh B",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 4,
             "friends": [
                 "B2",
                 "Axel M",
-                "Theo V"
+                "Theo V",
+                "Ti Ben"
             ],
             "number_jumps": 7
         },
@@ -105,7 +106,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Victor L",
@@ -147,7 +148,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 51,
+            "number_friends": 53,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -199,7 +200,9 @@
                 "Richard S",
                 "Guillaume S",
                 "Tristan B",
-                "Ti Ben"
+                "Ti Ben",
+                "Florian N",
+                "J\u00e9r\u00e9my F"
             ],
             "number_jumps": 1
         },
@@ -353,7 +356,7 @@
             "friends": [
                 "Simon"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Franck C",

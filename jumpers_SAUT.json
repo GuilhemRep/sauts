@@ -78,13 +78,14 @@
                 "Christophe L",
                 "Morgane C",
                 "Fabio B",
-                "Anael N",
                 "Olivier G",
+                "Anael N",
                 "Julien B",
                 "Stephane K",
                 "Rachel H",
                 "Tom B",
                 "Caroline C",
+                "Noah S",
                 "Philippe M",
                 "Maris M",
                 "Juliette A",
@@ -95,7 +96,6 @@
                 "Olivier G",
                 "Nico",
                 "Izampela S",
-                "Noah S",
                 "Florian H",
                 "Ju",
                 "Enio L",
@@ -106,7 +106,7 @@
                 "Riton",
                 "Ana\u00ebl N"
             ],
-            "number_jumps": 24
+            "number_jumps": 25
         },
         {
             "id": "Fabio B",
@@ -174,10 +174,10 @@
                 "Morgane C",
                 "Caroline C",
                 "Stephane K",
+                "Florian H",
                 "Julien B",
                 "Anael N",
                 "Olivier G",
-                "Florian H",
                 "Rachel H",
                 "Tom B",
                 "Ramesh A",
@@ -203,7 +203,7 @@
                 "Riton",
                 "Ana\u00ebl N"
             ],
-            "number_jumps": 30
+            "number_jumps": 31
         },
         {
             "id": "Christophe L",
@@ -371,7 +371,7 @@
                 "Axel M",
                 "Salom\u00e9 C"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Tom B",
@@ -423,12 +423,12 @@
                 "Enio L",
                 "Anael N",
                 "Philippe M",
+                "Hubert-Arnaud D",
                 "Christophe L",
                 "Renan N",
                 "Lionel D",
                 "Mickael G",
                 "Clement J",
-                "Hubert-Arnaud D",
                 "Laurent G",
                 "Theo V",
                 "Fabio B",
@@ -438,7 +438,7 @@
                 "Axel M",
                 "Salom\u00e9 C"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Romain L",
@@ -710,7 +710,7 @@
                 "Riton",
                 "Sylvain C"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Xavier D",
@@ -1110,7 +1110,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 51,
+            "number_friends": 53,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -1162,7 +1162,9 @@
                 "Richard S",
                 "Guillaume S",
                 "Tristan B",
-                "Ti Ben"
+                "Ti Ben",
+                "Florian N",
+                "J\u00e9r\u00e9my F"
             ],
             "number_jumps": 7
         },
@@ -1849,12 +1851,12 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 43,
             "friends": [
                 "Marion L",
                 "Thomas R",
-                "Axel M",
                 "Theo V",
+                "Axel M",
                 "Ophelie D",
                 "Maelys P",
                 "Cameron M",
@@ -1891,7 +1893,9 @@
                 "Richard S",
                 "Guillaume S",
                 "Fafa",
-                "Adrian L"
+                "Adrian L",
+                "Florian N",
+                "J\u00e9r\u00e9my F"
             ],
             "number_jumps": 1
         },
@@ -2493,7 +2497,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 14,
+            "number_friends": 16,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -2508,7 +2512,9 @@
                 "Christophe C",
                 "Bryan J",
                 "Tristan B",
-                "Theo V"
+                "Theo V",
+                "B2",
+                "Yogesh B"
             ],
             "number_jumps": 3
         },
@@ -2753,6 +2759,26 @@
                 "Sylvain C"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Ariane P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Florian I"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Florian I",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ariane P"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -2939,7 +2965,7 @@
         {
             "source": "Olivier G",
             "target": "Noah S",
-            "width": 2.08113883008419,
+            "width": 2.1583123951777,
             "color": "blue"
         },
         {
@@ -4433,7 +4459,7 @@
         {
             "source": "Hubert-Arnaud D",
             "target": "Olivier G",
-            "width": 1.618033988749895,
+            "width": 1.724744871391589,
             "color": "blue"
         },
         {
@@ -4451,7 +4477,7 @@
         {
             "source": "Hubert-Arnaud D",
             "target": "Noah S",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "blue"
         },
         {
@@ -5141,7 +5167,7 @@
         {
             "source": "Laurent G",
             "target": "Florian H",
-            "width": 1.5,
+            "width": 1.618033988749895,
             "color": "blue"
         },
         {
@@ -5567,6 +5593,12 @@
         {
             "source": "Sylvain C",
             "target": "Christophe L",
+            "width": 1.0,
+            "color": "blue"
+        },
+        {
+            "source": "Florian I",
+            "target": "Ariane P",
             "width": 1.0,
             "color": "blue"
         }
