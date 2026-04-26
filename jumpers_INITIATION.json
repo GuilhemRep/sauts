@@ -18,13 +18,13 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 42,
             "friends": [
                 "Matthieu",
                 "Axel",
                 "Marion",
-                "Lionel",
-                "Anabelle"
+                "Thomas R",
+                "Lionel"
             ],
             "number_jumps": 6
         },
@@ -80,7 +80,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 49,
+            "number_friends": 50,
             "friends": [
                 "Axel",
                 "Marion",
@@ -186,13 +186,13 @@
             "id": "Thomas R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 18,
+            "number_friends": 19,
             "friends": [
                 "Tibal",
                 "Marion",
+                "Nico",
                 "Theo V",
-                "Maelys",
-                "Nico"
+                "Maelys"
             ],
             "number_jumps": 1
         },
@@ -252,7 +252,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 23,
+            "number_friends": 24,
             "friends": [
                 "Simon",
                 "Marine G",

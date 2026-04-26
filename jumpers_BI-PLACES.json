@@ -54,7 +54,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 49,
+            "number_friends": 50,
             "friends": [
                 "Axel",
                 "Marion",
@@ -62,7 +62,7 @@
                 "Lorys",
                 "Thomas MARS"
             ],
-            "number_jumps": 24
+            "number_jumps": 25
         },
         {
             "id": "Axel",
@@ -93,15 +93,15 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 42,
             "friends": [
                 "Matthieu",
                 "Axel",
                 "Marion",
-                "Lionel",
-                "Anabelle"
+                "Thomas R",
+                "Lionel"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Maelys",
@@ -118,15 +118,15 @@
             "id": "Thomas R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 18,
+            "number_friends": 19,
             "friends": [
                 "Tibal",
                 "Marion",
+                "Nico",
                 "Theo V",
-                "Maelys",
-                "Nico"
+                "Maelys"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Quentin BE",
@@ -389,14 +389,14 @@
             "friends": [
                 "Tibal",
                 "Thomas R",
-                "Solene",
+                "Solene L",
                 "Theo V",
                 "Axel"
             ],
             "number_jumps": 1
         },
         {
-            "id": "Solene",
+            "id": "Solene L",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 8,
@@ -418,7 +418,7 @@
                 "Raphael",
                 "Tibal",
                 "Thomas R",
-                "Solene",
+                "Solene L",
                 "Theo V"
             ],
             "number_jumps": 1
@@ -861,7 +861,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 23,
+            "number_friends": 24,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -869,7 +869,7 @@
                 "Cyrill",
                 "Theo V"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Julien M",
@@ -1300,6 +1300,28 @@
                 "Marion"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Raymonde",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Nico",
+                "Thomas R"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Yann P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -1642,7 +1664,7 @@
         {
             "source": "Nico",
             "target": "Thomas R",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "purple"
         },
         {
@@ -1742,7 +1764,7 @@
             "color": "purple"
         },
         {
-            "source": "Solene",
+            "source": "Solene L",
             "target": "Raphael",
             "width": 1.0,
             "color": "purple"
@@ -1778,7 +1800,7 @@
             "color": "purple"
         },
         {
-            "source": "Solene",
+            "source": "Solene L",
             "target": "Tibal",
             "width": 1.0,
             "color": "purple"
@@ -1790,7 +1812,7 @@
             "color": "purple"
         },
         {
-            "source": "Solene",
+            "source": "Solene L",
             "target": "Thomas R",
             "width": 1.0,
             "color": "purple"
@@ -1802,31 +1824,31 @@
             "color": "purple"
         },
         {
-            "source": "Solene",
+            "source": "Solene L",
             "target": "Theo V",
             "width": 1.0,
             "color": "purple"
         },
         {
-            "source": "Solene",
+            "source": "Solene L",
             "target": "Axel",
             "width": 1.0,
             "color": "purple"
         },
         {
-            "source": "Solene",
+            "source": "Solene L",
             "target": "Ryan",
             "width": 1.0,
             "color": "purple"
         },
         {
-            "source": "Solene",
+            "source": "Solene L",
             "target": "Nico",
             "width": 1.0,
             "color": "purple"
         },
         {
-            "source": "Solene",
+            "source": "Solene L",
             "target": "Marion",
             "width": 1.0,
             "color": "purple"
@@ -2332,7 +2354,7 @@
         {
             "source": "Simon",
             "target": "Ti Ben",
-            "width": 1.3660254037844386,
+            "width": 1.5,
             "color": "purple"
         },
         {
@@ -3190,6 +3212,30 @@
         {
             "source": "Juliette C",
             "target": "Axel",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Nico",
+            "target": "Raymonde",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Raymonde",
+            "target": "Thomas R",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Yann P",
+            "target": "Simon",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Yann P",
+            "target": "Ti Ben",
             "width": 1.0,
             "color": "purple"
         }
