@@ -208,13 +208,13 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 34,
             "friends": [
                 "Theo V",
                 "Gabriel C",
                 "Benjamin E",
                 "Morgan",
-                "Marion"
+                "Tibal"
             ],
             "number_jumps": 2
         },
@@ -302,7 +302,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 51,
+            "number_friends": 53,
             "friends": [
                 "Axel",
                 "Marion",
@@ -351,6 +351,28 @@
                 "Tibal",
                 "Nico",
                 "Ambre"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "AP/PAC",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Florian V",
+                "Fafa"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Florian V",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "AP/PAC",
+                "Fafa"
             ],
             "number_jumps": 1
         }
@@ -409,6 +431,12 @@
             "target": "David R",
             "width": 1.0,
             "color": "cyan"
+        },
+        {
+            "source": "AP/PAC",
+            "target": "Florian V",
+            "width": 1.0,
+            "color": "red"
         }
     ]
 }

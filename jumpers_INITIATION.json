@@ -18,13 +18,13 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 43,
+            "number_friends": 45,
             "friends": [
                 "Matthieu",
                 "Axel",
                 "Marion",
-                "Thomas R",
-                "Lionel"
+                "Tibal",
+                "Thomas R"
             ],
             "number_jumps": 6
         },
@@ -80,7 +80,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 51,
+            "number_friends": 53,
             "friends": [
                 "Axel",
                 "Marion",
@@ -136,13 +136,13 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 59,
+            "number_friends": 60,
             "friends": [
                 "Marion",
                 "Theo V",
                 "Axel",
                 "Thomas R",
-                "Gwen"
+                "Nico"
             ],
             "number_jumps": 2
         },
@@ -214,13 +214,13 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 34,
             "friends": [
                 "Theo V",
                 "Gabriel C",
                 "Benjamin E",
                 "Morgan",
-                "Marion"
+                "Tibal"
             ],
             "number_jumps": 2
         },
