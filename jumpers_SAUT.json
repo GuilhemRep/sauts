@@ -213,7 +213,7 @@
                 "Ana\u00ebl N",
                 "Izampela S"
             ],
-            "number_jumps": 35
+            "number_jumps": 36
         },
         {
             "id": "Christophe L",
@@ -1150,7 +1150,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 59,
+            "number_friends": 62,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -1170,6 +1170,7 @@
                 "Simon",
                 "Noah S",
                 "Margot B",
+                "Gwen",
                 "Ti Ben",
                 "L\u00e9o B",
                 "Jerem Gringos",
@@ -1201,7 +1202,6 @@
                 "Jacqueline S",
                 "Thibaut S",
                 "Christian S",
-                "Gwen",
                 "Richard S",
                 "Guillaume S",
                 "Tristan B",
@@ -1210,7 +1210,10 @@
                 "Vincent C",
                 "Jimmy M",
                 "Mickael L",
-                "Laura D"
+                "Laura D",
+                "Gilles K",
+                "Gabriel K",
+                "Mila K"
             ],
             "number_jumps": 9
         },
@@ -1297,7 +1300,7 @@
                 "Rachel H",
                 "Izampela S"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Alban D",
@@ -1752,13 +1755,15 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 24,
+            "number_friends": 27,
             "friends": [
                 "Clement J",
                 "Thierry T",
                 "Nicolas G",
                 "Fafa",
                 "Axel M",
+                "Tibal",
+                "Theo V",
                 "Morgan S",
                 "Nathalie B",
                 "Marion L",
@@ -1770,14 +1775,15 @@
                 "Jacqueline S",
                 "Simon",
                 "Thibaut S",
-                "Tibal",
                 "Christian S",
                 "Richard S",
-                "Theo V",
                 "Guillaume S",
                 "Audrey M",
                 "L\u00e9a M",
-                "Ti Ben"
+                "Ti Ben",
+                "Gilles K",
+                "Gabriel K",
+                "Mila K"
             ],
             "number_jumps": 1
         },
@@ -1915,7 +1921,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 49,
+            "number_friends": 52,
             "friends": [
                 "Marion L",
                 "Theo V",
@@ -1928,6 +1934,7 @@
                 "Juliette M",
                 "Nico",
                 "Morgan S",
+                "Gwen",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -1953,7 +1960,6 @@
                 "Simon",
                 "Thibaut S",
                 "Christian S",
-                "Gwen",
                 "Richard S",
                 "Guillaume S",
                 "Fafa",
@@ -1965,7 +1971,10 @@
                 "Jimmy M",
                 "Mickael L",
                 "Ti Ben",
-                "Claire L"
+                "Claire L",
+                "Gilles K",
+                "Gabriel K",
+                "Mila K"
             ],
             "number_jumps": 2
         },
@@ -2933,6 +2942,14 @@
         },
         {
             "id": "Alexandre F",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Alexandre A",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
