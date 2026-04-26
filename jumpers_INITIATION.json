@@ -191,7 +191,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 49,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -222,7 +222,6 @@
                 "Christophe L",
                 "Salom\u00e9 C",
                 "Hanna U",
-                "B2",
                 "Mike F",
                 "Ludmilla L",
                 "Thomas R",
@@ -378,27 +377,11 @@
             "number_jumps": 2
         },
         {
-            "id": "B2",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 6,
-            "friends": [
-                "Axel M",
-                "Ambre A",
-                "Yogesh B",
-                "Mike F",
-                "Simon",
-                "Ti Ben"
-            ],
-            "number_jumps": 9
-        },
-        {
             "id": "Mike F",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "B2",
                 "Simon"
             ],
             "number_jumps": 1
@@ -407,9 +390,8 @@
             "id": "Yogesh B",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 3,
             "friends": [
-                "B2",
                 "Axel M",
                 "Theo V",
                 "Ti Ben"
@@ -420,11 +402,10 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 52,
+            "number_friends": 51,
             "friends": [
                 "Theo V",
                 "Simon",
-                "B2",
                 "Tibal",
                 "Nico",
                 "Ambre A",
@@ -597,9 +578,8 @@
             "id": "Ambre A",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "B2",
                 "Axel M"
             ],
             "number_jumps": 5
@@ -608,7 +588,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 22,
+            "number_friends": 21,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -624,7 +604,6 @@
                 "Christophe C",
                 "Bryan J",
                 "Tristan B",
-                "B2",
                 "Yogesh B",
                 "L\u00e9a M",
                 "Gwen",
@@ -706,33 +685,9 @@
             "color": "green"
         },
         {
-            "source": "B2",
-            "target": "Mike F",
-            "width": 1.0,
-            "color": "green"
-        },
-        {
-            "source": "B2",
-            "target": "Simon",
-            "width": 1.0,
-            "color": "green"
-        },
-        {
             "source": "Mike F",
             "target": "Simon",
             "width": 1.0,
-            "color": "green"
-        },
-        {
-            "source": "B2",
-            "target": "Yogesh B",
-            "width": 1.3660254037844386,
-            "color": "green"
-        },
-        {
-            "source": "B2",
-            "target": "Axel M",
-            "width": 1.8228756555322954,
             "color": "green"
         },
         {
@@ -767,20 +722,8 @@
         },
         {
             "source": "Ambre A",
-            "target": "B2",
-            "width": 1.618033988749895,
-            "color": "green"
-        },
-        {
-            "source": "Ambre A",
             "target": "Axel M",
             "width": 1.618033988749895,
-            "color": "green"
-        },
-        {
-            "source": "B2",
-            "target": "Ti Ben",
-            "width": 1.0,
             "color": "green"
         },
         {

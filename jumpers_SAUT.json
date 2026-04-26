@@ -274,9 +274,8 @@
             "id": "Mike F",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "B2",
                 "Simon"
             ],
             "number_jumps": 6
@@ -507,11 +506,10 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 52,
+            "number_friends": 51,
             "friends": [
                 "Theo V",
                 "Simon",
-                "B2",
                 "Tibal",
                 "Nico",
                 "Ambre A",
@@ -2281,7 +2279,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 49,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -2312,7 +2310,6 @@
                 "Christophe L",
                 "Salom\u00e9 C",
                 "Hanna U",
-                "B2",
                 "Mike F",
                 "Ludmilla L",
                 "Thomas R",
@@ -2603,7 +2600,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 22,
+            "number_friends": 21,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -2619,7 +2616,6 @@
                 "Christophe C",
                 "Bryan J",
                 "Tristan B",
-                "B2",
                 "Yogesh B",
                 "L\u00e9a M",
                 "Gwen",
@@ -2760,9 +2756,8 @@
             "id": "Ambre A",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "B2",
                 "Axel M"
             ],
             "number_jumps": 1
