@@ -149,7 +149,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -208,7 +208,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 32,
             "friends": [
                 "Theo V",
                 "Gabriel C",
@@ -302,7 +302,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
                 "Axel",
                 "Marion",
@@ -328,6 +328,14 @@
             "friends": [
                 "Gwen"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "David R",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],

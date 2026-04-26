@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
                 "Axel",
                 "Marion",
@@ -102,7 +102,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -127,7 +127,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 32,
             "friends": [
                 "Theo V",
                 "Gabriel C",
@@ -135,7 +135,7 @@
                 "Morgan",
                 "Marion"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Nathan",
@@ -219,6 +219,28 @@
             "number_friends": 1,
             "friends": [
                 "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "AP/PAC",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Florian V",
+                "Fafa"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Florian V",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "AP/PAC",
+                "Fafa"
             ],
             "number_jumps": 1
         }
@@ -323,6 +345,24 @@
         {
             "source": "Quentin BU",
             "target": "Theo V",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "AP/PAC",
+            "target": "Florian V",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "AP/PAC",
+            "target": "Fafa",
+            "width": 1.0,
+            "color": "orange"
+        },
+        {
+            "source": "Fafa",
+            "target": "Florian V",
             "width": 1.0,
             "color": "orange"
         }
