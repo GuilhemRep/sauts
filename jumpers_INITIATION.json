@@ -25,7 +25,7 @@
             "id": "Nico",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 41,
             "friends": [
                 "Matthieu P",
                 "Axel M",
@@ -65,7 +65,9 @@
                 "Anais Y",
                 "Teo G",
                 "Jean-denis D",
-                "Cassandra G"
+                "Cassandra G",
+                "Manon L",
+                "Ti Ben"
             ],
             "number_jumps": 6
         },
@@ -75,8 +77,8 @@
             "shape": "rectangle",
             "number_friends": 18,
             "friends": [
-                "Jordan A",
                 "Rachel H",
+                "Jordan A",
                 "Nico",
                 "Olivier G",
                 "Tom B",
@@ -110,14 +112,14 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 62,
+            "number_friends": 65,
             "friends": [
                 "Axel M",
                 "Tibal",
                 "Marion L",
                 "Fabien L",
-                "Thomas R",
                 "Fafa",
+                "Thomas R",
                 "Cyrill P",
                 "Riton",
                 "Quentin B",
@@ -173,7 +175,10 @@
                 "Laura D",
                 "Gilles K",
                 "Gabriel K",
-                "Mila K"
+                "Mila K",
+                "Dany C",
+                "Shaina P",
+                "Serge D"
             ],
             "number_jumps": 7
         },
@@ -319,7 +324,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 52,
+            "number_friends": 55,
             "friends": [
                 "Marion L",
                 "Theo V",
@@ -333,6 +338,7 @@
                 "Nico",
                 "Morgan S",
                 "Gwen",
+                "Fafa",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -360,7 +366,6 @@
                 "Christian S",
                 "Richard S",
                 "Guillaume S",
-                "Fafa",
                 "Adrian L",
                 "Florian N",
                 "J\u00e9r\u00e9my F",
@@ -372,7 +377,10 @@
                 "Claire L",
                 "Gilles K",
                 "Gabriel K",
-                "Mila K"
+                "Mila K",
+                "Dany C",
+                "Shaina P",
+                "Serge D"
             ],
             "number_jumps": 2
         },
@@ -402,7 +410,7 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 51,
+            "number_friends": 54,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -418,6 +426,7 @@
                 "Ju",
                 "Yogesh B",
                 "Gwen",
+                "Fafa",
                 "Mathilde C",
                 "Emma C",
                 "Robin P",
@@ -451,10 +460,12 @@
                 "Christian S",
                 "Richard S",
                 "Guillaume S",
-                "Fafa",
                 "S\u00e9l\u00e9na R",
                 "Celine P",
-                "Laura D"
+                "Laura D",
+                "Dany C",
+                "Shaina P",
+                "Serge D"
             ],
             "number_jumps": 7
         },
@@ -523,15 +534,17 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 27,
+            "number_friends": 30,
             "friends": [
+                "Theo V",
                 "Gabriel C",
                 "Benjamin E",
-                "Theo V",
                 "Morgan S",
                 "Marion L",
                 "Tristan C",
                 "Gwen",
+                "Tibal",
+                "Axel M",
                 "Barbara M",
                 "Pierre G",
                 "Marie noel C",
@@ -542,8 +555,6 @@
                 "Jacqueline S",
                 "Simon",
                 "Thibaut S",
-                "Tibal",
-                "Axel M",
                 "Christian S",
                 "Richard S",
                 "Guillaume S",
@@ -551,7 +562,10 @@
                 "Julien C",
                 "Fabrice P",
                 "Yohann D",
-                "Jo\u00ebl F"
+                "Jo\u00ebl F",
+                "Dany C",
+                "Shaina P",
+                "Serge D"
             ],
             "number_jumps": 2
         },
@@ -588,7 +602,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 21,
+            "number_friends": 23,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -610,7 +624,9 @@
                 "Jimmy M",
                 "Marion L",
                 "Mickael L",
-                "Tibal"
+                "Tibal",
+                "Manon L",
+                "Nico"
             ],
             "number_jumps": 1
         },
