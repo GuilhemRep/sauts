@@ -190,10 +190,10 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 51,
+            "number_friends": 52,
             "friends": [
-                "Simon",
                 "Theo V",
+                "Simon",
                 "B2",
                 "Tibal",
                 "Nico",
@@ -242,9 +242,10 @@
                 "Guillaume S",
                 "Fafa",
                 "S\u00e9l\u00e9na R",
-                "Celine P"
+                "Celine P",
+                "Laura D"
             ],
-            "number_jumps": 27
+            "number_jumps": 28
         },
         {
             "id": "Anabelle V",
@@ -358,7 +359,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 58,
+            "number_friends": 59,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -417,9 +418,10 @@
                 "J\u00e9r\u00e9my F",
                 "Vincent C",
                 "Jimmy M",
-                "Mickael L"
+                "Mickael L",
+                "Laura D"
             ],
-            "number_jumps": 21
+            "number_jumps": 22
         },
         {
             "id": "Thomas M",
@@ -1510,6 +1512,17 @@
                 "Ti Ben"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Laura D",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Theo V",
+                "Axel M"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -1600,7 +1613,7 @@
         {
             "source": "Axel M",
             "target": "Theo V",
-            "width": 2.0,
+            "width": 2.08113883008419,
             "color": "purple"
         },
         {
@@ -3082,6 +3095,18 @@
         {
             "source": "Ti Ben",
             "target": "Tibal",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Laura D",
+            "target": "Theo V",
+            "width": 1.0,
+            "color": "purple"
+        },
+        {
+            "source": "Laura D",
+            "target": "Axel M",
             "width": 1.0,
             "color": "purple"
         }

@@ -73,7 +73,7 @@
             "id": "Matthieu P",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 16,
+            "number_friends": 18,
             "friends": [
                 "Jordan A",
                 "Rachel H",
@@ -83,6 +83,7 @@
                 "Noah S",
                 "Philippe M",
                 "Olivier G",
+                "Laurent G",
                 "Maris M",
                 "Juliette A",
                 "Hubert-Arnaud D",
@@ -90,7 +91,8 @@
                 "In\u00e8s L",
                 "Anael N",
                 "Morgane C",
-                "Laurent G"
+                "Stephane K",
+                "Caroline C"
             ],
             "number_jumps": 4
         },
@@ -108,7 +110,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 58,
+            "number_friends": 59,
             "friends": [
                 "Axel M",
                 "Tibal",
@@ -167,7 +169,8 @@
                 "J\u00e9r\u00e9my F",
                 "Vincent C",
                 "Jimmy M",
-                "Mickael L"
+                "Mickael L",
+                "Laura D"
             ],
             "number_jumps": 7
         },
@@ -407,10 +410,10 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 51,
+            "number_friends": 52,
             "friends": [
-                "Simon",
                 "Theo V",
+                "Simon",
                 "B2",
                 "Tibal",
                 "Nico",
@@ -459,7 +462,8 @@
                 "Guillaume S",
                 "Fafa",
                 "S\u00e9l\u00e9na R",
-                "Celine P"
+                "Celine P",
+                "Laura D"
             ],
             "number_jumps": 7
         },
