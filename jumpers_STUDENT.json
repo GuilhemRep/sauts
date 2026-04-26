@@ -1,7 +1,7 @@
 {
     "nodes": [
         {
-            "id": "Christophe C",
+            "id": "Christophe CHABAN",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -9,7 +9,7 @@
             "number_jumps": 2
         },
         {
-            "id": "Nicolas G",
+            "id": "Nicolas GR",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -27,19 +27,19 @@
             "number_jumps": 4
         },
         {
-            "id": "Yogesh B",
+            "id": "Yogesh",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 3,
             "friends": [
-                "Axel M",
+                "Axel",
                 "Theo V",
                 "Ti Ben"
             ],
             "number_jumps": 8
         },
         {
-            "id": "Eva H",
+            "id": "Eva",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -65,13 +65,13 @@
             "number_jumps": 4
         },
         {
-            "id": "James B",
+            "id": "James BO",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
                 "Theo V",
-                "Alban D"
+                "Alban"
             ],
             "number_jumps": 2
         },
@@ -84,7 +84,7 @@
             "number_jumps": 1
         },
         {
-            "id": "G\u00e9rard B",
+            "id": "G\u00e9rard",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -92,7 +92,7 @@
             "number_jumps": 3
         },
         {
-            "id": "Mathis S",
+            "id": "Mathis",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -118,7 +118,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Yanis M",
+            "id": "Yanis",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -128,7 +128,7 @@
             "number_jumps": 7
         },
         {
-            "id": "Patrice H",
+            "id": "Patrice",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -136,7 +136,7 @@
             "number_jumps": 2
         },
         {
-            "id": "Nathan M",
+            "id": "Nathan",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -151,71 +151,11 @@
             "shape": "rectangle",
             "number_friends": 65,
             "friends": [
-                "Axel M",
+                "Axel",
                 "Tibal",
-                "Marion L",
-                "Fabien L",
-                "Fafa",
-                "Thomas R",
-                "Cyrill P",
-                "Riton",
-                "Quentin B",
-                "Karla M",
-                "Morgane L",
-                "Hugo M",
-                "James B",
-                "Nico",
-                "Franck C",
-                "Simon",
-                "Noah S",
-                "Margot B",
-                "Gwen",
-                "Ti Ben",
-                "L\u00e9o B",
-                "Jerem Gringos",
-                "Mathilde C",
-                "Emma C",
-                "Robin P",
-                "Raphael R",
-                "Solene L",
-                "Ryan M",
-                "Vincent L",
-                "Melanie M",
-                "Pierre L",
-                "Lucas C",
-                "Philippe C",
-                "Yogesh B",
-                "Johanna P",
-                "Hubert-Arnaud D",
-                "Enio L",
-                "Olivier G",
-                "Tom B",
-                "Anael N",
-                "Laurent G",
-                "Christophe L",
-                "Salom\u00e9 C",
-                "Maxime L",
-                "Sandra O",
-                "Stephane K",
-                "Quentin B",
-                "Jacqueline S",
-                "Thibaut S",
-                "Christian S",
-                "Richard S",
-                "Guillaume S",
-                "Tristan B",
-                "Florian N",
-                "J\u00e9r\u00e9my F",
-                "Vincent C",
-                "Jimmy M",
-                "Mickael L",
-                "Laura D",
-                "Gilles K",
-                "Gabriel K",
-                "Mila K",
-                "Dany C",
-                "Shaina P",
-                "Serge D"
+                "Marion",
+                "Fabien",
+                "Fafa"
             ],
             "number_jumps": 2
         },
@@ -236,7 +176,7 @@
             "number_friends": 2,
             "friends": [
                 "Fafa",
-                "Christophe C"
+                "Christophe CHABAU"
             ],
             "number_jumps": 3
         },
@@ -256,33 +196,11 @@
             "shape": "rectangle",
             "number_friends": 27,
             "friends": [
-                "Clement J",
-                "Thierry T",
-                "Nicolas G",
+                "Clement",
+                "Thierry",
+                "Nicolas GO",
                 "Fafa",
-                "Axel M",
-                "Tibal",
-                "Theo V",
-                "Morgan S",
-                "Nathalie B",
-                "Marion L",
-                "L\u00e9a P",
-                "Alexis T",
-                "Thomas L",
-                "Thibault P",
-                "Jeremy A",
-                "Jacqueline S",
-                "Simon",
-                "Thibaut S",
-                "Christian S",
-                "Richard S",
-                "Guillaume S",
-                "Audrey M",
-                "L\u00e9a M",
-                "Ti Ben",
-                "Gilles K",
-                "Gabriel K",
-                "Mila K"
+                "Axel"
             ],
             "number_jumps": 1
         },
@@ -295,38 +213,13 @@
                 "Theo V",
                 "Gabriel C",
                 "Benjamin E",
-                "Morgan S",
-                "Marion L",
-                "Tristan C",
-                "Gwen",
-                "Tibal",
-                "Axel M",
-                "Barbara M",
-                "Pierre G",
-                "Marie noel C",
-                "Nathan M",
-                "Yanis M",
-                "Thibault P",
-                "Mathieu C",
-                "Jacqueline S",
-                "Simon",
-                "Thibaut S",
-                "Christian S",
-                "Richard S",
-                "Guillaume S",
-                "Anthony C",
-                "Julien C",
-                "Fabrice P",
-                "Yohann D",
-                "Jo\u00ebl F",
-                "Dany C",
-                "Shaina P",
-                "Serge D"
+                "Morgan",
+                "Marion"
             ],
             "number_jumps": 2
         },
         {
-            "id": "Thierry T",
+            "id": "Thierry",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -336,7 +229,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Yohann D",
+            "id": "Yohann",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -346,7 +239,7 @@
             "number_jumps": 6
         },
         {
-            "id": "Gauthier C",
+            "id": "Gauthier",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -354,19 +247,19 @@
             "number_jumps": 1
         },
         {
-            "id": "Christophe C",
+            "id": "Christophe CHABAU",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 3,
             "friends": [
-                "Cyrill P",
+                "Cyrill",
                 "Ti Ben",
                 "Gabriel C"
             ],
             "number_jumps": 1
         },
         {
-            "id": "Aymeric T",
+            "id": "Aymeric TO",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -411,60 +304,16 @@
             "shape": "rectangle",
             "number_friends": 49,
             "friends": [
-                "Axel M",
-                "Marion L",
+                "Axel",
+                "Marion",
                 "Ti Ben",
-                "Lorys T",
-                "Thomas M",
-                "Lyna M",
-                "Hugo L",
-                "Hugo J",
-                "Enio L",
-                "Theo V",
-                "Regis R",
-                "Alex F",
-                "Charly A",
-                "Yoram Y",
-                "Aymeric T",
-                "Souka\u00efna B",
-                "Fanny S",
-                "Yann T",
-                "Maxime C",
-                "Mathieu R",
-                "Hubert-Arnaud D",
-                "Olivier G",
-                "Tom B",
-                "Anael N",
-                "Noah S",
-                "Laurent G",
-                "Christophe L",
-                "Salom\u00e9 C",
-                "Hanna U",
-                "Mike F",
-                "Ludmilla L",
-                "Thomas R",
-                "Marie B",
-                "Jonathan V",
-                "Louis G",
-                "Christophe C",
-                "Jacqueline S",
-                "Thibaut S",
-                "Tibal",
-                "Christian S",
-                "Gwen",
-                "Richard S",
-                "Guillaume S",
-                "Fafa",
-                "Aymeric T",
-                "Bryan J",
-                "Victor V",
-                "S\u00e9l\u00e9na R",
-                "Celine P"
+                "Lorys",
+                "Thomas MARS"
             ],
             "number_jumps": 2
         },
         {
-            "id": "Fr\u00e9d\u00e9ric B",
+            "id": "Fr\u00e9d\u00e9ric",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -472,7 +321,7 @@
             "number_jumps": 2
         },
         {
-            "id": "Nicolas G",
+            "id": "Nicolas GO",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -484,7 +333,7 @@
     ],
     "links": [
         {
-            "source": "Yogesh B",
+            "source": "Yogesh",
             "target": "Theo V",
             "width": 1.0,
             "color": "cyan"
@@ -497,19 +346,19 @@
         },
         {
             "source": "Fafa",
-            "target": "Yanis M",
+            "target": "Yanis",
             "width": 1.0,
             "color": "cyan"
         },
         {
-            "source": "Christophe C",
+            "source": "Christophe CHABAU",
             "target": "Gabriel C",
             "width": 1.0,
             "color": "red"
         },
         {
             "source": "Simon",
-            "target": "Aymeric T",
+            "target": "Aymeric TO",
             "width": 1.0,
             "color": "cyan"
         },
@@ -526,7 +375,7 @@
             "color": "cyan"
         },
         {
-            "source": "Yohann D",
+            "source": "Yohann",
             "target": "Fafa",
             "width": 1.0,
             "color": "cyan"
