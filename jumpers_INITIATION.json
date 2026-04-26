@@ -56,13 +56,13 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Axel",
                 "Tibal",
                 "Marion",
                 "Fabien",
-                "Fafa"
+                "Cyrill"
             ],
             "number_jumps": 7
         },
@@ -172,7 +172,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 58,
+            "number_friends": 59,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -252,13 +252,13 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 25,
+            "number_friends": 27,
             "friends": [
-                "Simon",
                 "Marine G",
-                "Stephane K",
+                "Simon",
                 "Cyrill",
-                "Theo V"
+                "Theo V",
+                "Stephane K"
             ],
             "number_jumps": 1
         },

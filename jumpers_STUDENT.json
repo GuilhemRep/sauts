@@ -149,13 +149,13 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Axel",
                 "Tibal",
                 "Marion",
                 "Fabien",
-                "Fafa"
+                "Cyrill"
             ],
             "number_jumps": 2
         },
@@ -334,8 +334,24 @@
             "id": "David R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
+            "number_friends": 1,
+            "friends": [
+                "Axel"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Axel",
+            "color": "green",
+            "shape": "octagon",
+            "number_friends": 59,
+            "friends": [
+                "Theo V",
+                "Simon",
+                "Tibal",
+                "Nico",
+                "Ambre"
+            ],
             "number_jumps": 1
         }
     ],
@@ -385,6 +401,12 @@
         {
             "source": "Yohann",
             "target": "Fafa",
+            "width": 1.0,
+            "color": "cyan"
+        },
+        {
+            "source": "Axel",
+            "target": "David R",
             "width": 1.0,
             "color": "cyan"
         }
