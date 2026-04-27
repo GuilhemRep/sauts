@@ -210,7 +210,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 34,
+            "number_friends": 33,
             "friends": [
                 "Theo V",
                 "Gabriel C",
@@ -347,23 +347,11 @@
             "number_jumps": 1
         },
         {
-            "id": "AP/PAC",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 2,
-            "friends": [
-                "Florian V",
-                "Fafa"
-            ],
-            "number_jumps": 1
-        },
-        {
             "id": "Florian V",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 1,
             "friends": [
-                "AP/PAC",
                 "Fafa"
             ],
             "number_jumps": 1
@@ -423,12 +411,6 @@
             "target": "David R",
             "width": 1.0,
             "color": "cyan"
-        },
-        {
-            "source": "AP/PAC",
-            "target": "Florian V",
-            "width": 1.0,
-            "color": "red"
         }
     ]
 }
