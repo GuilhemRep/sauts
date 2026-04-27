@@ -4,20 +4,19 @@
             "id": "Eric BE",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Arnaud C"
+                "Arnaud C",
+                "Sylvain C"
             ],
-            "number_jumps": 4
+            "number_jumps": 10
         },
         {
             "id": "Arnaud C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 1,
             "friends": [
-                "Eric BE",
-                "Eric BE",
                 "Eric BE"
             ],
             "number_jumps": 8
@@ -214,7 +213,7 @@
             "id": "Tom BR",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 29,
             "friends": [
                 "Noah",
                 "Olivier GENN",
@@ -236,7 +235,7 @@
                 "Matthieu",
                 "Rachel"
             ],
-            "number_jumps": 23
+            "number_jumps": 25
         },
         {
             "id": "Romain",
@@ -531,16 +530,6 @@
             "number_jumps": 7
         },
         {
-            "id": "Eric BE",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 1,
-            "friends": [
-                "Arnaud C"
-            ],
-            "number_jumps": 2
-        },
-        {
             "id": "Antoine C",
             "color": "gray",
             "shape": "rectangle",
@@ -751,17 +740,6 @@
             "number_jumps": 11
         },
         {
-            "id": "Eric BE",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 2,
-            "friends": [
-                "Arnaud C",
-                "Sylvain C"
-            ],
-            "number_jumps": 4
-        },
-        {
             "id": "Paloma",
             "color": "gray",
             "shape": "rectangle",
@@ -939,16 +917,6 @@
                 "Mario"
             ],
             "number_jumps": 5
-        },
-        {
-            "id": "Noah",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 1,
-            "friends": [
-                "Tom BR"
-            ],
-            "number_jumps": 2
         },
         {
             "id": "James BO",
@@ -2158,7 +2126,7 @@
         {
             "source": "Eric BE",
             "target": "Arnaud C",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -2344,7 +2312,7 @@
         {
             "source": "Tom BR",
             "target": "Noah",
-            "width": 2.5,
+            "width": 2.6213203435596424,
             "color": "blue"
         },
         {
@@ -2435,12 +2403,6 @@
             "source": "Juliette A",
             "target": "In\u00e8s",
             "width": 1.5,
-            "color": "blue"
-        },
-        {
-            "source": "Eric BE",
-            "target": "Arnaud C",
-            "width": 1.2071067811865475,
             "color": "blue"
         },
         {
@@ -2566,12 +2528,6 @@
         {
             "source": "Karla",
             "target": "Theo V",
-            "width": 1.2071067811865475,
-            "color": "blue"
-        },
-        {
-            "source": "Eric BE",
-            "target": "Arnaud C",
             "width": 1.2071067811865475,
             "color": "blue"
         },
@@ -3334,12 +3290,6 @@
         {
             "source": "Laurent",
             "target": "Ju",
-            "width": 1.2071067811865475,
-            "color": "blue"
-        },
-        {
-            "source": "Tom BR",
-            "target": "Noah",
             "width": 1.2071067811865475,
             "color": "blue"
         },
