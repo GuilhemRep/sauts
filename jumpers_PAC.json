@@ -22,7 +22,7 @@
                 "Arthur GUIS",
                 "Laurent"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Hugo L",
@@ -102,7 +102,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 73,
+            "number_friends": 75,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -127,7 +127,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Theo V",
                 "Morgan",
@@ -283,7 +283,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 48,
+            "number_friends": 49,
             "friends": [
                 "Matthieu",
                 "Axel",
@@ -372,7 +372,7 @@
                 "Ju",
                 "Gwen"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -583,7 +583,7 @@
         {
             "source": "Momtez",
             "target": "Ju",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {

@@ -85,7 +85,7 @@
                 "Stephane K",
                 "Marine G"
             ],
-            "number_jumps": 24
+            "number_jumps": 25
         },
         {
             "id": "Morgane C",
@@ -277,7 +277,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 59,
+            "number_friends": 61,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -285,7 +285,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Anael",
@@ -729,7 +729,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 73,
+            "number_friends": 75,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -737,7 +737,7 @@
                 "Fabien",
                 "Cyrill"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Paloma",
@@ -840,7 +840,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 48,
+            "number_friends": 49,
             "friends": [
                 "Matthieu",
                 "Axel",
@@ -936,12 +936,12 @@
             "number_friends": 31,
             "friends": [
                 "Marine G",
-                "Laurent",
                 "Fabio",
+                "Laurent",
                 "Christophe L",
                 "Salam\u00e8che"
             ],
-            "number_jumps": 34
+            "number_jumps": 35
         },
         {
             "id": "Yves",
@@ -1215,7 +1215,7 @@
                 "Yves",
                 "Stephane P"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Stephane P",
@@ -1605,7 +1605,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Theo V",
                 "Morgan",
@@ -1897,7 +1897,7 @@
             "id": "Bastien",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 6,
             "friends": [
                 "Renaud F",
                 "Franck B",
@@ -2152,6 +2152,38 @@
             "friends": [
                 "Izampela"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Florine",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Axel",
+                "_ SAUT CLASSIC",
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "_ SAUT CLASSIC",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Florine",
+                "Axel",
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Medhi",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
@@ -4685,7 +4717,7 @@
         {
             "source": "Fabio",
             "target": "Stephane K",
-            "width": 3.5,
+            "width": 3.6622776601683795,
             "color": "blue"
         },
         {
@@ -5321,6 +5353,36 @@
         {
             "source": "Ninie",
             "target": "Izampela",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Axel",
+            "target": "Florine",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "_ SAUT CLASSIC",
+            "target": "Florine",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Florine",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "_ SAUT CLASSIC",
+            "target": "Axel",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "_ SAUT CLASSIC",
+            "target": "Theo V",
             "width": 1.5,
             "color": "blue"
         }
