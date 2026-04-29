@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 49,
+            "number_friends": 50,
             "friends": [
                 "Matthieu",
                 "Axel",
@@ -56,7 +56,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 75,
+            "number_friends": 76,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -64,7 +64,7 @@
                 "Fabien",
                 "Cyrill"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Yoram",
@@ -102,7 +102,7 @@
                 "Gwen",
                 "Mathieu CAI"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Gwen",
@@ -140,11 +140,11 @@
             "friends": [
                 "Marion",
                 "Theo V",
-                "Axel",
                 "Thomas R",
+                "Axel",
                 "Nico"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Mike",
@@ -172,7 +172,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 61,
+            "number_friends": 62,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -194,7 +194,7 @@
                 "Theo V",
                 "Maelys"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Noah",
@@ -216,13 +216,13 @@
             "shape": "rectangle",
             "number_friends": 36,
             "friends": [
-                "Theo V",
                 "Morgan",
+                "Theo V",
                 "Gabriel C",
                 "Benjamin E",
                 "Simon"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Louis",
@@ -280,11 +280,12 @@
             "id": "David T",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Fafa"
+                "Fafa",
+                "Theo V"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Bastien",
@@ -365,7 +366,7 @@
         {
             "source": "Fafa",
             "target": "Morgan",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "green"
         },
         {
@@ -401,6 +402,12 @@
         {
             "source": "Bastien",
             "target": "Fafa",
+            "width": 1.5,
+            "color": "green"
+        },
+        {
+            "source": "David T",
+            "target": "Theo V",
             "width": 1.5,
             "color": "green"
         }

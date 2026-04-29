@@ -19,8 +19,8 @@
             "friends": [
                 "Marion",
                 "Theo V",
-                "Axel",
                 "Thomas R",
+                "Axel",
                 "Nico"
             ],
             "number_jumps": 36
@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 61,
+            "number_friends": 62,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -76,7 +76,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 31
+            "number_jumps": 32
         },
         {
             "id": "Anabelle",
@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 49,
+            "number_friends": 50,
             "friends": [
                 "Matthieu",
                 "Axel",
@@ -101,7 +101,7 @@
                 "Tibal",
                 "Thomas R"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Maelys",
@@ -143,7 +143,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 75,
+            "number_friends": 76,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -340,8 +340,8 @@
             "shape": "rectangle",
             "number_friends": 36,
             "friends": [
-                "Theo V",
                 "Morgan",
+                "Theo V",
                 "Gabriel C",
                 "Benjamin E",
                 "Simon"
@@ -1382,6 +1382,17 @@
             "number_friends": 1,
             "friends": [
                 "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Shanys",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Nico",
+                "Axel"
             ],
             "number_jumps": 1
         }
@@ -3118,6 +3129,18 @@
         {
             "source": "Nico",
             "target": "Lydie",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Shanys",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Shanys",
+            "target": "Axel",
             "width": 1.5,
             "color": "purple"
         }
