@@ -56,7 +56,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 72,
+            "number_friends": 75,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -100,15 +100,15 @@
                 "Tibal",
                 "Benjamin BL",
                 "Gwen",
-                "Mathieu C"
+                "Mathieu CAI"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 33,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -136,10 +136,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 62,
+            "number_friends": 65,
             "friends": [
-                "Marion",
                 "Theo V",
+                "Marion",
                 "Axel",
                 "Thomas R",
                 "Nico"
@@ -217,12 +217,12 @@
             "number_friends": 35,
             "friends": [
                 "Theo V",
+                "Morgan",
                 "Gabriel C",
                 "Benjamin E",
-                "Morgan",
                 "Simon"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Louis",
@@ -252,12 +252,12 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 27,
+            "number_friends": 30,
             "friends": [
                 "Marine G",
                 "Simon",
-                "Cyrill",
                 "Theo V",
+                "Cyrill",
                 "Stephane K"
             ],
             "number_jumps": 1
@@ -357,7 +357,7 @@
         {
             "source": "Fafa",
             "target": "Morgan",
-            "width": 1.2071067811865475,
+            "width": 1.3660254037844386,
             "color": "green"
         },
         {

@@ -151,7 +151,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 72,
+            "number_friends": 75,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -196,7 +196,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 33,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -213,9 +213,9 @@
             "number_friends": 35,
             "friends": [
                 "Theo V",
+                "Morgan",
                 "Gabriel C",
                 "Benjamin E",
-                "Morgan",
                 "Simon"
             ],
             "number_jumps": 2
@@ -354,6 +354,22 @@
             "friends": [
                 "Fafa"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thibault C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Romain W",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
