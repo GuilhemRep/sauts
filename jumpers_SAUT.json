@@ -665,13 +665,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 22,
             "friends": [
+                "Gwen",
                 "Julien N",
                 "Julien BE",
                 "Arthur GUIS",
-                "Laurent",
-                "Izampela"
+                "Laurent"
             ],
             "number_jumps": 6
         },
@@ -941,7 +941,7 @@
                 "Fabio",
                 "Salam\u00e8che"
             ],
-            "number_jumps": 32
+            "number_jumps": 33
         },
         {
             "id": "Yves",
@@ -1165,7 +1165,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 33,
+            "number_friends": 34,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -1688,14 +1688,15 @@
             "id": "Fran\u00e7ois",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 5,
             "friends": [
                 "Franck B",
                 "Kilyan",
                 "Pauline",
-                "Eliot"
+                "Eliot",
+                "Bastien"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Marion",
@@ -1896,14 +1897,15 @@
             "id": "Bastien",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 5,
             "friends": [
                 "Renaud F",
                 "Franck B",
                 "Pascal M",
-                "Bertrand"
+                "Bertrand",
+                "Fran\u00e7ois"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Ambre",
@@ -2139,7 +2141,7 @@
             "friends": [
                 "Stephane K"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -5362,6 +5364,12 @@
         {
             "source": "Stephane K",
             "target": "Jerome",
+            "width": 1.2071067811865475,
+            "color": "blue"
+        },
+        {
+            "source": "Bastien",
+            "target": "Fran\u00e7ois",
             "width": 1.0,
             "color": "blue"
         }

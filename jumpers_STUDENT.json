@@ -196,7 +196,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 33,
+            "number_friends": 34,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -362,10 +362,18 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Romain W",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 2
+        },
+        {
+            "id": "St\u00e9phane",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
