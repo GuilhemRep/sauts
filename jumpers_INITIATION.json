@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 47,
+            "number_friends": 48,
             "friends": [
                 "Matthieu",
                 "Axel",
@@ -56,7 +56,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 71,
+            "number_friends": 72,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -80,7 +80,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 54,
+            "number_friends": 55,
             "friends": [
                 "Axel",
                 "Marion",
@@ -108,7 +108,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 32,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -136,7 +136,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 61,
+            "number_friends": 62,
             "friends": [
                 "Marion",
                 "Theo V",
@@ -214,7 +214,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 34,
+            "number_friends": 35,
             "friends": [
                 "Theo V",
                 "Gabriel C",
@@ -222,7 +222,7 @@
                 "Morgan",
                 "Simon"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Louis",
@@ -273,6 +273,16 @@
                 "Tom BR",
                 "Julien BE",
                 "Renan"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "David T",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Fafa"
             ],
             "number_jumps": 1
         }
@@ -371,6 +381,12 @@
         {
             "source": "Enio",
             "target": "Simon",
+            "width": 1.0,
+            "color": "green"
+        },
+        {
+            "source": "Fafa",
+            "target": "David T",
             "width": 1.0,
             "color": "green"
         }
