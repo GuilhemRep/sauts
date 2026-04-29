@@ -144,7 +144,7 @@
                 "Thomas R",
                 "Nico"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Mike",
@@ -194,7 +194,7 @@
                 "Theo V",
                 "Maelys"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Noah",
@@ -222,7 +222,7 @@
                 "Benjamin E",
                 "Simon"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Louis",
@@ -284,7 +284,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -381,7 +381,7 @@
         {
             "source": "Fafa",
             "target": "David T",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "green"
         }
     ]
