@@ -112,9 +112,9 @@
             "friends": [
                 "Clement",
                 "Thierry",
+                "Ju",
                 "Nicolas GO",
-                "Axel",
-                "Tibal"
+                "Axel"
             ],
             "number_jumps": 4
         },
@@ -136,10 +136,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 64,
+            "number_friends": 65,
             "friends": [
-                "Theo V",
                 "Marion",
+                "Theo V",
                 "Axel",
                 "Thomas R",
                 "Nico"
@@ -222,7 +222,7 @@
                 "Benjamin E",
                 "Simon"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Louis",
@@ -284,7 +284,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         }
     ],
     "links": [
@@ -381,7 +381,7 @@
         {
             "source": "Fafa",
             "target": "David T",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "green"
         }
     ]

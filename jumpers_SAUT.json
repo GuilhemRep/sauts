@@ -1039,7 +1039,7 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 10,
             "friends": [
                 "Stephane K",
                 "Ju",
@@ -1047,7 +1047,7 @@
                 "Christophe L",
                 "Laurent"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Guilhem",
@@ -1169,9 +1169,9 @@
             "friends": [
                 "Clement",
                 "Thierry",
+                "Ju",
                 "Nicolas GO",
-                "Axel",
-                "Tibal"
+                "Axel"
             ],
             "number_jumps": 1
         },
@@ -1215,7 +1215,7 @@
                 "Yves",
                 "Stephane P"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Stephane P",
@@ -1302,10 +1302,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 64,
+            "number_friends": 65,
             "friends": [
-                "Theo V",
                 "Marion",
+                "Theo V",
                 "Axel",
                 "Thomas R",
                 "Nico"
@@ -1702,7 +1702,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 43,
+            "number_friends": 44,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -2143,6 +2143,16 @@
                 "Fabio"
             ],
             "number_jumps": 3
+        },
+        {
+            "id": "Ninie",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Izampela"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -5305,6 +5315,12 @@
         {
             "source": "Fabio",
             "target": "Jerome",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Ninie",
+            "target": "Izampela",
             "width": 1.5,
             "color": "blue"
         }
