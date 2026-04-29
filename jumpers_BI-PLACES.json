@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 63,
+            "number_friends": 64,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -23,7 +23,7 @@
                 "Thomas R",
                 "Nico"
             ],
-            "number_jumps": 34
+            "number_jumps": 35
         },
         {
             "id": "Marion",
@@ -1351,6 +1351,16 @@
             "friends": [
                 "Tibal",
                 "Axel"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "L\u00e9a T",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Tibal"
             ],
             "number_jumps": 1
         }
@@ -3063,6 +3073,12 @@
         {
             "source": "Benjamin G",
             "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "L\u00e9a T",
+            "target": "Tibal",
             "width": 1.5,
             "color": "purple"
         }

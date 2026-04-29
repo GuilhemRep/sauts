@@ -22,7 +22,7 @@
                 "Arthur GUIS",
                 "Laurent"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Hugo L",
@@ -110,7 +110,7 @@
                 "Fabien",
                 "Cyrill"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Gabriel C",
@@ -135,7 +135,7 @@
                 "Benjamin E",
                 "Simon"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Nathan M",
@@ -241,7 +241,7 @@
                 "Fafa",
                 "Simon"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "C\u00e9lestin",
@@ -252,13 +252,13 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 63,
+            "number_friends": 64,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -324,7 +324,7 @@
                 "Ju",
                 "Gwen"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "S\u00e9bastien",
@@ -481,7 +481,7 @@
         {
             "source": "Fafa",
             "target": "Aur\u00e9lia",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
@@ -499,7 +499,7 @@
         {
             "source": "C\u00e9lestin",
             "target": "Theo V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
@@ -541,7 +541,7 @@
         {
             "source": "Ju",
             "target": "Nathan N",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
