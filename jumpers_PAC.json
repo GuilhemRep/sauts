@@ -102,7 +102,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 75,
+            "number_friends": 73,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -258,7 +258,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 63,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -338,41 +338,11 @@
             "number_jumps": 1
         },
         {
-            "id": "SP/INIT IS",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 5,
-            "friends": [
-                "Mathieu CAR",
-                "Tibal",
-                "Theo V",
-                "VDOman",
-                "Ti Ben"
-            ],
-            "number_jumps": 1
-        },
-        {
             "id": "Mathieu CAR",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 3,
             "friends": [
-                "SP/INIT IS",
-                "Tibal",
-                "Theo V",
-                "VDOman",
-                "Ti Ben"
-            ],
-            "number_jumps": 1
-        },
-        {
-            "id": "VDOman",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 5,
-            "friends": [
-                "SP/INIT IS",
-                "Mathieu CAR",
                 "Tibal",
                 "Theo V",
                 "Ti Ben"
@@ -383,7 +353,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 30,
+            "number_friends": 28,
             "friends": [
                 "Marine G",
                 "Simon",
@@ -630,36 +600,6 @@
         },
         {
             "source": "Mathieu CAR",
-            "target": "SP/INIT IS",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
-            "source": "SP/INIT IS",
-            "target": "Tibal",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
-            "source": "SP/INIT IS",
-            "target": "Theo V",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
-            "source": "SP/INIT IS",
-            "target": "VDOman",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
-            "source": "SP/INIT IS",
-            "target": "Ti Ben",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
-            "source": "Mathieu CAR",
             "target": "Tibal",
             "width": 1.0,
             "color": "orange"
@@ -667,12 +607,6 @@
         {
             "source": "Mathieu CAR",
             "target": "Theo V",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
-            "source": "Mathieu CAR",
-            "target": "VDOman",
             "width": 1.0,
             "color": "orange"
         },
@@ -683,32 +617,14 @@
             "color": "orange"
         },
         {
-            "source": "Tibal",
-            "target": "VDOman",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
             "source": "Ti Ben",
             "target": "Tibal",
             "width": 1.0,
             "color": "orange"
         },
         {
-            "source": "VDOman",
-            "target": "Theo V",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
             "source": "Ti Ben",
             "target": "Theo V",
-            "width": 1.0,
-            "color": "orange"
-        },
-        {
-            "source": "Ti Ben",
-            "target": "VDOman",
             "width": 1.0,
             "color": "orange"
         },
