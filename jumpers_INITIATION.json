@@ -22,8 +22,8 @@
             "friends": [
                 "Matthieu",
                 "Axel",
-                "Marion",
                 "Benoit",
+                "Marion",
                 "Tibal"
             ],
             "number_jumps": 6
@@ -64,7 +64,7 @@
                 "Fabien",
                 "Cyrill"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Yoram",
@@ -108,7 +108,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 34,
+            "number_friends": 35,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -285,7 +285,7 @@
                 "Fafa",
                 "Theo V"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Bastien",
@@ -408,7 +408,7 @@
         {
             "source": "David T",
             "target": "Theo V",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "green"
         }
     ]

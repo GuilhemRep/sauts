@@ -17,12 +17,12 @@
             "number_friends": 22,
             "friends": [
                 "Gwen",
+                "Cyriaque",
                 "Nathan N",
                 "Momtez",
-                "Julien N",
-                "Julien BE"
+                "Julien N"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Hugo L",
@@ -171,7 +171,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 34,
+            "number_friends": 35,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -277,7 +277,7 @@
                 "Ju",
                 "Nico"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Nico",
@@ -287,11 +287,11 @@
             "friends": [
                 "Matthieu",
                 "Axel",
-                "Marion",
                 "Benoit",
+                "Marion",
                 "Tibal"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Benoit",
@@ -302,7 +302,7 @@
                 "Nico",
                 "Simon"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Emma CO",
@@ -505,7 +505,7 @@
         {
             "source": "Cyriaque",
             "target": "Ju",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
@@ -517,7 +517,7 @@
         {
             "source": "Nico",
             "target": "Benoit",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "orange"
         },
         {

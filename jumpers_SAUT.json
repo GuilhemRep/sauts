@@ -668,10 +668,10 @@
             "number_friends": 22,
             "friends": [
                 "Gwen",
+                "Cyriaque",
                 "Nathan N",
                 "Momtez",
-                "Julien N",
-                "Julien BE"
+                "Julien N"
             ],
             "number_jumps": 6
         },
@@ -705,7 +705,7 @@
             "id": "Charline",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 6,
+            "number_friends": 7,
             "friends": [
                 "Marie M",
                 "Salom\u00e9",
@@ -713,7 +713,7 @@
                 "Nico",
                 "Mario"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Karla",
@@ -844,8 +844,8 @@
             "friends": [
                 "Matthieu",
                 "Axel",
-                "Marion",
                 "Benoit",
+                "Marion",
                 "Tibal"
             ],
             "number_jumps": 7
@@ -1167,7 +1167,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 34,
+            "number_friends": 35,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -2141,12 +2141,13 @@
             "id": "Jerome",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
                 "Stephane K",
-                "Fabio"
+                "Fabio",
+                "Charline"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Ninie",
@@ -2188,7 +2189,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Valerian",
@@ -5433,6 +5434,12 @@
         {
             "source": "Valerian",
             "target": "Axel",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Charline",
+            "target": "Jerome",
             "width": 1.5,
             "color": "blue"
         }
