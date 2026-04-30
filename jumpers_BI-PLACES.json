@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 62,
+            "number_friends": 63,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -213,10 +213,10 @@
             "number_friends": 22,
             "friends": [
                 "Gwen",
+                "Nathan N",
                 "Momtez",
                 "Julien N",
-                "Julien BE",
-                "Arthur GUIS"
+                "Julien BE"
             ],
             "number_jumps": 5
         },
@@ -342,9 +342,9 @@
             "friends": [
                 "Morgan",
                 "Theo V",
+                "Aur\u00e9lia",
                 "Gabriel C",
-                "Benjamin E",
-                "Simon"
+                "Benjamin E"
             ],
             "number_jumps": 9
         },
@@ -765,7 +765,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Alexis",
+            "id": "Alexis T",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -2222,7 +2222,7 @@
         },
         {
             "source": "Gwen",
-            "target": "Alexis",
+            "target": "Alexis T",
             "width": 1.5,
             "color": "purple"
         },

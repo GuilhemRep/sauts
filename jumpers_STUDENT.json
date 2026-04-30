@@ -214,9 +214,9 @@
             "friends": [
                 "Morgan",
                 "Theo V",
+                "Aur\u00e9lia",
                 "Gabriel C",
-                "Benjamin E",
-                "Simon"
+                "Benjamin E"
             ],
             "number_jumps": 2
         },
@@ -336,7 +336,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 62,
+            "number_friends": 63,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -382,6 +382,14 @@
         },
         {
             "id": "Camille",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Alexis F",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
