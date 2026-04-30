@@ -17,12 +17,12 @@
             "number_friends": 22,
             "friends": [
                 "Gwen",
+                "Momtez",
                 "Julien N",
                 "Julien BE",
-                "Arthur GUIS",
-                "Laurent"
+                "Arthur GUIS"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Hugo L",
@@ -110,7 +110,7 @@
                 "Fabien",
                 "Cyrill"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Gabriel C",
@@ -288,10 +288,10 @@
                 "Matthieu",
                 "Axel",
                 "Marion",
-                "Tibal",
-                "Thomas R"
+                "Benoit",
+                "Tibal"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Benoit",
@@ -302,7 +302,7 @@
                 "Nico",
                 "Simon"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Emma CO",
@@ -313,7 +313,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Nathan N",
@@ -372,7 +372,7 @@
                 "Ju",
                 "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         }
     ],
     "links": [
@@ -517,7 +517,7 @@
         {
             "source": "Nico",
             "target": "Benoit",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "orange"
         },
         {
@@ -535,7 +535,7 @@
         {
             "source": "Emma CO",
             "target": "Theo V",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "orange"
         },
         {
@@ -583,7 +583,7 @@
         {
             "source": "Momtez",
             "target": "Ju",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
