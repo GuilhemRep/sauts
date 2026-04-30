@@ -341,8 +341,8 @@
             "number_friends": 36,
             "friends": [
                 "Morgan",
-                "Theo V",
                 "Aur\u00e9lia",
+                "Theo V",
                 "Gabriel C",
                 "Benjamin E"
             ],
@@ -682,7 +682,7 @@
                 "Nicolas GO",
                 "Axel"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Katia",
@@ -903,7 +903,7 @@
                 "Thibaut S",
                 "Tibal",
                 "Axel",
-                "Christian"
+                "Christian S"
             ],
             "number_jumps": 1
         },
@@ -917,12 +917,12 @@
                 "Simon",
                 "Tibal",
                 "Axel",
-                "Christian"
+                "Christian S"
             ],
             "number_jumps": 1
         },
         {
-            "id": "Christian",
+            "id": "Christian S",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 10,
@@ -1404,7 +1404,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -2351,7 +2351,7 @@
             "color": "purple"
         },
         {
-            "source": "Christian",
+            "source": "Christian S",
             "target": "Jacqueline",
             "width": 1.5,
             "color": "purple"
@@ -2393,7 +2393,7 @@
             "color": "purple"
         },
         {
-            "source": "Christian",
+            "source": "Christian S",
             "target": "Simon",
             "width": 1.5,
             "color": "purple"
@@ -2423,7 +2423,7 @@
             "color": "purple"
         },
         {
-            "source": "Christian",
+            "source": "Christian S",
             "target": "Thibaut S",
             "width": 1.5,
             "color": "purple"
@@ -2459,7 +2459,7 @@
             "color": "purple"
         },
         {
-            "source": "Christian",
+            "source": "Christian S",
             "target": "Tibal",
             "width": 1.5,
             "color": "purple"
@@ -2478,7 +2478,7 @@
         },
         {
             "source": "Axel",
-            "target": "Christian",
+            "target": "Christian S",
             "width": 1.5,
             "color": "purple"
         },
@@ -2496,31 +2496,31 @@
         },
         {
             "source": "Gwen",
-            "target": "Christian",
+            "target": "Christian S",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Christian",
+            "source": "Christian S",
             "target": "Richard S",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Christian",
+            "source": "Christian S",
             "target": "Theo V",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Christian",
+            "source": "Christian S",
             "target": "Guillaume S",
             "width": 1.5,
             "color": "purple"
         },
         {
             "source": "Fafa",
-            "target": "Christian",
+            "target": "Christian S",
             "width": 1.5,
             "color": "purple"
         },
@@ -3157,7 +3157,7 @@
         {
             "source": "Gwen",
             "target": "Oskar",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "purple"
         }
     ]
