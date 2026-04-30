@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
                 "Matthieu",
                 "Axel",
@@ -80,13 +80,13 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 55,
+            "number_friends": 56,
             "friends": [
                 "Axel",
                 "Marion",
                 "Ti Ben",
                 "Fafa",
-                "Lorys"
+                "Nico"
             ],
             "number_jumps": 5
         },
@@ -217,12 +217,12 @@
             "number_friends": 36,
             "friends": [
                 "Morgan",
-                "Aur\u00e9lia",
+                "Aur\u00e9lia P",
                 "Theo V",
-                "Gabriel C",
-                "Benjamin E"
+                "David T",
+                "Gabriel C"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Louis",
@@ -285,7 +285,7 @@
                 "Fafa",
                 "Theo V"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Bastien",
@@ -396,7 +396,7 @@
         {
             "source": "Fafa",
             "target": "David T",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "green"
         },
         {

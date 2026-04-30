@@ -213,10 +213,10 @@
             "number_friends": 36,
             "friends": [
                 "Morgan",
-                "Aur\u00e9lia",
+                "Aur\u00e9lia P",
                 "Theo V",
-                "Gabriel C",
-                "Benjamin E"
+                "David T",
+                "Gabriel C"
             ],
             "number_jumps": 2
         },
@@ -294,13 +294,13 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 55,
+            "number_friends": 56,
             "friends": [
                 "Axel",
                 "Marion",
                 "Ti Ben",
                 "Fafa",
-                "Lorys"
+                "Nico"
             ],
             "number_jumps": 2
         },
@@ -395,6 +395,14 @@
             "number_friends": 0,
             "friends": [],
             "number_jumps": 2
+        },
+        {
+            "id": "Aur\u00e9lia B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
         }
     ],
     "links": [

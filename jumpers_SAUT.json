@@ -668,9 +668,9 @@
             "number_friends": 22,
             "friends": [
                 "Gwen",
+                "Momtez",
                 "Cyriaque",
                 "Nathan N",
-                "Momtez",
                 "Julien N"
             ],
             "number_jumps": 6
@@ -840,7 +840,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
                 "Matthieu",
                 "Axel",
@@ -1216,10 +1216,10 @@
                 "Stephane K",
                 "Hubert-Arnaud",
                 "Jonas",
-                "Florian H",
-                "Philippe H"
+                "Christian G",
+                "Florian H"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Stephane P",
@@ -1585,13 +1585,13 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 55,
+            "number_friends": 56,
             "friends": [
                 "Axel",
                 "Marion",
                 "Ti Ben",
                 "Fafa",
-                "Lorys"
+                "Nico"
             ],
             "number_jumps": 3
         },
@@ -1612,10 +1612,10 @@
             "number_friends": 36,
             "friends": [
                 "Morgan",
-                "Aur\u00e9lia",
+                "Aur\u00e9lia P",
                 "Theo V",
-                "Gabriel C",
-                "Benjamin E"
+                "David T",
+                "Gabriel C"
             ],
             "number_jumps": 4
         },
@@ -1797,7 +1797,7 @@
             "id": "Remy",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 6,
             "friends": [
                 "David J",
                 "Franck B",
@@ -1805,7 +1805,7 @@
                 "Lionel",
                 "Fran\u00e7ois"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "David J",
@@ -2189,9 +2189,11 @@
             "id": "Medhi",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 3
+            "number_friends": 1,
+            "friends": [
+                "Remy"
+            ],
+            "number_jumps": 4
         },
         {
             "id": "Valerian",
@@ -2209,12 +2211,12 @@
             "shape": "rectangle",
             "number_friends": 4,
             "friends": [
+                "Benjamin BL",
                 "Hubert-Arnaud",
                 "Stephane K",
-                "Jonas",
-                "Benjamin BL"
+                "Jonas"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -5485,6 +5487,12 @@
         {
             "source": "Benjamin BL",
             "target": "Christian G",
+            "width": 1.9142135623730951,
+            "color": "blue"
+        },
+        {
+            "source": "Remy",
+            "target": "Medhi",
             "width": 1.5,
             "color": "blue"
         }

@@ -17,12 +17,12 @@
             "number_friends": 22,
             "friends": [
                 "Gwen",
+                "Momtez",
                 "Cyriaque",
                 "Nathan N",
-                "Momtez",
                 "Julien N"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Hugo L",
@@ -38,15 +38,15 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 55,
+            "number_friends": 56,
             "friends": [
                 "Axel",
                 "Marion",
                 "Ti Ben",
                 "Fafa",
-                "Lorys"
+                "Nico"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Hugo J",
@@ -110,7 +110,7 @@
                 "Fabien",
                 "Cyrill"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Gabriel C",
@@ -130,10 +130,10 @@
             "number_friends": 36,
             "friends": [
                 "Morgan",
-                "Aur\u00e9lia",
+                "Aur\u00e9lia P",
                 "Theo V",
-                "Gabriel C",
-                "Benjamin E"
+                "David T",
+                "Gabriel C"
             ],
             "number_jumps": 16
         },
@@ -233,7 +233,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Aur\u00e9lia",
+            "id": "Aur\u00e9lia P",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
@@ -252,7 +252,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Tibal",
@@ -283,7 +283,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
                 "Matthieu",
                 "Axel",
@@ -291,7 +291,7 @@
                 "Marion",
                 "Tibal"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Benoit",
@@ -372,7 +372,18 @@
                 "Ju",
                 "Gwen"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
+        },
+        {
+            "id": "Gabin",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Nico",
+                "Simon"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -480,12 +491,12 @@
         },
         {
             "source": "Fafa",
-            "target": "Aur\u00e9lia",
+            "target": "Aur\u00e9lia P",
             "width": 2.73606797749979,
             "color": "orange"
         },
         {
-            "source": "Aur\u00e9lia",
+            "source": "Aur\u00e9lia P",
             "target": "Simon",
             "width": 1.5,
             "color": "orange"
@@ -499,7 +510,7 @@
         {
             "source": "C\u00e9lestin",
             "target": "Theo V",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "orange"
         },
         {
@@ -583,12 +594,24 @@
         {
             "source": "Momtez",
             "target": "Ju",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "orange"
         },
         {
             "source": "Gwen",
             "target": "Momtez",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Nico",
+            "target": "Gabin",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Gabin",
+            "target": "Simon",
             "width": 1.5,
             "color": "orange"
         }
