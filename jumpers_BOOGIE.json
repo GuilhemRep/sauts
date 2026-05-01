@@ -146,7 +146,7 @@
                 "Tom BR",
                 "Noah"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Caroline",
@@ -182,13 +182,13 @@
             "shape": "rectangle",
             "number_friends": 11,
             "friends": [
-                "Izampela",
                 "Matthieu",
                 "Sarah",
+                "Izampela",
                 "Florian H",
                 "Marie M"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Matthieu",
@@ -202,7 +202,7 @@
                 "Olivier GENN",
                 "Tom BR"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Sarah",
@@ -216,7 +216,7 @@
                 "Caroline",
                 "Christian G"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Tom BR",
@@ -483,19 +483,19 @@
         {
             "source": "Ninie",
             "target": "Matthieu",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Ninie",
             "target": "Sarah",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Matthieu",
             "target": "Sarah",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -621,7 +621,7 @@
         {
             "source": "Rachel",
             "target": "Ninie",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
@@ -639,7 +639,7 @@
         {
             "source": "Rachel",
             "target": "Matthieu",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
@@ -657,7 +657,7 @@
         {
             "source": "Rachel",
             "target": "Sarah",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {

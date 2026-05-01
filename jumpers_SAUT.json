@@ -277,7 +277,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 65,
+            "number_friends": 66,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -729,7 +729,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -840,10 +840,10 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 52,
+            "number_friends": 53,
             "friends": [
-                "Matthieu",
                 "Axel",
+                "Matthieu",
                 "Benoit",
                 "Marion",
                 "Lionel"
@@ -1585,7 +1585,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 57,
+            "number_friends": 58,
             "friends": [
                 "Axel",
                 "Marion",
@@ -1706,7 +1706,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 45,
+            "number_friends": 46,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -2158,9 +2158,9 @@
             "shape": "rectangle",
             "number_friends": 11,
             "friends": [
-                "Izampela",
                 "Matthieu",
                 "Sarah",
+                "Izampela",
                 "Florian H",
                 "Marie M"
             ],
@@ -2236,8 +2236,10 @@
             "id": "Adrien",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
             "number_jumps": 1
         }
     ],
