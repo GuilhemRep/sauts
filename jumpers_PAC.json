@@ -46,7 +46,7 @@
                 "Fafa",
                 "Nico"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Hugo J",
@@ -127,7 +127,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
@@ -258,12 +258,12 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 66,
             "friends": [
                 "Marion",
                 "Theo V",
-                "Thomas R",
                 "Axel",
+                "Thomas R",
                 "Nico"
             ],
             "number_jumps": 3
@@ -380,10 +380,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Nico",
-                "Simon"
+                "Simon",
+                "Nico"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Teiki",
@@ -622,7 +622,7 @@
         {
             "source": "Gabin",
             "target": "Simon",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {

@@ -15,15 +15,15 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 66,
             "friends": [
                 "Marion",
                 "Theo V",
-                "Thomas R",
                 "Axel",
+                "Thomas R",
                 "Nico"
             ],
-            "number_jumps": 36
+            "number_jumps": 37
         },
         {
             "id": "Marion",
@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 63,
+            "number_friends": 64,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -76,7 +76,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 32
+            "number_jumps": 33
         },
         {
             "id": "Anabelle",
@@ -338,7 +338,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
@@ -1405,6 +1405,17 @@
                 "Gwen"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Millo",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Tibal",
+                "Axel"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -3158,6 +3169,18 @@
             "source": "Gwen",
             "target": "Oskar",
             "width": 1.9142135623730951,
+            "color": "purple"
+        },
+        {
+            "source": "Millo",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Axel",
+            "target": "Millo",
+            "width": 1.5,
             "color": "purple"
         }
     ]

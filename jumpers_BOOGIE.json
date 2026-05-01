@@ -54,7 +54,7 @@
             "id": "Laurie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 6,
+            "number_friends": 9,
             "friends": [
                 "Izampela",
                 "Fabio",
@@ -62,7 +62,7 @@
                 "Benjamin BL",
                 "Riton"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Benjamin BL",
@@ -210,6 +210,48 @@
             "friends": [
                 "Ninie",
                 "Matthieu"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Tom BR",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 31,
+            "friends": [
+                "Noah",
+                "Olivier GENN",
+                "Matthieu",
+                "Rachel",
+                "Jordan"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ana\u00ebl",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 7,
+            "friends": [
+                "Christophe L",
+                "Sylvain C",
+                "Hubert-Arnaud",
+                "Laurent",
+                "Laurie"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Noah",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 28,
+            "friends": [
+                "Tom BR",
+                "Olivier GENN",
+                "Enio",
+                "Matthieu",
+                "Rachel"
             ],
             "number_jumps": 1
         }
@@ -392,6 +434,42 @@
         {
             "source": "Matthieu",
             "target": "Sarah",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Tom BR",
+            "target": "Laurie",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Laurie",
+            "target": "Ana\u00ebl",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Laurie",
+            "target": "Noah",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Tom BR",
+            "target": "Ana\u00ebl",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Tom BR",
+            "target": "Noah",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Ana\u00ebl",
+            "target": "Noah",
             "width": 1.5,
             "color": "brown"
         }
