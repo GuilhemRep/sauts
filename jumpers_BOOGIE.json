@@ -12,7 +12,7 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 26,
+            "number_friends": 25,
             "friends": [
                 "Stephane K",
                 "Fabio",
@@ -26,7 +26,7 @@
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 29,
+            "number_friends": 28,
             "friends": [
                 "Stephane K",
                 "Laurent",
@@ -40,7 +40,7 @@
             "id": "Stephane K",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 36,
             "friends": [
                 "Fabio",
                 "Marine G",
@@ -54,7 +54,7 @@
             "id": "Laurie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 12,
             "friends": [
                 "Izampela",
                 "Fabio",
@@ -68,7 +68,7 @@
             "id": "Benjamin BL",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 18,
+            "number_friends": 17,
             "friends": [
                 "Stephane K",
                 "Fabio",
@@ -82,7 +82,7 @@
             "id": "Riton",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 22,
             "friends": [
                 "Cyrill",
                 "L\u00e9o",
@@ -96,7 +96,7 @@
             "id": "Eliman",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 8,
+            "number_friends": 7,
             "friends": [
                 "Izampela",
                 "Fabio",
@@ -348,27 +348,13 @@
             "id": "_ SAUT CLASSIC",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 12,
+            "number_friends": 11,
             "friends": [
                 "Axel",
                 "Theo V",
                 "Florine",
                 "Ju",
                 "Izampela"
-            ],
-            "number_jumps": 1
-        },
-        {
-            "id": "BOOGIE",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 8,
-            "friends": [
-                "Izampela",
-                "Fabio",
-                "Stephane K",
-                "Laurie",
-                "Benjamin BL"
             ],
             "number_jumps": 1
         }
@@ -831,43 +817,19 @@
             "color": "brown"
         },
         {
-            "source": "BOOGIE",
-            "target": "Izampela",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
             "source": "_ SAUT CLASSIC",
             "target": "Fabio",
             "width": 1.5,
             "color": "brown"
         },
         {
-            "source": "Fabio",
-            "target": "BOOGIE",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
             "source": "_ SAUT CLASSIC",
             "target": "Stephane K",
             "width": 1.5,
             "color": "brown"
         },
         {
-            "source": "BOOGIE",
-            "target": "Stephane K",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
             "source": "_ SAUT CLASSIC",
-            "target": "Laurie",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
-            "source": "BOOGIE",
             "target": "Laurie",
             "width": 1.5,
             "color": "brown"
@@ -879,12 +841,6 @@
             "color": "brown"
         },
         {
-            "source": "Benjamin BL",
-            "target": "BOOGIE",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
             "source": "_ SAUT CLASSIC",
             "target": "Riton",
             "width": 1.5,
@@ -892,24 +848,6 @@
         },
         {
             "source": "_ SAUT CLASSIC",
-            "target": "BOOGIE",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
-            "target": "Eliman",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
-            "source": "BOOGIE",
-            "target": "Riton",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
-            "source": "BOOGIE",
             "target": "Eliman",
             "width": 1.5,
             "color": "brown"
