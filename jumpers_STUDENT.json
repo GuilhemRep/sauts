@@ -153,7 +153,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 78,
+            "number_friends": 79,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -161,7 +161,7 @@
                 "Fabien",
                 "C\u00e9lestin"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Tristan C",
@@ -387,9 +387,11 @@
             "id": "Camille",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 5
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 6
         },
         {
             "id": "Alexis F",
@@ -416,7 +418,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "C\u00e9lestin",
@@ -427,7 +429,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Teiki",
@@ -436,6 +438,28 @@
             "number_friends": 1,
             "friends": [
                 "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nathan N",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Cyriaque",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Nico"
             ],
             "number_jumps": 1
         }
@@ -498,6 +522,12 @@
         {
             "source": "Eva",
             "target": "Axel",
+            "width": 1.5,
+            "color": "cyan"
+        },
+        {
+            "source": "Camille",
+            "target": "Theo V",
             "width": 1.5,
             "color": "cyan"
         }

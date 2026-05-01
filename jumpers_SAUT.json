@@ -77,7 +77,7 @@
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 28,
+            "number_friends": 29,
             "friends": [
                 "Stephane K",
                 "Laurent",
@@ -665,13 +665,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 24,
+            "number_friends": 29,
             "friends": [
                 "Cyriaque",
                 "Nathan N",
                 "Gwen",
                 "Momtez",
-                "Axel"
+                "Izampela"
             ],
             "number_jumps": 8
         },
@@ -731,7 +731,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 78,
+            "number_friends": 79,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -1220,7 +1220,7 @@
             "id": "Benjamin BL",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 17,
+            "number_friends": 18,
             "friends": [
                 "Stephane K",
                 "Fabio",
@@ -1869,13 +1869,13 @@
             "id": "Riton",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 23,
             "friends": [
                 "Cyrill",
                 "L\u00e9o",
                 "Stephane K",
                 "Fabio",
-                "Theo V"
+                "Izampela"
             ],
             "number_jumps": 20
         },
@@ -2207,11 +2207,11 @@
             "shape": "rectangle",
             "number_friends": 11,
             "friends": [
-                "Axel",
-                "Theo V",
                 "Izampela",
                 "Fabio",
-                "Stephane K"
+                "Stephane K",
+                "Laurie",
+                "Benjamin BL"
             ],
             "number_jumps": 2
         },
@@ -2246,7 +2246,7 @@
                 "Florian H",
                 "Marie M",
                 "Christophe L",
-                "Alexandra"
+                "Alexandra B"
             ],
             "number_jumps": 3
         },
@@ -2303,6 +2303,14 @@
                 "Axel",
                 "Salom\u00e9"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Alexandra G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
