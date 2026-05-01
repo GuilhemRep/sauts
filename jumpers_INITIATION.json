@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 54,
+            "number_friends": 55,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -80,7 +80,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 59,
+            "number_friends": 60,
             "friends": [
                 "Axel",
                 "Marion",
@@ -172,7 +172,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -214,13 +214,13 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
                 "Theo V",
                 "David T",
-                "Gabriel C"
+                "Marion"
             ],
             "number_jumps": 9
         },
@@ -252,7 +252,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -266,12 +266,12 @@
             "id": "Enio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 20,
             "friends": [
                 "Anael",
                 "Noah",
-                "Tom BR",
                 "Jean-Michel",
+                "Tom BR",
                 "Julien BE"
             ],
             "number_jumps": 1
@@ -305,9 +305,12 @@
             "id": "Adrien",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 4,
             "friends": [
-                "Theo V"
+                "Theo V",
+                "Enio",
+                "Guilhem",
+                "Jean-Michel"
             ],
             "number_jumps": 1
         },

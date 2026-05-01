@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 56,
+            "number_friends": 57,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -37,7 +37,7 @@
                 "Nico",
                 "Axel"
             ],
-            "number_jumps": 32
+            "number_jumps": 33
         },
         {
             "id": "Lorys",
@@ -54,7 +54,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 59,
+            "number_friends": 60,
             "friends": [
                 "Axel",
                 "Marion",
@@ -62,13 +62,13 @@
                 "Gabin",
                 "Fafa"
             ],
-            "number_jumps": 29
+            "number_jumps": 30
         },
         {
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -76,7 +76,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 36
+            "number_jumps": 37
         },
         {
             "id": "Anabelle",
@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 54,
+            "number_friends": 55,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -101,7 +101,7 @@
                 "Benoit",
                 "Lionel"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Maelys",
@@ -338,15 +338,15 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
                 "Theo V",
                 "David T",
-                "Gabriel C"
+                "Marion"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Thomas MART",
@@ -861,7 +861,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -869,7 +869,7 @@
                 "Cyrill",
                 "Stephane K"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Julien M",
@@ -1524,6 +1524,39 @@
             "number_friends": 1,
             "friends": [
                 "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Damien",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Fabienne",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Nico",
+                "Axel"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Hugo G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Marion"
             ],
             "number_jumps": 1
         }
@@ -3404,6 +3437,42 @@
         {
             "source": "David G",
             "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Damien",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Damien",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Fabienne",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Fabienne",
+            "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Hugo G",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Hugo G",
+            "target": "Marion",
             "width": 1.5,
             "color": "purple"
         }
