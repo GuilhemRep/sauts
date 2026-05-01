@@ -6,13 +6,13 @@
             "shape": "rectangle",
             "number_friends": 12,
             "friends": [
+                "Nico",
                 "Renan",
                 "Mickael G",
-                "Nico",
                 "Enio",
                 "Clement"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Nico",
@@ -26,19 +26,19 @@
                 "Benoit",
                 "Lionel"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Matthieu",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 26,
             "friends": [
                 "Rachel",
                 "Jordan",
                 "Nico",
-                "Ninie",
-                "Sarah"
+                "Sarah",
+                "Tom BR"
             ],
             "number_jumps": 4
         },
@@ -122,13 +122,13 @@
             "id": "Clement",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 14,
+            "number_friends": 16,
             "friends": [
-                "Jason",
                 "Tom BR",
                 "Noah",
+                "Jason",
                 "Gwen",
-                "Ade"
+                "Laurent"
             ],
             "number_jumps": 3
         },
@@ -200,13 +200,13 @@
             "id": "Noah",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 28,
+            "number_friends": 29,
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
                 "Enio",
                 "Matthieu",
-                "Rachel"
+                "Clement"
             ],
             "number_jumps": 1
         },
@@ -330,7 +330,7 @@
         {
             "source": "Lionel",
             "target": "Nico",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "green"
         },
         {
