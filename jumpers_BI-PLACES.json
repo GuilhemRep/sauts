@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 46,
+            "number_friends": 55,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -212,8 +212,8 @@
             "shape": "rectangle",
             "number_friends": 24,
             "friends": [
-                "Cyriaque",
                 "Nathan N",
+                "Cyriaque",
                 "Gwen",
                 "Momtez",
                 "Axel"
@@ -456,7 +456,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Anais",
+            "id": "Anais Y",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
@@ -861,7 +861,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 30,
+            "number_friends": 38,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -1961,13 +1961,13 @@
         },
         {
             "source": "Nico",
-            "target": "Anais",
+            "target": "Anais Y",
             "width": 1.5,
             "color": "purple"
         },
         {
             "source": "Axel",
-            "target": "Anais",
+            "target": "Anais Y",
             "width": 1.5,
             "color": "purple"
         },

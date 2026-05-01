@@ -16,13 +16,13 @@
             "shape": "rectangle",
             "number_friends": 24,
             "friends": [
-                "Cyriaque",
                 "Nathan N",
+                "Cyriaque",
                 "Gwen",
                 "Momtez",
                 "Axel"
             ],
-            "number_jumps": 21
+            "number_jumps": 22
         },
         {
             "id": "Hugo L",
@@ -324,7 +324,7 @@
                 "Ju",
                 "Gwen"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "S\u00e9bastien A",
@@ -353,7 +353,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 30,
+            "number_friends": 38,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -562,7 +562,7 @@
         {
             "source": "Ju",
             "target": "Nathan N",
-            "width": 2.73606797749979,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
