@@ -113,7 +113,7 @@
                 "Stephane K",
                 "Caroline"
             ],
-            "number_jumps": 40
+            "number_jumps": 41
         },
         {
             "id": "Christophe L",
@@ -127,7 +127,7 @@
                 "Stephane K",
                 "Florian H"
             ],
-            "number_jumps": 24
+            "number_jumps": 25
         },
         {
             "id": "Lionel",
@@ -225,11 +225,11 @@
             "friends": [
                 "Noah",
                 "Olivier GENN",
+                "Laurent",
                 "Matthieu",
-                "Rachel",
-                "Jordan"
+                "Rachel"
             ],
-            "number_jumps": 26
+            "number_jumps": 27
         },
         {
             "id": "Noah",
@@ -243,7 +243,7 @@
                 "Matthieu",
                 "Rachel"
             ],
-            "number_jumps": 29
+            "number_jumps": 30
         },
         {
             "id": "Romain L",
@@ -497,10 +497,10 @@
                 "Xavier",
                 "Christophe L",
                 "Laurent",
-                "Philippe H",
-                "Christopher"
+                "Marie M",
+                "Ninie"
             ],
-            "number_jumps": 27
+            "number_jumps": 28
         },
         {
             "id": "Xavier",
@@ -539,10 +539,10 @@
                 "Charline",
                 "Salom\u00e9",
                 "Mario",
-                "Margot",
-                "Florian H"
+                "Florian H",
+                "Ninie"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Mario",
@@ -773,12 +773,12 @@
             "number_friends": 14,
             "friends": [
                 "Jason",
-                "Gwen",
                 "Tom BR",
                 "Noah",
+                "Gwen",
                 "Ade"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Olivier GENE",
@@ -896,10 +896,10 @@
                 "Marie M",
                 "Salom\u00e9",
                 "Margot",
-                "Rachel",
-                "Nico"
+                "Florian H",
+                "Ninie"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Thomas MARS",
@@ -2871,7 +2871,7 @@
                 "Jeremie",
                 "Riton"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Guilhem SkyBrothers",
@@ -2883,7 +2883,7 @@
                 "Jeremie",
                 "Riton"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Pascal M",
@@ -3177,7 +3177,7 @@
                 "Laurent",
                 "Christophe L"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Tristan B",
@@ -3852,11 +3852,11 @@
             "friends": [
                 "Matthieu",
                 "Sarah",
-                "Rachel",
                 "Florian H",
-                "Marie M"
+                "Marie M",
+                "Christophe L"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Lydie",
@@ -3959,12 +3959,12 @@
             "number_friends": 15,
             "friends": [
                 "Ninie",
-                "Benjamin BL",
                 "Florian H",
                 "Marie M",
-                "Christophe L"
+                "Christophe L",
+                "Alexandra"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Aur\u00e9lia B",
@@ -3997,7 +3997,7 @@
                 "Benjamin BL",
                 "Eliman"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Eliman",
@@ -4068,7 +4068,7 @@
                 "Christophe L",
                 "Charline"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "St\u00e9phane S",
@@ -4403,7 +4403,7 @@
         {
             "source": "Tom BR",
             "target": "Noah",
-            "width": 5.08257569495584,
+            "width": 5.19041575982343,
             "color": "blue"
         },
         {
@@ -4661,7 +4661,7 @@
         {
             "source": "Marie M",
             "target": "Charline",
-            "width": 3.1457513110645907,
+            "width": 3.3284271247461903,
             "color": "blue"
         },
         {
@@ -4901,13 +4901,13 @@
         {
             "source": "Tom BR",
             "target": "Clement",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "blue"
         },
         {
             "source": "Clement",
             "target": "Noah",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "blue"
         },
         {
@@ -6563,7 +6563,7 @@
         {
             "source": "Tom BR",
             "target": "Laurent",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "blue"
         },
         {
@@ -6593,7 +6593,7 @@
         {
             "source": "Laurent",
             "target": "Noah",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "blue"
         },
         {
@@ -7763,7 +7763,7 @@
         {
             "source": "Alex SkyBrothers",
             "target": "Guilhem SkyBrothers",
-            "width": 4.5,
+            "width": 4.623105625617661,
             "color": "blue"
         },
         {
@@ -7787,7 +7787,7 @@
         {
             "source": "Florian H",
             "target": "Christophe L",
-            "width": 2.949489742783178,
+            "width": 3.1457513110645907,
             "color": "blue"
         },
         {
@@ -8285,7 +8285,7 @@
         {
             "source": "Laurent",
             "target": "Ana\u00ebl",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -9737,31 +9737,31 @@
         {
             "source": "Tom BR",
             "target": "Laurie",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Laurie",
             "target": "Ana\u00ebl",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Laurie",
             "target": "Noah",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Tom BR",
             "target": "Ana\u00ebl",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Ana\u00ebl",
             "target": "Noah",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
@@ -9785,79 +9785,79 @@
         {
             "source": "Florian H",
             "target": "Marie M",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Florian H",
             "target": "Ninie",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Florian H",
             "target": "Charline",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Alexandra",
             "target": "Florian H",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Marie M",
             "target": "Ninie",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Christophe L",
             "target": "Marie M",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Alexandra",
             "target": "Marie M",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Ninie",
             "target": "Charline",
-            "width": 1.9142135623730951,
-            "color": "brown"
-        },
-        {
-            "source": "Christophe L",
-            "target": "Ninie",
-            "width": 2.232050807568877,
-            "color": "brown"
-        },
-        {
-            "source": "Alexandra",
-            "target": "Ninie",
             "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Christophe L",
+            "target": "Ninie",
+            "width": 2.5,
+            "color": "brown"
+        },
+        {
+            "source": "Alexandra",
+            "target": "Ninie",
+            "width": 2.5,
+            "color": "brown"
+        },
+        {
+            "source": "Christophe L",
             "target": "Charline",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Alexandra",
             "target": "Charline",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Alexandra",
             "target": "Christophe L",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
@@ -9875,7 +9875,7 @@
         {
             "source": "Christian G",
             "target": "Ninie",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
@@ -9965,37 +9965,37 @@
         {
             "source": "Christian G",
             "target": "Florian H",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Christian G",
             "target": "Marie M",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Christian G",
             "target": "Charline",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Christian G",
             "target": "Christophe L",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Alexandra",
             "target": "Christian G",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Laurent",
             "target": "Clement",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -10067,19 +10067,19 @@
         {
             "source": "Clement",
             "target": "Laurie",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Laurent",
             "target": "Laurie",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Clement",
             "target": "Ana\u00ebl",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
