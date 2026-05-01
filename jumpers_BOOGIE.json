@@ -62,7 +62,7 @@
                 "Benjamin BL",
                 "Riton"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Benjamin BL",
@@ -110,7 +110,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 29,
+            "number_friends": 30,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -230,7 +230,7 @@
                 "Rachel",
                 "Jordan"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Ana\u00ebl",
@@ -240,11 +240,11 @@
             "friends": [
                 "Christophe L",
                 "Sylvain C",
-                "Hubert-Arnaud",
-                "Laurent",
-                "Laurie"
+                "Laurie",
+                "Tom BR",
+                "Noah"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Noah",
@@ -258,7 +258,7 @@
                 "Matthieu",
                 "Rachel"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Marie M",
@@ -501,37 +501,37 @@
         {
             "source": "Tom BR",
             "target": "Laurie",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Laurie",
             "target": "Ana\u00ebl",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Laurie",
             "target": "Noah",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Tom BR",
             "target": "Ana\u00ebl",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Tom BR",
             "target": "Noah",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Ana\u00ebl",
             "target": "Noah",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
