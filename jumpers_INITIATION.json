@@ -32,7 +32,7 @@
             "id": "Matthieu",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 20,
+            "number_friends": 21,
             "friends": [
                 "Rachel",
                 "Jordan",
@@ -80,7 +80,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 56,
+            "number_friends": 57,
             "friends": [
                 "Axel",
                 "Marion",
@@ -108,13 +108,13 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Clement",
                 "Thierry",
                 "Ju",
                 "Nicolas GO",
-                "Axel"
+                "Marion"
             ],
             "number_jumps": 4
         },
@@ -252,10 +252,10 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 28,
+            "number_friends": 29,
             "friends": [
-                "Marine G",
                 "Simon",
+                "Marine G",
                 "Theo V",
                 "Cyrill",
                 "Stephane K"

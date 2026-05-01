@@ -196,13 +196,13 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Clement",
                 "Thierry",
                 "Ju",
                 "Nicolas GO",
-                "Axel"
+                "Marion"
             ],
             "number_jumps": 1
         },
@@ -294,7 +294,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 56,
+            "number_friends": 57,
             "friends": [
                 "Axel",
                 "Marion",
@@ -373,7 +373,7 @@
             "number_jumps": 3
         },
         {
-            "id": "St\u00e9phane",
+            "id": "St\u00e9phane D",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -402,6 +402,28 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Emma CO",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Theo V",
+                "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "C\u00e9lestin",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Theo V",
+                "Tibal"
+            ],
             "number_jumps": 1
         }
     ],
