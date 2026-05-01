@@ -16,13 +16,13 @@
             "shape": "rectangle",
             "number_friends": 22,
             "friends": [
+                "Nathan N",
                 "Gwen",
                 "Momtez",
                 "Cyriaque",
-                "Nathan N",
                 "Julien N"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Hugo L",
@@ -108,9 +108,9 @@
                 "Tibal",
                 "Marion",
                 "Fabien",
-                "Cyrill"
+                "Emma CO"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Gabriel C",
@@ -313,7 +313,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Nathan N",
@@ -324,7 +324,7 @@
                 "Ju",
                 "Gwen"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "S\u00e9bastien",
@@ -546,13 +546,13 @@
         {
             "source": "Emma CO",
             "target": "Theo V",
-            "width": 2.73606797749979,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
             "source": "Ju",
             "target": "Nathan N",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "orange"
         },
         {
