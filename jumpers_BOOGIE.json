@@ -119,6 +119,99 @@
                 "Stephane K"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Florian H",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 21,
+            "friends": [
+                "Xavier",
+                "Laurent",
+                "Philippe H",
+                "Christopher",
+                "Stephane K"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Rachel",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 23,
+            "friends": [
+                "Matthieu",
+                "Jordan",
+                "Olivier GENN",
+                "Tom BR",
+                "Noah"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Caroline",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 15,
+            "friends": [
+                "Laurent",
+                "Fabio",
+                "Christophe L",
+                "Hubert-Arnaud",
+                "Jerem Gringos"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Christophe L",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 26,
+            "friends": [
+                "Hubert-Arnaud",
+                "Fabio",
+                "Laurent",
+                "Stephane K",
+                "Caroline"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ninie",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Izampela",
+                "Matthieu",
+                "Sarah"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Matthieu",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 20,
+            "friends": [
+                "Rachel",
+                "Jordan",
+                "Nico",
+                "Olivier GENN",
+                "Tom BR"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Sarah",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ninie",
+                "Matthieu"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -245,6 +338,60 @@
         {
             "source": "Riton",
             "target": "Eliman",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Rachel",
+            "target": "Florian H",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Caroline",
+            "target": "Florian H",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Florian H",
+            "target": "Christophe L",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Caroline",
+            "target": "Rachel",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Rachel",
+            "target": "Christophe L",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Caroline",
+            "target": "Christophe L",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Ninie",
+            "target": "Matthieu",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Ninie",
+            "target": "Sarah",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Matthieu",
+            "target": "Sarah",
             "width": 1.5,
             "color": "brown"
         }

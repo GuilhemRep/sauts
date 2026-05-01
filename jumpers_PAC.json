@@ -16,13 +16,13 @@
             "shape": "rectangle",
             "number_friends": 22,
             "friends": [
+                "Cyriaque",
                 "Nathan N",
                 "Gwen",
                 "Momtez",
-                "Cyriaque",
                 "Julien N"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Hugo L",
@@ -108,9 +108,9 @@
                 "Tibal",
                 "Marion",
                 "Fabien",
-                "Emma CO"
+                "C\u00e9lestin"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Gabriel C",
@@ -171,7 +171,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -179,7 +179,7 @@
                 "Nicolas GO",
                 "Axel"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Benjamin E",
@@ -252,7 +252,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Tibal",
@@ -277,7 +277,7 @@
                 "Ju",
                 "Nico"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Nico",
@@ -382,6 +382,16 @@
             "friends": [
                 "Nico",
                 "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Teiki",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
             ],
             "number_jumps": 1
         }
@@ -510,13 +520,13 @@
         {
             "source": "C\u00e9lestin",
             "target": "Theo V",
-            "width": 2.73606797749979,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
             "source": "Cyriaque",
             "target": "Ju",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "orange"
         },
         {
@@ -612,6 +622,12 @@
         {
             "source": "Gabin",
             "target": "Simon",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Teiki",
+            "target": "Gwen",
             "width": 1.5,
             "color": "orange"
         }
