@@ -79,9 +79,9 @@
             "shape": "rectangle",
             "number_friends": 27,
             "friends": [
+                "Stephane K",
                 "Laurent",
                 "Christophe L",
-                "Stephane K",
                 "Hubert-Arnaud",
                 "Marine G"
             ],
@@ -119,7 +119,7 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 26,
+            "number_friends": 30,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -407,13 +407,13 @@
             "id": "Florian H",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 25,
             "friends": [
                 "Xavier",
                 "Laurent",
+                "Christophe L",
                 "Philippe H",
-                "Christopher",
-                "Stephane K"
+                "Christopher"
             ],
             "number_jumps": 23
         },
@@ -449,11 +449,11 @@
             "id": "Marie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 10,
+            "number_friends": 14,
             "friends": [
+                "Charline",
                 "Mario",
                 "Salom\u00e9",
-                "Charline",
                 "Christopher",
                 "Rachel"
             ],
@@ -705,7 +705,7 @@
             "id": "Charline",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 11,
             "friends": [
                 "Marie M",
                 "Salom\u00e9",
@@ -935,11 +935,11 @@
             "shape": "rectangle",
             "number_friends": 35,
             "friends": [
-                "Marine G",
                 "Fabio",
+                "Marine G",
                 "Laurent",
                 "Christophe L",
-                "Hubert-Arnaud"
+                "Benjamin BL"
             ],
             "number_jumps": 39
         },
@@ -1856,9 +1856,9 @@
             "friends": [
                 "Cyrill",
                 "L\u00e9o",
+                "Stephane K",
                 "Theo V",
-                "Jerem Gringos",
-                "Marine G"
+                "Jerem Gringos"
             ],
             "number_jumps": 18
         },
@@ -1871,7 +1871,7 @@
                 "Guilhem SkyBrothers",
                 "Jeremie"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Guilhem SkyBrothers",
@@ -1882,7 +1882,7 @@
                 "Alex SkyBrothers",
                 "Jeremie"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Pascal M",
@@ -2156,11 +2156,13 @@
             "id": "Ninie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 8,
             "friends": [
                 "Izampela",
                 "Matthieu",
-                "Sarah"
+                "Sarah",
+                "Florian H",
+                "Marie M"
             ],
             "number_jumps": 2
         },
@@ -4725,7 +4727,7 @@
         {
             "source": "Alex SkyBrothers",
             "target": "Guilhem SkyBrothers",
-            "width": 3.9641016151377544,
+            "width": 4.10555127546399,
             "color": "blue"
         },
         {
