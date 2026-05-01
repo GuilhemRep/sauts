@@ -54,7 +54,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 58,
+            "number_friends": 59,
             "friends": [
                 "Axel",
                 "Marion",
@@ -62,13 +62,13 @@
                 "Gabin",
                 "Fafa"
             ],
-            "number_jumps": 28
+            "number_jumps": 29
         },
         {
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -76,7 +76,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 35
+            "number_jumps": 36
         },
         {
             "id": "Anabelle",
@@ -338,7 +338,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 38,
+            "number_friends": 39,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
@@ -346,7 +346,7 @@
                 "David T",
                 "Gabriel C"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Thomas MART",
@@ -674,7 +674,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 38,
             "friends": [
                 "Clement",
                 "Thierry",
@@ -682,7 +682,7 @@
                 "Nicolas GO",
                 "Marion"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Katia",
@@ -861,7 +861,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 38,
+            "number_friends": 39,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -869,7 +869,7 @@
                 "Cyrill",
                 "Stephane K"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Julien M",
@@ -1492,6 +1492,38 @@
             "friends": [
                 "Nico",
                 "Marion"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Chris",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwen",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Anthony M",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Axel"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "David G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
             ],
             "number_jumps": 1
         }
@@ -3342,6 +3374,36 @@
         {
             "source": "Marion",
             "target": "Anais T",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Chris",
+            "target": "Gwen",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Chris",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Anthony M",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Anthony M",
+            "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "David G",
+            "target": "Simon",
             "width": 1.5,
             "color": "purple"
         }
