@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 55,
+            "number_friends": 56,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -37,7 +37,7 @@
                 "Nico",
                 "Axel"
             ],
-            "number_jumps": 31
+            "number_jumps": 32
         },
         {
             "id": "Lorys",
@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -93,15 +93,15 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 53,
+            "number_friends": 54,
             "friends": [
                 "Axel",
                 "Matthieu",
-                "Benoit",
                 "Marion",
+                "Benoit",
                 "Lionel"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Maelys",
@@ -1481,6 +1481,17 @@
             "friends": [
                 "Nico",
                 "Axel"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Anais T",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Nico",
+                "Marion"
             ],
             "number_jumps": 1
         }
@@ -3319,6 +3330,18 @@
         {
             "source": "Gabrielle",
             "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Nico",
+            "target": "Anais T",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Marion",
+            "target": "Anais T",
             "width": 1.5,
             "color": "purple"
         }

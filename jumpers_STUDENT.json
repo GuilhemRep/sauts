@@ -42,9 +42,11 @@
             "id": "Eva",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 2
+            "number_friends": 1,
+            "friends": [
+                "Axel"
+            ],
+            "number_jumps": 3
         },
         {
             "id": "Hugo J",
@@ -337,7 +339,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -345,7 +347,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Florian V",
@@ -414,7 +416,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "C\u00e9lestin",
@@ -425,7 +427,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Teiki",
@@ -491,6 +493,12 @@
             "source": "Axel",
             "target": "David R",
             "width": 1.9142135623730951,
+            "color": "cyan"
+        },
+        {
+            "source": "Eva",
+            "target": "Axel",
+            "width": 1.5,
             "color": "cyan"
         }
     ]
