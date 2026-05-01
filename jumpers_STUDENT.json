@@ -425,6 +425,16 @@
                 "Tibal"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Teiki",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
