@@ -12,7 +12,7 @@
                 "Enio",
                 "Clement"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Nico",
@@ -24,9 +24,9 @@
                 "Axel",
                 "Benoit",
                 "Marion",
-                "Tibal"
+                "Lionel"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Matthieu",
@@ -122,7 +122,7 @@
             "id": "Clement",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 11,
+            "number_friends": 12,
             "friends": [
                 "Jason",
                 "Gwen",
@@ -306,7 +306,7 @@
         {
             "source": "Lionel",
             "target": "Nico",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "green"
         },
         {
