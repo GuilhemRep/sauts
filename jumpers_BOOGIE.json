@@ -12,7 +12,7 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 29,
             "friends": [
                 "Stephane K",
                 "Fabio",
@@ -20,21 +20,21 @@
                 "Benjamin BL",
                 "Eliman"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 29,
+            "number_friends": 30,
             "friends": [
                 "Stephane K",
-                "Laurent",
                 "Christophe L",
+                "Laurent",
                 "Hubert-Arnaud",
                 "Benjamin BL"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Stephane K",
@@ -48,13 +48,13 @@
                 "Marine G",
                 "Riton"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Laurie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 15,
+            "number_friends": 17,
             "friends": [
                 "Izampela",
                 "Fabio",
@@ -62,13 +62,13 @@
                 "Benjamin BL",
                 "Eliman"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Benjamin BL",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 18,
+            "number_friends": 20,
             "friends": [
                 "Stephane K",
                 "Fabio",
@@ -76,7 +76,7 @@
                 "Laurie",
                 "Eliman"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Riton",
@@ -90,13 +90,13 @@
                 "Fabio",
                 "Izampela"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Eliman",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 8,
+            "number_friends": 10,
             "friends": [
                 "Izampela",
                 "Fabio",
@@ -104,21 +104,21 @@
                 "Laurie",
                 "Benjamin BL"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 40,
+            "number_friends": 43,
             "friends": [
                 "Simon",
                 "Marine G",
                 "Theo V",
                 "Cyrill",
-                "Stephane K"
+                "Margot"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Florian H",
@@ -138,7 +138,7 @@
             "id": "Rachel",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 27,
+            "number_friends": 36,
             "friends": [
                 "Matthieu",
                 "Jordan",
@@ -166,7 +166,7 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 36,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -174,7 +174,7 @@
                 "Stephane K",
                 "Florian H"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Ninie",
@@ -188,7 +188,7 @@
                 "Christophe L",
                 "Alexandra B"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Matthieu",
@@ -236,7 +236,7 @@
             "id": "Ana\u00ebl",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 10,
+            "number_friends": 22,
             "friends": [
                 "Laurie",
                 "Tom BR",
@@ -264,13 +264,13 @@
             "id": "Marie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 20,
+            "number_friends": 22,
             "friends": [
                 "Charline",
                 "Salom\u00e9",
                 "Mario",
-                "Florian H",
-                "Ninie"
+                "Margot",
+                "Florian H"
             ],
             "number_jumps": 4
         },
@@ -278,13 +278,13 @@
             "id": "Charline",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 21,
             "friends": [
                 "Marie M",
                 "Salom\u00e9",
                 "Margot",
-                "Florian H",
-                "Ninie"
+                "Rachel",
+                "Florian H"
             ],
             "number_jumps": 3
         },
@@ -324,9 +324,9 @@
             "friends": [
                 "Tom BR",
                 "Noah",
+                "Laurent",
                 "Jason",
-                "Gwen",
-                "Laurent"
+                "Gwen"
             ],
             "number_jumps": 3
         },
@@ -348,7 +348,7 @@
             "id": "_ SAUT CLASSIC",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 11,
+            "number_friends": 12,
             "friends": [
                 "Izampela",
                 "Fabio",
@@ -356,7 +356,7 @@
                 "Laurie",
                 "Benjamin BL"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Alban",
@@ -376,12 +376,12 @@
             "id": "Salom\u00e9",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 31,
+            "number_friends": 33,
             "friends": [
                 "Marie M",
                 "Charline",
-                "Mario",
                 "Rachel",
+                "Mario",
                 "Margot"
             ],
             "number_jumps": 1
@@ -395,151 +395,151 @@
                 "Cyriaque",
                 "Nathan N",
                 "Izampela",
-                "Gwen",
-                "Momtez"
+                "Stephane K",
+                "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 79,
+            "number_friends": 84,
             "friends": [
                 "Axel",
                 "Tibal",
                 "Marion",
                 "Fabien",
-                "C\u00e9lestin"
+                "Riton"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
         {
             "source": "Fabio",
             "target": "Izampela",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Izampela",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Laurie",
             "target": "Izampela",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Izampela",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Riton",
             "target": "Izampela",
-            "width": 3.1457513110645907,
+            "width": 3.3284271247461903,
             "color": "brown"
         },
         {
             "source": "Izampela",
             "target": "Eliman",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Stephane K",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Laurie",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Benjamin BL",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Riton",
-            "width": 3.1457513110645907,
+            "width": 3.3284271247461903,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Eliman",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Laurie",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Stephane K",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Riton",
-            "width": 3.1457513110645907,
+            "width": 3.3284271247461903,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Eliman",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Laurie",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Laurie",
             "target": "Riton",
-            "width": 3.1457513110645907,
+            "width": 3.3284271247461903,
             "color": "brown"
         },
         {
             "source": "Laurie",
             "target": "Eliman",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Riton",
-            "width": 3.1457513110645907,
+            "width": 3.3284271247461903,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Eliman",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
             "source": "Riton",
             "target": "Eliman",
-            "width": 3.1457513110645907,
+            "width": 3.3284271247461903,
             "color": "brown"
         },
         {
@@ -869,43 +869,43 @@
         {
             "source": "_ SAUT CLASSIC",
             "target": "Izampela",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
             "source": "_ SAUT CLASSIC",
             "target": "Fabio",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
             "source": "_ SAUT CLASSIC",
             "target": "Stephane K",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
             "source": "_ SAUT CLASSIC",
             "target": "Laurie",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
             "source": "_ SAUT CLASSIC",
             "target": "Benjamin BL",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
             "source": "_ SAUT CLASSIC",
             "target": "Riton",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
             "source": "_ SAUT CLASSIC",
             "target": "Eliman",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
@@ -965,49 +965,49 @@
         {
             "source": "Ju",
             "target": "Izampela",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Ju",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Ju",
             "target": "Stephane K",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Ju",
             "target": "Laurie",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Ju",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "_ SAUT CLASSIC",
             "target": "Ju",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Ju",
             "target": "Riton",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Ju",
             "target": "Eliman",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -1097,6 +1097,114 @@
         {
             "source": "Alexandra B",
             "target": "Alban",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Izampela",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Christophe L",
+            "target": "Izampela",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Fabio",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Fabio",
+            "target": "Christophe L",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Stephane K",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Stephane K",
+            "target": "Christophe L",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Laurie",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Christophe L",
+            "target": "Laurie",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Benjamin BL",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Benjamin BL",
+            "target": "Christophe L",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Ju",
+            "target": "Christophe L",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "_ SAUT CLASSIC",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "_ SAUT CLASSIC",
+            "target": "Christophe L",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Riton",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Christophe L",
+            "target": "Riton",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Eliman",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Christophe L",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Christophe L",
+            "target": "Eliman",
             "width": 1.5,
             "color": "brown"
         }
