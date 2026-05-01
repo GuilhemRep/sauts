@@ -16,13 +16,13 @@
             "shape": "rectangle",
             "number_friends": 24,
             "friends": [
-                "Nathan N",
                 "Cyriaque",
+                "Nathan N",
                 "Gwen",
                 "Momtez",
                 "Axel"
             ],
-            "number_jumps": 22
+            "number_jumps": 23
         },
         {
             "id": "Hugo L",
@@ -43,10 +43,10 @@
                 "Axel",
                 "Marion",
                 "Ti Ben",
-                "Fafa",
-                "Nico"
+                "Gabin",
+                "Fafa"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Hugo J",
@@ -258,7 +258,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Marion",
                 "Theo V",
@@ -277,7 +277,7 @@
                 "Ju",
                 "Nico"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Nico",
@@ -383,7 +383,7 @@
                 "Simon",
                 "Nico"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Teiki",
@@ -526,7 +526,7 @@
         {
             "source": "Cyriaque",
             "target": "Ju",
-            "width": 2.73606797749979,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
@@ -622,7 +622,7 @@
         {
             "source": "Gabin",
             "target": "Simon",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "orange"
         },
         {

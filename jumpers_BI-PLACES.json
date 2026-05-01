@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Marion",
                 "Theo V",
@@ -59,8 +59,8 @@
                 "Axel",
                 "Marion",
                 "Ti Ben",
-                "Fafa",
-                "Nico"
+                "Gabin",
+                "Fafa"
             ],
             "number_jumps": 28
         },
@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 66,
+            "number_friends": 67,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -212,8 +212,8 @@
             "shape": "rectangle",
             "number_friends": 24,
             "friends": [
-                "Nathan N",
                 "Cyriaque",
+                "Nathan N",
                 "Gwen",
                 "Momtez",
                 "Axel"
@@ -1454,10 +1454,11 @@
             "id": "S\u00e9bastien C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
                 "Tibal",
-                "Axel"
+                "Axel",
+                "Salom\u00e9"
             ],
             "number_jumps": 1
         },

@@ -274,9 +274,10 @@
             "id": "Victor V",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Simon"
+                "Simon",
+                "Axel"
             ],
             "number_jumps": 5
         },
@@ -288,7 +289,7 @@
             "friends": [
                 "Theo V"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Simon",
@@ -299,8 +300,8 @@
                 "Axel",
                 "Marion",
                 "Ti Ben",
-                "Fafa",
-                "Nico"
+                "Gabin",
+                "Fafa"
             ],
             "number_jumps": 3
         },
@@ -336,7 +337,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 66,
+            "number_friends": 67,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -354,7 +355,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Thibault C",

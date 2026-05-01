@@ -277,7 +277,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 66,
+            "number_friends": 67,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -667,8 +667,8 @@
             "shape": "rectangle",
             "number_friends": 24,
             "friends": [
-                "Nathan N",
                 "Cyriaque",
+                "Nathan N",
                 "Gwen",
                 "Momtez",
                 "Axel"
@@ -692,7 +692,7 @@
             "id": "Salom\u00e9",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 27,
             "friends": [
                 "Marie M",
                 "Charline",
@@ -700,7 +700,7 @@
                 "Margot",
                 "Rachel"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Charline",
@@ -1309,7 +1309,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Marion",
                 "Theo V",
@@ -1317,7 +1317,7 @@
                 "Thomas R",
                 "Nico"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Paul-Andr\u00e9",
@@ -1601,8 +1601,8 @@
                 "Axel",
                 "Marion",
                 "Ti Ben",
-                "Fafa",
-                "Nico"
+                "Gabin",
+                "Fafa"
             ],
             "number_jumps": 3
         },
@@ -1871,7 +1871,7 @@
                 "Theo V",
                 "Fabio"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Alex SkyBrothers",
@@ -1883,7 +1883,7 @@
                 "Jeremie",
                 "Riton"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Guilhem SkyBrothers",
@@ -1895,7 +1895,7 @@
                 "Jeremie",
                 "Riton"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Pascal M",
@@ -2280,6 +2280,18 @@
                 "Izampela",
                 "Kylian",
                 "Ariane",
+                "Salom\u00e9"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "S\u00e9bastien C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Tibal",
+                "Axel",
                 "Salom\u00e9"
             ],
             "number_jumps": 1
@@ -4779,7 +4791,7 @@
         {
             "source": "Alex SkyBrothers",
             "target": "Guilhem SkyBrothers",
-            "width": 4.372983346207417,
+            "width": 4.5,
             "color": "blue"
         },
         {
@@ -5871,6 +5883,24 @@
         {
             "source": "Margot",
             "target": "Marion",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "S\u00e9bastien C",
+            "target": "Salom\u00e9",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Salom\u00e9",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "S\u00e9bastien C",
+            "target": "Tibal",
             "width": 1.5,
             "color": "blue"
         }
