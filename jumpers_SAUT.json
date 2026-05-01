@@ -25,7 +25,7 @@
             "id": "Sylvain C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 12,
+            "number_friends": 13,
             "friends": [
                 "Nathalie BA",
                 "Eric BE",
@@ -33,7 +33,7 @@
                 "Anael",
                 "Ana\u00ebl"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Nathalie BA",
@@ -105,7 +105,7 @@
             "id": "Laurent",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -579,13 +579,13 @@
             "id": "Clement",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 12,
+            "number_friends": 14,
             "friends": [
                 "Jason",
                 "Gwen",
-                "Ade",
-                "Charlie",
-                "Renan"
+                "Tom BR",
+                "Noah",
+                "Ade"
             ],
             "number_jumps": 14
         },
@@ -1612,7 +1612,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 38,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
@@ -1620,7 +1620,7 @@
                 "David T",
                 "Gabriel C"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Tony",
@@ -2028,13 +2028,13 @@
             "id": "Ana\u00ebl",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 8,
             "friends": [
-                "Christophe L",
-                "Sylvain C",
                 "Laurie",
                 "Tom BR",
-                "Noah"
+                "Noah",
+                "Laurent",
+                "Christophe L"
             ],
             "number_jumps": 3
         },
@@ -2165,9 +2165,9 @@
             "friends": [
                 "Matthieu",
                 "Sarah",
+                "Rachel",
                 "Izampela",
-                "Florian H",
-                "Marie M"
+                "Florian H"
             ],
             "number_jumps": 2
         },
@@ -5572,6 +5572,12 @@
         {
             "source": "Guilhem SkyBrothers",
             "target": "Riton",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Sylvain C",
+            "target": "Fafa",
             "width": 1.5,
             "color": "blue"
         }
