@@ -77,15 +77,15 @@
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 33,
             "friends": [
                 "Stephane K",
                 "Christophe L",
                 "Laurent",
-                "Hubert-Arnaud",
-                "Benjamin BL"
+                "Benjamin BL",
+                "Hubert-Arnaud"
             ],
-            "number_jumps": 35
+            "number_jumps": 36
         },
         {
             "id": "Morgane C",
@@ -492,15 +492,15 @@
             "id": "Florian H",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 27,
+            "number_friends": 29,
             "friends": [
                 "Xavier",
                 "Christophe L",
+                "Alexandra B",
                 "Laurent",
-                "Ninie",
-                "Alexandra B"
+                "Ninie"
             ],
-            "number_jumps": 29
+            "number_jumps": 30
         },
         {
             "id": "Xavier",
@@ -534,7 +534,7 @@
             "id": "Marie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 23,
             "friends": [
                 "Charline",
                 "Salom\u00e9",
@@ -542,7 +542,7 @@
                 "Margot",
                 "Florian H"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Mario",
@@ -742,7 +742,7 @@
             "id": "Enio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 20,
+            "number_friends": 22,
             "friends": [
                 "Anael",
                 "Noah",
@@ -750,7 +750,7 @@
                 "Tom BR",
                 "Julien BE"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Jerem Gringos",
@@ -1262,7 +1262,7 @@
             "id": "Stephane K",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 39,
             "friends": [
                 "Fabio",
                 "Benjamin BL",
@@ -1270,7 +1270,7 @@
                 "Marine G",
                 "Riton"
             ],
-            "number_jumps": 49
+            "number_jumps": 50
         },
         {
             "id": "Yves",
@@ -1417,15 +1417,15 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 29,
+            "number_friends": 31,
             "friends": [
                 "Stephane K",
                 "Fabio",
-                "Laurie",
                 "Benjamin BL",
-                "Eliman"
+                "Laurie",
+                "Riton"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Guilhem",
@@ -1652,15 +1652,15 @@
             "id": "Benjamin BL",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 20,
+            "number_friends": 23,
             "friends": [
                 "Stephane K",
                 "Fabio",
                 "Izampela",
                 "Laurie",
-                "Eliman"
+                "Riton"
             ],
-            "number_jumps": 22
+            "number_jumps": 23
         },
         {
             "id": "Stephane P",
@@ -2070,15 +2070,15 @@
             "id": "Kylian",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 12,
+            "number_friends": 13,
             "friends": [
-                "Olivier GENN",
                 "Marie M",
+                "Olivier GENN",
                 "Tom BR",
                 "Izampela",
                 "Jeanne"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Souka\u00efna",
@@ -2857,7 +2857,7 @@
             "id": "Riton",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 26,
             "friends": [
                 "Cyrill",
                 "L\u00e9o",
@@ -2865,7 +2865,7 @@
                 "Fabio",
                 "Izampela"
             ],
-            "number_jumps": 28
+            "number_jumps": 29
         },
         {
             "id": "Alex SkyBrothers",
@@ -3854,7 +3854,7 @@
             "id": "Ninie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 19,
             "friends": [
                 "Matthieu",
                 "Sarah",
@@ -3862,7 +3862,7 @@
                 "Christophe L",
                 "Alexandra B"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Lydie",
@@ -3997,7 +3997,7 @@
             "id": "Laurie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 17,
+            "number_friends": 20,
             "friends": [
                 "Izampela",
                 "Fabio",
@@ -4005,7 +4005,7 @@
                 "Benjamin BL",
                 "Eliman"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Eliman",
@@ -4068,7 +4068,7 @@
             "id": "Alexandra B",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 9,
             "friends": [
                 "Florian H",
                 "Ninie",
@@ -4076,7 +4076,7 @@
                 "Marie M",
                 "Charline"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "St\u00e9phane S",
@@ -4268,10 +4268,39 @@
             "id": "Pierre F",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 9,
             "friends": [
                 "Nico",
-                "Axel"
+                "Axel",
+                "Izampela",
+                "Ninie",
+                "Fabio"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "H\u00e9l\u00e8ne",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Florian H",
+                "Laurie",
+                "Alexandra B"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Alexis V",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 7,
+            "friends": [
+                "Izampela",
+                "Ninie",
+                "Fabio",
+                "Stephane K",
+                "Pierre F"
             ],
             "number_jumps": 1
         }
@@ -6182,7 +6211,7 @@
         {
             "source": "Stephane K",
             "target": "Izampela",
-            "width": 4.10555127546399,
+            "width": 4.241657386773941,
             "color": "blue"
         },
         {
@@ -6284,7 +6313,7 @@
         {
             "source": "Benjamin BL",
             "target": "Stephane K",
-            "width": 4.372983346207417,
+            "width": 4.5,
             "color": "blue"
         },
         {
@@ -7742,7 +7771,7 @@
         {
             "source": "Stephane K",
             "target": "Riton",
-            "width": 3.8166247903554,
+            "width": 3.9641016151377544,
             "color": "blue"
         },
         {
@@ -7862,13 +7891,13 @@
         {
             "source": "Fabio",
             "target": "Stephane K",
-            "width": 4.97213595499958,
+            "width": 5.08257569495584,
             "color": "blue"
         },
         {
             "source": "Fabio",
             "target": "Riton",
-            "width": 3.5,
+            "width": 3.6622776601683795,
             "color": "blue"
         },
         {
@@ -8822,7 +8851,7 @@
         {
             "source": "Kylian",
             "target": "Marie M",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -9506,7 +9535,7 @@
         {
             "source": "Ninie",
             "target": "Izampela",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -9566,7 +9595,7 @@
         {
             "source": "Fabio",
             "target": "Benjamin BL",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "blue"
         },
         {
@@ -9668,7 +9697,7 @@
         {
             "source": "Fabio",
             "target": "Izampela",
-            "width": 3.5,
+            "width": 3.6622776601683795,
             "color": "brown"
         },
         {
@@ -9680,13 +9709,13 @@
         {
             "source": "Benjamin BL",
             "target": "Izampela",
-            "width": 3.5,
+            "width": 3.6622776601683795,
             "color": "brown"
         },
         {
             "source": "Riton",
             "target": "Izampela",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
@@ -9740,7 +9769,7 @@
         {
             "source": "Benjamin BL",
             "target": "Riton",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "brown"
         },
         {
@@ -9866,7 +9895,7 @@
         {
             "source": "Alexandra B",
             "target": "Florian H",
-            "width": 2.73606797749979,
+            "width": 2.949489742783178,
             "color": "brown"
         },
         {
@@ -10978,6 +11007,150 @@
             "target": "Axel",
             "width": 1.5,
             "color": "blue"
+        },
+        {
+            "source": "Florian H",
+            "target": "H\u00e9l\u00e8ne",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Florian H",
+            "target": "Laurie",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Laurie",
+            "target": "H\u00e9l\u00e8ne",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Alexandra B",
+            "target": "H\u00e9l\u00e8ne",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Alexandra B",
+            "target": "Laurie",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Enio",
+            "target": "Marie M",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Kylian",
+            "target": "Enio",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Pierre F",
+            "target": "Izampela",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Izampela",
+            "target": "Alexis V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Fabio",
+            "target": "Ninie",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Stephane K",
+            "target": "Ninie",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Pierre F",
+            "target": "Ninie",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Ninie",
+            "target": "Alexis V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Benjamin BL",
+            "target": "Ninie",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Ninie",
+            "target": "Riton",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Fabio",
+            "target": "Pierre F",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Fabio",
+            "target": "Alexis V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Pierre F",
+            "target": "Stephane K",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Stephane K",
+            "target": "Alexis V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Pierre F",
+            "target": "Alexis V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Benjamin BL",
+            "target": "Pierre F",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Pierre F",
+            "target": "Riton",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Benjamin BL",
+            "target": "Alexis V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Riton",
+            "target": "Alexis V",
+            "width": 1.5,
+            "color": "brown"
         }
     ]
 }
