@@ -12,7 +12,7 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Stephane K",
                 "Benjamin BL",
@@ -20,7 +20,7 @@
                 "Fabio",
                 "Eliman"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Fabio",
@@ -188,7 +188,7 @@
                 "Christian G",
                 "Matthieu"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Matthieu",
@@ -342,7 +342,7 @@
                 "Stephane K",
                 "Caroline"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "_ SAUT CLASSIC",
@@ -628,10 +628,10 @@
             "number_friends": 7,
             "friends": [
                 "Guillaume D",
+                "Nicolas C",
+                "Antoni",
                 "H\u00e9l\u00e8ne",
-                "Alban",
-                "Laurie",
-                "Alexandra B"
+                "Alban"
             ],
             "number_jumps": 1
         },
@@ -695,15 +695,15 @@
             "id": "Thibaut F",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 8,
             "friends": [
                 "Ninie",
+                "Laurent",
                 "Olivier GENN",
                 "Clement J",
-                "H\u00e9l\u00e8ne",
-                "Alban"
+                "H\u00e9l\u00e8ne"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         }
     ],
     "links": [
@@ -1550,7 +1550,7 @@
         {
             "source": "Ninie",
             "target": "Izampela",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
@@ -1844,7 +1844,7 @@
         {
             "source": "Laurent",
             "target": "Ninie",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
@@ -1988,7 +1988,7 @@
         {
             "source": "Thibaut F",
             "target": "Ninie",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -2096,7 +2096,7 @@
         {
             "source": "Thibaut F",
             "target": "Laurent",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
@@ -2156,6 +2156,18 @@
         {
             "source": "Guillaume D",
             "target": "Eliman",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Thibaut F",
+            "target": "Izampela",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Laurent",
+            "target": "Izampela",
             "width": 1.5,
             "color": "brown"
         }
