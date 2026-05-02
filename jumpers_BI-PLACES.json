@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 63,
+            "number_friends": 64,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -101,7 +101,7 @@
                 "Benoit",
                 "Lionel"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Maelys",
@@ -1717,6 +1717,16 @@
             "friends": [
                 "Gwen",
                 "Axel"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nathalie S",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
             ],
             "number_jumps": 1
         }
@@ -3783,6 +3793,12 @@
         {
             "source": "Axel",
             "target": "Dominique",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Nico",
+            "target": "Nathalie S",
             "width": 1.5,
             "color": "purple"
         }

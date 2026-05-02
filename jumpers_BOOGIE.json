@@ -166,7 +166,7 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 38,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -188,7 +188,7 @@
                 "Christian G",
                 "Stephane K"
             ],
-            "number_jumps": 22
+            "number_jumps": 23
         },
         {
             "id": "Matthieu",
@@ -222,7 +222,7 @@
             "id": "Tom BR",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Noah",
                 "Olivier GENN",
@@ -250,7 +250,7 @@
             "id": "Noah",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 29,
+            "number_friends": 30,
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
@@ -342,7 +342,7 @@
                 "Stephane K",
                 "Caroline"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "_ SAUT CLASSIC",
@@ -418,7 +418,7 @@
             "id": "H\u00e9l\u00e8ne",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 12,
+            "number_friends": 13,
             "friends": [
                 "Laurie",
                 "Florian H",
@@ -474,7 +474,7 @@
             "id": "Alexis V",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 10,
             "friends": [
                 "Ninie",
                 "Stephane K",
@@ -530,7 +530,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 63,
+            "number_friends": 64,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -627,9 +627,9 @@
             "shape": "rectangle",
             "number_friends": 7,
             "friends": [
-                "Guillaume D",
                 "Nicolas C",
                 "Antoni",
+                "Guillaume D",
                 "H\u00e9l\u00e8ne",
                 "Alban"
             ],
@@ -703,13 +703,13 @@
                 "Clement J",
                 "H\u00e9l\u00e8ne"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Margot",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 28,
             "friends": [
                 "Marie M",
                 "Salom\u00e9",
@@ -1858,7 +1858,7 @@
         {
             "source": "Laurent",
             "target": "Ninie",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "brown"
         },
         {
@@ -2002,7 +2002,7 @@
         {
             "source": "Thibaut F",
             "target": "Ninie",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "brown"
         },
         {
@@ -2110,7 +2110,7 @@
         {
             "source": "Thibaut F",
             "target": "Laurent",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
