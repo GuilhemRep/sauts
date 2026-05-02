@@ -105,7 +105,7 @@
             "id": "Laurent",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 45,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -582,7 +582,7 @@
             "id": "Clement J",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 22,
             "friends": [
                 "Tom BR",
                 "Noah",
@@ -813,13 +813,13 @@
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 15,
             "friends": [
-                "Alexandra B",
-                "James BO",
                 "Ninie",
-                "Florian H",
-                "H\u00e9l\u00e8ne"
+                "Alexandra B",
+                "H\u00e9l\u00e8ne",
+                "James BO",
+                "Florian H"
             ],
             "number_jumps": 10
         },
@@ -2187,7 +2187,7 @@
             "id": "Ninie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 27,
             "friends": [
                 "Izampela",
                 "Florian H",
@@ -2350,7 +2350,7 @@
             "id": "Gautier",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 7,
             "friends": [
                 "Guillaume D",
                 "H\u00e9l\u00e8ne",
@@ -2358,13 +2358,13 @@
                 "Laurie",
                 "Alexandra B"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Guillaume D",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 8,
             "friends": [
                 "Gautier",
                 "H\u00e9l\u00e8ne",
@@ -2390,6 +2390,28 @@
             "friends": [
                 "Alexandra G",
                 "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nicolas C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gautier",
+                "Antoni"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Antoni",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gautier",
+                "Nicolas C"
             ],
             "number_jumps": 1
         }
@@ -6244,6 +6266,24 @@
         {
             "source": "Jeanne G",
             "target": "Theo V",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Gautier",
+            "target": "Nicolas C",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Gautier",
+            "target": "Antoni",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Nicolas C",
+            "target": "Antoni",
             "width": 1.5,
             "color": "blue"
         }
