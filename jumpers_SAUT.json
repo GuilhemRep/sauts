@@ -77,13 +77,13 @@
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 33,
+            "number_friends": 34,
             "friends": [
                 "Stephane K",
                 "Christophe L",
                 "Laurent",
                 "Benjamin BL",
-                "Hubert-Arnaud"
+                "Riton"
             ],
             "number_jumps": 26
         },
@@ -846,7 +846,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 56,
+            "number_friends": 62,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -944,8 +944,8 @@
                 "Fabio",
                 "Benjamin BL",
                 "Izampela",
-                "Marine G",
-                "Riton"
+                "Riton",
+                "Marine G"
             ],
             "number_jumps": 40
         },
@@ -1049,13 +1049,13 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 31,
+            "number_friends": 32,
             "friends": [
                 "Stephane K",
                 "Fabio",
                 "Benjamin BL",
-                "Laurie",
-                "Riton"
+                "Riton",
+                "Eliman"
             ],
             "number_jumps": 11
         },
@@ -1226,8 +1226,8 @@
                 "Stephane K",
                 "Fabio",
                 "Izampela",
-                "Laurie",
-                "Riton"
+                "Riton",
+                "Eliman"
             ],
             "number_jumps": 13
         },
@@ -1874,7 +1874,7 @@
             "id": "Riton",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 26,
+            "number_friends": 27,
             "friends": [
                 "Cyrill",
                 "L\u00e9o",
@@ -2184,7 +2184,7 @@
             "id": "Ninie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 21,
             "friends": [
                 "Matthieu",
                 "Sarah",
@@ -2322,14 +2322,22 @@
             "id": "Pierre F",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 10,
             "friends": [
                 "Nico",
-                "Axel",
                 "Izampela",
                 "Ninie",
-                "Fabio"
+                "Fabio",
+                "Stephane K"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Taylor",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],

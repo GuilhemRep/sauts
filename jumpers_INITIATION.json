@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 56,
+            "number_friends": 62,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -102,7 +102,7 @@
                 "Gwen",
                 "Mathieu CAI"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Gwen",
@@ -180,7 +180,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Thomas R",
@@ -222,7 +222,7 @@
                 "David T",
                 "Marion"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Louis",
@@ -323,7 +323,7 @@
                 "Simon",
                 "Axel"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -390,7 +390,7 @@
         {
             "source": "Fafa",
             "target": "Morgan",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "green"
         },
         {
@@ -444,7 +444,7 @@
         {
             "source": "Axel",
             "target": "Victor V",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "green"
         }
     ]
