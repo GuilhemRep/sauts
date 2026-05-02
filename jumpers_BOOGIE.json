@@ -110,7 +110,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 43,
+            "number_friends": 45,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -390,7 +390,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 29,
+            "number_friends": 31,
             "friends": [
                 "Cyriaque",
                 "Nathan N",
@@ -404,7 +404,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 84,
+            "number_friends": 85,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -479,6 +479,45 @@
                 "Fabio",
                 "Stephane K",
                 "Pierre F"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Mickael G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 8,
+            "friends": [
+                "Renan",
+                "Lionel",
+                "Enio",
+                "Clement",
+                "Tom BR"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Guilhem",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 6,
+            "friends": [
+                "Bertrand",
+                "Enio",
+                "Jean-Michel",
+                "Adrien",
+                "Mickael G"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Anne-laure",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Mickael G",
+                "Guilhem"
             ],
             "number_jumps": 1
         }
@@ -1429,6 +1468,24 @@
         {
             "source": "Riton",
             "target": "Alexis V",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Mickael G",
+            "target": "Guilhem",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Anne-laure",
+            "target": "Mickael G",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Anne-laure",
+            "target": "Guilhem",
             "width": 1.5,
             "color": "brown"
         }
