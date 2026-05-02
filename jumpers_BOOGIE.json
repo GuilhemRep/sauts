@@ -12,12 +12,12 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 35,
             "friends": [
                 "Stephane K",
                 "Benjamin BL",
-                "Fabio",
                 "Riton",
+                "Fabio",
                 "Eliman"
             ],
             "number_jumps": 13
@@ -40,7 +40,7 @@
             "id": "Stephane K",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 43,
             "friends": [
                 "Fabio",
                 "Benjamin BL",
@@ -82,13 +82,13 @@
             "id": "Riton",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 27,
+            "number_friends": 32,
             "friends": [
                 "Stephane K",
                 "Cyrill",
                 "L\u00e9o",
-                "Fabio",
-                "Izampela"
+                "Izampela",
+                "Fabio"
             ],
             "number_jumps": 12
         },
@@ -166,7 +166,7 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -222,13 +222,13 @@
             "id": "Tom BR",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 35,
             "friends": [
                 "Noah",
                 "Olivier GENN",
                 "Laurent",
-                "Matthieu",
-                "Clement J"
+                "Ana\u00ebl",
+                "Matthieu"
             ],
             "number_jumps": 5
         },
@@ -236,10 +236,10 @@
             "id": "Ana\u00ebl",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 27,
             "friends": [
-                "Laurie",
                 "Tom BR",
+                "Laurie",
                 "Noah",
                 "Laurent",
                 "Christophe L"
@@ -362,7 +362,7 @@
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 15,
+            "number_friends": 22,
             "friends": [
                 "Ninie",
                 "Alexandra B",
@@ -524,7 +524,7 @@
                 "Bibi",
                 "Lulu"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Nico",
@@ -544,7 +544,7 @@
             "id": "Olivier GENN",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 26,
+            "number_friends": 32,
             "friends": [
                 "Tom BR",
                 "Noah",
