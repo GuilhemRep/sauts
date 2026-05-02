@@ -10,7 +10,7 @@
                 "Renan",
                 "Mickael G",
                 "Enio",
-                "Clement"
+                "Clement J"
             ],
             "number_jumps": 4
         },
@@ -36,9 +36,9 @@
             "friends": [
                 "Rachel",
                 "Jordan",
-                "Nico",
                 "Sarah",
-                "Tom BR"
+                "Nico",
+                "Olivier GENN"
             ],
             "number_jumps": 4
         },
@@ -56,7 +56,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 85,
+            "number_friends": 87,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -110,7 +110,7 @@
             "shape": "rectangle",
             "number_friends": 38,
             "friends": [
-                "Clement",
+                "Clement J",
                 "Thierry",
                 "Ju",
                 "Nicolas GO",
@@ -119,7 +119,7 @@
             "number_jumps": 4
         },
         {
-            "id": "Clement",
+            "id": "Clement J",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 16,
@@ -206,7 +206,7 @@
                 "Olivier GENN",
                 "Enio",
                 "Matthieu",
-                "Clement"
+                "Clement J"
             ],
             "number_jumps": 1
         },
@@ -359,7 +359,7 @@
         },
         {
             "source": "Gwen",
-            "target": "Clement",
+            "target": "Clement J",
             "width": 2.232050807568877,
             "color": "green"
         },
