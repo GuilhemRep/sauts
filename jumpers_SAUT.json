@@ -105,7 +105,7 @@
             "id": "Laurent",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 38,
+            "number_friends": 41,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -277,7 +277,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 72,
+            "number_friends": 73,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -452,13 +452,13 @@
             "id": "Marie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 23,
+            "number_friends": 24,
             "friends": [
                 "Charline",
                 "Salom\u00e9",
+                "Ninie",
                 "Mario",
-                "Margot",
-                "Florian H"
+                "Margot"
             ],
             "number_jumps": 12
         },
@@ -668,7 +668,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 31,
+            "number_friends": 32,
             "friends": [
                 "Cyriaque",
                 "Nathan N",
@@ -813,13 +813,13 @@
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 11,
             "friends": [
                 "James BO",
                 "Ninie",
-                "Matthieu",
-                "Rachel",
-                "Sarah"
+                "Florian H",
+                "Alexandra B",
+                "Matthieu"
             ],
             "number_jumps": 10
         },
@@ -1319,7 +1319,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Marion",
                 "Theo V",
@@ -1731,7 +1731,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 61,
+            "number_friends": 62,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -2187,13 +2187,13 @@
             "id": "Ninie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 22,
             "friends": [
                 "Matthieu",
                 "Sarah",
                 "Florian H",
-                "Christophe L",
-                "Alexandra B"
+                "Marie M",
+                "Christophe L"
             ],
             "number_jumps": 2
         },
@@ -2248,12 +2248,12 @@
             "id": "Christian G",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 16,
+            "number_friends": 17,
             "friends": [
                 "Ninie",
+                "Marie M",
                 "Fafa",
                 "Florian H",
-                "Marie M",
                 "Christophe L"
             ],
             "number_jumps": 5
