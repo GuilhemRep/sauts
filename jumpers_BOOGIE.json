@@ -20,7 +20,7 @@
                 "Riton",
                 "Eliman"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Fabio",
@@ -30,11 +30,11 @@
             "friends": [
                 "Stephane K",
                 "Christophe L",
-                "Laurent",
                 "Benjamin BL",
+                "Laurent",
                 "Riton"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Stephane K",
@@ -48,7 +48,7 @@
                 "Riton",
                 "Marine G"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Laurie",
@@ -76,7 +76,7 @@
                 "Riton",
                 "Eliman"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Riton",
@@ -90,7 +90,7 @@
                 "Fabio",
                 "Izampela"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Eliman",
@@ -102,15 +102,15 @@
                 "Fabio",
                 "Stephane K",
                 "Benjamin BL",
-                "Laurie"
+                "Riton"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 45,
+            "number_friends": 47,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -182,13 +182,13 @@
             "shape": "rectangle",
             "number_friends": 22,
             "friends": [
+                "Izampela",
                 "Matthieu",
                 "Sarah",
                 "Florian H",
-                "Marie M",
-                "Christophe L"
+                "Marie M"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Matthieu",
@@ -242,7 +242,7 @@
                 "Tom BR",
                 "Noah",
                 "Laurent",
-                "Clement J"
+                "Christophe L"
             ],
             "number_jumps": 5
         },
@@ -479,9 +479,9 @@
                 "Ninie",
                 "Fabio",
                 "Stephane K",
-                "Pierre F"
+                "Benjamin BL"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Mickael G",
@@ -537,7 +537,7 @@
                 "Benoit",
                 "Lionel"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Olivier GENN",
@@ -613,13 +613,13 @@
         {
             "source": "Fabio",
             "target": "Izampela",
-            "width": 3.8166247903554,
+            "width": 3.9641016151377544,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Izampela",
-            "width": 3.8166247903554,
+            "width": 3.9641016151377544,
             "color": "brown"
         },
         {
@@ -631,25 +631,25 @@
         {
             "source": "Benjamin BL",
             "target": "Izampela",
-            "width": 3.8166247903554,
+            "width": 3.9641016151377544,
             "color": "brown"
         },
         {
             "source": "Riton",
             "target": "Izampela",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "brown"
         },
         {
             "source": "Izampela",
             "target": "Eliman",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Stephane K",
-            "width": 3.8166247903554,
+            "width": 3.9641016151377544,
             "color": "brown"
         },
         {
@@ -661,19 +661,19 @@
         {
             "source": "Fabio",
             "target": "Benjamin BL",
-            "width": 3.8166247903554,
+            "width": 3.9641016151377544,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Riton",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Eliman",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "brown"
         },
         {
@@ -685,19 +685,19 @@
         {
             "source": "Benjamin BL",
             "target": "Stephane K",
-            "width": 3.8166247903554,
+            "width": 3.9641016151377544,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Riton",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Eliman",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "brown"
         },
         {
@@ -721,19 +721,19 @@
         {
             "source": "Benjamin BL",
             "target": "Riton",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Eliman",
-            "width": 3.6622776601683795,
+            "width": 3.8166247903554,
             "color": "brown"
         },
         {
             "source": "Riton",
             "target": "Eliman",
-            "width": 3.5,
+            "width": 3.6622776601683795,
             "color": "brown"
         },
         {
@@ -1453,7 +1453,7 @@
         {
             "source": "Ninie",
             "target": "Izampela",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -1465,19 +1465,19 @@
         {
             "source": "Izampela",
             "target": "Alexis V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Ninie",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Ninie",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -1489,19 +1489,19 @@
         {
             "source": "Ninie",
             "target": "Alexis V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Ninie",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Ninie",
             "target": "Riton",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -1513,7 +1513,7 @@
         {
             "source": "Fabio",
             "target": "Alexis V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -1525,7 +1525,7 @@
         {
             "source": "Stephane K",
             "target": "Alexis V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -1549,13 +1549,13 @@
         {
             "source": "Benjamin BL",
             "target": "Alexis V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Riton",
             "target": "Alexis V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "brown"
         },
         {
@@ -1579,31 +1579,31 @@
         {
             "source": "Nico",
             "target": "Izampela",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Nico",
             "target": "Ninie",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Ninie",
             "target": "Eliman",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Fabio",
             "target": "Nico",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Stephane K",
             "target": "Nico",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
@@ -1621,31 +1621,31 @@
         {
             "source": "Nico",
             "target": "Alexis V",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Eliman",
             "target": "Alexis V",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Benjamin BL",
             "target": "Nico",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Nico",
             "target": "Riton",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {
             "source": "Nico",
             "target": "Eliman",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "brown"
         },
         {

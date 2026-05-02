@@ -338,7 +338,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 40,
+            "number_friends": 42,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
@@ -346,7 +346,7 @@
                 "David T",
                 "Marion"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Thomas MART",
@@ -861,7 +861,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 45,
+            "number_friends": 47,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -869,7 +869,7 @@
                 "Cyrill",
                 "Margot"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Julien M",
@@ -1623,6 +1623,17 @@
             "friends": [
                 "Ju",
                 "Marion"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Alizee",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Ti Ben"
             ],
             "number_jumps": 1
         }
@@ -3611,6 +3622,18 @@
         {
             "source": "Chantal D",
             "target": "Marion",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Alizee",
+            "target": "Fafa",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Alizee",
+            "target": "Ti Ben",
             "width": 1.5,
             "color": "purple"
         }
