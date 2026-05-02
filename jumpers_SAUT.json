@@ -452,7 +452,7 @@
             "id": "Marie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 24,
+            "number_friends": 27,
             "friends": [
                 "Charline",
                 "Salom\u00e9",
@@ -644,13 +644,13 @@
             "id": "Mickael G",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 10,
             "friends": [
                 "Renan",
                 "Lionel",
-                "Enio",
-                "Clement J",
-                "Tom BR"
+                "Guilhem",
+                "Anne-laure",
+                "Enio"
             ],
             "number_jumps": 6
         },
@@ -881,7 +881,7 @@
                 "Theo P",
                 "Stephane K"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Theo P",
@@ -1055,8 +1055,8 @@
             "number_friends": 32,
             "friends": [
                 "Stephane K",
-                "Fabio",
                 "Benjamin BL",
+                "Fabio",
                 "Riton",
                 "Eliman"
             ],
@@ -1066,13 +1066,13 @@
             "id": "Guilhem",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 7,
+            "number_friends": 8,
             "friends": [
                 "Bertrand",
-                "Enio",
-                "Jean-Michel",
                 "Mickael G",
-                "Anne-laure"
+                "Anne-laure",
+                "Enio",
+                "Jean-Michel"
             ],
             "number_jumps": 5
         },
@@ -1606,7 +1606,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 62,
+            "number_friends": 63,
             "friends": [
                 "Axel",
                 "Marion",
@@ -1808,7 +1808,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 47,
+            "number_friends": 48,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -1879,9 +1879,9 @@
             "shape": "rectangle",
             "number_friends": 27,
             "friends": [
+                "Stephane K",
                 "Cyrill",
                 "L\u00e9o",
-                "Stephane K",
                 "Fabio",
                 "Izampela"
             ],
@@ -2189,10 +2189,10 @@
             "shape": "rectangle",
             "number_friends": 25,
             "friends": [
+                "Izampela",
                 "Florian H",
                 "Marie M",
                 "Christian G",
-                "Izampela",
                 "Matthieu"
             ],
             "number_jumps": 2
