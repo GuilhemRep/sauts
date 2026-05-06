@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 66,
+            "number_friends": 67,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -56,7 +56,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 90,
+            "number_friends": 91,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -136,10 +136,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 73,
+            "number_friends": 74,
             "friends": [
-                "Marion",
                 "Theo V",
+                "Marion",
                 "Axel",
                 "Thomas R",
                 "Nico"
@@ -180,7 +180,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Thomas R",
@@ -320,10 +320,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Simon",
-                "Axel"
+                "Axel",
+                "Simon"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Alexandra G",
@@ -455,7 +455,7 @@
         {
             "source": "Axel",
             "target": "Victor V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "green"
         },
         {

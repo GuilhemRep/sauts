@@ -14,7 +14,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 34,
+            "number_friends": 35,
             "friends": [
                 "Cyriaque",
                 "Nathan N",
@@ -22,7 +22,7 @@
                 "Stephane K",
                 "Gwen"
             ],
-            "number_jumps": 23
+            "number_jumps": 24
         },
         {
             "id": "Hugo L",
@@ -102,7 +102,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 90,
+            "number_friends": 91,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -110,7 +110,7 @@
                 "Fabien",
                 "Riton"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Gabriel C",
@@ -258,15 +258,15 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 73,
+            "number_friends": 74,
             "friends": [
-                "Marion",
                 "Theo V",
+                "Marion",
                 "Axel",
                 "Thomas R",
                 "Nico"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Cyriaque",
@@ -283,7 +283,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 66,
+            "number_friends": 67,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -291,7 +291,7 @@
                 "Benoit",
                 "Lionel"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Benoit",
@@ -404,7 +404,7 @@
                 "Margot",
                 "Tibal"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Margot",
@@ -418,7 +418,7 @@
                 "Ti Ben",
                 "Nico"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Guillaume DEL",
@@ -438,6 +438,37 @@
             "friends": [
                 "Fafa",
                 "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Anthony COR",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Tibal",
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thibault G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Theo B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
             ],
             "number_jumps": 1
         }
@@ -680,7 +711,7 @@
         {
             "source": "Margot",
             "target": "Enzo",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
@@ -710,6 +741,30 @@
         {
             "source": "Gwen",
             "target": "Roman",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Anthony COR",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Anthony COR",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Thibault G",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Theo B",
+            "target": "Ju",
             "width": 1.5,
             "color": "orange"
         }
