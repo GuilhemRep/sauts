@@ -734,7 +734,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 89,
+            "number_friends": 90,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -849,7 +849,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 66,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -920,7 +920,7 @@
             "id": "Margot",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 28,
+            "number_friends": 30,
             "friends": [
                 "Marie M",
                 "Salom\u00e9",
@@ -1185,7 +1185,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Clement J",
                 "Thierry",
@@ -1322,7 +1322,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 71,
+            "number_friends": 73,
             "friends": [
                 "Marion",
                 "Theo V",
@@ -1609,7 +1609,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Axel",
                 "Marion",
@@ -1637,7 +1637,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 43,
+            "number_friends": 44,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
@@ -1729,7 +1729,7 @@
                 "Pauline",
                 "Eliot"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Marion",
@@ -2350,7 +2350,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Gautier",
@@ -2360,14 +2360,14 @@
             "friends": [
                 "Nicolas C",
                 "Antoni",
-                "Guillaume D",
+                "Guillaume DEN",
                 "H\u00e9l\u00e8ne",
                 "Alban"
             ],
             "number_jumps": 4
         },
         {
-            "id": "Guillaume D",
+            "id": "Guillaume DEN",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 12,
@@ -2429,7 +2429,7 @@
             "friends": [
                 "Laurie",
                 "Florian H",
-                "Guillaume D",
+                "Guillaume DEN",
                 "Alexandra B",
                 "Alban"
             ],
@@ -6295,7 +6295,7 @@
         },
         {
             "source": "Gautier",
-            "target": "Guillaume D",
+            "target": "Guillaume DEN",
             "width": 1.5,
             "color": "blue"
         },

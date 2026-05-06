@@ -404,7 +404,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 89,
+            "number_friends": 90,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -422,7 +422,7 @@
             "friends": [
                 "Laurie",
                 "Florian H",
-                "Guillaume D",
+                "Guillaume DEN",
                 "Alexandra B",
                 "Alban"
             ],
@@ -530,7 +530,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 66,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -629,14 +629,14 @@
             "friends": [
                 "Nicolas C",
                 "Antoni",
-                "Guillaume D",
+                "Guillaume DEN",
                 "H\u00e9l\u00e8ne",
                 "Alban"
             ],
             "number_jumps": 1
         },
         {
-            "id": "Guillaume D",
+            "id": "Guillaume DEN",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 12,
@@ -709,7 +709,7 @@
             "id": "Margot",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 28,
+            "number_friends": 30,
             "friends": [
                 "Marie M",
                 "Salom\u00e9",
@@ -723,7 +723,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Axel",
                 "Marion",
@@ -1906,7 +1906,7 @@
             "color": "brown"
         },
         {
-            "source": "Guillaume D",
+            "source": "Guillaume DEN",
             "target": "H\u00e9l\u00e8ne",
             "width": 2.5,
             "color": "brown"
@@ -1919,7 +1919,7 @@
         },
         {
             "source": "Alban",
-            "target": "Guillaume D",
+            "target": "Guillaume DEN",
             "width": 1.9142135623730951,
             "color": "brown"
         },
@@ -1930,14 +1930,14 @@
             "color": "brown"
         },
         {
-            "source": "Guillaume D",
+            "source": "Guillaume DEN",
             "target": "Laurie",
             "width": 2.232050807568877,
             "color": "brown"
         },
         {
             "source": "Gautier",
-            "target": "Guillaume D",
+            "target": "Guillaume DEN",
             "width": 1.5,
             "color": "brown"
         },
@@ -1949,7 +1949,7 @@
         },
         {
             "source": "Alexandra B",
-            "target": "Guillaume D",
+            "target": "Guillaume DEN",
             "width": 1.5,
             "color": "brown"
         },
@@ -2116,7 +2116,7 @@
             "color": "brown"
         },
         {
-            "source": "Guillaume D",
+            "source": "Guillaume DEN",
             "target": "Thibaut F",
             "width": 1.5,
             "color": "brown"
@@ -2128,19 +2128,19 @@
             "color": "brown"
         },
         {
-            "source": "Guillaume D",
+            "source": "Guillaume DEN",
             "target": "Ninie",
             "width": 1.5,
             "color": "brown"
         },
         {
-            "source": "Guillaume D",
+            "source": "Guillaume DEN",
             "target": "Laurent",
             "width": 1.5,
             "color": "brown"
         },
         {
-            "source": "Guillaume D",
+            "source": "Guillaume DEN",
             "target": "Florian H",
             "width": 1.9142135623730951,
             "color": "brown"
@@ -2164,7 +2164,7 @@
             "color": "brown"
         },
         {
-            "source": "Guillaume D",
+            "source": "Guillaume DEN",
             "target": "Marie M",
             "width": 1.9142135623730951,
             "color": "brown"
@@ -2182,7 +2182,7 @@
             "color": "brown"
         },
         {
-            "source": "Guillaume D",
+            "source": "Guillaume DEN",
             "target": "Eliman",
             "width": 1.5,
             "color": "brown"
@@ -2225,7 +2225,7 @@
         },
         {
             "source": "Margot",
-            "target": "Guillaume D",
+            "target": "Guillaume DEN",
             "width": 1.5,
             "color": "brown"
         },
