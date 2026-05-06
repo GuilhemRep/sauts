@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -56,7 +56,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 91,
+            "number_friends": 92,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -136,7 +136,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 74,
+            "number_friends": 75,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -144,7 +144,7 @@
                 "Thomas R",
                 "Nico"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Mike",
@@ -172,7 +172,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -180,7 +180,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Thomas R",
@@ -194,7 +194,7 @@
                 "Nico",
                 "Maelys"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Noah",
@@ -252,7 +252,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 49,
+            "number_friends": 50,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -323,7 +323,7 @@
                 "Axel",
                 "Simon"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Alexandra G",
@@ -455,7 +455,7 @@
         {
             "source": "Axel",
             "target": "Victor V",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "green"
         },
         {

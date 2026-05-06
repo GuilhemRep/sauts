@@ -85,7 +85,7 @@
                 "Laurent",
                 "Riton"
             ],
-            "number_jumps": 26
+            "number_jumps": 27
         },
         {
             "id": "Morgane C",
@@ -277,7 +277,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -676,7 +676,7 @@
                 "Stephane K",
                 "Gwen"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Jean-Michel",
@@ -734,7 +734,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 91,
+            "number_friends": 92,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -849,7 +849,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -926,7 +926,7 @@
                 "Salom\u00e9",
                 "Charline",
                 "Ti Ben",
-                "Nico"
+                "Enzo"
             ],
             "number_jumps": 8
         },
@@ -953,7 +953,7 @@
                 "Izampela",
                 "Eliman"
             ],
-            "number_jumps": 41
+            "number_jumps": 42
         },
         {
             "id": "Yves",
@@ -1322,7 +1322,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 74,
+            "number_friends": 75,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -1465,10 +1465,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Mathieu CAI",
-                "Thibaut G"
+                "Thibaut G",
+                "Mathieu CAI"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Mathieu CAI",
@@ -1589,7 +1589,7 @@
             "friends": [
                 "Lucas F"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Lilou",
@@ -1735,7 +1735,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 62,
+            "number_friends": 63,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -1812,7 +1812,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 49,
+            "number_friends": 50,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -2096,12 +2096,12 @@
             "shape": "rectangle",
             "number_friends": 1,
             "friends": [
-                "Laetitia"
+                "Laetitia D"
             ],
             "number_jumps": 1
         },
         {
-            "id": "Laetitia",
+            "id": "Laetitia D",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -2471,6 +2471,14 @@
             "friends": [
                 "Theo V"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Alexis M",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
@@ -3930,7 +3938,7 @@
         {
             "source": "Ju",
             "target": "Stephane K",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -4920,7 +4928,7 @@
         {
             "source": "Lucas F",
             "target": "Thibaut G",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -5004,7 +5012,7 @@
         {
             "source": "Fabio",
             "target": "Stephane K",
-            "width": 3.8166247903554,
+            "width": 3.9641016151377544,
             "color": "blue"
         },
         {
@@ -5309,7 +5317,7 @@
         },
         {
             "source": "Thibaut B",
-            "target": "Laetitia",
+            "target": "Laetitia D",
             "width": 1.5,
             "color": "blue"
         },
@@ -6540,6 +6548,12 @@
         {
             "source": "Kylian",
             "target": "Florian I",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Fabio",
+            "target": "Ju",
             "width": 1.5,
             "color": "blue"
         }

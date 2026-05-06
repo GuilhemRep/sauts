@@ -153,7 +153,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 91,
+            "number_friends": 92,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -339,7 +339,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -460,6 +460,16 @@
             "friends": [
                 "Ju",
                 "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Theo B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
             ],
             "number_jumps": 1
         }

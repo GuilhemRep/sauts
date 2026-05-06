@@ -102,7 +102,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 91,
+            "number_friends": 92,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -258,7 +258,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 74,
+            "number_friends": 75,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -283,7 +283,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -291,7 +291,7 @@
                 "Benoit",
                 "Lionel"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Benoit",
@@ -353,7 +353,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 49,
+            "number_friends": 50,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -404,7 +404,7 @@
                 "Margot",
                 "Tibal"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Margot",
@@ -416,9 +416,9 @@
                 "Salom\u00e9",
                 "Charline",
                 "Ti Ben",
-                "Nico"
+                "Enzo"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Guillaume DEL",
@@ -460,7 +460,7 @@
             "friends": [
                 "Nico"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Theo B",
@@ -711,7 +711,7 @@
         {
             "source": "Margot",
             "target": "Enzo",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
@@ -759,7 +759,7 @@
         {
             "source": "Thibault G",
             "target": "Nico",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
