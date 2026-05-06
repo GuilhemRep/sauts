@@ -129,7 +129,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Patrice",
@@ -153,7 +153,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 92,
+            "number_friends": 93,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -339,7 +339,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 77,
+            "number_friends": 78,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -470,6 +470,16 @@
             "number_friends": 1,
             "friends": [
                 "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thibault G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
             ],
             "number_jumps": 1
         }
