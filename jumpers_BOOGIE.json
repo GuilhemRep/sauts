@@ -178,7 +178,7 @@
         },
         {
             "id": "Ninie",
-            "color": "gray",
+            "color": "cyan",
             "shape": "rectangle",
             "number_friends": 27,
             "friends": [
@@ -514,7 +514,7 @@
         },
         {
             "id": "Anne-laure",
-            "color": "gray",
+            "color": "cyan",
             "shape": "rectangle",
             "number_friends": 9,
             "friends": [
@@ -1704,12 +1704,6 @@
         {
             "source": "Nico",
             "target": "Izampela",
-            "width": 1.9142135623730951,
-            "color": "brown"
-        },
-        {
-            "source": "Nico",
-            "target": "Ninie",
             "width": 1.9142135623730951,
             "color": "brown"
         },
