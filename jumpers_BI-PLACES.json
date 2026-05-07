@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 75,
+            "number_friends": 76,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -23,7 +23,7 @@
                 "Axel",
                 "Nico"
             ],
-            "number_jumps": 42
+            "number_jumps": 43
         },
         {
             "id": "Marion",
@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 78,
+            "number_friends": 79,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -143,7 +143,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 93,
+            "number_friends": 94,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -151,7 +151,7 @@
                 "Fabien",
                 "Riton"
             ],
-            "number_jumps": 29
+            "number_jumps": 30
         },
         {
             "id": "Thomas MARS",
@@ -1813,6 +1813,26 @@
             "friends": [
                 "Theo V",
                 "Marion"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Tino",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jean-no\u00ebl",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Tibal"
             ],
             "number_jumps": 1
         }
@@ -3969,6 +3989,18 @@
         {
             "source": "Marion",
             "target": "Tom V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Tino",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Jean-no\u00ebl",
+            "target": "Tibal",
             "width": 1.5,
             "color": "purple"
         }

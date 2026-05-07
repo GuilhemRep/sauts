@@ -71,7 +71,7 @@
                 "Fabio",
                 "Olivier GENN"
             ],
-            "number_jumps": 30
+            "number_jumps": 31
         },
         {
             "id": "Fabio",
@@ -278,7 +278,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 78,
+            "number_friends": 79,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -735,7 +735,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 93,
+            "number_friends": 94,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -978,7 +978,7 @@
             "friends": [
                 "Theo V"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Philippe H",
@@ -1323,7 +1323,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 75,
+            "number_friends": 76,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -1730,7 +1730,7 @@
                 "Pauline",
                 "Eliot"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Marion",
@@ -2492,7 +2492,7 @@
             "friends": [
                 "Hubert-Arnaud"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -6579,7 +6579,7 @@
         {
             "source": "Hubert-Arnaud",
             "target": "Alexandre M",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
