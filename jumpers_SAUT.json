@@ -63,7 +63,7 @@
             "id": "Hubert-Arnaud",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Laurent",
                 "Christophe L",
@@ -71,7 +71,7 @@
                 "Fabio",
                 "Olivier GENN"
             ],
-            "number_jumps": 29
+            "number_jumps": 30
         },
         {
             "id": "Fabio",
@@ -926,8 +926,8 @@
                 "Marie M",
                 "Salom\u00e9",
                 "Charline",
-                "Ti Ben",
-                "Enzo"
+                "Enzo",
+                "Ti Ben"
             ],
             "number_jumps": 8
         },
@@ -1084,7 +1084,7 @@
             "id": "Bertrand",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 10,
+            "number_friends": 11,
             "friends": [
                 "Franck B",
                 "Pascal M",
@@ -1092,7 +1092,7 @@
                 "Bastien",
                 "Renaud F"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Megane",
@@ -1327,8 +1327,8 @@
             "friends": [
                 "Theo V",
                 "Marion",
-                "Axel",
                 "Thomas R",
+                "Axel",
                 "Nico"
             ],
             "number_jumps": 4
@@ -1644,7 +1644,7 @@
                 "Aur\u00e9lia P",
                 "Theo V",
                 "David T",
-                "Marion"
+                "Roman"
             ],
             "number_jumps": 9
         },
@@ -1730,7 +1730,7 @@
                 "Pauline",
                 "Eliot"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Marion",
@@ -2478,8 +2478,20 @@
             "id": "Alexis M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
+            "number_friends": 1,
+            "friends": [
+                "Bertrand"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Alexandre M",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Hubert-Arnaud"
+            ],
             "number_jumps": 1
         }
     ],
@@ -6561,6 +6573,18 @@
         {
             "source": "Stephane K",
             "target": "Mario",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Hubert-Arnaud",
+            "target": "Alexandre M",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Alexis M",
+            "target": "Bertrand",
             "width": 1.5,
             "color": "blue"
         }
