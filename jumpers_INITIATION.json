@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 70,
+            "number_friends": 71,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -50,7 +50,7 @@
             "friends": [
                 "Theo V"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Theo V",
@@ -60,11 +60,11 @@
             "friends": [
                 "Axel",
                 "Tibal",
-                "Marion",
                 "Fabien",
+                "Marion",
                 "Riton"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Yoram",
@@ -80,7 +80,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 70,
+            "number_friends": 71,
             "friends": [
                 "Axel",
                 "Marion",
@@ -201,7 +201,7 @@
             "id": "Noah",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 31,
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
@@ -360,7 +360,7 @@
             "friends": [
                 "Marion"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Marion",
@@ -374,7 +374,7 @@
                 "Nico",
                 "Axel"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -393,7 +393,7 @@
         {
             "source": "Fabien",
             "target": "Theo V",
-            "width": 3.5,
+            "width": 3.6622776601683795,
             "color": "green"
         },
         {
@@ -519,7 +519,7 @@
         {
             "source": "Marina",
             "target": "Marion",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "green"
         }
     ]

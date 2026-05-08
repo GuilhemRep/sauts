@@ -14,7 +14,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 38,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 70,
+            "number_friends": 71,
             "friends": [
                 "Axel",
                 "Marion",
@@ -107,8 +107,8 @@
             "friends": [
                 "Axel",
                 "Tibal",
-                "Marion",
                 "Fabien",
+                "Marion",
                 "Riton"
             ],
             "number_jumps": 18
@@ -180,7 +180,7 @@
                 "Axel",
                 "Ju"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Benjamin E",
@@ -284,7 +284,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 70,
+            "number_friends": 71,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -479,10 +479,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Fafa",
-                "Gwen"
+                "Gwen",
+                "Fafa"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -789,7 +789,7 @@
         {
             "source": "Gwen",
             "target": "Celian",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         }
     ]
