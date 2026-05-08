@@ -231,7 +231,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Yohann",
@@ -293,7 +293,7 @@
                 "Theo V",
                 "Axel"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Simon",
@@ -341,11 +341,11 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 85,
+            "number_friends": 86,
             "friends": [
                 "Theo V",
-                "Simon",
                 "Tibal",
+                "Simon",
                 "Nico",
                 "Ambre"
             ],
@@ -516,7 +516,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Yasha",

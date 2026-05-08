@@ -68,7 +68,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Yoram",
@@ -140,7 +140,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 82,
+            "number_friends": 83,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -177,11 +177,11 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 85,
+            "number_friends": 86,
             "friends": [
                 "Theo V",
-                "Simon",
                 "Tibal",
+                "Simon",
                 "Nico",
                 "Ambre"
             ],
@@ -354,7 +354,7 @@
                 "Hubert-Arnaud",
                 "Rachel"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Marina",
@@ -517,7 +517,7 @@
         {
             "source": "Caroline",
             "target": "Theo V",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "green"
         },
         {
