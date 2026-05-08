@@ -12,7 +12,7 @@
                 "Enio",
                 "Clement J"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Nico",
@@ -22,11 +22,11 @@
             "friends": [
                 "Axel",
                 "Matthieu",
+                "Lionel",
                 "Marion",
-                "Stephane K",
-                "Benoit"
+                "Stephane K"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Matthieu",
@@ -140,7 +140,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 85,
+            "number_friends": 87,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -343,7 +343,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Caroline",
+            "id": "Caroline C",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 19,
@@ -370,7 +370,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 66,
+            "number_friends": 67,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -385,7 +385,7 @@
         {
             "source": "Lionel",
             "target": "Nico",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "green"
         },
         {
@@ -515,7 +515,7 @@
             "color": "green"
         },
         {
-            "source": "Caroline",
+            "source": "Caroline C",
             "target": "Theo V",
             "width": 1.9142135623730951,
             "color": "green"

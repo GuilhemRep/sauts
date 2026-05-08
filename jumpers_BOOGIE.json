@@ -149,7 +149,7 @@
             "number_jumps": 5
         },
         {
-            "id": "Caroline",
+            "id": "Caroline C",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 19,
@@ -340,7 +340,7 @@
                 "Fabio",
                 "Christophe L",
                 "Stephane K",
-                "Caroline"
+                "Caroline C"
             ],
             "number_jumps": 10
         },
@@ -390,7 +390,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -534,9 +534,9 @@
             "friends": [
                 "Axel",
                 "Matthieu",
+                "Lionel",
                 "Marion",
-                "Stephane K",
-                "Benoit"
+                "Stephane K"
             ],
             "number_jumps": 2
         },
@@ -868,7 +868,7 @@
             "color": "brown"
         },
         {
-            "source": "Caroline",
+            "source": "Caroline C",
             "target": "Florian H",
             "width": 1.5,
             "color": "brown"
@@ -880,7 +880,7 @@
             "color": "brown"
         },
         {
-            "source": "Caroline",
+            "source": "Caroline C",
             "target": "Rachel",
             "width": 1.9142135623730951,
             "color": "brown"
@@ -892,7 +892,7 @@
             "color": "brown"
         },
         {
-            "source": "Caroline",
+            "source": "Caroline C",
             "target": "Christophe L",
             "width": 1.5,
             "color": "brown"
@@ -1042,7 +1042,7 @@
             "color": "brown"
         },
         {
-            "source": "Caroline",
+            "source": "Caroline C",
             "target": "Ninie",
             "width": 1.5,
             "color": "brown"
@@ -1060,7 +1060,7 @@
             "color": "brown"
         },
         {
-            "source": "Caroline",
+            "source": "Caroline C",
             "target": "Matthieu",
             "width": 1.5,
             "color": "brown"
@@ -1084,7 +1084,7 @@
             "color": "brown"
         },
         {
-            "source": "Caroline",
+            "source": "Caroline C",
             "target": "Sarah",
             "width": 1.5,
             "color": "brown"
@@ -1096,7 +1096,7 @@
             "color": "brown"
         },
         {
-            "source": "Caroline",
+            "source": "Caroline C",
             "target": "Christian G",
             "width": 1.5,
             "color": "brown"
