@@ -60,7 +60,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 107,
+            "number_friends": 108,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -68,7 +68,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 21
+            "number_jumps": 22
         },
         {
             "id": "Yoram",
@@ -126,7 +126,7 @@
             "id": "Clement J",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 24,
+            "number_friends": 25,
             "friends": [
                 "Laurent",
                 "Laurie",
@@ -134,7 +134,7 @@
                 "Noah",
                 "Gwen"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Tibal",
@@ -384,13 +384,13 @@
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 27,
+            "number_friends": 29,
             "friends": [
-                "Ninie",
                 "Christophe L",
+                "Ninie",
                 "Alexandra B",
                 "H\u00e9l\u00e8ne",
-                "James BO"
+                "Ana\u00ebl"
             ],
             "number_jumps": 1
         },
@@ -426,13 +426,13 @@
             "id": "Mathieu D",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 10,
+            "number_friends": 12,
             "friends": [
-                "Fabio",
                 "Christophe L",
+                "Fabio",
                 "Sylvain C",
-                "Laurent",
-                "Ju"
+                "Alban",
+                "Ana\u00ebl"
             ],
             "number_jumps": 1
         }
@@ -596,6 +596,12 @@
         },
         {
             "source": "Mathieu D",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "green"
+        },
+        {
+            "source": "Clement J",
             "target": "Theo V",
             "width": 1.5,
             "color": "green"
