@@ -15,15 +15,15 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 87,
+            "number_friends": 90,
             "friends": [
                 "Theo V",
-                "Marion",
                 "Axel",
+                "Marion",
                 "Thomas R",
-                "Nico"
+                "Ti Ben"
             ],
-            "number_jumps": 48
+            "number_jumps": 49
         },
         {
             "id": "Marion",
@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 86,
+            "number_friends": 90,
             "friends": [
                 "Theo V",
                 "Tibal",
@@ -76,7 +76,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 45
+            "number_jumps": 46
         },
         {
             "id": "Anabelle",
@@ -96,8 +96,8 @@
             "number_friends": 72,
             "friends": [
                 "Axel",
-                "Matthieu",
                 "Lionel",
+                "Matthieu",
                 "Marion",
                 "Stephane K"
             ],
@@ -143,7 +143,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 101,
+            "number_friends": 104,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -151,7 +151,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 32
+            "number_jumps": 33
         },
         {
             "id": "Thomas MARS",
@@ -338,13 +338,13 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 48,
+            "number_friends": 50,
             "friends": [
                 "Morgan",
                 "Roman",
+                "Gwen",
                 "Aur\u00e9lia P",
-                "Theo V",
-                "Gwen"
+                "Theo V"
             ],
             "number_jumps": 14
         },
@@ -674,11 +674,11 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 43,
             "friends": [
+                "Fafa",
                 "Clement J",
                 "Thierry",
-                "Fafa",
                 "Axel",
                 "Ju"
             ],
@@ -861,15 +861,15 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 52,
+            "number_friends": 56,
             "friends": [
                 "Simon",
-                "Marine G",
                 "Theo V",
-                "Cyrill",
-                "Margot"
+                "Marine G",
+                "Margot",
+                "Tibal"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Julien ME",
@@ -2064,6 +2064,62 @@
             "friends": [
                 "Vincent M",
                 "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Sandie",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 7,
+            "friends": [
+                "Margot",
+                "Olivia",
+                "Theo V",
+                "Ti Ben",
+                "Karla G"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Margot",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 35,
+            "friends": [
+                "Enzo",
+                "Marie M",
+                "Salom\u00e9",
+                "Charline",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Olivia",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 7,
+            "friends": [
+                "Sandie",
+                "Margot",
+                "Theo V",
+                "Ti Ben",
+                "Karla G"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Karla G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 7,
+            "friends": [
+                "Sandie",
+                "Margot",
+                "Olivia",
+                "Theo V",
+                "Ti Ben"
             ],
             "number_jumps": 1
         }
@@ -4442,6 +4498,138 @@
         {
             "source": "Caroline M",
             "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Margot",
+            "target": "Sandie",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Olivia",
+            "target": "Sandie",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Sandie",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Sandie",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Karla G",
+            "target": "Sandie",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Sandie",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Sandie",
+            "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Margot",
+            "target": "Olivia",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Margot",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Margot",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Margot",
+            "target": "Karla G",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Margot",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Margot",
+            "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Olivia",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Olivia",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Olivia",
+            "target": "Karla G",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Olivia",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Olivia",
+            "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Karla G",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Karla G",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Karla G",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Karla G",
+            "target": "Axel",
             "width": 1.5,
             "color": "purple"
         }
