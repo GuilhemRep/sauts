@@ -439,7 +439,7 @@
             "id": "Philippe M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 16,
+            "number_friends": 17,
             "friends": [
                 "Jordan",
                 "Anael",
@@ -447,7 +447,7 @@
                 "Olivier GENE",
                 "Olivier GENN"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Marie M",
@@ -735,7 +735,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 94,
+            "number_friends": 95,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -800,7 +800,7 @@
             "id": "Caroline",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 18,
+            "number_friends": 19,
             "friends": [
                 "Laurent",
                 "Fabio",
@@ -1323,10 +1323,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
-                "Theo V",
                 "Marion",
+                "Theo V",
                 "Thomas R",
                 "Axel",
                 "Nico"
@@ -1610,7 +1610,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Axel",
                 "Marion",
@@ -1736,7 +1736,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 63,
+            "number_friends": 64,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -1813,7 +1813,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -2478,11 +2478,12 @@
             "id": "Alexis M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Bertrand"
+                "Bertrand",
+                "Philippe M"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Alexandre M",
@@ -6649,6 +6650,12 @@
         {
             "source": "Mael",
             "target": "Clement P",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Philippe M",
+            "target": "Alexis M",
             "width": 1.5,
             "color": "blue"
         }

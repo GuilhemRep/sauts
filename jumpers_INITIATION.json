@@ -56,7 +56,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 94,
+            "number_friends": 95,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -64,7 +64,7 @@
                 "Fabien",
                 "Riton"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Yoram",
@@ -80,7 +80,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Axel",
                 "Marion",
@@ -136,10 +136,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
-                "Theo V",
                 "Marion",
+                "Theo V",
                 "Thomas R",
                 "Axel",
                 "Nico"
@@ -253,7 +253,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -334,6 +334,20 @@
             "friends": [
                 "Theo V",
                 "Jeanne G"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Caroline",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 19,
+            "friends": [
+                "Laurent",
+                "Fabio",
+                "Christophe L",
+                "Hubert-Arnaud",
+                "Rachel"
             ],
             "number_jumps": 1
         }
@@ -468,6 +482,12 @@
         {
             "source": "Mike",
             "target": "Axel",
+            "width": 1.5,
+            "color": "green"
+        },
+        {
+            "source": "Caroline",
+            "target": "Theo V",
             "width": 1.5,
             "color": "green"
         }
