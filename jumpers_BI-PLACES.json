@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -143,7 +143,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 105,
+            "number_friends": 106,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -210,7 +210,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 40,
+            "number_friends": 41,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -674,7 +674,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 44,
+            "number_friends": 45,
             "friends": [
                 "Fafa",
                 "Clement J",
@@ -682,7 +682,7 @@
                 "Thierry",
                 "Axel"
             ],
-            "number_jumps": 16
+            "number_jumps": 17
         },
         {
             "id": "Katia",
@@ -2133,6 +2133,16 @@
                 "Marion"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Ketiara",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -4653,6 +4663,12 @@
         {
             "source": "Guillaume F",
             "target": "Marion",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Ketiara",
+            "target": "Gwen",
             "width": 1.5,
             "color": "purple"
         }

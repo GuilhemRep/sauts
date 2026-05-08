@@ -60,7 +60,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 105,
+            "number_friends": 106,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -68,7 +68,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Yoram",
@@ -112,7 +112,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 44,
+            "number_friends": 45,
             "friends": [
                 "Fafa",
                 "Clement J",
@@ -370,7 +370,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -391,6 +391,48 @@
                 "Alexandra B",
                 "H\u00e9l\u00e8ne",
                 "James BO"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thomas G",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Vincent F",
+                "Christopher",
+                "Louis G",
+                "Theo P",
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ju",
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 41,
+            "friends": [
+                "Stephane K",
+                "Cyriaque",
+                "Nathan N",
+                "Izampela",
+                "Fabio"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Mathieu D",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 10,
+            "friends": [
+                "Fabio",
+                "Christophe L",
+                "Sylvain C",
+                "Laurent",
+                "Ju"
             ],
             "number_jumps": 1
         }
@@ -542,6 +584,18 @@
         },
         {
             "source": "Alban",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "green"
+        },
+        {
+            "source": "Thomas G",
+            "target": "Ju",
+            "width": 1.5,
+            "color": "green"
+        },
+        {
+            "source": "Mathieu D",
             "target": "Theo V",
             "width": 1.5,
             "color": "green"
