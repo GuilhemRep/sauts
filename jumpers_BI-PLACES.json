@@ -674,7 +674,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 43,
+            "number_friends": 44,
             "friends": [
                 "Fafa",
                 "Clement J",
@@ -682,7 +682,7 @@
                 "Axel",
                 "Ju"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Katia",
@@ -2120,6 +2120,16 @@
                 "Olivia",
                 "Theo V",
                 "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Guillaume F",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
             ],
             "number_jumps": 1
         }
@@ -4630,6 +4640,12 @@
         {
             "source": "Karla G",
             "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Guillaume F",
+            "target": "Gwen",
             "width": 1.5,
             "color": "purple"
         }
