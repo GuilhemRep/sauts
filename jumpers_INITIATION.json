@@ -50,13 +50,13 @@
             "friends": [
                 "Theo V"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 95,
+            "number_friends": 97,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -64,7 +64,7 @@
                 "Fabien",
                 "Riton"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Yoram",
@@ -136,12 +136,12 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 77,
+            "number_friends": 79,
             "friends": [
-                "Marion",
                 "Theo V",
-                "Thomas R",
+                "Marion",
                 "Axel",
+                "Thomas R",
                 "Nico"
             ],
             "number_jumps": 6
@@ -173,7 +173,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 79,
+            "number_friends": 81,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -226,7 +226,7 @@
             "number_jumps": 13
         },
         {
-            "id": "Louis",
+            "id": "Louis G",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 16,
@@ -306,12 +306,13 @@
             "id": "Adrien",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 5,
             "friends": [
                 "Theo V",
                 "Enio",
                 "Guilhem",
-                "Jean-Michel"
+                "Jean-Michel",
+                "Tom A"
             ],
             "number_jumps": 1
         },
@@ -392,7 +393,7 @@
         {
             "source": "Fabien",
             "target": "Theo V",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "green"
         },
         {
@@ -444,7 +445,7 @@
             "color": "green"
         },
         {
-            "source": "Louis",
+            "source": "Louis G",
             "target": "Simon",
             "width": 1.5,
             "color": "green"

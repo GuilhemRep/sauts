@@ -15,15 +15,15 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 77,
+            "number_friends": 79,
             "friends": [
-                "Marion",
                 "Theo V",
-                "Thomas R",
+                "Marion",
                 "Axel",
+                "Thomas R",
                 "Nico"
             ],
-            "number_jumps": 44
+            "number_jumps": 45
         },
         {
             "id": "Marion",
@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 79,
+            "number_friends": 81,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -76,7 +76,7 @@
                 "Nico",
                 "Ambre"
             ],
-            "number_jumps": 43
+            "number_jumps": 44
         },
         {
             "id": "Anabelle",
@@ -143,7 +143,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 95,
+            "number_friends": 97,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -151,7 +151,7 @@
                 "Fabien",
                 "Riton"
             ],
-            "number_jumps": 30
+            "number_jumps": 31
         },
         {
             "id": "Thomas MARS",
@@ -1753,7 +1753,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Lola",
+            "id": "Lola A",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
@@ -1875,6 +1875,54 @@
             "number_friends": 1,
             "friends": [
                 "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Marc",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Arnaud D"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Arnaud D",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Sylvain C",
+                "Pastou",
+                "Marc"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "R\u00e9nald",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Theo V",
+                "Louis A",
+                "Tibal",
+                "Axel"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Louis A",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "R\u00e9nald",
+                "Theo V",
+                "Tibal",
+                "Axel"
             ],
             "number_jumps": 1
         }
@@ -3975,13 +4023,13 @@
             "color": "purple"
         },
         {
-            "source": "Lola",
+            "source": "Lola A",
             "target": "Ju",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Lola",
+            "source": "Lola A",
             "target": "Ti Ben",
             "width": 1.5,
             "color": "purple"
@@ -4079,6 +4127,54 @@
         {
             "source": "Baptiste",
             "target": "Nico",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Arnaud D",
+            "target": "Marc",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "R\u00e9nald",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "R\u00e9nald",
+            "target": "Louis A",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "R\u00e9nald",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "R\u00e9nald",
+            "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Louis A",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Louis A",
+            "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Louis A",
+            "target": "Axel",
             "width": 1.5,
             "color": "purple"
         }

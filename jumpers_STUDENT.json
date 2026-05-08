@@ -111,7 +111,7 @@
             "friends": [
                 "Theo V"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Victor L",
@@ -129,7 +129,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Patrice",
@@ -153,7 +153,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 95,
+            "number_friends": 97,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -220,7 +220,7 @@
                 "Theo V",
                 "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Thierry",
@@ -292,7 +292,7 @@
                 "Theo V",
                 "Axel"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Simon",
@@ -340,7 +340,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 79,
+            "number_friends": 81,
             "friends": [
                 "Theo V",
                 "Simon",
@@ -451,7 +451,7 @@
                 "Ju",
                 "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Cyriaque",
@@ -534,7 +534,7 @@
         {
             "source": "Fafa",
             "target": "Yanis",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "cyan"
         },
         {
