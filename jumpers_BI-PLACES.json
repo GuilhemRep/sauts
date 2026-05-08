@@ -29,15 +29,15 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Tibal",
                 "Simon",
                 "Theo V",
                 "Nico",
-                "Axel"
+                "Gwen"
             ],
-            "number_jumps": 39
+            "number_jumps": 40
         },
         {
             "id": "Lorys",
@@ -68,7 +68,7 @@
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 90,
+            "number_friends": 91,
             "friends": [
                 "Theo V",
                 "Tibal",
@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 72,
+            "number_friends": 73,
             "friends": [
                 "Axel",
                 "Lionel",
@@ -143,7 +143,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 104,
+            "number_friends": 105,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -678,11 +678,11 @@
             "friends": [
                 "Fafa",
                 "Clement J",
+                "Marion",
                 "Thierry",
-                "Axel",
-                "Ju"
+                "Axel"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Katia",
@@ -2127,11 +2127,12 @@
             "id": "Guillaume F",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Gwen"
+                "Gwen",
+                "Marion"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -4646,6 +4647,12 @@
         {
             "source": "Guillaume F",
             "target": "Gwen",
+            "width": 1.9142135623730951,
+            "color": "purple"
+        },
+        {
+            "source": "Guillaume F",
+            "target": "Marion",
             "width": 1.5,
             "color": "purple"
         }

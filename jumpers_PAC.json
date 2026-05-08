@@ -46,7 +46,7 @@
                 "Gabin",
                 "Fafa"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Hugo J",
@@ -103,7 +103,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 104,
+            "number_friends": 105,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -176,9 +176,9 @@
             "friends": [
                 "Fafa",
                 "Clement J",
+                "Marion",
                 "Thierry",
-                "Axel",
-                "Ju"
+                "Axel"
             ],
             "number_jumps": 18
         },
@@ -284,7 +284,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 72,
+            "number_friends": 73,
             "friends": [
                 "Axel",
                 "Lionel",
@@ -292,7 +292,7 @@
                 "Marion",
                 "Stephane K"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Benoit",
@@ -309,10 +309,11 @@
             "id": "Emma CO",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
                 "Theo V",
-                "Tibal"
+                "Tibal",
+                "Axel"
             ],
             "number_jumps": 6
         },
@@ -384,7 +385,7 @@
                 "Simon",
                 "Nico"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Teiki",
@@ -516,6 +517,16 @@
                 "CA/INIT",
                 "Fafa",
                 "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Quentin P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
             ],
             "number_jumps": 1
         }
@@ -746,7 +757,7 @@
         {
             "source": "Gabin",
             "target": "Simon",
-            "width": 2.73606797749979,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
@@ -872,6 +883,12 @@
         {
             "source": "Gwen",
             "target": "Th\u00e9o",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Nico",
+            "target": "Quentin P",
             "width": 1.5,
             "color": "orange"
         }
