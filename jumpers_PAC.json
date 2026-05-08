@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 72,
+            "number_friends": 73,
             "friends": [
                 "Axel",
                 "Marion",
@@ -46,7 +46,7 @@
                 "Gabin",
                 "Fafa"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Hugo J",
@@ -103,7 +103,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 106,
+            "number_friends": 107,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -174,8 +174,8 @@
             "shape": "rectangle",
             "number_friends": 45,
             "friends": [
-                "Fafa",
                 "Clement J",
+                "Fafa",
                 "Marion",
                 "Thierry",
                 "Axel"
@@ -401,10 +401,11 @@
             "id": "Enzo",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
                 "Margot",
-                "Tibal"
+                "Tibal",
+                "Theo V"
             ],
             "number_jumps": 6
         },
@@ -527,6 +528,16 @@
             "number_friends": 1,
             "friends": [
                 "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Benjamin D",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
             ],
             "number_jumps": 1
         }
@@ -889,6 +900,12 @@
         {
             "source": "Nico",
             "target": "Quentin P",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Benjamin D",
+            "target": "Simon",
             "width": 1.5,
             "color": "orange"
         }

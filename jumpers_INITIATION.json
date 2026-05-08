@@ -60,7 +60,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 106,
+            "number_friends": 107,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -84,7 +84,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 72,
+            "number_friends": 73,
             "friends": [
                 "Axel",
                 "Marion",
@@ -106,7 +106,7 @@
                 "Gwen",
                 "Mathieu CAI"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Gwen",
@@ -114,13 +114,13 @@
             "shape": "rectangle",
             "number_friends": 45,
             "friends": [
-                "Fafa",
                 "Clement J",
+                "Fafa",
                 "Marion",
                 "Thierry",
                 "Axel"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Clement J",
@@ -132,9 +132,9 @@
                 "Laurie",
                 "Tom BR",
                 "Noah",
-                "Jason"
+                "Gwen"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Tibal",
@@ -227,7 +227,7 @@
                 "Aur\u00e9lia P",
                 "Theo V"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Louis G",
@@ -471,7 +471,7 @@
         {
             "source": "Gwen",
             "target": "Clement J",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "green"
         },
         {
@@ -501,7 +501,7 @@
         {
             "source": "Fafa",
             "target": "Morgan",
-            "width": 3.5,
+            "width": 3.6622776601683795,
             "color": "green"
         },
         {
