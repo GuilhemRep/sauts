@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 64,
+            "number_friends": 65,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -101,7 +101,7 @@
                 "Stephane K",
                 "Benoit"
             ],
-            "number_jumps": 25
+            "number_jumps": 26
         },
         {
             "id": "Maelys",
@@ -210,13 +210,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
                 "Nathan N",
                 "Izampela",
-                "Gwen"
+                "Fabio"
             ],
             "number_jumps": 9
         },
@@ -342,9 +342,9 @@
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
+                "Roman",
                 "Theo V",
-                "Gwen",
-                "David T"
+                "Gwen"
             ],
             "number_jumps": 13
         },
@@ -1865,6 +1865,16 @@
             "friends": [
                 "Tibal",
                 "Marion"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Baptiste",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
             ],
             "number_jumps": 1
         }
@@ -4063,6 +4073,12 @@
         {
             "source": "Arnaud G",
             "target": "Marion",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Baptiste",
+            "target": "Nico",
             "width": 1.5,
             "color": "purple"
         }

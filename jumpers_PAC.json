@@ -14,13 +14,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
                 "Nathan N",
                 "Izampela",
-                "Gwen"
+                "Fabio"
             ],
             "number_jumps": 24
         },
@@ -132,11 +132,11 @@
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
+                "Roman",
                 "Theo V",
-                "Gwen",
-                "David T"
+                "Gwen"
             ],
-            "number_jumps": 21
+            "number_jumps": 22
         },
         {
             "id": "Nathan M",
@@ -284,7 +284,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -405,7 +405,7 @@
                 "Margot",
                 "Tibal"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Margot",
@@ -414,12 +414,12 @@
             "number_friends": 30,
             "friends": [
                 "Marie M",
+                "Enzo",
                 "Salom\u00e9",
                 "Charline",
-                "Enzo",
                 "Ti Ben"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Guillaume DEL",
@@ -440,7 +440,7 @@
                 "Fafa",
                 "Gwen"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Anthony COR",
@@ -723,7 +723,7 @@
         {
             "source": "Margot",
             "target": "Enzo",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "orange"
         },
         {
@@ -747,7 +747,7 @@
         {
             "source": "Fafa",
             "target": "Roman",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "orange"
         },
         {

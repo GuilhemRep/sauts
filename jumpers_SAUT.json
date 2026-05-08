@@ -71,7 +71,7 @@
                 "Fabio",
                 "Olivier GENN"
             ],
-            "number_jumps": 31
+            "number_jumps": 32
         },
         {
             "id": "Fabio",
@@ -85,7 +85,7 @@
                 "Benjamin BL",
                 "Riton"
             ],
-            "number_jumps": 28
+            "number_jumps": 29
         },
         {
             "id": "Morgane C",
@@ -113,7 +113,7 @@
                 "Stephane K",
                 "Caroline"
             ],
-            "number_jumps": 41
+            "number_jumps": 42
         },
         {
             "id": "Christophe L",
@@ -127,7 +127,7 @@
                 "Stephane K",
                 "Florian H"
             ],
-            "number_jumps": 25
+            "number_jumps": 26
         },
         {
             "id": "Lionel",
@@ -585,13 +585,13 @@
             "shape": "rectangle",
             "number_friends": 24,
             "friends": [
+                "Laurent",
                 "Laurie",
                 "Tom BR",
                 "Noah",
-                "Laurent",
                 "Jason"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Olivier GENE",
@@ -669,15 +669,15 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
                 "Nathan N",
                 "Izampela",
-                "Gwen"
+                "Fabio"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Jean-Michel",
@@ -770,7 +770,7 @@
             "number_friends": 2,
             "friends": [
                 "Landry",
-                "Paul"
+                "Paul G"
             ],
             "number_jumps": 6
         },
@@ -781,12 +781,12 @@
             "number_friends": 2,
             "friends": [
                 "Orian",
-                "Paul"
+                "Paul G"
             ],
             "number_jumps": 6
         },
         {
-            "id": "Paul",
+            "id": "Paul G",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
@@ -850,7 +850,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -924,9 +924,9 @@
             "number_friends": 30,
             "friends": [
                 "Marie M",
+                "Enzo",
                 "Salom\u00e9",
                 "Charline",
-                "Enzo",
                 "Ti Ben"
             ],
             "number_jumps": 8
@@ -1089,10 +1089,10 @@
                 "Franck B",
                 "Pascal M",
                 "Guilhem",
-                "Bastien",
-                "Renaud F"
+                "Remy",
+                "Bastien"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Megane",
@@ -1642,9 +1642,9 @@
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
+                "Roman",
                 "Theo V",
-                "Gwen",
-                "David T"
+                "Gwen"
             ],
             "number_jumps": 9
         },
@@ -1736,7 +1736,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 64,
+            "number_friends": 65,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -1827,15 +1827,15 @@
             "id": "Remy",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 6,
+            "number_friends": 7,
             "friends": [
                 "David J",
-                "Franck B",
                 "Bertrand",
+                "Franck B",
                 "Lionel",
                 "Fran\u00e7ois"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "David J",
@@ -2290,9 +2290,12 @@
             "id": "Anais C",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 1
+            "number_friends": 2,
+            "friends": [
+                "Phoebe",
+                "Amaury"
+            ],
+            "number_jumps": 2
         },
         {
             "id": "Jeanne H",
@@ -2478,12 +2481,13 @@
             "id": "Alexis M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
                 "Bertrand",
-                "Philippe M"
+                "Philippe M",
+                "Remy"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Alexandre M",
@@ -2493,19 +2497,20 @@
             "friends": [
                 "Hubert-Arnaud"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Mathieu D",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 4,
             "friends": [
                 "Fabio",
+                "Christophe L",
                 "Laurent",
-                "Christophe L"
+                "Ju"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Maxime M",
@@ -2533,6 +2538,46 @@
             "friends": [
                 "Mael"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Vincent C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Phoebe",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Anais C",
+                "Amaury"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Amaury",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Anais C",
+                "Phoebe"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Martin",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
@@ -2618,7 +2663,7 @@
         {
             "source": "Fabio",
             "target": "Christophe L",
-            "width": 4.10555127546399,
+            "width": 4.241657386773941,
             "color": "blue"
         },
         {
@@ -2964,13 +3009,13 @@
             "color": "blue"
         },
         {
-            "source": "Paul",
+            "source": "Paul G",
             "target": "Orian",
             "width": 2.949489742783178,
             "color": "blue"
         },
         {
-            "source": "Paul",
+            "source": "Paul G",
             "target": "Landry",
             "width": 2.949489742783178,
             "color": "blue"
@@ -3998,7 +4043,7 @@
         {
             "source": "Ju",
             "target": "Christophe L",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -4850,7 +4895,7 @@
         {
             "source": "Remy",
             "target": "Bertrand",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -5822,7 +5867,7 @@
         {
             "source": "Laurent",
             "target": "Clement J",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -6608,7 +6653,7 @@
         {
             "source": "Fabio",
             "target": "Ju",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -6620,19 +6665,19 @@
         {
             "source": "Hubert-Arnaud",
             "target": "Alexandre M",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
             "source": "Alexis M",
             "target": "Bertrand",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
             "source": "Fabio",
             "target": "Mathieu D",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -6644,7 +6689,7 @@
         {
             "source": "Mathieu D",
             "target": "Christophe L",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -6656,6 +6701,36 @@
         {
             "source": "Philippe M",
             "target": "Alexis M",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Remy",
+            "target": "Alexis M",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Mathieu D",
+            "target": "Ju",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Anais C",
+            "target": "Phoebe",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Amaury",
+            "target": "Anais C",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Amaury",
+            "target": "Phoebe",
             "width": 1.5,
             "color": "blue"
         }

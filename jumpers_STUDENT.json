@@ -129,7 +129,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Patrice",
@@ -216,9 +216,9 @@
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
+                "Roman",
                 "Theo V",
-                "Gwen",
-                "David T"
+                "Gwen"
             ],
             "number_jumps": 2
         },
@@ -488,13 +488,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
                 "Nathan N",
                 "Izampela",
-                "Gwen"
+                "Fabio"
             ],
             "number_jumps": 1
         },
@@ -507,6 +507,14 @@
                 "Margot",
                 "Tibal"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Paul D",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
