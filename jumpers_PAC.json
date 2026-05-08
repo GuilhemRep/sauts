@@ -128,15 +128,15 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 44,
+            "number_friends": 45,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
                 "Theo V",
-                "David T",
-                "Roman"
+                "Gwen",
+                "David T"
             ],
-            "number_jumps": 20
+            "number_jumps": 21
         },
         {
             "id": "Nathan M",
@@ -172,15 +172,15 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 40,
+            "number_friends": 41,
             "friends": [
                 "Clement J",
                 "Thierry",
+                "Fafa",
                 "Axel",
-                "Ju",
-                "Nicolas GO"
+                "Ju"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Benjamin E",
@@ -284,7 +284,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -470,6 +470,17 @@
             "number_friends": 1,
             "friends": [
                 "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Celian",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Gwen"
             ],
             "number_jumps": 1
         }
@@ -766,6 +777,18 @@
         {
             "source": "Theo B",
             "target": "Ju",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Fafa",
+            "target": "Celian",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Gwen",
+            "target": "Celian",
             "width": 1.5,
             "color": "orange"
         }

@@ -198,13 +198,13 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 40,
+            "number_friends": 41,
             "friends": [
                 "Clement J",
                 "Thierry",
+                "Fafa",
                 "Axel",
-                "Ju",
-                "Nicolas GO"
+                "Ju"
             ],
             "number_jumps": 1
         },
@@ -212,13 +212,13 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 44,
+            "number_friends": 45,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
                 "Theo V",
-                "David T",
-                "Roman"
+                "Gwen",
+                "David T"
             ],
             "number_jumps": 2
         },

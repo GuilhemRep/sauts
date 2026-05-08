@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Axel",
                 "Matthieu",
@@ -101,7 +101,7 @@
                 "Stephane K",
                 "Benoit"
             ],
-            "number_jumps": 24
+            "number_jumps": 25
         },
         {
             "id": "Maelys",
@@ -338,13 +338,13 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 44,
+            "number_friends": 45,
             "friends": [
                 "Morgan",
                 "Aur\u00e9lia P",
                 "Theo V",
-                "David T",
-                "Roman"
+                "Gwen",
+                "David T"
             ],
             "number_jumps": 13
         },
@@ -674,13 +674,13 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 40,
+            "number_friends": 41,
             "friends": [
                 "Clement J",
                 "Thierry",
+                "Fafa",
                 "Axel",
-                "Ju",
-                "Nicolas GO"
+                "Ju"
             ],
             "number_jumps": 14
         },
@@ -1833,6 +1833,16 @@
             "number_friends": 1,
             "friends": [
                 "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Aur\u00e9lie",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
             ],
             "number_jumps": 1
         }
@@ -4001,6 +4011,12 @@
         {
             "source": "Jean-no\u00ebl",
             "target": "Tibal",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Nico",
+            "target": "Aur\u00e9lie",
             "width": 1.5,
             "color": "purple"
         }

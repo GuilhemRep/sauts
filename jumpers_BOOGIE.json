@@ -26,12 +26,12 @@
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 34,
+            "number_friends": 35,
             "friends": [
                 "Stephane K",
                 "Christophe L",
-                "Benjamin BL",
                 "Laurent",
+                "Benjamin BL",
                 "Riton"
             ],
             "number_jumps": 12
@@ -166,10 +166,10 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 38,
+            "number_friends": 39,
             "friends": [
-                "Hubert-Arnaud",
                 "Fabio",
+                "Hubert-Arnaud",
                 "Laurent",
                 "Stephane K",
                 "Florian H"
@@ -334,7 +334,7 @@
             "id": "Laurent",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 45,
+            "number_friends": 46,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -530,7 +530,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 68,
+            "number_friends": 69,
             "friends": [
                 "Axel",
                 "Matthieu",
