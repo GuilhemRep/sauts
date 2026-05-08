@@ -60,7 +60,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 99,
+            "number_friends": 101,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -106,7 +106,7 @@
                 "Gwen",
                 "Mathieu CAI"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Gwen",
@@ -140,7 +140,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 83,
+            "number_friends": 85,
             "friends": [
                 "Theo V",
                 "Marion",
@@ -222,12 +222,12 @@
             "number_friends": 48,
             "friends": [
                 "Morgan",
-                "Aur\u00e9lia P",
                 "Roman",
+                "Aur\u00e9lia P",
                 "Theo V",
                 "Gwen"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Louis G",
@@ -257,7 +257,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 51,
+            "number_friends": 52,
             "friends": [
                 "Simon",
                 "Marine G",
@@ -445,7 +445,7 @@
         {
             "source": "Fafa",
             "target": "Morgan",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "green"
         },
         {

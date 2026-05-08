@@ -154,7 +154,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 99,
+            "number_friends": 101,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -216,8 +216,8 @@
             "number_friends": 48,
             "friends": [
                 "Morgan",
-                "Aur\u00e9lia P",
                 "Roman",
+                "Aur\u00e9lia P",
                 "Theo V",
                 "Gwen"
             ],
@@ -231,7 +231,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Yohann",
@@ -420,7 +420,7 @@
                 "Theo V",
                 "Tibal"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "C\u00e9lestin",
@@ -463,7 +463,7 @@
                 "Ju",
                 "Nico"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Theo B",
@@ -489,7 +489,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 38,
+            "number_friends": 39,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -533,6 +533,22 @@
             "number_friends": 0,
             "friends": [],
             "number_jumps": 2
+        },
+        {
+            "id": "Louis D",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Maxence",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
         }
     ],
     "links": [
