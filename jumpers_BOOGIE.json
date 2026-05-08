@@ -12,12 +12,12 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 39,
             "friends": [
                 "Stephane K",
+                "Fabio",
                 "Benjamin BL",
                 "Riton",
-                "Fabio",
                 "Eliman"
             ],
             "number_jumps": 14
@@ -26,13 +26,13 @@
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 38,
             "friends": [
                 "Stephane K",
                 "Christophe L",
                 "Laurent",
                 "Benjamin BL",
-                "Riton"
+                "Izampela"
             ],
             "number_jumps": 12
         },
@@ -166,7 +166,7 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Fabio",
                 "Hubert-Arnaud",
@@ -236,10 +236,10 @@
             "id": "Ana\u00ebl",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 27,
+            "number_friends": 30,
             "friends": [
-                "Tom BR",
                 "Christophe L",
+                "Tom BR",
                 "Laurie",
                 "Noah",
                 "Laurent"
@@ -340,7 +340,7 @@
                 "Fabio",
                 "Christophe L",
                 "Stephane K",
-                "Caroline C"
+                "Clement J"
             ],
             "number_jumps": 10
         },
@@ -362,13 +362,13 @@
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 22,
+            "number_friends": 26,
             "friends": [
                 "Ninie",
+                "Christophe L",
                 "Alexandra B",
                 "H\u00e9l\u00e8ne",
-                "James BO",
-                "Florian H"
+                "James BO"
             ],
             "number_jumps": 5
         },

@@ -162,7 +162,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Tristan C",
@@ -293,7 +293,7 @@
                 "Theo V",
                 "Axel"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Simon",
@@ -540,7 +540,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Maxence",
@@ -633,6 +633,12 @@
         {
             "source": "Vincent C",
             "target": "Axel",
+            "width": 1.5,
+            "color": "cyan"
+        },
+        {
+            "source": "Franck C",
+            "target": "Theo V",
             "width": 1.5,
             "color": "cyan"
         }
