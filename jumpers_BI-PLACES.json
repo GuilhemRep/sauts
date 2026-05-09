@@ -54,7 +54,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 73,
+            "number_friends": 74,
             "friends": [
                 "Axel",
                 "Marion",
@@ -62,7 +62,7 @@
                 "Gabin",
                 "Fafa"
             ],
-            "number_jumps": 37
+            "number_jumps": 38
         },
         {
             "id": "Axel",
@@ -861,7 +861,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 57,
+            "number_friends": 58,
             "friends": [
                 "Simon",
                 "Theo V",
@@ -869,7 +869,7 @@
                 "Marine G",
                 "Margot"
             ],
-            "number_jumps": 21
+            "number_jumps": 22
         },
         {
             "id": "Julien ME",
@@ -1510,12 +1510,14 @@
             "id": "Anthony M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 4,
             "friends": [
                 "Fafa",
-                "Axel"
+                "Axel",
+                "Simon",
+                "Ti Ben"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "David G",
@@ -1528,7 +1530,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Damien",
+            "id": "Damien G",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
@@ -1869,7 +1871,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Baptiste",
+            "id": "Baptiste G",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -4046,13 +4048,13 @@
             "color": "purple"
         },
         {
-            "source": "Damien",
+            "source": "Damien G",
             "target": "Simon",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Damien",
+            "source": "Damien G",
             "target": "Ti Ben",
             "width": 1.5,
             "color": "purple"
@@ -4364,7 +4366,7 @@
             "color": "purple"
         },
         {
-            "source": "Baptiste",
+            "source": "Baptiste G",
             "target": "Nico",
             "width": 1.5,
             "color": "purple"
@@ -4708,6 +4710,18 @@
         {
             "source": "Nico",
             "target": "Audrey P",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Anthony M",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Anthony M",
+            "target": "Ti Ben",
             "width": 1.5,
             "color": "purple"
         }

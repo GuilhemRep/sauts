@@ -320,7 +320,7 @@
             "id": "In\u00e8s",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 13,
+            "number_friends": 14,
             "friends": [
                 "Charlie",
                 "Juliette A",
@@ -328,7 +328,7 @@
                 "Maris",
                 "Hubert-Arnaud"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Magali",
@@ -481,7 +481,7 @@
             "id": "Thomas G",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 6,
             "friends": [
                 "Vincent F",
                 "Christopher",
@@ -489,7 +489,7 @@
                 "Theo P",
                 "Ju"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Vincent F",
@@ -1092,7 +1092,7 @@
             "id": "Bertrand",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 11,
+            "number_friends": 12,
             "friends": [
                 "Franck B",
                 "Pascal M",
@@ -1100,7 +1100,7 @@
                 "Guilhem",
                 "Bastien"
             ],
-            "number_jumps": 26
+            "number_jumps": 27
         },
         {
             "id": "Megane",
@@ -1626,7 +1626,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 73,
+            "number_friends": 74,
             "friends": [
                 "Axel",
                 "Marion",
@@ -1829,7 +1829,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 57,
+            "number_friends": 58,
             "friends": [
                 "Simon",
                 "Theo V",
@@ -2682,6 +2682,73 @@
                 "Tibal",
                 "Axel",
                 "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Yann R",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Dorian"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Dorian",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Yann R"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thibaut F",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 9,
+            "friends": [
+                "Ninie",
+                "Laurent",
+                "Olivier GENN",
+                "Clement J",
+                "H\u00e9l\u00e8ne"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Damien J",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Julien BO",
+                "Baptiste A"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Julien BO",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Damien J",
+                "Baptiste A"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Baptiste A",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Damien J",
+                "Julien BO"
             ],
             "number_jumps": 1
         }
@@ -7226,6 +7293,42 @@
         {
             "source": "Christophe L",
             "target": "Alexandre M",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Dorian",
+            "target": "Yann R",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Thibaut F",
+            "target": "Bertrand",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Julien BO",
+            "target": "Damien J",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Baptiste A",
+            "target": "Damien J",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Baptiste A",
+            "target": "Julien BO",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Thomas G",
+            "target": "In\u00e8s",
             "width": 1.5,
             "color": "blue"
         }
