@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 69,
+            "number_friends": 70,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 73,
+            "number_friends": 74,
             "friends": [
                 "Axel",
                 "Lionel",
@@ -101,7 +101,7 @@
                 "Marion",
                 "Stephane K"
             ],
-            "number_jumps": 28
+            "number_jumps": 29
         },
         {
             "id": "Maelys",
@@ -1063,7 +1063,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Audrey",
+            "id": "Audrey M",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -2152,6 +2152,16 @@
             "friends": [
                 "Tibal",
                 "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Audrey P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
             ],
             "number_jumps": 1
         }
@@ -3419,7 +3429,7 @@
         },
         {
             "source": "Gwen",
-            "target": "Audrey",
+            "target": "Audrey M",
             "width": 1.5,
             "color": "purple"
         },
@@ -4692,6 +4702,12 @@
         {
             "source": "Mikael",
             "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Nico",
+            "target": "Audrey P",
             "width": 1.5,
             "color": "purple"
         }
