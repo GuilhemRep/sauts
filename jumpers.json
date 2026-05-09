@@ -31,9 +31,9 @@
                 "Christophe L",
                 "Ana\u00ebl",
                 "Fabio",
-                "Fafa"
+                "Izampela"
             ],
-            "number_jumps": 33
+            "number_jumps": 34
         },
         {
             "id": "Nathalie BA",
@@ -639,9 +639,9 @@
                 "Marion",
                 "Ti Ben",
                 "Gabin",
-                "Fafa"
+                "Victor V"
             ],
-            "number_jumps": 66
+            "number_jumps": 67
         },
         {
             "id": "Jason",
@@ -730,7 +730,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 101
+            "number_jumps": 102
         },
         {
             "id": "Yogesh",
@@ -1432,7 +1432,7 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 41,
             "friends": [
                 "Stephane K",
                 "Fabio",
@@ -1440,7 +1440,7 @@
                 "Riton",
                 "Eliman"
             ],
-            "number_jumps": 29
+            "number_jumps": 30
         },
         {
             "id": "Guilhem",
@@ -1468,7 +1468,7 @@
                 "Guilhem",
                 "Bastien"
             ],
-            "number_jumps": 28
+            "number_jumps": 29
         },
         {
             "id": "Pierre G",
@@ -1586,13 +1586,13 @@
             "shape": "rectangle",
             "number_friends": 45,
             "friends": [
+                "Celian",
                 "Clement J",
                 "Fafa",
-                "Celian",
                 "Marion",
                 "Thierry"
             ],
-            "number_jumps": 44
+            "number_jumps": 45
         },
         {
             "id": "Antoine D",
@@ -1876,7 +1876,7 @@
             "id": "Marine R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 11,
+            "number_friends": 12,
             "friends": [
                 "CaliChou",
                 "Sylvain C",
@@ -1884,13 +1884,13 @@
                 "Fabio",
                 "Laurent"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "CaliChou",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 11,
+            "number_friends": 12,
             "friends": [
                 "Marine R",
                 "Sylvain C",
@@ -1898,7 +1898,7 @@
                 "Fabio",
                 "Laurent"
             ],
-            "number_jumps": 8
+            "number_jumps": 9
         },
         {
             "id": "Salam\u00e8che",
@@ -3089,10 +3089,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Axel",
-                "Simon"
+                "Simon",
+                "Axel"
             ],
-            "number_jumps": 10
+            "number_jumps": 11
         },
         {
             "id": "Jacqueline",
@@ -4931,7 +4931,7 @@
                 "Gwen",
                 "Fafa"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Mael",
@@ -5444,7 +5444,7 @@
             "friends": [
                 "Simon"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Mikael",
@@ -5465,7 +5465,7 @@
             "friends": [
                 "Theo V"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Audrey P",
@@ -5495,7 +5495,7 @@
             "friends": [
                 "Dorian"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Dorian",
@@ -5505,7 +5505,7 @@
             "friends": [
                 "Yann R"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Damien J",
@@ -7688,7 +7688,7 @@
         {
             "source": "CaliChou",
             "target": "Marine R",
-            "width": 3.3284271247461903,
+            "width": 3.5,
             "color": "blue"
         },
         {
@@ -9710,7 +9710,7 @@
         {
             "source": "Simon",
             "target": "Victor V",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "cyan"
         },
         {
@@ -13592,7 +13592,7 @@
         {
             "source": "Gwen",
             "target": "Celian",
-            "width": 2.73606797749979,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
@@ -13958,7 +13958,7 @@
         {
             "source": "Sylvain C",
             "target": "Izampela",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "blue"
         },
         {
@@ -14318,13 +14318,13 @@
         {
             "source": "Sylvain C",
             "target": "Marine R",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
             "source": "Sylvain C",
             "target": "CaliChou",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -14474,7 +14474,7 @@
         {
             "source": "Valentin N",
             "target": "Theo V",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "green"
         },
         {
@@ -14492,7 +14492,7 @@
         {
             "source": "Dorian",
             "target": "Yann R",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -14692,6 +14692,18 @@
             "target": "Marion",
             "width": 1.5,
             "color": "purple"
+        },
+        {
+            "source": "Marine R",
+            "target": "Izampela",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "CaliChou",
+            "target": "Izampela",
+            "width": 1.5,
+            "color": "blue"
         }
     ]
 }
