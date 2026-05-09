@@ -110,7 +110,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 59,
+            "number_friends": 60,
             "friends": [
                 "Simon",
                 "Theo V",
@@ -254,9 +254,9 @@
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
-                "Enio",
                 "Hubert-Arnaud",
-                "Laurent"
+                "Laurent",
+                "Enio"
             ],
             "number_jumps": 5
         },
@@ -337,10 +337,10 @@
             "number_friends": 49,
             "friends": [
                 "Hubert-Arnaud",
-                "Fabio",
                 "Christophe L",
-                "Stephane K",
-                "Tom BR"
+                "Fabio",
+                "Tom BR",
+                "Stephane K"
             ],
             "number_jumps": 10
         },
@@ -437,8 +437,8 @@
                 "Anael",
                 "Noah",
                 "Jean-Michel",
-                "Tom BR",
-                "Anais C"
+                "Anais C",
+                "Lucas F"
             ],
             "number_jumps": 1
         },
@@ -697,11 +697,11 @@
             "shape": "rectangle",
             "number_friends": 14,
             "friends": [
-                "Ninie",
                 "Laurent",
-                "Olivier GENN",
-                "Clement J",
-                "H\u00e9l\u00e8ne"
+                "Ninie",
+                "Hubert-Arnaud",
+                "Tom BR",
+                "Noah"
             ],
             "number_jumps": 4
         },
@@ -723,7 +723,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 75,
+            "number_friends": 76,
             "friends": [
                 "Axel",
                 "Marion",
