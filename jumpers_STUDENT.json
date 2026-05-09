@@ -154,7 +154,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 110,
+            "number_friends": 111,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -162,7 +162,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Tristan C",
@@ -203,9 +203,9 @@
             "friends": [
                 "Clement J",
                 "Fafa",
+                "Celian",
                 "Marion",
-                "Thierry",
-                "Axel"
+                "Thierry"
             ],
             "number_jumps": 1
         },
@@ -585,9 +585,11 @@
             "id": "Jules",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 1
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 2
         },
         {
             "id": "Benjamin D",
@@ -699,6 +701,12 @@
         },
         {
             "source": "Enzo",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "cyan"
+        },
+        {
+            "source": "Jules",
             "target": "Theo V",
             "width": 1.5,
             "color": "cyan"
