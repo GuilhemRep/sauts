@@ -68,7 +68,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 24
+            "number_jumps": 25
         },
         {
             "id": "Yoram",
@@ -92,7 +92,7 @@
                 "Gabin",
                 "Fafa"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Morgan",
@@ -329,7 +329,7 @@
                 "Axel",
                 "Simon"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Alexandra G",
@@ -378,7 +378,7 @@
                 "Nico",
                 "Gwen"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Alban",
@@ -444,7 +444,7 @@
             "friends": [
                 "Theo V"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Maxime M",
@@ -454,7 +454,7 @@
             "friends": [
                 "Marion"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -629,12 +629,18 @@
         {
             "source": "Valentin N",
             "target": "Theo V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "green"
         },
         {
             "source": "Marion",
             "target": "Maxime M",
+            "width": 1.9142135623730951,
+            "color": "green"
+        },
+        {
+            "source": "Simon",
+            "target": "Victor V",
             "width": 1.5,
             "color": "green"
         }

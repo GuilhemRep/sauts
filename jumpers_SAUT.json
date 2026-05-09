@@ -33,7 +33,7 @@
                 "Fabio",
                 "Fafa"
             ],
-            "number_jumps": 32
+            "number_jumps": 33
         },
         {
             "id": "Nathalie BA",
@@ -222,7 +222,7 @@
                 "Hubert-Arnaud",
                 "Christophe L"
             ],
-            "number_jumps": 31
+            "number_jumps": 32
         },
         {
             "id": "Noah",
@@ -565,7 +565,7 @@
                 "Tom BR",
                 "Julien BE"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Jerem Gringos",
@@ -693,7 +693,7 @@
                 "Tom BR",
                 "Adrien"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Salom\u00e9",
@@ -1072,7 +1072,7 @@
                 "Riton",
                 "Eliman"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Guilhem",
@@ -1100,7 +1100,7 @@
                 "Guilhem",
                 "Bastien"
             ],
-            "number_jumps": 27
+            "number_jumps": 28
         },
         {
             "id": "Megane",
@@ -1483,11 +1483,11 @@
             "number_friends": 4,
             "friends": [
                 "Thibaut G",
-                "Mathieu CAI",
                 "Anais C",
-                "Enio"
+                "Enio",
+                "Mathieu CAI"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Mathieu CAI",
@@ -2317,7 +2317,7 @@
                 "Enio",
                 "Lucas F"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Jeanne H",
@@ -7091,7 +7091,7 @@
         {
             "source": "Sylvain C",
             "target": "Izampela",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -7379,19 +7379,19 @@
         {
             "source": "Anais C",
             "target": "Enio",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
             "source": "Anais C",
             "target": "Lucas F",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
             "source": "Lucas F",
             "target": "Enio",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
