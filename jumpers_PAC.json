@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 77,
+            "number_friends": 78,
             "friends": [
                 "Axel",
                 "Marion",
@@ -180,7 +180,7 @@
                 "Fafa",
                 "Thierry"
             ],
-            "number_jumps": 22
+            "number_jumps": 23
         },
         {
             "id": "Benjamin E",
@@ -355,7 +355,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 60,
+            "number_friends": 61,
             "friends": [
                 "Simon",
                 "Theo V",
@@ -442,7 +442,7 @@
                 "Fafa",
                 "Gwen"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Anthony COR",
@@ -810,7 +810,7 @@
         {
             "source": "Gwen",
             "target": "Roman",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
