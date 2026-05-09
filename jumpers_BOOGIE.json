@@ -166,7 +166,7 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 43,
+            "number_friends": 44,
             "friends": [
                 "Fabio",
                 "Hubert-Arnaud",
@@ -222,7 +222,7 @@
             "id": "Tom BR",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Noah",
                 "Olivier GENN",
@@ -236,13 +236,13 @@
             "id": "Ana\u00ebl",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 33,
             "friends": [
                 "Christophe L",
                 "Tom BR",
-                "Laurie",
                 "Noah",
-                "Laurent"
+                "Laurent",
+                "Laurie"
             ],
             "number_jumps": 5
         },
@@ -250,13 +250,13 @@
             "id": "Noah",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 36,
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
                 "Enio",
-                "Matthieu",
-                "Clement J"
+                "Hubert-Arnaud",
+                "Laurent"
             ],
             "number_jumps": 5
         },
@@ -340,7 +340,7 @@
                 "Fabio",
                 "Christophe L",
                 "Stephane K",
-                "Clement J"
+                "Tom BR"
             ],
             "number_jumps": 10
         },
@@ -438,7 +438,7 @@
                 "Noah",
                 "Jean-Michel",
                 "Tom BR",
-                "Julien BE"
+                "Anais C"
             ],
             "number_jumps": 1
         },
@@ -695,7 +695,7 @@
             "id": "Thibaut F",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 14,
             "friends": [
                 "Ninie",
                 "Laurent",
