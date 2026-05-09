@@ -68,7 +68,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 27
+            "number_jumps": 28
         },
         {
             "id": "Yoram",
@@ -84,7 +84,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
                 "Axel",
                 "Marion",
@@ -92,7 +92,7 @@
                 "Gabin",
                 "Victor V"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Morgan",
@@ -112,12 +112,12 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 45,
+            "number_friends": 46,
             "friends": [
                 "Celian",
                 "Clement J",
-                "Fafa",
                 "Marion",
+                "Fafa",
                 "Thierry"
             ],
             "number_jumps": 5
@@ -275,9 +275,9 @@
             "friends": [
                 "Anael",
                 "Noah",
-                "Jean-Michel",
                 "Anais C",
-                "Lucas F"
+                "Lucas F",
+                "Jean-Michel"
             ],
             "number_jumps": 1
         },
@@ -370,7 +370,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 72,
+            "number_friends": 73,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -392,7 +392,7 @@
                 "H\u00e9l\u00e8ne",
                 "Ana\u00ebl"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Thomas G",
@@ -450,11 +450,12 @@
             "id": "Maxime M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Marion"
+                "Marion",
+                "Simon"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         }
     ],
     "links": [
@@ -605,7 +606,7 @@
         {
             "source": "Alban",
             "target": "Theo V",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "green"
         },
         {
@@ -647,6 +648,12 @@
         {
             "source": "Morgan",
             "target": "Theo V",
+            "width": 1.5,
+            "color": "green"
+        },
+        {
+            "source": "Maxime M",
+            "target": "Simon",
             "width": 1.5,
             "color": "green"
         }

@@ -199,12 +199,12 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 45,
+            "number_friends": 46,
             "friends": [
                 "Celian",
                 "Clement J",
-                "Fafa",
                 "Marion",
+                "Fafa",
                 "Thierry"
             ],
             "number_jumps": 1
@@ -299,7 +299,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
                 "Axel",
                 "Marion",
@@ -600,6 +600,17 @@
                 "Simon"
             ],
             "number_jumps": 3
+        },
+        {
+            "id": "Celian",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwen",
+                "Fafa"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [

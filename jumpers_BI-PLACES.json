@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 72,
+            "number_friends": 73,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -37,7 +37,7 @@
                 "Nico",
                 "Gwen"
             ],
-            "number_jumps": 42
+            "number_jumps": 43
         },
         {
             "id": "Lorys",
@@ -54,7 +54,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
                 "Axel",
                 "Marion",
@@ -674,15 +674,15 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 45,
+            "number_friends": 46,
             "friends": [
                 "Celian",
                 "Clement J",
-                "Fafa",
                 "Marion",
+                "Fafa",
                 "Thierry"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Katia",
@@ -1073,7 +1073,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Celine",
+            "id": "Celine PO",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
@@ -2229,6 +2229,17 @@
             "friends": [
                 "Simon",
                 "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Celine PE",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwen",
+                "Marion"
             ],
             "number_jumps": 1
         }
@@ -3501,14 +3512,14 @@
             "color": "purple"
         },
         {
-            "source": "Celine",
+            "source": "Celine PO",
             "target": "Simon",
             "width": 1.5,
             "color": "purple"
         },
         {
             "source": "Axel",
-            "target": "Celine",
+            "target": "Celine PO",
             "width": 1.5,
             "color": "purple"
         },
@@ -4853,6 +4864,18 @@
         {
             "source": "Cindy",
             "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Gwen",
+            "target": "Celine PE",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Marion",
+            "target": "Celine PE",
             "width": 1.5,
             "color": "purple"
         }
