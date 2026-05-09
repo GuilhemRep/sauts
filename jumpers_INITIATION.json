@@ -60,7 +60,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 108,
+            "number_friends": 109,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -68,7 +68,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 22
+            "number_jumps": 23
         },
         {
             "id": "Yoram",
@@ -140,7 +140,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 90,
+            "number_friends": 91,
             "friends": [
                 "Theo V",
                 "Axel",
@@ -257,13 +257,13 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 56,
+            "number_friends": 57,
             "friends": [
                 "Simon",
                 "Theo V",
+                "Tibal",
                 "Marine G",
-                "Margot",
-                "Tibal"
+                "Margot"
             ],
             "number_jumps": 1
         },
@@ -435,6 +435,16 @@
                 "Ana\u00ebl"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Valentin N",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -602,6 +612,12 @@
         },
         {
             "source": "Clement J",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "green"
+        },
+        {
+            "source": "Valentin N",
             "target": "Theo V",
             "width": 1.5,
             "color": "green"

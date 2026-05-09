@@ -26,7 +26,7 @@
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 38,
+            "number_friends": 41,
             "friends": [
                 "Stephane K",
                 "Christophe L",
@@ -110,13 +110,13 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 56,
+            "number_friends": 57,
             "friends": [
                 "Simon",
                 "Theo V",
+                "Tibal",
                 "Marine G",
-                "Margot",
-                "Tibal"
+                "Margot"
             ],
             "number_jumps": 9
         },
@@ -166,7 +166,7 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 42,
+            "number_friends": 43,
             "friends": [
                 "Fabio",
                 "Hubert-Arnaud",
@@ -222,13 +222,13 @@
             "id": "Tom BR",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 39,
             "friends": [
                 "Noah",
                 "Olivier GENN",
                 "Laurent",
-                "Ana\u00ebl",
-                "Matthieu"
+                "Hubert-Arnaud",
+                "Christophe L"
             ],
             "number_jumps": 5
         },
@@ -334,7 +334,7 @@
             "id": "Laurent",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 46,
+            "number_friends": 49,
             "friends": [
                 "Hubert-Arnaud",
                 "Fabio",
@@ -404,7 +404,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 108,
+            "number_friends": 109,
             "friends": [
                 "Axel",
                 "Tibal",
