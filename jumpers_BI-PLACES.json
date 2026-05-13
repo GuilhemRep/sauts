@@ -54,7 +54,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 81,
+            "number_friends": 82,
             "friends": [
                 "Axel",
                 "Marion",
@@ -62,13 +62,13 @@
                 "Gabin",
                 "Victor V"
             ],
-            "number_jumps": 43
+            "number_jumps": 44
         },
         {
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 93,
+            "number_friends": 94,
             "friends": [
                 "Theo V",
                 "Tibal",
@@ -93,11 +93,11 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 77,
+            "number_friends": 80,
             "friends": [
                 "Axel",
                 "Lionel",
-                "Matthieu",
+                "Matthieu P",
                 "Marion",
                 "Stephane K"
             ],
@@ -1894,12 +1894,13 @@
             "id": "Arnaud D",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 7,
             "friends": [
-                "Sylvain C",
                 "Pastou",
-                "Marc R",
-                "Valerian"
+                "Marine R",
+                "CaliChou",
+                "Sylvain C",
+                "Marc R"
             ],
             "number_jumps": 1
         },
@@ -2087,7 +2088,7 @@
             "id": "Margot",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 37,
             "friends": [
                 "Enzo",
                 "Marie M",
@@ -2304,6 +2305,16 @@
             "number_friends": 1,
             "friends": [
                 "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Valentine",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
             ],
             "number_jumps": 1
         }
@@ -5000,6 +5011,12 @@
         {
             "source": "Filipa",
             "target": "Ju",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Valentine",
+            "target": "Simon",
             "width": 1.5,
             "color": "purple"
         }

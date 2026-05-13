@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 81,
+            "number_friends": 82,
             "friends": [
                 "Axel",
                 "Marion",
@@ -284,15 +284,15 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 77,
+            "number_friends": 80,
             "friends": [
                 "Axel",
                 "Lionel",
-                "Matthieu",
+                "Matthieu P",
                 "Marion",
                 "Stephane K"
             ],
-            "number_jumps": 10
+            "number_jumps": 12
         },
         {
             "id": "Benoit",
@@ -413,7 +413,7 @@
             "id": "Margot",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 35,
+            "number_friends": 37,
             "friends": [
                 "Enzo",
                 "Marie M",
@@ -421,7 +421,7 @@
                 "Charline",
                 "Ti Ben"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Guillaume DEL",
@@ -540,6 +540,40 @@
                 "Simon"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Victor LEM",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "6F/INIT",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "Benjamin C",
+                "Margot",
+                "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Benjamin C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "6F/INIT",
+                "Margot",
+                "Nico"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -907,6 +941,48 @@
             "source": "Benjamin D",
             "target": "Simon",
             "width": 1.9142135623730951,
+            "color": "orange"
+        },
+        {
+            "source": "Victor LEM",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "6F/INIT",
+            "target": "Benjamin C",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "6F/INIT",
+            "target": "Margot",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "6F/INIT",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Margot",
+            "target": "Benjamin C",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Benjamin C",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Margot",
+            "target": "Nico",
+            "width": 1.5,
             "color": "orange"
         }
     ]
