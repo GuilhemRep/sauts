@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 73,
+            "number_friends": 74,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -37,7 +37,7 @@
                 "Nico",
                 "Gwen"
             ],
-            "number_jumps": 43
+            "number_jumps": 44
         },
         {
             "id": "Lorys",
@@ -54,29 +54,29 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 79,
+            "number_friends": 80,
             "friends": [
                 "Axel",
-                "Ti Ben",
                 "Marion",
+                "Ti Ben",
                 "Gabin",
                 "Victor V"
             ],
-            "number_jumps": 41
+            "number_jumps": 42
         },
         {
             "id": "Axel",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 92,
+            "number_friends": 93,
             "friends": [
                 "Theo V",
                 "Tibal",
                 "Simon",
                 "Nico",
-                "Ambre"
+                "Gwen"
             ],
-            "number_jumps": 47
+            "number_jumps": 48
         },
         {
             "id": "Anabelle",
@@ -210,7 +210,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 43,
+            "number_friends": 44,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -218,7 +218,7 @@
                 "Izampela",
                 "Gwen"
             ],
-            "number_jumps": 12
+            "number_jumps": 13
         },
         {
             "id": "Dylan",
@@ -674,15 +674,15 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 47,
+            "number_friends": 48,
             "friends": [
                 "Celian",
                 "Clement J",
                 "Marion",
                 "Fafa",
-                "Ju"
+                "Axel"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Katia",
@@ -861,15 +861,15 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 61,
+            "number_friends": 62,
             "friends": [
                 "Simon",
                 "Theo V",
                 "Tibal",
-                "Marine G",
-                "Margot"
+                "Ju",
+                "Marine G"
             ],
-            "number_jumps": 25
+            "number_jumps": 26
         },
         {
             "id": "Julien ME",
@@ -2251,6 +2251,39 @@
             "friends": [
                 "Simon",
                 "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Juliette D",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Veronique",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwen",
+                "Axel"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Karel",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Marion"
             ],
             "number_jumps": 1
         }
@@ -4899,6 +4932,42 @@
         {
             "source": "Thomas D",
             "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Juliette D",
+            "target": "Ju",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Juliette D",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Veronique",
+            "target": "Gwen",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Veronique",
+            "target": "Axel",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Karel",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Karel",
+            "target": "Marion",
             "width": 1.5,
             "color": "purple"
         }
