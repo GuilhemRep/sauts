@@ -671,7 +671,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 44,
+            "number_friends": 45,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -707,7 +707,7 @@
                 "Mario",
                 "Margot"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Charline",
@@ -972,7 +972,7 @@
                 "Stephane P",
                 "Benjamin BL"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Fabien",
@@ -1335,8 +1335,8 @@
             "friends": [
                 "Theo V",
                 "Marion",
-                "Axel",
                 "Thomas R",
+                "Axel",
                 "Ti Ben"
             ],
             "number_jumps": 6
@@ -1386,7 +1386,7 @@
                 "Alban",
                 "Christophe L"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "CaliChou",
@@ -1400,7 +1400,7 @@
                 "Alban",
                 "Christophe L"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Salam\u00e8che",
@@ -1628,7 +1628,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 80,
+            "number_friends": 81,
             "friends": [
                 "Axel",
                 "Marion",
@@ -1723,7 +1723,7 @@
                 "Eliot",
                 "Fran\u00e7ois"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Eliot",
@@ -1762,7 +1762,7 @@
                 "Nico",
                 "Gwen"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "BOUBOU",
@@ -2814,6 +2814,14 @@
         },
         {
             "id": "Abel",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Stephane Z",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -4361,7 +4369,7 @@
         {
             "source": "CaliChou",
             "target": "Marine R",
-            "width": 4.10555127546399,
+            "width": 4.241657386773941,
             "color": "blue"
         },
         {

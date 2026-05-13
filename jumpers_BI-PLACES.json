@@ -19,8 +19,8 @@
             "friends": [
                 "Theo V",
                 "Marion",
-                "Axel",
                 "Thomas R",
+                "Axel",
                 "Ti Ben"
             ],
             "number_jumps": 51
@@ -54,7 +54,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 80,
+            "number_friends": 81,
             "friends": [
                 "Axel",
                 "Marion",
@@ -62,7 +62,7 @@
                 "Gabin",
                 "Victor V"
             ],
-            "number_jumps": 42
+            "number_jumps": 43
         },
         {
             "id": "Axel",
@@ -210,7 +210,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 44,
+            "number_friends": 45,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -218,7 +218,7 @@
                 "Izampela",
                 "Gwen"
             ],
-            "number_jumps": 13
+            "number_jumps": 14
         },
         {
             "id": "Dylan",
@@ -2284,6 +2284,26 @@
             "friends": [
                 "Simon",
                 "Marion"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jean pascal",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Filipa",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
             ],
             "number_jumps": 1
         }
@@ -4968,6 +4988,18 @@
         {
             "source": "Karel",
             "target": "Marion",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Jean pascal",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Filipa",
+            "target": "Ju",
             "width": 1.5,
             "color": "purple"
         }
