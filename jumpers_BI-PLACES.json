@@ -54,15 +54,15 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 82,
+            "number_friends": 83,
             "friends": [
                 "Axel",
-                "Marion",
                 "Ti Ben",
+                "Marion",
                 "Gabin",
                 "Victor V"
             ],
-            "number_jumps": 44
+            "number_jumps": 45
         },
         {
             "id": "Axel",
@@ -143,7 +143,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 112,
+            "number_friends": 111,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -210,7 +210,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 45,
+            "number_friends": 44,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -861,7 +861,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 62,
+            "number_friends": 63,
             "friends": [
                 "Simon",
                 "Theo V",
@@ -869,7 +869,7 @@
                 "Ju",
                 "Marine G"
             ],
-            "number_jumps": 26
+            "number_jumps": 27
         },
         {
             "id": "Julien ME",
@@ -2315,6 +2315,17 @@
             "number_friends": 1,
             "friends": [
                 "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Malik",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Ti Ben"
             ],
             "number_jumps": 1
         }
@@ -5017,6 +5028,18 @@
         {
             "source": "Valentine",
             "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Malik",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Malik",
+            "target": "Ti Ben",
             "width": 1.5,
             "color": "purple"
         }

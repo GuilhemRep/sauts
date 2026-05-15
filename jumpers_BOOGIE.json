@@ -12,7 +12,7 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 40,
             "friends": [
                 "Stephane K",
                 "Fabio",
@@ -26,7 +26,7 @@
             "id": "Fabio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 40,
             "friends": [
                 "Stephane K",
                 "Christophe L",
@@ -40,7 +40,7 @@
             "id": "Stephane K",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 45,
+            "number_friends": 44,
             "friends": [
                 "Fabio",
                 "Benjamin BL",
@@ -54,7 +54,7 @@
             "id": "Laurie",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 30,
+            "number_friends": 29,
             "friends": [
                 "Eliman",
                 "Stephane K",
@@ -68,7 +68,7 @@
             "id": "Benjamin BL",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 25,
+            "number_friends": 24,
             "friends": [
                 "Stephane K",
                 "Riton",
@@ -82,7 +82,7 @@
             "id": "Riton",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 36,
             "friends": [
                 "Stephane K",
                 "Cyrill",
@@ -96,7 +96,7 @@
             "id": "Eliman",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 18,
             "friends": [
                 "Stephane K",
                 "Benjamin BL",
@@ -110,7 +110,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 62,
+            "number_friends": 63,
             "friends": [
                 "Simon",
                 "Theo V",
@@ -166,7 +166,7 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 45,
+            "number_friends": 44,
             "friends": [
                 "Fabio",
                 "Hubert-Arnaud",
@@ -345,20 +345,6 @@
             "number_jumps": 10
         },
         {
-            "id": "_ SAUT CLASSIC",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 12,
-            "friends": [
-                "Izampela",
-                "Fabio",
-                "Stephane K",
-                "Laurie",
-                "Benjamin BL"
-            ],
-            "number_jumps": 5
-        },
-        {
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
@@ -390,7 +376,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 45,
+            "number_friends": 44,
             "friends": [
                 "Stephane K",
                 "Cyriaque",
@@ -404,7 +390,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 112,
+            "number_friends": 111,
             "friends": [
                 "Axel",
                 "Tibal",
@@ -723,11 +709,11 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 82,
+            "number_friends": 83,
             "friends": [
                 "Axel",
-                "Marion",
                 "Ti Ben",
+                "Marion",
                 "Gabin",
                 "Victor V"
             ],
@@ -1186,48 +1172,6 @@
             "color": "brown"
         },
         {
-            "source": "_ SAUT CLASSIC",
-            "target": "Izampela",
-            "width": 2.73606797749979,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
-            "target": "Fabio",
-            "width": 2.73606797749979,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
-            "target": "Stephane K",
-            "width": 2.73606797749979,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
-            "target": "Laurie",
-            "width": 2.73606797749979,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
-            "target": "Benjamin BL",
-            "width": 2.73606797749979,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
-            "target": "Riton",
-            "width": 2.73606797749979,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
-            "target": "Eliman",
-            "width": 2.73606797749979,
-            "color": "brown"
-        },
-        {
             "source": "Alban",
             "target": "Ninie",
             "width": 2.232050807568877,
@@ -1307,12 +1251,6 @@
         },
         {
             "source": "Benjamin BL",
-            "target": "Ju",
-            "width": 2.232050807568877,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
             "target": "Ju",
             "width": 2.232050807568877,
             "color": "brown"
@@ -1481,18 +1419,6 @@
         },
         {
             "source": "Ju",
-            "target": "Christophe L",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
-            "target": "Theo V",
-            "width": 1.5,
-            "color": "brown"
-        },
-        {
-            "source": "_ SAUT CLASSIC",
             "target": "Christophe L",
             "width": 1.5,
             "color": "brown"
