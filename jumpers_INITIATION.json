@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 82,
+            "number_friends": 86,
             "friends": [
                 "Axel M",
                 "Lionel",
@@ -32,13 +32,13 @@
             "id": "Matthieu P",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 26,
+            "number_friends": 30,
             "friends": [
                 "Rachel",
                 "Jordan",
+                "Laurent",
                 "Sarah",
-                "Nico",
-                "Olivier GENN"
+                "Tom BR"
             ],
             "number_jumps": 4
         },
@@ -54,13 +54,13 @@
                 "Axel M",
                 "Marc T"
             ],
-            "number_jumps": 22
+            "number_jumps": 30
         },
         {
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 114,
+            "number_friends": 116,
             "friends": [
                 "Fabien",
                 "Axel M",
@@ -68,7 +68,7 @@
                 "Marion",
                 "Ti Ben"
             ],
-            "number_jumps": 39
+            "number_jumps": 47
         },
         {
             "id": "Yoram",
@@ -84,10 +84,10 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 83,
+            "number_friends": 86,
             "friends": [
-                "Axel M",
                 "Ti Ben",
+                "Axel M",
                 "Marion",
                 "Gabin",
                 "Victor V"
@@ -112,7 +112,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 51,
             "friends": [
                 "Marion",
                 "Celian",
@@ -140,7 +140,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 96,
+            "number_friends": 97,
             "friends": [
                 "Theo V",
                 "Axel M",
@@ -177,7 +177,7 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 99,
+            "number_friends": 108,
             "friends": [
                 "Theo V",
                 "Tibal",
@@ -219,11 +219,11 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 54,
+            "number_friends": 57,
             "friends": [
                 "Morgan",
-                "Roman",
                 "Marion",
+                "Roman",
                 "Gwen",
                 "Aur\u00e9lia P"
             ],
@@ -235,11 +235,11 @@
             "shape": "rectangle",
             "number_friends": 18,
             "friends": [
-                "Thomas G",
+                "Thomas GE",
                 "Salam\u00e8che",
                 "Stephane K",
                 "Lucie G",
-                "Vincent F"
+                "Vincent FRANCO"
             ],
             "number_jumps": 1
         },
@@ -257,13 +257,13 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 70,
+            "number_friends": 76,
             "friends": [
                 "Simon",
                 "Ju",
                 "Theo V",
                 "Tibal",
-                "Marine G"
+                "Nico"
             ],
             "number_jumps": 1
         },
@@ -271,13 +271,13 @@
             "id": "Enio",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 24,
+            "number_friends": 25,
             "friends": [
-                "Anael",
                 "Noah",
+                "Anael",
+                "Jean-Michel",
                 "Anais C",
-                "Lucas F",
-                "Jean-Michel"
+                "Lucas F"
             ],
             "number_jumps": 1
         },
@@ -307,7 +307,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Adrien",
+            "id": "Adrien G",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 6,
@@ -346,18 +346,18 @@
             "id": "Caroline CHET",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 19,
+            "number_friends": 22,
             "friends": [
                 "Laurent",
-                "Fabio",
                 "Christophe L",
+                "Rachel",
                 "Hubert-Arnaud",
-                "Rachel"
+                "Fabio"
             ],
             "number_jumps": 2
         },
         {
-            "id": "Marina",
+            "id": "Marina G",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -370,37 +370,37 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 78,
+            "number_friends": 82,
             "friends": [
                 "Tibal",
                 "Simon",
                 "Theo V",
-                "Nico",
-                "Gwen"
+                "Gwen",
+                "Nico"
             ],
-            "number_jumps": 4
+            "number_jumps": 6
         },
         {
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 29,
+            "number_friends": 32,
             "friends": [
                 "Christophe L",
+                "Izampela",
                 "Ninie",
                 "Alexandra B",
-                "H\u00e9l\u00e8ne",
-                "Izampela"
+                "H\u00e9l\u00e8ne"
             ],
             "number_jumps": 2
         },
         {
-            "id": "Thomas G",
+            "id": "Thomas GE",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 7,
             "friends": [
-                "Vincent F",
+                "Vincent FRANCO",
                 "Louis G",
                 "Christopher",
                 "In\u00e8s",
@@ -412,13 +412,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 49,
+            "number_friends": 58,
             "friends": [
                 "Ti Ben",
+                "Izampela",
+                "Fabio",
                 "Stephane K",
-                "Cyriaque",
-                "Nathan N",
-                "Izampela"
+                "Cyriaque"
             ],
             "number_jumps": 1
         },
@@ -455,7 +455,7 @@
                 "Marion",
                 "Simon"
             ],
-            "number_jumps": 3
+            "number_jumps": 5
         }
     ],
     "links": [
@@ -474,7 +474,7 @@
         {
             "source": "Fabien",
             "target": "Theo V",
-            "width": 5.19041575982343,
+            "width": 5.977225575051661,
             "color": "green"
         },
         {
@@ -568,7 +568,7 @@
             "color": "green"
         },
         {
-            "source": "Adrien",
+            "source": "Adrien G",
             "target": "Theo V",
             "width": 1.5,
             "color": "green"
@@ -598,7 +598,7 @@
             "color": "green"
         },
         {
-            "source": "Marina",
+            "source": "Marina G",
             "target": "Marion",
             "width": 1.9142135623730951,
             "color": "green"
@@ -610,7 +610,7 @@
             "color": "green"
         },
         {
-            "source": "Thomas G",
+            "source": "Thomas GE",
             "target": "Ju",
             "width": 1.5,
             "color": "green"
@@ -636,7 +636,7 @@
         {
             "source": "Marion",
             "target": "Maxime M",
-            "width": 1.9142135623730951,
+            "width": 2.5,
             "color": "green"
         },
         {
