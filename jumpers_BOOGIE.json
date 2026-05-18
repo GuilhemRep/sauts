@@ -222,7 +222,7 @@
             "id": "Tom BR",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 42,
+            "number_friends": 44,
             "friends": [
                 "Noah",
                 "Olivier GENN",
@@ -250,7 +250,7 @@
             "id": "Noah",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 38,
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
@@ -348,7 +348,7 @@
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 32,
+            "number_friends": 33,
             "friends": [
                 "Christophe L",
                 "Izampela",
@@ -376,7 +376,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 58,
+            "number_friends": 59,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -390,13 +390,13 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 116,
+            "number_friends": 132,
             "friends": [
                 "Fabien",
                 "Axel M",
                 "Tibal",
                 "Marion",
-                "Ti Ben"
+                "Fafa"
             ],
             "number_jumps": 2
         },
@@ -516,7 +516,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 86,
+            "number_friends": 85,
             "friends": [
                 "Axel M",
                 "Lionel",
@@ -548,7 +548,7 @@
             "friends": [
                 "Lulu",
                 "Richard G",
-                "Frederic L",
+                "Frederic LA",
                 "Jean francois",
                 "Bibi"
             ],
@@ -575,7 +575,7 @@
             "friends": [
                 "Eric BI",
                 "Richard G",
-                "Frederic L",
+                "Frederic LA",
                 "Jean francois",
                 "Bibi"
             ],
@@ -589,7 +589,7 @@
             "friends": [
                 "Eric BI",
                 "Lulu",
-                "Frederic L",
+                "Frederic LA",
                 "Jean francois",
                 "Bibi"
             ],
@@ -636,7 +636,7 @@
             "number_jumps": 4
         },
         {
-            "id": "H\u00e9TAULT Lucile",
+            "id": "Lucile",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 5,
@@ -657,7 +657,7 @@
             "friends": [
                 "Sarah",
                 "Laurie",
-                "H\u00e9TAULT Lucile",
+                "Lucile",
                 "Julien MA",
                 "Clement J"
             ],
@@ -671,7 +671,7 @@
             "friends": [
                 "Sarah",
                 "Laurie",
-                "H\u00e9TAULT Lucile",
+                "Lucile",
                 "Danny",
                 "Clement J"
             ],
@@ -693,9 +693,9 @@
         },
         {
             "id": "Margot",
-            "color": "gray",
+            "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 38,
+            "number_friends": 37,
             "friends": [
                 "Enzo",
                 "Marie M",
@@ -1880,7 +1880,7 @@
             "color": "brown"
         },
         {
-            "source": "H\u00e9TAULT Lucile",
+            "source": "Lucile",
             "target": "Sarah",
             "width": 2.5,
             "color": "brown"
@@ -1898,7 +1898,7 @@
             "color": "brown"
         },
         {
-            "source": "H\u00e9TAULT Lucile",
+            "source": "Lucile",
             "target": "Laurie",
             "width": 2.5,
             "color": "brown"
@@ -1917,12 +1917,12 @@
         },
         {
             "source": "Danny",
-            "target": "H\u00e9TAULT Lucile",
+            "target": "Lucile",
             "width": 2.5,
             "color": "brown"
         },
         {
-            "source": "H\u00e9TAULT Lucile",
+            "source": "Lucile",
             "target": "Julien MA",
             "width": 2.5,
             "color": "brown"
@@ -1988,7 +1988,7 @@
             "color": "brown"
         },
         {
-            "source": "H\u00e9TAULT Lucile",
+            "source": "Lucile",
             "target": "Clement J",
             "width": 2.232050807568877,
             "color": "brown"

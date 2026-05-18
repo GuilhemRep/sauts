@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 97,
+            "number_friends": 101,
             "friends": [
                 "Theo V",
                 "Axel M",
@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 82,
+            "number_friends": 83,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 86,
+            "number_friends": 85,
             "friends": [
                 "Axel M",
                 "Lionel",
@@ -143,13 +143,13 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 116,
+            "number_friends": 132,
             "friends": [
                 "Fabien",
                 "Axel M",
                 "Tibal",
                 "Marion",
-                "Ti Ben"
+                "Fafa"
             ],
             "number_jumps": 36
         },
@@ -210,7 +210,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 58,
+            "number_friends": 59,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -338,13 +338,13 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 57,
+            "number_friends": 70,
             "friends": [
                 "Morgan",
+                "Theo V",
                 "Marion",
                 "Roman",
-                "Gwen",
-                "Aur\u00e9lia P"
+                "Gwen"
             ],
             "number_jumps": 19
         },
@@ -674,7 +674,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 51,
+            "number_friends": 50,
             "friends": [
                 "Marion",
                 "Celian",
@@ -2086,9 +2086,9 @@
         },
         {
             "id": "Margot",
-            "color": "gray",
+            "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 38,
+            "number_friends": 37,
             "friends": [
                 "Enzo",
                 "Marie M",
@@ -5107,31 +5107,7 @@
         },
         {
             "source": "Margot",
-            "target": "Theo V",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "Margot",
-            "target": "Ti Ben",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "Margot",
             "target": "Karla G",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "Margot",
-            "target": "Tibal",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "Margot",
-            "target": "Axel M",
             "width": 1.5,
             "color": "purple"
         },
