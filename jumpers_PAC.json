@@ -22,7 +22,7 @@
                 "Stephane K",
                 "Cyriaque"
             ],
-            "number_jumps": 27
+            "number_jumps": 30
         },
         {
             "id": "Hugo L",
@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 86,
+            "number_friends": 87,
             "friends": [
                 "Ti Ben",
                 "Axel M",
@@ -46,7 +46,7 @@
                 "Gabin",
                 "Victor V"
             ],
-            "number_jumps": 14
+            "number_jumps": 15
         },
         {
             "id": "Hugo J",
@@ -103,7 +103,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 132,
+            "number_friends": 134,
             "friends": [
                 "Fabien",
                 "Axel M",
@@ -128,7 +128,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 70,
+            "number_friends": 71,
             "friends": [
                 "Morgan",
                 "Theo V",
@@ -284,7 +284,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 85,
+            "number_friends": 88,
             "friends": [
                 "Axel M",
                 "Lionel",
@@ -292,7 +292,7 @@
                 "Matthieu P",
                 "Stephane K"
             ],
-            "number_jumps": 15
+            "number_jumps": 17
         },
         {
             "id": "Benoit",
@@ -547,7 +547,7 @@
                 "Nico",
                 "Margot"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Hakim",
@@ -588,7 +588,7 @@
                 "Ju",
                 "Tibal"
             ],
-            "number_jumps": 3
+            "number_jumps": 6
         },
         {
             "id": "JJ/PAC",
@@ -600,7 +600,7 @@
                 "Julien J",
                 "Tibal"
             ],
-            "number_jumps": 2
+            "number_jumps": 6
         },
         {
             "id": "Diwan",
@@ -612,7 +612,7 @@
                 "Julien J",
                 "Tibal"
             ],
-            "number_jumps": 2
+            "number_jumps": 6
         },
         {
             "id": "Julien J",
@@ -624,7 +624,27 @@
                 "Diwan",
                 "Tibal"
             ],
-            "number_jumps": 2
+            "number_jumps": 6
+        },
+        {
+            "id": "Julien MAL",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "No\u00e9",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -979,7 +999,7 @@
         {
             "source": "Benjamin C",
             "target": "Nico",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "orange"
         },
         {
@@ -1003,7 +1023,7 @@
         {
             "source": "Oscar",
             "target": "Ju",
-            "width": 2.232050807568877,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
@@ -1015,7 +1035,7 @@
         {
             "source": "JJ/PAC",
             "target": "Diwan",
-            "width": 1.9142135623730951,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
@@ -1027,7 +1047,7 @@
         {
             "source": "Julien J",
             "target": "JJ/PAC",
-            "width": 1.9142135623730951,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
@@ -1039,12 +1059,24 @@
         {
             "source": "Julien J",
             "target": "Diwan",
-            "width": 1.9142135623730951,
+            "width": 2.949489742783178,
             "color": "orange"
         },
         {
             "source": "Julien J",
             "target": "Tibal",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Julien MAL",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Nico",
+            "target": "No\u00e9",
             "width": 1.5,
             "color": "orange"
         }

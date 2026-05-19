@@ -154,7 +154,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 132,
+            "number_friends": 134,
             "friends": [
                 "Fabien",
                 "Axel M",
@@ -213,7 +213,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 70,
+            "number_friends": 71,
             "friends": [
                 "Morgan",
                 "Theo V",
@@ -299,7 +299,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 86,
+            "number_friends": 87,
             "friends": [
                 "Ti Ben",
                 "Axel M",
@@ -421,7 +421,7 @@
                 "Tibal",
                 "Axel M"
             ],
-            "number_jumps": 9
+            "number_jumps": 11
         },
         {
             "id": "C\u00e9lestin",
@@ -484,7 +484,7 @@
             "friends": [
                 "Nico"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Ju",
@@ -670,6 +670,48 @@
             "number_friends": 1,
             "friends": [
                 "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Benjamin C",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Nico",
+                "Margot"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Oscar",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Tibal"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Julien MAL",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "No\u00e9",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
             ],
             "number_jumps": 1
         }

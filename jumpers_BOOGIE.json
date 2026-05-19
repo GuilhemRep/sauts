@@ -180,7 +180,7 @@
             "id": "Ninie",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 27,
+            "number_friends": 28,
             "friends": [
                 "Izampela",
                 "Florian H",
@@ -250,7 +250,7 @@
             "id": "Noah",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 38,
+            "number_friends": 39,
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
@@ -390,7 +390,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 132,
+            "number_friends": 134,
             "friends": [
                 "Fabien",
                 "Axel M",
@@ -432,7 +432,7 @@
             "id": "Kylian",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 14,
+            "number_friends": 15,
             "friends": [
                 "Marie M",
                 "Ariane",
@@ -516,7 +516,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 85,
+            "number_friends": 88,
             "friends": [
                 "Axel M",
                 "Lionel",
@@ -644,7 +644,7 @@
                 "Sarah",
                 "Laurie",
                 "Danny",
-                "Julien MA",
+                "Julien MAR",
                 "Clement J"
             ],
             "number_jumps": 4
@@ -658,13 +658,13 @@
                 "Sarah",
                 "Laurie",
                 "Lucile",
-                "Julien MA",
+                "Julien MAR",
                 "Clement J"
             ],
             "number_jumps": 4
         },
         {
-            "id": "Julien MA",
+            "id": "Julien MAR",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 5,
@@ -709,13 +709,34 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 86,
+            "number_friends": 87,
             "friends": [
                 "Ti Ben",
                 "Axel M",
                 "Marion",
                 "Gabin",
                 "Victor V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Matys",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ema",
+                "Ninie"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ema",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Matys"
             ],
             "number_jumps": 1
         }
@@ -1892,7 +1913,7 @@
             "color": "brown"
         },
         {
-            "source": "Julien MA",
+            "source": "Julien MAR",
             "target": "Sarah",
             "width": 2.5,
             "color": "brown"
@@ -1911,7 +1932,7 @@
         },
         {
             "source": "Laurie",
-            "target": "Julien MA",
+            "target": "Julien MAR",
             "width": 2.5,
             "color": "brown"
         },
@@ -1923,13 +1944,13 @@
         },
         {
             "source": "Lucile",
-            "target": "Julien MA",
+            "target": "Julien MAR",
             "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Danny",
-            "target": "Julien MA",
+            "target": "Julien MAR",
             "width": 2.5,
             "color": "brown"
         },
@@ -2001,7 +2022,7 @@
         },
         {
             "source": "Clement J",
-            "target": "Julien MA",
+            "target": "Julien MAR",
             "width": 2.232050807568877,
             "color": "brown"
         },
@@ -2218,6 +2239,12 @@
         {
             "source": "Anne-laure",
             "target": "Clement J",
+            "width": 1.5,
+            "color": "brown"
+        },
+        {
+            "source": "Ema",
+            "target": "Matys",
             "width": 1.5,
             "color": "brown"
         }
