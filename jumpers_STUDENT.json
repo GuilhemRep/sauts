@@ -299,7 +299,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 87,
+            "number_friends": 90,
             "friends": [
                 "Ti Ben",
                 "Axel M",
@@ -349,7 +349,7 @@
                 "Nico",
                 "Gwen"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Florian V",
@@ -418,10 +418,10 @@
             "number_friends": 3,
             "friends": [
                 "Theo V",
-                "Tibal",
-                "Axel M"
+                "Axel M",
+                "Tibal"
             ],
-            "number_jumps": 11
+            "number_jumps": 14
         },
         {
             "id": "C\u00e9lestin",
@@ -682,7 +682,7 @@
                 "Nico",
                 "Margot"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Oscar",
@@ -713,7 +713,7 @@
             "friends": [
                 "Nico"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -810,7 +810,7 @@
         {
             "source": "Emma CO",
             "target": "Axel M",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "cyan"
         },
         {

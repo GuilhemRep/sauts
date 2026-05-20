@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 87,
+            "number_friends": 90,
             "friends": [
                 "Ti Ben",
                 "Axel M",
@@ -259,7 +259,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 101,
+            "number_friends": 102,
             "friends": [
                 "Theo V",
                 "Axel M",
@@ -284,7 +284,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 88,
+            "number_friends": 89,
             "friends": [
                 "Axel M",
                 "Lionel",
@@ -312,8 +312,8 @@
             "number_friends": 3,
             "friends": [
                 "Theo V",
-                "Tibal",
-                "Axel M"
+                "Axel M",
+                "Tibal"
             ],
             "number_jumps": 6
         },
@@ -355,12 +355,12 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 76,
+            "number_friends": 79,
             "friends": [
                 "Simon",
                 "Ju",
-                "Theo V",
                 "Tibal",
+                "Theo V",
                 "Nico"
             ],
             "number_jumps": 1
@@ -591,24 +591,11 @@
             "number_jumps": 6
         },
         {
-            "id": "JJ/PAC",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 3,
-            "friends": [
-                "Diwan",
-                "Julien J",
-                "Tibal"
-            ],
-            "number_jumps": 6
-        },
-        {
             "id": "Diwan",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
-                "JJ/PAC",
                 "Julien J",
                 "Tibal"
             ],
@@ -618,9 +605,8 @@
             "id": "Julien J",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
-                "JJ/PAC",
                 "Diwan",
                 "Tibal"
             ],
@@ -1030,24 +1016,6 @@
             "source": "Oscar",
             "target": "Tibal",
             "width": 1.5,
-            "color": "orange"
-        },
-        {
-            "source": "JJ/PAC",
-            "target": "Diwan",
-            "width": 2.949489742783178,
-            "color": "orange"
-        },
-        {
-            "source": "JJ/PAC",
-            "target": "Tibal",
-            "width": 1.5,
-            "color": "orange"
-        },
-        {
-            "source": "Julien J",
-            "target": "JJ/PAC",
-            "width": 2.949489742783178,
             "color": "orange"
         },
         {
