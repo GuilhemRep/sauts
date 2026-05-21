@@ -154,13 +154,13 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 134,
+            "number_friends": 137,
             "friends": [
                 "Fabien",
                 "Axel M",
                 "Tibal",
                 "Marion",
-                "Fafa"
+                "Ti Ben"
             ],
             "number_jumps": 6
         },
@@ -199,21 +199,21 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 56,
             "friends": [
                 "Marion",
+                "Theo V",
+                "Ju",
                 "Celian",
-                "Clement J",
-                "Fafa",
-                "Axel M"
+                "Clement J"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 71,
+            "number_friends": 74,
             "friends": [
                 "Morgan",
                 "Theo V",
@@ -277,10 +277,11 @@
             "id": "Victor V",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
                 "Simon",
-                "Axel M"
+                "Axel M",
+                "Fafa"
             ],
             "number_jumps": 5
         },
@@ -299,7 +300,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 90,
+            "number_friends": 89,
             "friends": [
                 "Ti Ben",
                 "Axel M",
@@ -415,9 +416,10 @@
             "id": "Emma CO",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 4,
             "friends": [
                 "Theo V",
+                "Ti Ben",
                 "Axel M",
                 "Tibal"
             ],
@@ -490,7 +492,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 59,
+            "number_friends": 60,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -682,7 +684,7 @@
                 "Nico",
                 "Margot"
             ],
-            "number_jumps": 3
+            "number_jumps": 5
         },
         {
             "id": "Oscar",
@@ -709,11 +711,12 @@
             "id": "No\u00e9",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Nico"
+                "Nico",
+                "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 5
         }
     ],
     "links": [
@@ -828,6 +831,12 @@
         {
             "source": "Louis D",
             "target": "Axel M",
+            "width": 1.5,
+            "color": "cyan"
+        },
+        {
+            "source": "Gwen",
+            "target": "No\u00e9",
             "width": 1.5,
             "color": "cyan"
         }

@@ -54,7 +54,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 90,
+            "number_friends": 89,
             "friends": [
                 "Ti Ben",
                 "Axel M",
@@ -118,7 +118,7 @@
             "id": "Thomas R",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 22,
+            "number_friends": 28,
             "friends": [
                 "Tibal",
                 "Theo V",
@@ -126,7 +126,7 @@
                 "Nico",
                 "Maelys"
             ],
-            "number_jumps": 10
+            "number_jumps": 12
         },
         {
             "id": "Quentin BE",
@@ -143,15 +143,15 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 134,
+            "number_friends": 137,
             "friends": [
                 "Fabien",
                 "Axel M",
                 "Tibal",
                 "Marion",
-                "Fafa"
+                "Ti Ben"
             ],
-            "number_jumps": 36
+            "number_jumps": 37
         },
         {
             "id": "Thomas MARS",
@@ -210,7 +210,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 59,
+            "number_friends": 60,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -338,7 +338,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 71,
+            "number_friends": 74,
             "friends": [
                 "Morgan",
                 "Theo V",
@@ -346,7 +346,7 @@
                 "Roman",
                 "Gwen"
             ],
-            "number_jumps": 19
+            "number_jumps": 20
         },
         {
             "id": "Thomas MART",
@@ -674,15 +674,15 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 50,
+            "number_friends": 56,
             "friends": [
                 "Marion",
+                "Theo V",
+                "Ju",
                 "Celian",
-                "Clement J",
-                "Fafa",
-                "Axel M"
+                "Clement J"
             ],
-            "number_jumps": 22
+            "number_jumps": 23
         },
         {
             "id": "Katia",
@@ -861,15 +861,15 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 79,
+            "number_friends": 82,
             "friends": [
                 "Simon",
                 "Ju",
-                "Tibal",
                 "Theo V",
+                "Tibal",
                 "Nico"
             ],
-            "number_jumps": 37
+            "number_jumps": 38
         },
         {
             "id": "Julien ME",
@@ -2508,7 +2508,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Laetitia G",
+            "id": "Laetitia GU",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
@@ -2698,6 +2698,45 @@
             "friends": [
                 "Tibal",
                 "Marion"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Siri",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Fafa",
+                "Thomas R"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Charlotte",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Theo V",
+                "Ti Ben",
+                "Laetitia GI",
+                "Gwen",
+                "Thomas R"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Laetitia GI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "Charlotte",
+                "Theo V",
+                "Ti Ben",
+                "Gwen",
+                "Thomas R"
             ],
             "number_jumps": 1
         }
@@ -5590,13 +5629,13 @@
             "color": "purple"
         },
         {
-            "source": "Laetitia G",
+            "source": "Laetitia GU",
             "target": "Nico",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Laetitia G",
+            "source": "Laetitia GU",
             "target": "Axel M",
             "width": 1.5,
             "color": "purple"
@@ -5778,6 +5817,72 @@
         {
             "source": "Killian",
             "target": "Marion",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Fafa",
+            "target": "Siri",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Siri",
+            "target": "Thomas R",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Charlotte",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Charlotte",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Charlotte",
+            "target": "Laetitia GI",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Charlotte",
+            "target": "Gwen",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Charlotte",
+            "target": "Thomas R",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Laetitia GI",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Laetitia GI",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Laetitia GI",
+            "target": "Gwen",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Laetitia GI",
+            "target": "Thomas R",
             "width": 1.5,
             "color": "purple"
         }
