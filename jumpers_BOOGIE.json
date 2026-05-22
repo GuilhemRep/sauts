@@ -110,12 +110,12 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 82,
+            "number_friends": 87,
             "friends": [
                 "Simon",
                 "Ju",
-                "Theo V",
                 "Tibal",
+                "Theo V",
                 "Nico"
             ],
             "number_jumps": 9
@@ -376,13 +376,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 60,
+            "number_friends": 65,
             "friends": [
                 "Ti Ben",
                 "Izampela",
-                "Fabio",
-                "Stephane K",
-                "Cyriaque"
+                "Nathan N",
+                "Gwen",
+                "Fabio"
             ],
             "number_jumps": 3
         },
@@ -390,13 +390,13 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 137,
+            "number_friends": 140,
             "friends": [
                 "Fabien",
                 "Axel M",
                 "Tibal",
-                "Marion",
-                "Ti Ben"
+                "Ti Ben",
+                "Marion"
             ],
             "number_jumps": 2
         },
@@ -516,13 +516,13 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 89,
+            "number_friends": 93,
             "friends": [
                 "Axel M",
                 "Lionel",
                 "Marion",
                 "Matthieu P",
-                "Stephane K"
+                "Ti Ben"
             ],
             "number_jumps": 2
         },
@@ -695,13 +695,13 @@
             "id": "Margot",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 39,
             "friends": [
                 "Enzo",
                 "Marie M",
+                "Ti Ben",
                 "Salom\u00e9",
-                "Charline",
-                "Ti Ben"
+                "Nico"
             ],
             "number_jumps": 1
         },
@@ -709,13 +709,13 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 89,
+            "number_friends": 93,
             "friends": [
                 "Ti Ben",
                 "Axel M",
                 "Marion",
                 "Gabin",
-                "Victor V"
+                "Nico"
             ],
             "number_jumps": 1
         },
