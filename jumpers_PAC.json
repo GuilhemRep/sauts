@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 99,
+            "number_friends": 103,
             "friends": [
                 "Ti Ben",
                 "Axel M",
@@ -46,7 +46,7 @@
                 "Gabin",
                 "Nico"
             ],
-            "number_jumps": 17
+            "number_jumps": 18
         },
         {
             "id": "Hugo J",
@@ -103,13 +103,13 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 153,
+            "number_friends": 157,
             "friends": [
                 "Fabien L",
                 "Axel M",
                 "Tibal",
                 "Marion",
-                "Ti Ben"
+                "Riton"
             ],
             "number_jumps": 25
         },
@@ -128,7 +128,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 82,
+            "number_friends": 81,
             "friends": [
                 "Morgan",
                 "Yanis MO",
@@ -172,15 +172,15 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 60,
+            "number_friends": 64,
             "friends": [
+                "Clement J",
                 "Marion",
                 "Theo V",
                 "Ju",
-                "Celian",
-                "Clement J"
+                "Ti Ben"
             ],
-            "number_jumps": 35
+            "number_jumps": 41
         },
         {
             "id": "Benjamin E",
@@ -259,10 +259,10 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 122,
+            "number_friends": 130,
             "friends": [
-                "Theo V",
                 "Axel M",
+                "Theo V",
                 "Marion",
                 "Thomas R",
                 "Ti Ben"
@@ -284,12 +284,12 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 98,
+            "number_friends": 101,
             "friends": [
                 "Axel M",
                 "Lionel",
-                "Ti Ben",
                 "Marion",
+                "Ti Ben",
                 "Matthieu P"
             ],
             "number_jumps": 20
@@ -356,7 +356,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 93,
+            "number_friends": 96,
             "friends": [
                 "Simon",
                 "Tibal",
@@ -667,25 +667,11 @@
             "number_jumps": 3
         },
         {
-            "id": "UF/INIT",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 4,
-            "friends": [
-                "Vincent MA",
-                "Nico",
-                "Simon",
-                "Axel M"
-            ],
-            "number_jumps": 1
-        },
-        {
             "id": "Vincent MA",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 3,
             "friends": [
-                "UF/INIT",
                 "Nico",
                 "Simon",
                 "Axel M"
@@ -696,12 +682,12 @@
             "id": "Axel M",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 125,
+            "number_friends": 132,
             "friends": [
                 "Theo V",
                 "Tibal",
-                "Simon",
                 "Nico",
+                "Simon",
                 "Ti Ben"
             ],
             "number_jumps": 1
@@ -735,7 +721,7 @@
                 "Gwen",
                 "Nico"
             ],
-            "number_jumps": 3
+            "number_jumps": 5
         },
         {
             "id": "Antoine CHA",
@@ -746,7 +732,7 @@
                 "Gwen",
                 "Simon"
             ],
-            "number_jumps": 3
+            "number_jumps": 5
         },
         {
             "id": "Hugo E",
@@ -777,6 +763,17 @@
                 "Theo V"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Louis AL",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwen",
+                "Simon"
+            ],
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -1226,30 +1223,6 @@
         },
         {
             "source": "Vincent MA",
-            "target": "UF/INIT",
-            "width": 1.5,
-            "color": "orange"
-        },
-        {
-            "source": "Nico",
-            "target": "UF/INIT",
-            "width": 1.5,
-            "color": "orange"
-        },
-        {
-            "source": "Simon",
-            "target": "UF/INIT",
-            "width": 1.5,
-            "color": "orange"
-        },
-        {
-            "source": "Axel M",
-            "target": "UF/INIT",
-            "width": 1.5,
-            "color": "orange"
-        },
-        {
-            "source": "Vincent MA",
             "target": "Nico",
             "width": 1.5,
             "color": "orange"
@@ -1281,7 +1254,7 @@
         {
             "source": "H\u00e9lo\u00efse",
             "target": "Gwen",
-            "width": 2.232050807568877,
+            "width": 2.73606797749979,
             "color": "orange"
         },
         {
@@ -1293,7 +1266,7 @@
         {
             "source": "Antoine CHA",
             "target": "Gwen",
-            "width": 2.232050807568877,
+            "width": 2.73606797749979,
             "color": "orange"
         },
         {
@@ -1317,6 +1290,18 @@
         {
             "source": "Enzo H",
             "target": "Theo V",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Louis AL",
+            "target": "Gwen",
+            "width": 1.9142135623730951,
+            "color": "orange"
+        },
+        {
+            "source": "Louis AL",
+            "target": "Simon",
             "width": 1.5,
             "color": "orange"
         }
