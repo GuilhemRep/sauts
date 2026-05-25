@@ -82,7 +82,7 @@
             "id": "Riton",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 51,
+            "number_friends": 52,
             "friends": [
                 "Fabio",
                 "Stephane K",
@@ -110,7 +110,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 96,
+            "number_friends": 98,
             "friends": [
                 "Simon",
                 "Tibal",
@@ -152,7 +152,7 @@
             "id": "Caroline CHET",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 31,
+            "number_friends": 35,
             "friends": [
                 "Laurent",
                 "Christophe L",
@@ -264,7 +264,7 @@
             "id": "Marie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 37,
+            "number_friends": 41,
             "friends": [
                 "Charline",
                 "Florian H",
@@ -334,13 +334,13 @@
             "id": "Laurent",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 56,
+            "number_friends": 57,
             "friends": [
-                "Christophe L",
                 "Hubert-Arnaud",
+                "Christophe L",
                 "Fabio",
-                "Clement J",
-                "Morgane C"
+                "Morgane C",
+                "Caroline CHET"
             ],
             "number_jumps": 10
         },
@@ -376,7 +376,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 66,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -390,7 +390,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 157,
+            "number_friends": 159,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -437,8 +437,8 @@
                 "Marie M",
                 "Olivier GENN",
                 "Ariane",
-                "Tom BR",
-                "Izampela"
+                "Thomas R",
+                "Tom BR"
             ],
             "number_jumps": 1
         },
@@ -460,7 +460,7 @@
             "id": "Alexis V",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 18,
+            "number_friends": 21,
             "friends": [
                 "Riton",
                 "Stephane K",
@@ -516,12 +516,12 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 101,
+            "number_friends": 104,
             "friends": [
                 "Axel M",
+                "Ti Ben",
                 "Lionel",
                 "Marion",
-                "Ti Ben",
                 "Matthieu P"
             ],
             "number_jumps": 2
@@ -530,7 +530,7 @@
             "id": "Olivier GENN",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 46,
+            "number_friends": 48,
             "friends": [
                 "Tom BR",
                 "Noah",
@@ -548,8 +548,8 @@
             "friends": [
                 "Lulu",
                 "Richard G",
-                "Frederic LA",
                 "Jean francois",
+                "Frederic LA",
                 "Bibi"
             ],
             "number_jumps": 2
@@ -575,8 +575,8 @@
             "friends": [
                 "Eric BI",
                 "Richard G",
-                "Frederic LA",
                 "Jean francois",
+                "Frederic LA",
                 "Bibi"
             ],
             "number_jumps": 2
@@ -709,7 +709,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 103,
+            "number_friends": 104,
             "friends": [
                 "Ti Ben",
                 "Axel M",
