@@ -286,9 +286,9 @@
         },
         {
             "id": "Axel M",
-            "color": "green",
-            "shape": "octagon",
-            "number_friends": 135,
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 134,
             "friends": [
                 "Theo V",
                 "Tibal",
@@ -689,7 +689,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 66,
+            "number_friends": 65,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -874,7 +874,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 104,
+            "number_friends": 103,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -1087,7 +1087,7 @@
             "id": "Izampela",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 43,
+            "number_friends": 42,
             "friends": [
                 "Stephane K",
                 "Fabio",
@@ -1362,7 +1362,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 131,
+            "number_friends": 130,
             "friends": [
                 "Axel M",
                 "Theo V",
@@ -3089,27 +3089,12 @@
             "number_jumps": 16
         },
         {
-            "id": "BI-Places ext",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 6,
-            "friends": [
-                "Ju",
-                "Izampela",
-                "Ornella R",
-                "Nicolas R",
-                "Alexandra R"
-            ],
-            "number_jumps": 1
-        },
-        {
             "id": "Ornella R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
                 "Izampela",
-                "BI-Places ext",
                 "Ju"
             ],
             "number_jumps": 1
@@ -8683,26 +8668,8 @@
             "color": "blue"
         },
         {
-            "source": "BI-Places ext",
-            "target": "Izampela",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
             "source": "Ornella R",
             "target": "Izampela",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
-            "source": "BI-Places ext",
-            "target": "Ornella R",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
-            "source": "BI-Places ext",
-            "target": "Ju",
             "width": 1.5,
             "color": "blue"
         },

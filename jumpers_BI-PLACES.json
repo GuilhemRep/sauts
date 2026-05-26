@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 131,
+            "number_friends": 130,
             "friends": [
                 "Axel M",
                 "Theo V",
@@ -66,9 +66,9 @@
         },
         {
             "id": "Axel M",
-            "color": "green",
-            "shape": "octagon",
-            "number_friends": 135,
+            "color": "cyan",
+            "shape": "rectangle",
+            "number_friends": 134,
             "friends": [
                 "Theo V",
                 "Tibal",
@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 104,
+            "number_friends": 103,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -210,7 +210,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 66,
+            "number_friends": 65,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -2783,26 +2783,11 @@
             "id": "Nicolas R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 3,
             "friends": [
                 "Ju",
-                "BI-Places ext",
                 "Alexandra R",
                 "Tibal"
-            ],
-            "number_jumps": 1
-        },
-        {
-            "id": "BI-Places ext",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 6,
-            "friends": [
-                "Ju",
-                "Izampela",
-                "Ornella R",
-                "Nicolas R",
-                "Alexandra R"
             ],
             "number_jumps": 1
         },
@@ -2810,11 +2795,10 @@
             "id": "Alexandra R",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 3,
             "friends": [
                 "Nicolas R",
                 "Ju",
-                "BI-Places ext",
                 "Tibal"
             ],
             "number_jumps": 1
@@ -3061,7 +3045,7 @@
             "number_jumps": 1
         },
         {
-            "id": "BARTH\u00e9LEMY Agathe",
+            "id": "Agathe",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -3253,24 +3237,11 @@
             "number_jumps": 1
         },
         {
-            "id": "SP/HANDI",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 3,
-            "friends": [
-                "Iris",
-                "Nico",
-                "Axel M"
-            ],
-            "number_jumps": 2
-        },
-        {
             "id": "Iris",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
-                "SP/HANDI",
                 "Nico",
                 "Axel M"
             ],
@@ -6655,12 +6626,6 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places ext",
-            "target": "Nicolas R",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
             "source": "Alexandra R",
             "target": "Nicolas R",
             "width": 1.5,
@@ -6673,26 +6638,8 @@
             "color": "purple"
         },
         {
-            "source": "BI-Places ext",
-            "target": "Ju",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
             "source": "Ju",
             "target": "Alexandra R",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places ext",
-            "target": "Alexandra R",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "BI-Places ext",
-            "target": "Tibal",
             "width": 1.5,
             "color": "purple"
         },
@@ -6991,7 +6938,7 @@
             "color": "purple"
         },
         {
-            "source": "BARTH\u00e9LEMY Agathe",
+            "source": "Agathe",
             "target": "Fafa",
             "width": 1.5,
             "color": "purple"
@@ -7197,24 +7144,6 @@
         {
             "source": "Romain C",
             "target": "Theo V",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "SP/HANDI",
-            "target": "Iris",
-            "width": 1.9142135623730951,
-            "color": "purple"
-        },
-        {
-            "source": "Nico",
-            "target": "SP/HANDI",
-            "width": 1.5,
-            "color": "purple"
-        },
-        {
-            "source": "Axel M",
-            "target": "SP/HANDI",
             "width": 1.5,
             "color": "purple"
         },
