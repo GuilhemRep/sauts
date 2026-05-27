@@ -15,7 +15,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 130,
+            "number_friends": 134,
             "friends": [
                 "Axel M",
                 "Theo V",
@@ -29,7 +29,7 @@
             "id": "Marion",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 94,
+            "number_friends": 95,
             "friends": [
                 "Tibal",
                 "Simon",
@@ -37,7 +37,7 @@
                 "Maxime M",
                 "Nico"
             ],
-            "number_jumps": 61
+            "number_jumps": 62
         },
         {
             "id": "Lorys",
@@ -54,21 +54,21 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 104,
+            "number_friends": 107,
             "friends": [
                 "Ti Ben",
                 "Axel M",
                 "Marion",
-                "Gabin",
-                "Nico"
+                "Nico",
+                "Gabin"
             ],
-            "number_jumps": 59
+            "number_jumps": 60
         },
         {
             "id": "Axel M",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 134,
+            "number_friends": 138,
             "friends": [
                 "Theo V",
                 "Tibal",
@@ -76,7 +76,7 @@
                 "Simon",
                 "Ti Ben"
             ],
-            "number_jumps": 71
+            "number_jumps": 72
         },
         {
             "id": "Anabelle",
@@ -93,7 +93,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 103,
+            "number_friends": 108,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -101,7 +101,7 @@
                 "Marion",
                 "Matthieu P"
             ],
-            "number_jumps": 44
+            "number_jumps": 45
         },
         {
             "id": "Maelys",
@@ -143,7 +143,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 159,
+            "number_friends": 164,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -151,7 +151,7 @@
                 "Marion",
                 "Riton"
             ],
-            "number_jumps": 46
+            "number_jumps": 47
         },
         {
             "id": "Thomas MARS",
@@ -210,15 +210,15 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 74,
             "friends": [
                 "Ti Ben",
                 "Izampela",
                 "Nathan N",
                 "Gwen",
-                "Fabio"
+                "Theo V"
             ],
-            "number_jumps": 27
+            "number_jumps": 28
         },
         {
             "id": "Dylan",
@@ -338,7 +338,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 83,
+            "number_friends": 85,
             "friends": [
                 "Morgan",
                 "Yanis MO",
@@ -535,7 +535,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Teo",
+            "id": "Teo G",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -674,7 +674,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 64,
+            "number_friends": 67,
             "friends": [
                 "Clement J",
                 "Marion",
@@ -682,7 +682,7 @@
                 "Ju",
                 "Ti Ben"
             ],
-            "number_jumps": 24
+            "number_jumps": 25
         },
         {
             "id": "Katia",
@@ -861,7 +861,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 98,
+            "number_friends": 99,
             "friends": [
                 "Simon",
                 "Tibal",
@@ -869,7 +869,7 @@
                 "Theo V",
                 "Nico"
             ],
-            "number_jumps": 50
+            "number_jumps": 51
         },
         {
             "id": "Julien ME",
@@ -1266,7 +1266,7 @@
             "number_friends": 7,
             "friends": [
                 "Gwen",
-                "Emma CH",
+                "Emma CHAM",
                 "Tibal",
                 "Marion",
                 "Juliette C"
@@ -1274,7 +1274,7 @@
             "number_jumps": 1
         },
         {
-            "id": "Emma CH",
+            "id": "Emma CHAM",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 7,
@@ -1295,7 +1295,7 @@
             "friends": [
                 "Mickael C",
                 "Gwen",
-                "Emma CH",
+                "Emma CHAM",
                 "Tibal",
                 "Marion"
             ],
@@ -3406,6 +3406,68 @@
                 "Axel M"
             ],
             "number_jumps": 1
+        },
+        {
+            "id": "Marine P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Axel M",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "S\u00e9bastien R",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Aurelie",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Marion"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Karine",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Laurie A",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Emma CHAP",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -3974,7 +4036,7 @@
             "color": "purple"
         },
         {
-            "source": "Teo",
+            "source": "Teo G",
             "target": "Nico",
             "width": 1.5,
             "color": "purple"
@@ -4970,7 +5032,7 @@
             "color": "purple"
         },
         {
-            "source": "Emma CH",
+            "source": "Emma CHAM",
             "target": "Mickael C",
             "width": 1.5,
             "color": "purple"
@@ -5006,7 +5068,7 @@
             "color": "purple"
         },
         {
-            "source": "Emma CH",
+            "source": "Emma CHAM",
             "target": "Gwen",
             "width": 1.5,
             "color": "purple"
@@ -5018,31 +5080,31 @@
             "color": "purple"
         },
         {
-            "source": "Emma CH",
+            "source": "Emma CHAM",
             "target": "Tibal",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Emma CH",
+            "source": "Emma CHAM",
             "target": "Marion",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Emma CH",
+            "source": "Emma CHAM",
             "target": "Juliette C",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Emma CH",
+            "source": "Emma CHAM",
             "target": "Theo V",
             "width": 1.5,
             "color": "purple"
         },
         {
-            "source": "Emma CH",
+            "source": "Emma CHAM",
             "target": "Axel M",
             "width": 1.5,
             "color": "purple"
@@ -7306,6 +7368,54 @@
         {
             "source": "Axel M",
             "target": "Emma STE",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Axel M",
+            "target": "Marine P",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Marine P",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "S\u00e9bastien R",
+            "target": "Theo V",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Ju",
+            "target": "Aurelie",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Marion",
+            "target": "Aurelie",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Karine",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Laurie A",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Emma CHAP",
+            "target": "Gwen",
             "width": 1.5,
             "color": "purple"
         }

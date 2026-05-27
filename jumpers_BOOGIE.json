@@ -51,7 +51,7 @@
             "number_jumps": 17
         },
         {
-            "id": "Laurie",
+            "id": "Laurie L",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 29,
@@ -110,7 +110,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 98,
+            "number_friends": 99,
             "friends": [
                 "Simon",
                 "Tibal",
@@ -211,7 +211,7 @@
             "number_friends": 17,
             "friends": [
                 "Matthieu P",
-                "Laurie",
+                "Laurie L",
                 "Ninie",
                 "Rachel",
                 "Clement J"
@@ -250,7 +250,7 @@
             "id": "Noah",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 46,
+            "number_friends": 47,
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
@@ -324,7 +324,7 @@
             "friends": [
                 "Laurent",
                 "Gwen",
-                "Laurie",
+                "Laurie L",
                 "Tom BR",
                 "Noah"
             ],
@@ -348,7 +348,7 @@
             "id": "Alban",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 33,
+            "number_friends": 34,
             "friends": [
                 "Christophe L",
                 "Izampela",
@@ -376,13 +376,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 74,
             "friends": [
                 "Ti Ben",
                 "Izampela",
                 "Nathan N",
                 "Gwen",
-                "Fabio"
+                "Theo V"
             ],
             "number_jumps": 3
         },
@@ -390,7 +390,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 159,
+            "number_friends": 164,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -406,7 +406,7 @@
             "shape": "rectangle",
             "number_friends": 13,
             "friends": [
-                "Laurie",
+                "Laurie L",
                 "Florian H",
                 "Guillaume DEN",
                 "Alexandra B",
@@ -516,7 +516,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 103,
+            "number_friends": 108,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -628,7 +628,7 @@
             "number_friends": 12,
             "friends": [
                 "H\u00e9l\u00e8ne",
-                "Laurie",
+                "Laurie L",
                 "Gautier",
                 "Alban",
                 "Florian H"
@@ -642,7 +642,7 @@
             "number_friends": 5,
             "friends": [
                 "Sarah",
-                "Laurie",
+                "Laurie L",
                 "Danny",
                 "Julien MAR",
                 "Clement J"
@@ -656,7 +656,7 @@
             "number_friends": 5,
             "friends": [
                 "Sarah",
-                "Laurie",
+                "Laurie L",
                 "Lucile",
                 "Julien MAR",
                 "Clement J"
@@ -670,7 +670,7 @@
             "number_friends": 5,
             "friends": [
                 "Sarah",
-                "Laurie",
+                "Laurie L",
                 "Lucile",
                 "Danny",
                 "Clement J"
@@ -709,13 +709,13 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 104,
+            "number_friends": 107,
             "friends": [
                 "Ti Ben",
                 "Axel M",
                 "Marion",
-                "Gabin",
-                "Nico"
+                "Nico",
+                "Gabin"
             ],
             "number_jumps": 1
         },
@@ -755,7 +755,7 @@
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Izampela",
             "width": 3.5,
             "color": "brown"
@@ -786,7 +786,7 @@
         },
         {
             "source": "Fabio",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 3.5,
             "color": "brown"
         },
@@ -810,7 +810,7 @@
         },
         {
             "source": "Stephane K",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 3.6622776601683795,
             "color": "brown"
         },
@@ -834,18 +834,18 @@
         },
         {
             "source": "Benjamin BL",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 3.6622776601683795,
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Riton",
             "width": 3.5,
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Eliman",
             "width": 3.8166247903554,
             "color": "brown"
@@ -924,18 +924,18 @@
         },
         {
             "source": "Tom BR",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.73606797749979,
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Ana\u00ebl",
             "width": 2.73606797749979,
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Noah",
             "width": 2.73606797749979,
             "color": "brown"
@@ -1140,13 +1140,13 @@
         },
         {
             "source": "Clement J",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.949489742783178,
             "color": "brown"
         },
         {
             "source": "Laurent",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.232050807568877,
             "color": "brown"
         },
@@ -1266,7 +1266,7 @@
         },
         {
             "source": "Ju",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.232050807568877,
             "color": "brown"
         },
@@ -1289,7 +1289,7 @@
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Matthieu P",
             "width": 1.9142135623730951,
             "color": "brown"
@@ -1325,7 +1325,7 @@
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Sarah",
             "width": 2.949489742783178,
             "color": "brown"
@@ -1415,14 +1415,14 @@
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Theo V",
             "width": 1.5,
             "color": "brown"
         },
         {
             "source": "Christophe L",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 1.5,
             "color": "brown"
         },
@@ -1482,12 +1482,12 @@
         },
         {
             "source": "Florian H",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.5,
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "H\u00e9l\u00e8ne",
             "width": 2.73606797749979,
             "color": "brown"
@@ -1500,7 +1500,7 @@
         },
         {
             "source": "Alexandra B",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.232050807568877,
             "color": "brown"
         },
@@ -1728,7 +1728,7 @@
         },
         {
             "source": "Olivier GENN",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 1.5,
             "color": "brown"
         },
@@ -1800,7 +1800,7 @@
         },
         {
             "source": "Alban",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 1.9142135623730951,
             "color": "brown"
         },
@@ -1866,13 +1866,13 @@
         },
         {
             "source": "Gautier",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 1.5,
             "color": "brown"
         },
         {
             "source": "Guillaume DEN",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.232050807568877,
             "color": "brown"
         },
@@ -1920,18 +1920,18 @@
         },
         {
             "source": "Lucile",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Danny",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 2.5,
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Julien MAR",
             "width": 2.5,
             "color": "brown"
@@ -2099,7 +2099,7 @@
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Marie M",
             "width": 2.232050807568877,
             "color": "brown"
@@ -2160,7 +2160,7 @@
         },
         {
             "source": "Margot",
-            "target": "Laurie",
+            "target": "Laurie L",
             "width": 1.5,
             "color": "brown"
         },
@@ -2201,7 +2201,7 @@
             "color": "brown"
         },
         {
-            "source": "Laurie",
+            "source": "Laurie L",
             "target": "Simon",
             "width": 1.5,
             "color": "brown"

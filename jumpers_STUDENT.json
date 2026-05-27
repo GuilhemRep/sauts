@@ -157,7 +157,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 159,
+            "number_friends": 164,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -202,7 +202,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 64,
+            "number_friends": 67,
             "friends": [
                 "Clement J",
                 "Marion",
@@ -216,7 +216,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 83,
+            "number_friends": 85,
             "friends": [
                 "Morgan",
                 "Yanis MO",
@@ -303,13 +303,13 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 104,
+            "number_friends": 107,
             "friends": [
                 "Ti Ben",
                 "Axel M",
                 "Marion",
-                "Gabin",
-                "Nico"
+                "Nico",
+                "Gabin"
             ],
             "number_jumps": 4
         },
@@ -345,7 +345,7 @@
             "id": "Axel M",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 134,
+            "number_friends": 138,
             "friends": [
                 "Theo V",
                 "Tibal",
@@ -497,13 +497,13 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 65,
+            "number_friends": 74,
             "friends": [
                 "Ti Ben",
                 "Izampela",
                 "Nathan N",
                 "Gwen",
-                "Fabio"
+                "Theo V"
             ],
             "number_jumps": 2
         },
@@ -601,7 +601,7 @@
             "number_jumps": 2
         },
         {
-            "id": "Benjamin DE",
+            "id": "Benjamin DEM",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 1,
@@ -648,7 +648,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Pierre-louis",
@@ -689,7 +689,7 @@
                 "Nico",
                 "Margot"
             ],
-            "number_jumps": 6
+            "number_jumps": 8
         },
         {
             "id": "Oscar",
@@ -727,7 +727,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 103,
+            "number_friends": 108,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -831,7 +831,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "H\u00e9lo\u00efse",
@@ -852,6 +852,34 @@
             "friends": [
                 "Gwen",
                 "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Florian P",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 2
+        },
+        {
+            "id": "Enzo H",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Nino",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo V"
             ],
             "number_jumps": 1
         }
@@ -996,7 +1024,7 @@
             "color": "cyan"
         },
         {
-            "source": "Benjamin DE",
+            "source": "Benjamin DEM",
             "target": "Simon",
             "width": 1.5,
             "color": "cyan"
