@@ -1,7 +1,7 @@
 {
     "nodes": [
         {
-            "id": "Nicolas N",
+            "id": "Nicolas NAD",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 0,
@@ -110,7 +110,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 99,
+            "number_friends": 100,
             "friends": [
                 "Simon",
                 "Tibal",
@@ -264,7 +264,7 @@
             "id": "Marie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 41,
+            "number_friends": 42,
             "friends": [
                 "Charline",
                 "Florian H",
@@ -376,7 +376,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 74,
+            "number_friends": 76,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -390,12 +390,12 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 164,
+            "number_friends": 165,
             "friends": [
                 "Fabien L",
                 "Axel M",
                 "Tibal",
-                "Marion",
+                "Marion L",
                 "Riton"
             ],
             "number_jumps": 2
@@ -432,11 +432,11 @@
             "id": "Kylian G",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 20,
+            "number_friends": 21,
             "friends": [
                 "Marie M",
-                "Olivier GENN",
                 "Ariane",
+                "Olivier GENN",
                 "Thomas R",
                 "Tom BR"
             ],
@@ -516,12 +516,12 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 108,
+            "number_friends": 109,
             "friends": [
                 "Axel M",
                 "Ti Ben",
                 "Lionel",
-                "Marion",
+                "Marion L",
                 "Matthieu P"
             ],
             "number_jumps": 2
@@ -709,13 +709,13 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 107,
+            "number_friends": 109,
             "friends": [
                 "Ti Ben",
+                "Marion L",
                 "Axel M",
-                "Marion",
-                "Nico",
-                "Gabin"
+                "Victor V",
+                "Nico"
             ],
             "number_jumps": 1
         },
