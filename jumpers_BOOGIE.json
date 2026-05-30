@@ -110,7 +110,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 100,
+            "number_friends": 101,
             "friends": [
                 "Simon",
                 "Tibal",
@@ -224,7 +224,7 @@
             "shape": "rectangle",
             "number_friends": 46,
             "friends": [
-                "Noah",
+                "Noah S",
                 "Olivier GENN",
                 "Laurent",
                 "Christophe L",
@@ -241,16 +241,16 @@
                 "Christophe L",
                 "Laurent",
                 "Tom BR",
-                "Noah",
+                "Noah S",
                 "Sylvain C"
             ],
             "number_jumps": 5
         },
         {
-            "id": "Noah",
+            "id": "Noah S",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 47,
+            "number_friends": 48,
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
@@ -326,7 +326,7 @@
                 "Gwen",
                 "Laurie L",
                 "Tom BR",
-                "Noah"
+                "Noah S"
             ],
             "number_jumps": 8
         },
@@ -376,7 +376,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 76,
+            "number_friends": 77,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -390,7 +390,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 165,
+            "number_friends": 167,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -420,7 +420,7 @@
             "shape": "rectangle",
             "number_friends": 32,
             "friends": [
-                "Noah",
+                "Noah S",
                 "Jean-Michel",
                 "Anael",
                 "Tom BR",
@@ -516,7 +516,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 109,
+            "number_friends": 111,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -533,7 +533,7 @@
             "number_friends": 48,
             "friends": [
                 "Tom BR",
-                "Noah",
+                "Noah S",
                 "Christophe L",
                 "Laurent",
                 "Hubert-Arnaud"
@@ -709,7 +709,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 109,
+            "number_friends": 111,
             "friends": [
                 "Ti Ben",
                 "Marion L",
@@ -936,7 +936,7 @@
         },
         {
             "source": "Laurie L",
-            "target": "Noah",
+            "target": "Noah S",
             "width": 2.73606797749979,
             "color": "brown"
         },
@@ -948,13 +948,13 @@
         },
         {
             "source": "Tom BR",
-            "target": "Noah",
+            "target": "Noah S",
             "width": 2.73606797749979,
             "color": "brown"
         },
         {
             "source": "Ana\u00ebl",
-            "target": "Noah",
+            "target": "Noah S",
             "width": 2.73606797749979,
             "color": "brown"
         },
@@ -1164,7 +1164,7 @@
         },
         {
             "source": "Clement J",
-            "target": "Noah",
+            "target": "Noah S",
             "width": 2.232050807568877,
             "color": "brown"
         },
@@ -1188,7 +1188,7 @@
         },
         {
             "source": "Laurent",
-            "target": "Noah",
+            "target": "Noah S",
             "width": 2.232050807568877,
             "color": "brown"
         },
@@ -1314,7 +1314,7 @@
         },
         {
             "source": "Matthieu P",
-            "target": "Noah",
+            "target": "Noah S",
             "width": 1.5,
             "color": "brown"
         },
@@ -1349,7 +1349,7 @@
             "color": "brown"
         },
         {
-            "source": "Noah",
+            "source": "Noah S",
             "target": "Sarah",
             "width": 1.5,
             "color": "brown"
