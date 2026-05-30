@@ -40,13 +40,13 @@
             "id": "Stephane K",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 52,
+            "number_friends": 53,
             "friends": [
                 "Fabio",
                 "Benjamin BL",
                 "Riton",
-                "Izampela",
-                "Christophe L"
+                "Christophe L",
+                "Izampela"
             ],
             "number_jumps": 17
         },
@@ -110,11 +110,11 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 101,
+            "number_friends": 106,
             "friends": [
                 "Simon",
-                "Tibal",
                 "Ju",
+                "Tibal",
                 "Theo V",
                 "Nico"
             ],
@@ -135,10 +135,10 @@
             "number_jumps": 11
         },
         {
-            "id": "Rachel",
+            "id": "Rachel H",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 39,
+            "number_friends": 40,
             "friends": [
                 "Matthieu P",
                 "Laurent",
@@ -157,7 +157,7 @@
                 "Laurent",
                 "Christophe L",
                 "Hubert-Arnaud",
-                "Rachel",
+                "Rachel H",
                 "Fabio"
             ],
             "number_jumps": 2
@@ -166,13 +166,13 @@
             "id": "Christophe L",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 57,
+            "number_friends": 58,
             "friends": [
                 "Laurent",
                 "Hubert-Arnaud",
                 "Fabio",
-                "Ana\u00ebl",
-                "Stephane K"
+                "Stephane K",
+                "Ana\u00ebl"
             ],
             "number_jumps": 7
         },
@@ -196,7 +196,7 @@
             "shape": "rectangle",
             "number_friends": 30,
             "friends": [
-                "Rachel",
+                "Rachel H",
                 "Jordan",
                 "Laurent",
                 "Sarah",
@@ -213,7 +213,7 @@
                 "Matthieu P",
                 "Laurie L",
                 "Ninie",
-                "Rachel",
+                "Rachel H",
                 "Clement J"
             ],
             "number_jumps": 11
@@ -254,9 +254,9 @@
             "friends": [
                 "Tom BR",
                 "Olivier GENN",
+                "Laurent",
                 "Christophe L",
-                "Hubert-Arnaud",
-                "Laurent"
+                "Hubert-Arnaud"
             ],
             "number_jumps": 5
         },
@@ -264,7 +264,7 @@
             "id": "Marie M",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 42,
+            "number_friends": 43,
             "friends": [
                 "Charline",
                 "Florian H",
@@ -283,7 +283,7 @@
                 "Marie M",
                 "Salom\u00e9",
                 "Margot",
-                "Rachel",
+                "Rachel H",
                 "Florian H"
             ],
             "number_jumps": 3
@@ -339,8 +339,8 @@
                 "Hubert-Arnaud",
                 "Christophe L",
                 "Fabio",
-                "Morgane C",
-                "Caroline CHET"
+                "Stephane K",
+                "Morgane C"
             ],
             "number_jumps": 10
         },
@@ -366,7 +366,7 @@
             "friends": [
                 "Marie M",
                 "Charline",
-                "Rachel",
+                "Rachel H",
                 "Mario",
                 "Margot"
             ],
@@ -376,7 +376,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 77,
+            "number_friends": 79,
             "friends": [
                 "Ti Ben",
                 "Izampela",
@@ -516,7 +516,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 111,
+            "number_friends": 115,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -534,8 +534,8 @@
             "friends": [
                 "Tom BR",
                 "Noah S",
-                "Christophe L",
                 "Laurent",
+                "Christophe L",
                 "Hubert-Arnaud"
             ],
             "number_jumps": 2
@@ -589,8 +589,8 @@
             "friends": [
                 "Eric BI",
                 "Lulu",
-                "Frederic LA",
                 "Jean francois",
+                "Frederic LA",
                 "Bibi"
             ],
             "number_jumps": 2
@@ -709,7 +709,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 111,
+            "number_friends": 115,
             "friends": [
                 "Ti Ben",
                 "Marion L",
@@ -869,7 +869,7 @@
             "color": "brown"
         },
         {
-            "source": "Rachel",
+            "source": "Rachel H",
             "target": "Florian H",
             "width": 1.5,
             "color": "brown"
@@ -888,12 +888,12 @@
         },
         {
             "source": "Caroline CHET",
-            "target": "Rachel",
+            "target": "Rachel H",
             "width": 1.9142135623730951,
             "color": "brown"
         },
         {
-            "source": "Rachel",
+            "source": "Rachel H",
             "target": "Christophe L",
             "width": 1.5,
             "color": "brown"
@@ -1043,7 +1043,7 @@
             "color": "brown"
         },
         {
-            "source": "Rachel",
+            "source": "Rachel H",
             "target": "Ninie",
             "width": 2.5,
             "color": "brown"
@@ -1061,7 +1061,7 @@
             "color": "brown"
         },
         {
-            "source": "Rachel",
+            "source": "Rachel H",
             "target": "Matthieu P",
             "width": 2.5,
             "color": "brown"
@@ -1079,14 +1079,14 @@
             "color": "brown"
         },
         {
-            "source": "Rachel",
+            "source": "Rachel H",
             "target": "Sarah",
             "width": 2.5,
             "color": "brown"
         },
         {
             "source": "Christian G",
-            "target": "Rachel",
+            "target": "Rachel H",
             "width": 1.5,
             "color": "brown"
         },
@@ -1218,13 +1218,13 @@
         },
         {
             "source": "Alban",
-            "target": "Rachel",
+            "target": "Rachel H",
             "width": 1.5,
             "color": "brown"
         },
         {
             "source": "Salom\u00e9",
-            "target": "Rachel",
+            "target": "Rachel H",
             "width": 1.5,
             "color": "brown"
         },
