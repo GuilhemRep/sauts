@@ -159,7 +159,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 167,
+            "number_friends": 169,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -307,7 +307,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 115,
+            "number_friends": 120,
             "friends": [
                 "Ti Ben",
                 "Marion L",
@@ -349,13 +349,13 @@
             "id": "Axel M",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 145,
+            "number_friends": 146,
             "friends": [
                 "Tibal",
                 "Theo V",
                 "Nico",
                 "Simon",
-                "Franck C"
+                "Ti Ben"
             ],
             "number_jumps": 8
         },
@@ -731,12 +731,12 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 115,
+            "number_friends": 117,
             "friends": [
                 "Axel M",
                 "Ti Ben",
-                "Lionel",
                 "Marion L",
+                "Lionel",
                 "Matthieu P"
             ],
             "number_jumps": 1
@@ -936,7 +936,7 @@
                 "Fafa",
                 "Simon"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Teo C",
@@ -947,7 +947,7 @@
                 "Ju",
                 "Tibal"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "F\u00e9licien",
@@ -957,7 +957,7 @@
             "friends": [
                 "Ju"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Aur\u00e9lia P",
@@ -968,7 +968,7 @@
                 "Fafa",
                 "Simon"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Jonas S",
@@ -978,6 +978,16 @@
             "friends": [
                 "Ju",
                 "Theo V"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Yvan",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
             ],
             "number_jumps": 1
         }

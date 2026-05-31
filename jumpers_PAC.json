@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 115,
+            "number_friends": 120,
             "friends": [
                 "Ti Ben",
                 "Marion L",
@@ -103,7 +103,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 167,
+            "number_friends": 169,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -136,7 +136,7 @@
                 "Marion L",
                 "Aur\u00e9lia P"
             ],
-            "number_jumps": 39
+            "number_jumps": 40
         },
         {
             "id": "Nathan M",
@@ -259,7 +259,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 138,
+            "number_friends": 139,
             "friends": [
                 "Axel M",
                 "Theo V",
@@ -284,12 +284,12 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 115,
+            "number_friends": 117,
             "friends": [
                 "Axel M",
                 "Ti Ben",
-                "Lionel",
                 "Marion L",
+                "Lionel",
                 "Matthieu P"
             ],
             "number_jumps": 29
@@ -356,7 +356,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 106,
+            "number_friends": 107,
             "friends": [
                 "Simon",
                 "Ju",
@@ -682,13 +682,13 @@
             "id": "Axel M",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 145,
+            "number_friends": 146,
             "friends": [
                 "Tibal",
                 "Theo V",
                 "Nico",
                 "Simon",
-                "Franck C"
+                "Ti Ben"
             ],
             "number_jumps": 1
         },
@@ -959,7 +959,7 @@
             "friends": [
                 "Fafa"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -1668,7 +1668,7 @@
         {
             "source": "Anthony CA",
             "target": "Fafa",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         }
     ]
