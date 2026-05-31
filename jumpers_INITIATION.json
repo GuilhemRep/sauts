@@ -18,7 +18,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 117,
+            "number_friends": 120,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -60,7 +60,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 169,
+            "number_friends": 171,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -84,7 +84,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 120,
+            "number_friends": 121,
             "friends": [
                 "Ti Ben",
                 "Marion L",
@@ -112,7 +112,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 73,
             "friends": [
                 "Marion L",
                 "Clement J",
@@ -126,7 +126,7 @@
             "id": "Clement J",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 34,
+            "number_friends": 36,
             "friends": [
                 "Laurent",
                 "Gwen",
@@ -140,7 +140,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 139,
+            "number_friends": 142,
             "friends": [
                 "Axel M",
                 "Theo V",
@@ -177,7 +177,7 @@
             "id": "Axel M",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 146,
+            "number_friends": 151,
             "friends": [
                 "Tibal",
                 "Theo V",
@@ -219,7 +219,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 90,
+            "number_friends": 91,
             "friends": [
                 "Morgan",
                 "Yanis MO",
@@ -376,13 +376,13 @@
             "id": "Marion L",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 102,
+            "number_friends": 107,
             "friends": [
                 "Tibal",
                 "Simon",
                 "Theo V",
-                "Maxime M",
-                "Nico"
+                "Nico",
+                "Gwen"
             ],
             "number_jumps": 18
         },
@@ -722,13 +722,13 @@
             "id": "Romain F",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 8,
+            "number_friends": 11,
             "friends": [
                 "Frederic LE",
-                "Theo V",
                 "Emmanuelle",
                 "Natacha",
-                "Sophie D"
+                "Sophie D",
+                "Theo V"
             ],
             "number_jumps": 2
         },

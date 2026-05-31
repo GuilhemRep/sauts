@@ -38,7 +38,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 120,
+            "number_friends": 121,
             "friends": [
                 "Ti Ben",
                 "Marion L",
@@ -103,7 +103,7 @@
             "id": "Theo V",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 169,
+            "number_friends": 171,
             "friends": [
                 "Fabien L",
                 "Axel M",
@@ -128,7 +128,7 @@
             "id": "Fafa",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 90,
+            "number_friends": 91,
             "friends": [
                 "Morgan",
                 "Yanis MO",
@@ -172,7 +172,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 69,
+            "number_friends": 73,
             "friends": [
                 "Marion L",
                 "Clement J",
@@ -180,7 +180,7 @@
                 "Ju",
                 "Ti Ben"
             ],
-            "number_jumps": 54
+            "number_jumps": 55
         },
         {
             "id": "Benjamin E",
@@ -259,7 +259,7 @@
             "id": "Tibal",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 139,
+            "number_friends": 142,
             "friends": [
                 "Axel M",
                 "Theo V",
@@ -284,7 +284,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 117,
+            "number_friends": 120,
             "friends": [
                 "Axel M",
                 "Ti Ben",
@@ -292,7 +292,7 @@
                 "Lionel",
                 "Matthieu P"
             ],
-            "number_jumps": 29
+            "number_jumps": 30
         },
         {
             "id": "Benoit",
@@ -682,7 +682,7 @@
             "id": "Axel M",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 146,
+            "number_friends": 151,
             "friends": [
                 "Tibal",
                 "Theo V",
@@ -960,6 +960,17 @@
                 "Fafa"
             ],
             "number_jumps": 2
+        },
+        {
+            "id": "Rodolphe",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwen",
+                "Nico"
+            ],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -1669,6 +1680,18 @@
             "source": "Anthony CA",
             "target": "Fafa",
             "width": 1.9142135623730951,
+            "color": "orange"
+        },
+        {
+            "source": "Rodolphe",
+            "target": "Gwen",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Rodolphe",
+            "target": "Nico",
+            "width": 1.5,
             "color": "orange"
         }
     ]
