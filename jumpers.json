@@ -780,6 +780,7 @@
                 "Alban",
                 "Philippe M",
                 "Caroline CHET",
+                "Theo V",
                 "Margot",
                 "Julien BE",
                 "Mathieu D",
@@ -787,7 +788,6 @@
                 "Renan",
                 "Lionel",
                 "Mickael G",
-                "Theo V",
                 "Florian H",
                 "Adrien G",
                 "Tom AN",
@@ -816,7 +816,7 @@
                 "Luca",
                 "Mario"
             ],
-            "number_jumps": 93
+            "number_jumps": 94
         },
         {
             "id": "Romain L",
@@ -1691,6 +1691,7 @@
                 "Kelvin",
                 "Arthur P",
                 "Mario",
+                "Morgane CO",
                 "Juliette A",
                 "Benjamin BL",
                 "Fafa",
@@ -1699,7 +1700,6 @@
                 "Jerome",
                 "Axel L",
                 "Sophie W",
-                "Morgane CO",
                 "Anabelle",
                 "Dylan",
                 "Philippe M",
@@ -1843,7 +1843,7 @@
                 "Leni",
                 "Hugo BR"
             ],
-            "number_jumps": 219
+            "number_jumps": 220
         },
         {
             "id": "Magali",
@@ -2072,9 +2072,9 @@
             "shape": "rectangle",
             "number_friends": 13,
             "friends": [
+                "Salom\u00e9",
                 "Marie M",
                 "Christopher W",
-                "Salom\u00e9",
                 "Nico",
                 "Margot",
                 "Charline",
@@ -2086,7 +2086,7 @@
                 "Laurent",
                 "Fafa"
             ],
-            "number_jumps": 15
+            "number_jumps": 16
         },
         {
             "id": "Thomas GE",
@@ -2567,6 +2567,7 @@
                 "Valentin N",
                 "Mateo",
                 "Kevin A",
+                "Noah S",
                 "Stephane K",
                 "David TO",
                 "Izampela",
@@ -2580,7 +2581,6 @@
                 "Morgane L",
                 "Hugo M",
                 "James BO",
-                "Noah S",
                 "Christophe L",
                 "Julie S",
                 "Alexandra G",
@@ -2745,7 +2745,7 @@
                 "Pierre BI",
                 "Jaume"
             ],
-            "number_jumps": 293
+            "number_jumps": 294
         },
         {
             "id": "Yogesh",
@@ -3017,9 +3017,9 @@
                 "Charline",
                 "Noah S",
                 "Rachel H",
+                "Mario",
                 "Christophe L",
                 "Ana\u00ebl",
-                "Mario",
                 "Margot",
                 "Jonas G",
                 "Hubert-Arnaud",
@@ -3061,7 +3061,7 @@
                 "Maxence G",
                 "Elliot"
             ],
-            "number_jumps": 40
+            "number_jumps": 41
         },
         {
             "id": "Charline",
@@ -14044,12 +14044,12 @@
                 "Noah S",
                 "Paul G",
                 "Pierrick",
+                "Quentin L",
                 "Orian",
                 "Salom\u00e9",
-                "Romain L",
-                "Quentin L"
+                "Romain L"
             ],
-            "number_jumps": 18
+            "number_jumps": 19
         },
         {
             "id": "Luka",
@@ -15799,7 +15799,7 @@
                 "Marion L",
                 "Elliot"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Sophie W",
@@ -15843,7 +15843,7 @@
                 "Nico",
                 "Margot"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Nathalan",
@@ -15999,7 +15999,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         }
     ],
     "links": [
@@ -16552,7 +16552,7 @@
         {
             "source": "Salom\u00e9",
             "target": "Mario",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "blue"
         },
         {
@@ -18802,7 +18802,7 @@
         {
             "source": "Noah S",
             "target": "Theo V",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -34366,7 +34366,7 @@
         {
             "source": "Morgane CO",
             "target": "Nico",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "orange"
         },
         {
@@ -34408,7 +34408,7 @@
         {
             "source": "Elliot",
             "target": "Quentin L",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
