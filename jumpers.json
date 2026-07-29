@@ -2616,7 +2616,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 215,
+            "number_friends": 216,
             "friends": [
                 "Marion L",
                 "Ti Ben",
@@ -2832,9 +2832,10 @@
                 "Capucine TILQUIN",
                 "SP/INIT",
                 "Jean-matthieu TILQUIN",
-                "Brian CARRASCO"
+                "Brian CARRASCO",
+                "Nino LATHIERE"
             ],
-            "number_jumps": 249
+            "number_jumps": 250
         },
         {
             "id": "Jason",
@@ -20175,7 +20176,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Marc DORMOY",
@@ -20212,15 +20213,17 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Nino LATHIERE",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 0,
-            "friends": [],
-            "number_jumps": 1
+            "number_friends": 1,
+            "friends": [
+                "Simon"
+            ],
+            "number_jumps": 2
         },
         {
             "id": "Romaric BOUCHAIB",
@@ -47292,6 +47295,12 @@
             "target": "Luca RINALDI-LANUIT",
             "width": 1.5,
             "color": "blue"
+        },
+        {
+            "source": "Nino LATHIERE",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "cyan"
         }
     ]
 }
