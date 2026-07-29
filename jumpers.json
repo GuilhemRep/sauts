@@ -1393,7 +1393,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 113,
+            "number_friends": 114,
             "friends": [
                 "Ti Ben",
                 "Gwen",
@@ -1507,9 +1507,10 @@
                 "Manon MUZZI",
                 "Romain MUZZI",
                 "Mathis MUZZI",
-                "Thomas RICHARD"
+                "Thomas RICHARD",
+                "Florian MAVOLLE"
             ],
-            "number_jumps": 189
+            "number_jumps": 190
         },
         {
             "id": "Ophelie D",
@@ -1961,6 +1962,7 @@
                 "Riton",
                 "Jules G",
                 "Lana B",
+                "Sully GROMNICKI",
                 "Juliette A",
                 "Hubert-Arnaud",
                 "Lucie F",
@@ -1969,7 +1971,6 @@
                 "Axel L",
                 "Matys",
                 "Clara Z",
-                "Sully GROMNICKI",
                 "Anabelle",
                 "Dylan",
                 "Philippe M",
@@ -2147,7 +2148,7 @@
                 "Mathis MUZZI",
                 "Thomas RICHARD"
             ],
-            "number_jumps": 265
+            "number_jumps": 266
         },
         {
             "id": "Magali",
@@ -2616,7 +2617,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 216,
+            "number_friends": 218,
             "friends": [
                 "Marion L",
                 "Ti Ben",
@@ -2833,9 +2834,11 @@
                 "SP/INIT",
                 "Jean-matthieu TILQUIN",
                 "Brian CARRASCO",
-                "Nino LATHIERE"
+                "Nino LATHIERE",
+                "Matteo VEZZANI",
+                "Thomas RICHARD"
             ],
-            "number_jumps": 251
+            "number_jumps": 252
         },
         {
             "id": "Jason",
@@ -4988,6 +4991,7 @@
                 "Emma CHAP",
                 "Axel R",
                 "Emmanuelle H",
+                "Thomas JEGOU",
                 "Morgan S",
                 "Nathalie BR",
                 "L\u00e9a P",
@@ -5067,7 +5071,6 @@
                 "Charlotte MI",
                 "Maxence MA",
                 "Morgane CO",
-                "Thomas JEGOU",
                 "Gabriel BOINOT",
                 "Vincent POTIER",
                 "Manon MUZZI",
@@ -5076,7 +5079,7 @@
                 "Thomas RICHARD",
                 "Aurelie BOUFFARD"
             ],
-            "number_jumps": 163
+            "number_jumps": 164
         },
         {
             "id": "Antoine DEB",
@@ -6553,7 +6556,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 143,
+            "number_friends": 146,
             "friends": [
                 "Simon",
                 "Axel M",
@@ -6580,6 +6583,7 @@
                 "Charline SC",
                 "Fabio",
                 "Kehei",
+                "Theo VERRY",
                 "Salam\u00e8che",
                 "Pastou",
                 "Christophe CHABAU",
@@ -6696,10 +6700,12 @@
                 "Mario",
                 "Emmanuelle H",
                 "Jean louis VERGNE",
-                "Theo VERRY",
-                "Aurelie BOUFFARD"
+                "Aurelie BOUFFARD",
+                "Mounia AIT-LARBI",
+                "Axel MULLER",
+                "Adam AIT-LARBI"
             ],
-            "number_jumps": 128
+            "number_jumps": 129
         },
         {
             "id": "Remy",
@@ -19943,20 +19949,23 @@
             "id": "Theo VERRY",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 10,
+            "number_friends": 13,
             "friends": [
                 "Capucine TILQUIN",
                 "Simon",
+                "Ti Ben",
                 "Charly JEGAT",
                 "Ju",
                 "SP/INIT",
                 "Jean-matthieu TILQUIN",
                 "S\u00e9bastien CARLIER",
                 "Jean louis VERGNE",
-                "Ti Ben",
-                "Lisa VANPOULLE"
+                "Lisa VANPOULLE",
+                "Mounia AIT-LARBI",
+                "Axel MULLER",
+                "Adam AIT-LARBI"
             ],
-            "number_jumps": 7
+            "number_jumps": 8
         },
         {
             "id": "Joel GREFFEUILLE",
@@ -19985,7 +19994,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Hubert-arnaud DE ROY",
@@ -20079,7 +20088,7 @@
                 "Nico",
                 "Ju"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "SP/INIT",
@@ -20282,16 +20291,18 @@
             "id": "Thomas RICHARD",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 6,
+            "number_friends": 8,
             "friends": [
                 "Manon MUZZI",
                 "Ju",
                 "Romain MUZZI",
                 "Nico",
                 "Mathis MUZZI",
-                "Gwen"
+                "Gwen",
+                "Matteo VEZZANI",
+                "Simon"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Bruno RUATTA",
@@ -20328,6 +20339,74 @@
             "friends": [
                 "Theo VERRY"
             ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Florian MAVOLLE",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Mounia AIT-LARBI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Axel MULLER",
+                "Adam AIT-LARBI",
+                "Theo VERRY",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Axel MULLER",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Mounia AIT-LARBI",
+                "Adam AIT-LARBI",
+                "Theo VERRY",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Adam AIT-LARBI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Mounia AIT-LARBI",
+                "Axel MULLER",
+                "Theo VERRY",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Matteo VEZZANI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Thomas RICHARD"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Remy CHAMPAGNE",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
             "number_jumps": 1
         }
     ],
@@ -47023,7 +47102,7 @@
         {
             "source": "Gwen",
             "target": "Thomas JEGOU",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
@@ -47083,7 +47162,7 @@
         {
             "source": "Nico",
             "target": "Sully GROMNICKI",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "orange"
         },
         {
@@ -47161,7 +47240,7 @@
         {
             "source": "Theo VERRY",
             "target": "Ti Ben",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "purple"
         },
         {
@@ -47301,6 +47380,84 @@
             "target": "Simon",
             "width": 1.5,
             "color": "cyan"
+        },
+        {
+            "source": "Florian MAVOLLE",
+            "target": "Ju",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Axel MULLER",
+            "target": "Mounia AIT-LARBI",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Adam AIT-LARBI",
+            "target": "Mounia AIT-LARBI",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Mounia AIT-LARBI",
+            "target": "Theo VERRY",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Mounia AIT-LARBI",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Adam AIT-LARBI",
+            "target": "Axel MULLER",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Axel MULLER",
+            "target": "Theo VERRY",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Axel MULLER",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Adam AIT-LARBI",
+            "target": "Theo VERRY",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Adam AIT-LARBI",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Matteo VEZZANI",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Matteo VEZZANI",
+            "target": "Thomas RICHARD",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Simon",
+            "target": "Thomas RICHARD",
+            "width": 1.5,
+            "color": "purple"
         }
     ]
 }
