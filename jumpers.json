@@ -1969,6 +1969,7 @@
                 "Axel L",
                 "Matys",
                 "Clara Z",
+                "Sully GROMNICKI",
                 "Anabelle",
                 "Dylan",
                 "Philippe M",
@@ -2002,7 +2003,6 @@
                 "Miky",
                 "Tom Rigolo",
                 "Vincent POTIER",
-                "Sully GROMNICKI",
                 "Mathilde C",
                 "Emma CA",
                 "Robin P",
@@ -2147,7 +2147,7 @@
                 "Mathis MUZZI",
                 "Thomas RICHARD"
             ],
-            "number_jumps": 264
+            "number_jumps": 265
         },
         {
             "id": "Magali",
@@ -2662,6 +2662,7 @@
                 "Lilly D",
                 "Jerome",
                 "Matys",
+                "F\u00e9lix PERNIN",
                 "Theo VERRY",
                 "Regis",
                 "Alex F",
@@ -2828,14 +2829,13 @@
                 "Jean",
                 "Maxime S",
                 "Claire D",
-                "F\u00e9lix PERNIN",
                 "Capucine TILQUIN",
                 "SP/INIT",
                 "Jean-matthieu TILQUIN",
                 "Brian CARRASCO",
                 "Nino LATHIERE"
             ],
-            "number_jumps": 250
+            "number_jumps": 251
         },
         {
             "id": "Jason",
@@ -19945,10 +19945,10 @@
             "shape": "rectangle",
             "number_friends": 10,
             "friends": [
+                "Capucine TILQUIN",
                 "Simon",
                 "Charly JEGAT",
                 "Ju",
-                "Capucine TILQUIN",
                 "SP/INIT",
                 "Jean-matthieu TILQUIN",
                 "S\u00e9bastien CARLIER",
@@ -19956,7 +19956,7 @@
                 "Ti Ben",
                 "Lisa VANPOULLE"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Joel GREFFEUILLE",
@@ -19972,10 +19972,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Nico",
-                "Simon"
+                "Simon",
+                "Nico"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Thomas JEGOU",
@@ -20013,10 +20013,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Simon",
-                "Theo VERRY"
+                "Theo VERRY",
+                "Simon"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Gabriel BOINOT",
@@ -20079,7 +20079,7 @@
                 "Nico",
                 "Ju"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "SP/INIT",
@@ -20149,7 +20149,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Alexandre FAVIER",
@@ -20307,7 +20307,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Aurelie BOUFFARD",
@@ -47017,7 +47017,7 @@
         {
             "source": "F\u00e9lix PERNIN",
             "target": "Simon",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
@@ -47041,7 +47041,7 @@
         {
             "source": "Capucine TILQUIN",
             "target": "Theo VERRY",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
@@ -47083,7 +47083,7 @@
         {
             "source": "Nico",
             "target": "Sully GROMNICKI",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
