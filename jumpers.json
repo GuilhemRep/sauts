@@ -1393,11 +1393,11 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 104,
+            "number_friends": 107,
             "friends": [
                 "Ti Ben",
-                "Izampela",
                 "Gwen",
+                "Izampela",
                 "Tibal",
                 "Marion L",
                 "Djibril",
@@ -1498,9 +1498,12 @@
                 "Clement J",
                 "Caroline CHET",
                 "S\u00e9lia",
-                "Anthony P"
+                "Anthony P",
+                "Charly JEGAT",
+                "Theo VERRY",
+                "Gabriel BOINOT"
             ],
-            "number_jumps": 183
+            "number_jumps": 185
         },
         {
             "id": "Ophelie D",
@@ -1916,7 +1919,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 212,
+            "number_friends": 214,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -2129,9 +2132,11 @@
                 "Violaine",
                 "Jean",
                 "Gaston",
-                "Giulia"
+                "Giulia",
+                "F\u00e9lix PERNIN",
+                "Vincent POTIER"
             ],
-            "number_jumps": 258
+            "number_jumps": 260
         },
         {
             "id": "Magali",
@@ -2600,7 +2605,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 209,
+            "number_friends": 212,
             "friends": [
                 "Marion L",
                 "Ti Ben",
@@ -2810,9 +2815,12 @@
                 "Violaine",
                 "Jean",
                 "Maxime S",
-                "Claire D"
+                "Claire D",
+                "F\u00e9lix PERNIN",
+                "Capucine TILQUIN",
+                "Theo VERRY"
             ],
-            "number_jumps": 245
+            "number_jumps": 247
         },
         {
             "id": "Jason",
@@ -4931,11 +4939,11 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 111,
+            "number_friends": 113,
             "friends": [
                 "Marion L",
-                "Clement J",
                 "Ju",
+                "Clement J",
                 "Nico",
                 "Ti Ben",
                 "Fafa",
@@ -5043,9 +5051,11 @@
                 "Amandine V",
                 "Charlotte MI",
                 "Maxence MA",
-                "Morgane CO"
+                "Morgane CO",
+                "Thomas JEGOU",
+                "Gabriel BOINOT"
             ],
-            "number_jumps": 158
+            "number_jumps": 160
         },
         {
             "id": "Antoine DEB",
@@ -19893,6 +19903,139 @@
             "number_friends": 0,
             "friends": [],
             "number_jumps": 2
+        },
+        {
+            "id": "Charly JEGAT",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Theo VERRY"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Theo VERRY",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Charly JEGAT",
+                "Ju",
+                "Capucine TILQUIN",
+                "Simon"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Joel GREFFEUILLE",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "F\u00e9lix PERNIN",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Nico",
+                "Simon"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Thomas JEGOU",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Hubert-arnaud DE ROY",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Stephane KRITHARI"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Stephane KRITHARI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Hubert-arnaud DE ROY"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Capucine TILQUIN",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Theo VERRY"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gabriel BOINOT",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Vincent POTIER",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Yann ROSTINGT",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Dorian BARTHELEMI"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Dorian BARTHELEMI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Yann ROSTINGT"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Luca RINALDI-LANUIT",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
         }
     ],
     "links": [
@@ -46551,6 +46694,90 @@
         {
             "source": "Fran\u00e7ois F",
             "target": "Quentin L",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Charly JEGAT",
+            "target": "Ju",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Charly JEGAT",
+            "target": "Theo VERRY",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Ju",
+            "target": "Theo VERRY",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "F\u00e9lix PERNIN",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "F\u00e9lix PERNIN",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Gwen",
+            "target": "Thomas JEGOU",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Hubert-arnaud DE ROY",
+            "target": "Stephane KRITHARI",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Capucine TILQUIN",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Capucine TILQUIN",
+            "target": "Theo VERRY",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Simon",
+            "target": "Theo VERRY",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Gabriel BOINOT",
+            "target": "Ju",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Gabriel BOINOT",
+            "target": "Gwen",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Nico",
+            "target": "Vincent POTIER",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Dorian BARTHELEMI",
+            "target": "Yann ROSTINGT",
             "width": 1.5,
             "color": "blue"
         }
