@@ -1393,7 +1393,7 @@
             "id": "Ju",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 118,
+            "number_friends": 120,
             "friends": [
                 "Ti Ben",
                 "Gwen",
@@ -1512,9 +1512,11 @@
                 "Thomas RICHARD",
                 "Florian MAVOLLE",
                 "Kiemja irena GHULAMI",
-                "Mia PAJOT"
+                "Mia PAJOT",
+                "Sacha CONSTANTINI",
+                "Simon CONSTANTINI"
             ],
-            "number_jumps": 200
+            "number_jumps": 201
         },
         {
             "id": "Ophelie D",
@@ -1930,7 +1932,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 223,
+            "number_friends": 224,
             "friends": [
                 "Axel M",
                 "Marion L",
@@ -2154,9 +2156,10 @@
                 "Charline GOUBE",
                 "Arnaud PUIREUX",
                 "Yassine HARHIRA",
-                "Sarah DE BONNECHOSE"
+                "Sarah DE BONNECHOSE",
+                "Hugo BELLIOT"
             ],
-            "number_jumps": 274
+            "number_jumps": 275
         },
         {
             "id": "Magali",
@@ -6575,7 +6578,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 151,
+            "number_friends": 152,
             "friends": [
                 "Simon",
                 "Axel M",
@@ -6727,9 +6730,10 @@
                 "Emilie MARTINEZ",
                 "Paola SEGU",
                 "Marion LECAT",
-                "Benjamin STAEL"
+                "Benjamin STAEL",
+                "Luca RINALDI-LANUIT"
             ],
-            "number_jumps": 132
+            "number_jumps": 133
         },
         {
             "id": "Remy",
@@ -20006,7 +20010,7 @@
                 "Loric JANVIER",
                 "Alban DELATTRE"
             ],
-            "number_jumps": 7
+            "number_jumps": 9
         },
         {
             "id": "F\u00e9lix PERNIN",
@@ -20109,11 +20113,12 @@
             "id": "Luca RINALDI-LANUIT",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Franck COLINET"
+                "Franck COLINET",
+                "Ti Ben"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Sully GROMNICKI",
@@ -20158,7 +20163,7 @@
             "friends": [
                 "Luca RINALDI-LANUIT"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Charles ALBERT LEBRUN",
@@ -20182,11 +20187,12 @@
             "id": "Hugo BELLIOT",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Lisa MULLER"
+                "Lisa MULLER",
+                "Nico"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Ana\u00ebl NO\u00cbL",
@@ -20773,6 +20779,102 @@
                 "Yassine HARHIRA",
                 "Simon",
                 "Nico"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Jorn VREELING",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gwendal MONJOUR",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Kylian GATRAT",
+                "Ariane POINSIGNON"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Kylian GATRAT",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwendal MONJOUR",
+                "Ariane POINSIGNON"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Ariane POINSIGNON",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Gwendal MONJOUR",
+                "Kylian GATRAT"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Sacha CONSTANTINI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Ju",
+                "Simon CONSTANTINI"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Simon CONSTANTINI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Sacha CONSTANTINI",
+                "Ju"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Faustine SAUZADE",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Camille PAULET",
+                "Louise PAULET"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Camille PAULET",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Faustine SAUZADE",
+                "Louise PAULET"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Louise PAULET",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Faustine SAUZADE",
+                "Camille PAULET"
             ],
             "number_jumps": 1
         }
@@ -48105,6 +48207,72 @@
         {
             "source": "Nico",
             "target": "Sarah DE BONNECHOSE",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Hugo BELLIOT",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Gwendal MONJOUR",
+            "target": "Kylian GATRAT",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Ariane POINSIGNON",
+            "target": "Gwendal MONJOUR",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Ariane POINSIGNON",
+            "target": "Kylian GATRAT",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Luca RINALDI-LANUIT",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "green"
+        },
+        {
+            "source": "Ju",
+            "target": "Sacha CONSTANTINI",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Sacha CONSTANTINI",
+            "target": "Simon CONSTANTINI",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Ju",
+            "target": "Simon CONSTANTINI",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Camille PAULET",
+            "target": "Faustine SAUZADE",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Faustine SAUZADE",
+            "target": "Louise PAULET",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Camille PAULET",
+            "target": "Louise PAULET",
             "width": 1.5,
             "color": "purple"
         }
