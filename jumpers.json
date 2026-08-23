@@ -1933,7 +1933,7 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 243,
+            "number_friends": 248,
             "friends": [
                 "Axel M",
                 "Simon",
@@ -2177,9 +2177,14 @@
                 "Elsa PIO",
                 "Pierre LEROY",
                 "Frank VIDAL",
-                "Michael BOUGNAS"
+                "Michael BOUGNAS",
+                "B\u00e9Ru",
+                "Stephane KRITHARI",
+                "Tom BRIERE",
+                "Noah STUMPF",
+                "LoLo"
             ],
-            "number_jumps": 287
+            "number_jumps": 288
         },
         {
             "id": "Magali",
@@ -20047,7 +20052,7 @@
             "id": "Theo VERRY",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 36,
+            "number_friends": 37,
             "friends": [
                 "Ti Ben",
                 "Capucine TILQUIN",
@@ -20084,9 +20089,10 @@
                 "Enzo MANUGUERRA",
                 "Pierre LEROY",
                 "Frank VIDAL",
-                "Michael BOUGNAS"
+                "Michael BOUGNAS",
+                "Matheo SEPTEPE"
             ],
-            "number_jumps": 31
+            "number_jumps": 32
         },
         {
             "id": "Joel GREFFEUILLE",
@@ -20136,19 +20142,23 @@
             "id": "Stephane KRITHARI",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 9,
+            "number_friends": 13,
             "friends": [
                 "Hubert-arnaud DE ROY",
+                "B\u00e9Ru",
                 "Alexandre MARI",
                 "Laurent GUIOT",
                 "Theo VERRY",
-                "B\u00e9Ru",
                 "Clement JENTE",
                 "Juliette ABBES",
                 "B\u00e9Ru Le ChiBre",
-                "Rachel HERY"
+                "Rachel HERY",
+                "Tom BRIERE",
+                "Nico",
+                "Noah STUMPF",
+                "LoLo"
             ],
-            "number_jumps": 9
+            "number_jumps": 10
         },
         {
             "id": "Capucine TILQUIN",
@@ -20257,11 +20267,15 @@
             "id": "Franck COLINET",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 5,
             "friends": [
-                "Luca RINALDI-LANUIT"
+                "Luca RINALDI-LANUIT",
+                "Maxime MUR",
+                "Avant B",
+                "Juliette HERLAIN-LESAGE",
+                "Chlo\u00e9 BAUDRIER"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Charles ALBERT LEBRUN",
@@ -21200,18 +21214,22 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Chlo\u00e9 BAUDRIER",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 6,
             "friends": [
                 "Vincent FRANCES",
-                "St\u00e9phane DELAGROIX"
+                "St\u00e9phane DELAGROIX",
+                "Maxime MUR",
+                "Franck COLINET",
+                "Avant B",
+                "Juliette HERLAIN-LESAGE"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Roland BERTINO",
@@ -21591,11 +21609,15 @@
             "id": "Noah STUMPF",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 5,
             "friends": [
-                "Tom BRIERE"
+                "Tom BRIERE",
+                "B\u00e9Ru",
+                "Stephane KRITHARI",
+                "Nico",
+                "LoLo"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Martin TACUSSEL",
@@ -21649,14 +21671,18 @@
             "id": "B\u00e9Ru",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 8,
             "friends": [
                 "Stephane KRITHARI",
                 "Alexandre MARI",
                 "Laurent GUIOT",
-                "Clement JENTE"
+                "Clement JENTE",
+                "Tom BRIERE",
+                "Nico",
+                "Noah STUMPF",
+                "LoLo"
             ],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Alexandre MARI",
@@ -21681,7 +21707,7 @@
             "friends": [
                 "Louis GERMAIN"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Louis GERMAIN",
@@ -21697,11 +21723,15 @@
             "id": "Tom BRIERE",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 5,
             "friends": [
-                "Noah STUMPF"
+                "Noah STUMPF",
+                "B\u00e9Ru",
+                "Stephane KRITHARI",
+                "Nico",
+                "LoLo"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Elsa PIO",
@@ -21819,6 +21849,77 @@
                 "Nico",
                 "Fafa",
                 "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Maxime MUR",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Franck COLINET",
+                "Avant B",
+                "Juliette HERLAIN-LESAGE",
+                "Chlo\u00e9 BAUDRIER"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Avant B",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Maxime MUR",
+                "Franck COLINET",
+                "Juliette HERLAIN-LESAGE",
+                "Chlo\u00e9 BAUDRIER"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Juliette HERLAIN-LESAGE",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 4,
+            "friends": [
+                "Maxime MUR",
+                "Franck COLINET",
+                "Avant B",
+                "Chlo\u00e9 BAUDRIER"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Matheo SEPTEPE",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Theo VERRY"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Francois GALLAND",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "LoLo",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 5,
+            "friends": [
+                "B\u00e9Ru",
+                "Stephane KRITHARI",
+                "Tom BRIERE",
+                "Nico",
+                "Noah STUMPF"
             ],
             "number_jumps": 1
         }
@@ -49973,7 +50074,7 @@
         {
             "source": "B\u00e9Ru",
             "target": "Stephane KRITHARI",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "blue"
         },
         {
@@ -50015,7 +50116,7 @@
         {
             "source": "Noah STUMPF",
             "target": "Tom BRIERE",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "blue"
         },
         {
@@ -50209,6 +50310,150 @@
             "target": "Ti Ben",
             "width": 1.5,
             "color": "purple"
+        },
+        {
+            "source": "Franck COLINET",
+            "target": "Maxime MUR",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Avant B",
+            "target": "Maxime MUR",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Juliette HERLAIN-LESAGE",
+            "target": "Maxime MUR",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Chlo\u00e9 BAUDRIER",
+            "target": "Maxime MUR",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Avant B",
+            "target": "Franck COLINET",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Franck COLINET",
+            "target": "Juliette HERLAIN-LESAGE",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Chlo\u00e9 BAUDRIER",
+            "target": "Franck COLINET",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Avant B",
+            "target": "Juliette HERLAIN-LESAGE",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Avant B",
+            "target": "Chlo\u00e9 BAUDRIER",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Chlo\u00e9 BAUDRIER",
+            "target": "Juliette HERLAIN-LESAGE",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Matheo SEPTEPE",
+            "target": "Theo VERRY",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "B\u00e9Ru",
+            "target": "Tom BRIERE",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "B\u00e9Ru",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "B\u00e9Ru",
+            "target": "Noah STUMPF",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "B\u00e9Ru",
+            "target": "LoLo",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Stephane KRITHARI",
+            "target": "Tom BRIERE",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Nico",
+            "target": "Stephane KRITHARI",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Noah STUMPF",
+            "target": "Stephane KRITHARI",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "LoLo",
+            "target": "Stephane KRITHARI",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Nico",
+            "target": "Tom BRIERE",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "LoLo",
+            "target": "Tom BRIERE",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Nico",
+            "target": "Noah STUMPF",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "LoLo",
+            "target": "Nico",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "LoLo",
+            "target": "Noah STUMPF",
+            "width": 1.5,
+            "color": "blue"
         }
     ]
 }
