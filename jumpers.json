@@ -1934,14 +1934,14 @@
             "id": "Nico",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 282,
+            "number_friends": 283,
             "friends": [
                 "Simon",
                 "Axel M",
                 "Ti Ben",
                 "Marion L",
-                "Theo V",
                 "Gwen",
+                "Theo V",
                 "Stephane K",
                 "Lionel",
                 "Thomas RI",
@@ -1986,6 +1986,7 @@
                 "Matys",
                 "Clara Z",
                 "Arnaud DEVISY",
+                "Axel BOURGUELLE",
                 "Anabelle",
                 "Dylan",
                 "Philippe M",
@@ -2024,7 +2025,9 @@
                 "LoLo",
                 "Benjamin CHERBETIAN",
                 "Marion LECAT",
+                "Rayan ATTOUI",
                 "Margot BOUSQUET",
+                "Lilian LECOEUR",
                 "Mathilde C",
                 "Emma CA",
                 "Robin P",
@@ -2213,13 +2216,11 @@
                 "Mathias BELLINO",
                 "Isabelle GRAZIANI",
                 "Doris TISON",
-                "Rayan ATTOUI",
                 "Cl\u00e9ment SULMIERSKY",
                 "Maude AZRAR",
-                "Axel BOURGUELLE",
                 "Franck SATGE"
             ],
-            "number_jumps": 308
+            "number_jumps": 313
         },
         {
             "id": "Magali",
@@ -2689,7 +2690,7 @@
             "id": "Simon",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 259,
+            "number_friends": 261,
             "friends": [
                 "Ti Ben",
                 "Marion L",
@@ -2719,6 +2720,7 @@
                 "Adrian M",
                 "Ninie",
                 "David L",
+                "Marion LECAT",
                 "Solam D\u00e9JEAN",
                 "Christophe L",
                 "Mike",
@@ -2728,7 +2730,6 @@
                 "Matteo L",
                 "Thomas RICHARD",
                 "Martin TACUSSEL",
-                "Marion LECAT",
                 "Pablo MONTES",
                 "Arnaud DEVISY",
                 "Lorys",
@@ -2746,6 +2747,8 @@
                 "Matys",
                 "SP/INIT",
                 "Axel MULLER",
+                "Jannice BATAILLE",
+                "Yoann ARIZA",
                 "Regis",
                 "Alex F",
                 "Charly A",
@@ -2946,12 +2949,12 @@
                 "Mathias BELLINO",
                 "Isabelle GRAZIANI",
                 "Kevin MICHEL",
-                "Jannice BATAILLE",
                 "Bryan MARCOT",
-                "Yoann ARIZA",
-                "Franck SATGE"
+                "Franck SATGE",
+                "Mateo RIVI\u00e8RE",
+                "Gabriel MARQUES BORRAS"
             ],
-            "number_jumps": 289
+            "number_jumps": 293
         },
         {
             "id": "Jason",
@@ -5090,7 +5093,7 @@
             "id": "Gwen",
             "color": "cyan",
             "shape": "rectangle",
-            "number_friends": 157,
+            "number_friends": 159,
             "friends": [
                 "Nico",
                 "Marion L",
@@ -5248,9 +5251,11 @@
                 "Pablo MONTES",
                 "Bryan MARCOT",
                 "Yoann ARIZA",
-                "Valentin DELHUMEAU"
+                "Valentin DELHUMEAU",
+                "Lilian LECOEUR",
+                "Pierre GUILLAUME"
             ],
-            "number_jumps": 192
+            "number_jumps": 194
         },
         {
             "id": "Antoine DEB",
@@ -6729,7 +6734,7 @@
             "id": "Ti Ben",
             "color": "green",
             "shape": "octagon",
-            "number_friends": 197,
+            "number_friends": 198,
             "friends": [
                 "Simon",
                 "Nico",
@@ -6927,9 +6932,10 @@
                 "Franck BRETAGNE",
                 "Mathias BELLINO",
                 "Isabelle GRAZIANI",
-                "Doris TISON"
+                "Doris TISON",
+                "Mateo RIVI\u00e8RE"
             ],
-            "number_jumps": 150
+            "number_jumps": 151
         },
         {
             "id": "Remy",
@@ -20182,22 +20188,23 @@
             "id": "Theo VERRY",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 67,
+            "number_friends": 68,
             "friends": [
                 "Ti Ben",
                 "Axel MULLER",
                 "Capucine TILQUIN",
                 "Simon",
                 "Marion LECAT",
+                "SP/INIT",
                 "K\u00e9vin GENTRIC",
                 "Charly JEGAT",
-                "SP/INIT",
                 "S\u00e9bastien CARLIER",
                 "Fafa",
                 "Nico",
                 "Olivier MARTIN",
                 "Jean-matthieu TILQUIN",
                 "Gwen",
+                "Margot BOUSQUET",
                 "Stephane KRITHARI",
                 "Thomas RICHARD",
                 "Arnaud DEVISY",
@@ -20205,7 +20212,8 @@
                 "Coach",
                 "Noah STUMPF",
                 "LoLo",
-                "Margot BOUSQUET",
+                "Romain BOULET",
+                "Thomas RAFFO",
                 "Ju",
                 "Jean louis VERGNE",
                 "Lisa VANPOULLE",
@@ -20249,10 +20257,9 @@
                 "Sylvain CABUZEL",
                 "Tom BRIERE",
                 "Jannice BATAILLE",
-                "Romain BOULET",
-                "Thomas RAFFO"
+                "Vincent PIERRET"
             ],
-            "number_jumps": 51
+            "number_jumps": 54
         },
         {
             "id": "Joel GREFFEUILLE",
@@ -20302,7 +20309,7 @@
             "id": "Stephane KRITHARI",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 21,
+            "number_friends": 22,
             "friends": [
                 "B\u00e9Ru",
                 "LoLo",
@@ -20316,6 +20323,8 @@
                 "B\u00e9Ru Le ChiBre",
                 "Nico",
                 "Sylvain CABUZEL",
+                "Armelle CAYRON",
+                "Pierre-emilien AUBRY",
                 "Juliette ABBES",
                 "Rachel HERY",
                 "Rachou",
@@ -20323,10 +20332,9 @@
                 "Kylian GATRAT",
                 "Ti Ben",
                 "Riton",
-                "Louis GERMAIN",
-                "Armelle CAYRON"
+                "Louis GERMAIN"
             ],
-            "number_jumps": 17
+            "number_jumps": 20
         },
         {
             "id": "Capucine TILQUIN",
@@ -20383,7 +20391,7 @@
                 "Yann ROSTINGT",
                 "Charl\u00e8ne LEGREVE"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Luca RINALDI-LANUIT",
@@ -20411,14 +20419,16 @@
             "id": "SP/INIT",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 6,
             "friends": [
                 "Jean-matthieu TILQUIN",
                 "Theo VERRY",
                 "Simon",
-                "Marius SANTORO"
+                "Marius SANTORO",
+                "Vincent PIERRET",
+                "Margot BOUSQUET"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Jean-matthieu TILQUIN",
@@ -20496,7 +20506,7 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 2
+            "number_jumps": 3
         },
         {
             "id": "Brian CARRASCO",
@@ -20736,7 +20746,7 @@
             "id": "Axel MULLER",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 42,
+            "number_friends": 46,
             "friends": [
                 "Ti Ben",
                 "Theo VERRY",
@@ -20746,6 +20756,7 @@
                 "Marion LECAT",
                 "Arnaud DEVISY",
                 "Simon",
+                "Benjamin CHERBETIAN",
                 "Mounia AIT-LARBI",
                 "Adam AIT-LARBI",
                 "Emilie MARTINEZ",
@@ -20779,9 +20790,12 @@
                 "Isabelle GRAZIANI",
                 "Cl\u00e9ment SULMIERSKY",
                 "Maude AZRAR",
-                "Benjamin CHERBETIAN"
+                "Dominique GOMIS",
+                "Aristide GOMIS",
+                "Coline BADIN",
+                "Martin TACUSSEL"
             ],
-            "number_jumps": 14
+            "number_jumps": 18
         },
         {
             "id": "Adam AIT-LARBI",
@@ -20855,7 +20869,7 @@
                 "Joel GREFFEUILLE",
                 "Salom\u00e9 CHOLET"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Loric JANVIER",
@@ -20911,11 +20925,11 @@
             "id": "Marion LECAT",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 29,
+            "number_friends": 30,
             "friends": [
                 "Theo VERRY",
-                "Ti Ben",
                 "Simon",
+                "Ti Ben",
                 "Axel MULLER",
                 "Fafa",
                 "Gwen",
@@ -20941,9 +20955,10 @@
                 "Sacha RAMADIER",
                 "Kiara TOVAGLIARO",
                 "Vivien ARNOUX",
-                "Quentin MASS\u00e9-BERNERAD"
+                "Quentin MASS\u00e9-BERNERAD",
+                "Gabriel MARQUES BORRAS"
             ],
-            "number_jumps": 11
+            "number_jumps": 12
         },
         {
             "id": "Artem STOLBTSOV",
@@ -21752,7 +21767,7 @@
             "friends": [
                 "Theo VERRY"
             ],
-            "number_jumps": 5
+            "number_jumps": 6
         },
         {
             "id": "Edouard FABRE",
@@ -21899,11 +21914,12 @@
             "id": "Martin TACUSSEL",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Simon"
+                "Simon",
+                "Axel MULLER"
             ],
-            "number_jumps": 6
+            "number_jumps": 9
         },
         {
             "id": "Marius SANTORO",
@@ -22018,7 +22034,7 @@
                 "S\u00e9lia HAKIMI",
                 "Stephane KRITHARI"
             ],
-            "number_jumps": 6
+            "number_jumps": 7
         },
         {
             "id": "Tom BRIERE",
@@ -22388,7 +22404,7 @@
                 "Nico",
                 "Axel MULLER"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Ars\u00e8ne FELIX",
@@ -22576,7 +22592,7 @@
             "friends": [
                 "Simon"
             ],
-            "number_jumps": 5
+            "number_jumps": 7
         },
         {
             "id": "Thibaut FRANCHINI",
@@ -22605,7 +22621,7 @@
             "friends": [
                 "Gwen"
             ],
-            "number_jumps": 3
+            "number_jumps": 4
         },
         {
             "id": "Nathan FLOUTIER",
@@ -23133,7 +23149,7 @@
                 "Simon",
                 "Theo VERRY"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Rayan ATTOUI",
@@ -23141,25 +23157,27 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Margot BOUSQUET",
-                "Nico"
+                "Nico",
+                "Margot BOUSQUET"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Margot BOUSQUET",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 6,
+            "number_friends": 8,
             "friends": [
-                "Nico",
                 "Theo VERRY",
+                "Nico",
                 "Rayan ATTOUI",
                 "Romain BOULET",
                 "Axel BOURGUELLE",
-                "Thomas RAFFO"
+                "Thomas RAFFO",
+                "SP/INIT",
+                "Vincent PIERRET"
             ],
-            "number_jumps": 4
+            "number_jumps": 5
         },
         {
             "id": "Charl\u00e8ne LEGREVE",
@@ -23169,7 +23187,7 @@
             "friends": [
                 "Dorian BARTHELEMI"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Romain BOULET",
@@ -23177,10 +23195,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Margot BOUSQUET",
-                "Theo VERRY"
+                "Theo VERRY",
+                "Margot BOUSQUET"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Bryan MARCOT",
@@ -23223,29 +23241,31 @@
             "shape": "rectangle",
             "number_friends": 0,
             "friends": [],
-            "number_jumps": 2
+            "number_jumps": 4
         },
         {
             "id": "Phong son HO",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
-                "Armelle CAYRON",
-                "Pierre-emilien AUBRY"
+                "Pierre-emilien AUBRY",
+                "Julien JEHAN",
+                "Armelle CAYRON"
             ],
-            "number_jumps": 2
+            "number_jumps": 5
         },
         {
             "id": "Armelle CAYRON",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 2,
+            "number_friends": 3,
             "friends": [
-                "Phong son HO",
-                "Stephane KRITHARI"
+                "Stephane KRITHARI",
+                "Antoine SAZIO",
+                "Phong son HO"
             ],
-            "number_jumps": 2
+            "number_jumps": 5
         },
         {
             "id": "Yoann ARIZA",
@@ -23253,10 +23273,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Gwen",
-                "Simon"
+                "Simon",
+                "Gwen"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Axel BOURGUELLE",
@@ -23264,40 +23284,43 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Margot BOUSQUET",
-                "Nico"
+                "Nico",
+                "Margot BOUSQUET"
             ],
-            "number_jumps": 1
+            "number_jumps": 3
         },
         {
             "id": "Julien JEHAN",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Antoine SAZIO"
+                "Antoine SAZIO",
+                "Phong son HO"
             ],
-            "number_jumps": 1
+            "number_jumps": 4
         },
         {
             "id": "Antoine SAZIO",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Julien JEHAN"
+                "Julien JEHAN",
+                "Armelle CAYRON"
             ],
-            "number_jumps": 1
+            "number_jumps": 4
         },
         {
             "id": "Pierre-emilien AUBRY",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 1,
+            "number_friends": 2,
             "friends": [
-                "Phong son HO"
+                "Phong son HO",
+                "Stephane KRITHARI"
             ],
-            "number_jumps": 1
+            "number_jumps": 4
         },
         {
             "id": "Thomas RAFFO",
@@ -23305,10 +23328,10 @@
             "shape": "rectangle",
             "number_friends": 2,
             "friends": [
-                "Margot BOUSQUET",
-                "Theo VERRY"
+                "Theo VERRY",
+                "Margot BOUSQUET"
             ],
-            "number_jumps": 1
+            "number_jumps": 2
         },
         {
             "id": "Franck SATGE",
@@ -23328,6 +23351,101 @@
             "number_friends": 1,
             "friends": [
                 "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Lilian LECOEUR",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Nico",
+                "Gwen"
+            ],
+            "number_jumps": 2
+        },
+        {
+            "id": "Vincent PIERRET",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 3,
+            "friends": [
+                "SP/INIT",
+                "Margot BOUSQUET",
+                "Theo VERRY"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Dominique GOMIS",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Aristide GOMIS",
+                "Axel MULLER"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Aristide GOMIS",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Dominique GOMIS",
+                "Axel MULLER"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Mateo RIVI\u00e8RE",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Ti Ben"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Pierre GUILLAUME",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Gwen"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Theo BERCHOUCHI",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 0,
+            "friends": [],
+            "number_jumps": 1
+        },
+        {
+            "id": "Coline BADIN",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 1,
+            "friends": [
+                "Axel MULLER"
+            ],
+            "number_jumps": 1
+        },
+        {
+            "id": "Gabriel MARQUES BORRAS",
+            "color": "gray",
+            "shape": "rectangle",
+            "number_friends": 2,
+            "friends": [
+                "Simon",
+                "Marion LECAT"
             ],
             "number_jumps": 1
         }
@@ -50102,7 +50220,7 @@
         {
             "source": "SP/INIT",
             "target": "Theo VERRY",
-            "width": 2.5,
+            "width": 2.73606797749979,
             "color": "orange"
         },
         {
@@ -52232,7 +52350,7 @@
         {
             "source": "Marion LECAT",
             "target": "Simon",
-            "width": 2.232050807568877,
+            "width": 2.5,
             "color": "purple"
         },
         {
@@ -53696,7 +53814,7 @@
         {
             "source": "Jannice BATAILLE",
             "target": "Simon",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
@@ -53714,7 +53832,7 @@
         {
             "source": "Nico",
             "target": "Rayan ATTOUI",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
@@ -53726,7 +53844,7 @@
         {
             "source": "Charl\u00e8ne LEGREVE",
             "target": "Dorian BARTHELEMI",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -53744,13 +53862,13 @@
         {
             "source": "Romain BOULET",
             "target": "Theo VERRY",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
             "source": "Margot BOUSQUET",
             "target": "Theo VERRY",
-            "width": 1.9142135623730951,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
@@ -53810,7 +53928,7 @@
         {
             "source": "Simon",
             "target": "Yoann ARIZA",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
@@ -53822,25 +53940,25 @@
         {
             "source": "Axel BOURGUELLE",
             "target": "Nico",
-            "width": 1.5,
+            "width": 2.232050807568877,
             "color": "orange"
         },
         {
             "source": "Antoine SAZIO",
             "target": "Julien JEHAN",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
             "source": "Armelle CAYRON",
             "target": "Stephane KRITHARI",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
             "source": "Phong son HO",
             "target": "Pierre-emilien AUBRY",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -53852,7 +53970,7 @@
         {
             "source": "Theo VERRY",
             "target": "Thomas RAFFO",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "orange"
         },
         {
@@ -53876,8 +53994,122 @@
         {
             "source": "Axel MULLER",
             "target": "Benjamin CHERBETIAN",
-            "width": 1.5,
+            "width": 1.9142135623730951,
             "color": "green"
+        },
+        {
+            "source": "Gwen",
+            "target": "Lilian LECOEUR",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Lilian LECOEUR",
+            "target": "Nico",
+            "width": 1.9142135623730951,
+            "color": "orange"
+        },
+        {
+            "source": "SP/INIT",
+            "target": "Vincent PIERRET",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Margot BOUSQUET",
+            "target": "SP/INIT",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Margot BOUSQUET",
+            "target": "Vincent PIERRET",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Theo VERRY",
+            "target": "Vincent PIERRET",
+            "width": 1.5,
+            "color": "orange"
+        },
+        {
+            "source": "Aristide GOMIS",
+            "target": "Dominique GOMIS",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Axel MULLER",
+            "target": "Dominique GOMIS",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Aristide GOMIS",
+            "target": "Axel MULLER",
+            "width": 1.5,
+            "color": "blue"
+        },
+        {
+            "source": "Mateo RIVI\u00e8RE",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Mateo RIVI\u00e8RE",
+            "target": "Ti Ben",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Gwen",
+            "target": "Pierre GUILLAUME",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Antoine SAZIO",
+            "target": "Armelle CAYRON",
+            "width": 1.9142135623730951,
+            "color": "blue"
+        },
+        {
+            "source": "Julien JEHAN",
+            "target": "Phong son HO",
+            "width": 1.9142135623730951,
+            "color": "blue"
+        },
+        {
+            "source": "Pierre-emilien AUBRY",
+            "target": "Stephane KRITHARI",
+            "width": 1.9142135623730951,
+            "color": "blue"
+        },
+        {
+            "source": "Axel MULLER",
+            "target": "Coline BADIN",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Gabriel MARQUES BORRAS",
+            "target": "Simon",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Gabriel MARQUES BORRAS",
+            "target": "Marion LECAT",
+            "width": 1.5,
+            "color": "purple"
+        },
+        {
+            "source": "Axel MULLER",
+            "target": "Martin TACUSSEL",
+            "width": 1.5,
+            "color": "cyan"
         }
     ]
 }
