@@ -1995,7 +1995,7 @@
             "id": "Nico",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 325,
+            "number_friends": 324,
             "friends": [
                 "Simon",
                 "Ti Ben",
@@ -2174,7 +2174,6 @@
                 "Lillian",
                 "Jules D",
                 "Emma CO",
-                "INITIATION  B2",
                 "C\u00e9lestin",
                 "Stella P",
                 "Laurie A",
@@ -4078,7 +4077,7 @@
             "id": "Landry",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 8,
+            "number_friends": 7,
             "friends": [
                 "Paul G",
                 "Orian",
@@ -4086,7 +4085,6 @@
                 "Yanis MO",
                 "Gontran",
                 "Pierrick",
-                "INITIATION  B2",
                 "Fafa"
             ],
             "number_jumps": 17
@@ -4742,7 +4740,7 @@
             "id": "Fafa",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 194,
+            "number_friends": 193,
             "friends": [
                 "Aur\u00e9lia P",
                 "Theo V",
@@ -4793,7 +4791,6 @@
                 "Victor VI",
                 "Fran\u00e7ois F",
                 "Mathieu V",
-                "INITIATION  B2",
                 "Vincent FRANCE",
                 "Antoine DE",
                 "Jerome",
@@ -4956,7 +4953,7 @@
             "number_friends": 3,
             "friends": [
                 "Maud",
-                "Laura",
+                "Laura France F",
                 "Leocadie"
             ],
             "number_jumps": 5
@@ -5203,14 +5200,14 @@
             "shape": "rectangle",
             "number_friends": 3,
             "friends": [
-                "Laura",
+                "Laura France F",
                 "Pascale",
                 "Leocadie"
             ],
             "number_jumps": 4
         },
         {
-            "id": "Laura",
+            "id": "Laura France F",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 3,
@@ -5228,7 +5225,7 @@
             "number_friends": 3,
             "friends": [
                 "Maud",
-                "Laura",
+                "Laura France F",
                 "Pascale"
             ],
             "number_jumps": 4
@@ -6411,7 +6408,7 @@
             "id": "Yanis MO",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 12,
+            "number_friends": 11,
             "friends": [
                 "Fafa",
                 "Maxime M",
@@ -6419,7 +6416,6 @@
                 "Marion BAU",
                 "Victor VI",
                 "Elliot",
-                "INITIATION  B2",
                 "Quentin L",
                 "Mario",
                 "Eva",
@@ -8474,12 +8470,11 @@
             "id": "C\u00e9lestin",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 5,
+            "number_friends": 4,
             "friends": [
                 "Tibal",
                 "Theo V",
                 "Emma CO",
-                "INITIATION  B2",
                 "Nico"
             ],
             "number_jumps": 21
@@ -8526,7 +8521,7 @@
             "id": "Emma CO",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 8,
+            "number_friends": 7,
             "friends": [
                 "Axel M",
                 "Theo V",
@@ -8534,7 +8529,6 @@
                 "C\u00e9lestin",
                 "Tibal",
                 "Maxime M",
-                "INITIATION  B2",
                 "Nico"
             ],
             "number_jumps": 34
@@ -8638,11 +8632,10 @@
             "id": "St\u00e9phane D",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 3,
+            "number_friends": 2,
             "friends": [
                 "Fafa",
-                "Vincent FRANCE",
-                "INITIATION  B2"
+                "Vincent FRANCE"
             ],
             "number_jumps": 13
         },
@@ -11543,12 +11536,11 @@
             "id": "Vincent FRANCE",
             "color": "gray",
             "shape": "rectangle",
-            "number_friends": 4,
+            "number_friends": 3,
             "friends": [
                 "Thomas RI",
                 "Fafa",
-                "St\u00e9phane D",
-                "INITIATION  B2"
+                "St\u00e9phane D"
             ],
             "number_jumps": 18
         },
@@ -11699,7 +11691,7 @@
                 "Yann G",
                 "Morgan S",
                 "Joe",
-                "Stephanie  France F",
+                "Stephanie France F",
                 "Florian B",
                 "Thomas GA",
                 "Paul ROM",
@@ -11754,7 +11746,7 @@
                 "Simon",
                 "Florian B",
                 "Cl\u00e9ment B",
-                "Stephanie  France F",
+                "Stephanie France F",
                 "Valentin CA",
                 "Thibault L",
                 "David TO",
@@ -12083,7 +12075,7 @@
             "number_jumps": 4
         },
         {
-            "id": "Stephanie  France F",
+            "id": "Stephanie France F",
             "color": "gray",
             "shape": "rectangle",
             "number_friends": 2,
@@ -12732,23 +12724,6 @@
                 "Simon"
             ],
             "number_jumps": 1
-        },
-        {
-            "id": "INITIATION  B2",
-            "color": "gray",
-            "shape": "rectangle",
-            "number_friends": 8,
-            "friends": [
-                "Fafa",
-                "Landry",
-                "Yanis MO",
-                "Emma CO",
-                "C\u00e9lestin",
-                "Nico",
-                "Vincent FRANCE",
-                "St\u00e9phane D"
-            ],
-            "number_jumps": 3
         },
         {
             "id": "Laetitia M",
@@ -27978,7 +27953,7 @@
             "color": "blue"
         },
         {
-            "source": "Laura",
+            "source": "Laura France F",
             "target": "Maud",
             "width": 2.5,
             "color": "blue"
@@ -27996,13 +27971,13 @@
             "color": "blue"
         },
         {
-            "source": "Laura",
+            "source": "Laura France F",
             "target": "Pascale",
             "width": 2.5,
             "color": "blue"
         },
         {
-            "source": "Laura",
+            "source": "Laura France F",
             "target": "Leocadie",
             "width": 2.5,
             "color": "blue"
@@ -37525,13 +37500,13 @@
         },
         {
             "source": "Mateo",
-            "target": "Stephanie  France F",
+            "target": "Stephanie France F",
             "width": 1.9142135623730951,
             "color": "blue"
         },
         {
             "source": "Beno\u00eet",
-            "target": "Stephanie  France F",
+            "target": "Stephanie France F",
             "width": 1.9142135623730951,
             "color": "blue"
         },
@@ -38358,12 +38333,6 @@
             "color": "purple"
         },
         {
-            "source": "INITIATION  B2",
-            "target": "Landry",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
             "source": "Landry",
             "target": "Yanis MO",
             "width": 1.9142135623730951,
@@ -38373,18 +38342,6 @@
             "source": "Fafa",
             "target": "Landry",
             "width": 1.5,
-            "color": "blue"
-        },
-        {
-            "source": "INITIATION  B2",
-            "target": "Yanis MO",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
-            "source": "Fafa",
-            "target": "INITIATION  B2",
-            "width": 1.9142135623730951,
             "color": "blue"
         },
         {
@@ -42036,12 +41993,6 @@
             "color": "blue"
         },
         {
-            "source": "Emma CO",
-            "target": "INITIATION  B2",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
             "source": "C\u00e9lestin",
             "target": "Emma CO",
             "width": 1.9142135623730951,
@@ -42049,18 +42000,6 @@
         },
         {
             "source": "Emma CO",
-            "target": "Nico",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
-            "source": "C\u00e9lestin",
-            "target": "INITIATION  B2",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
-            "source": "INITIATION  B2",
             "target": "Nico",
             "width": 1.5,
             "color": "blue"
@@ -45852,21 +45791,9 @@
             "color": "blue"
         },
         {
-            "source": "INITIATION  B2",
-            "target": "Vincent FRANCE",
-            "width": 1.5,
-            "color": "blue"
-        },
-        {
             "source": "St\u00e9phane D",
             "target": "Vincent FRANCE",
             "width": 1.9142135623730951,
-            "color": "blue"
-        },
-        {
-            "source": "INITIATION  B2",
-            "target": "St\u00e9phane D",
-            "width": 1.5,
             "color": "blue"
         },
         {
